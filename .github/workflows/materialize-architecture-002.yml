@@ -1,3 +1,4 @@
+# rerun after verified source URL repair
 name: Materialize architecture batch 002
 
 on:
