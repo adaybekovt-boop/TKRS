@@ -1,0 +1,40 @@
+{
+  "id": "uiux_inputs_cethiel-inv_001",
+  "name": "Field",
+  "description": "field from Cethiel Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inputs",
+  "tags": [
+    "cethiel-inv",
+    "inputs",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Inventory",
+  "source_site": "https://opengameart.org/content/inventory",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/inventory",
+  "original_filename": "field.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "ec5ee0f018f13791a449274d9dd167ede8e2e351f9d9246ba38bb0663336e8d9",
+  "file_size": 136259,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "field.png",
+    "withshadow_field.png"
+  ],
+  "component_type": "inputs",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

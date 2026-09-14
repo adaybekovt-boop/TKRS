@@ -1,0 +1,42 @@
+{
+  "id": "uiux_hud_minimap_kenney-uipack-adv_012",
+  "name": "Minimap Icon Jewel Yellow",
+  "description": "minimap-icon-jewel-yellow from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-minimap",
+  "tags": [
+    "hud-minimap",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "minimap_icon_jewel_yellow.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "0862fa161da7e1db1d4d5c022cde654c060e0a5a99c270d000d5ee2c09beb17e",
+  "file_size": 1475,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "minimap_icon_jewel_yellow.svg",
+    "minimap_icon_jewel_yellow.png",
+    "default_minimap_icon_jewel_yellow.png"
+  ],
+  "component_type": "hud-minimap",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

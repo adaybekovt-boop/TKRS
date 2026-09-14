@@ -1,0 +1,42 @@
+{
+  "id": "uiux_checkboxes_kenney-uipack-adv_002",
+  "name": "Checkbox Beige Cross",
+  "description": "checkbox-beige-cross from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "checkboxes",
+  "tags": [
+    "checkboxes",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "checkbox_beige_cross.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "34ef1a02be2dc2829b354d4dbd23d1825175ec6dc9e16ad10e95ab5ecbaaa33d",
+  "file_size": 2699,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "checkbox_beige_cross.svg",
+    "checkbox_beige_cross.png",
+    "default_checkbox_beige_cross.png"
+  ],
+  "component_type": "checkboxes",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

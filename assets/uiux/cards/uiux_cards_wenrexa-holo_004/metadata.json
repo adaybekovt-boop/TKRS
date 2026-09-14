@@ -1,0 +1,39 @@
+{
+  "id": "uiux_cards_wenrexa-holo_004",
+  "name": "Card X5",
+  "description": "card-x5 from Wenrexa Hologram Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cards",
+  "tags": [
+    "cards",
+    "ui",
+    "wenrexa-holo"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Hologram Interface",
+  "source_site": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "original_filename": "Card X5.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "bb67c6997613c4c8710b125df1cd851a1bc62efececd6b94243d0f1cdd8c3182",
+  "file_size": 62531,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Card X5.png"
+  ],
+  "component_type": "cards",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

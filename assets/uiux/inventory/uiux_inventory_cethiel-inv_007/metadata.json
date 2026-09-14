@@ -1,0 +1,39 @@
+{
+  "id": "uiux_inventory_cethiel-inv_007",
+  "name": "Invsquare",
+  "description": "invsquare from Cethiel Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inventory",
+  "tags": [
+    "cethiel-inv",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Inventory",
+  "source_site": "https://opengameart.org/content/inventory",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/inventory",
+  "original_filename": "invsquare.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "bcc2883a2ac280a4df07aba565af741249fc1617168eb9608304cbac17c6a165",
+  "file_size": 30635,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "invsquare.png"
+  ],
+  "component_type": "inventory",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

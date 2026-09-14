@@ -1,0 +1,42 @@
+{
+  "id": "uiux_crosshairs_kenney-crosshair_037",
+  "name": "Crosshair 036",
+  "description": "crosshair-036 from Kenney Crosshair Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "crosshairs",
+  "tags": [
+    "crosshairs",
+    "kenney-crosshair",
+    "ui"
+  ],
+  "style": [
+    "tactical",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Crosshair Pack",
+  "source_site": "https://kenney.nl/assets/crosshair-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/crosshair-pack",
+  "original_filename": "crosshair-036.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "032fb7c925de70947147f23d3d36590ebcb82b1ebd5c4839f62cda13c80569fa",
+  "file_size": 1040,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "crosshair-036.svg",
+    "light_crosshair-036.svg",
+    "crosshair-036.png"
+  ],
+  "component_type": "crosshairs",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

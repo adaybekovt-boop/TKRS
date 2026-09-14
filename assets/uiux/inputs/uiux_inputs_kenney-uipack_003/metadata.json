@@ -1,0 +1,41 @@
+{
+  "id": "uiux_inputs_kenney-uipack_003",
+  "name": "Input Rectangle",
+  "description": "input-rectangle from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inputs",
+  "tags": [
+    "inputs",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "input_rectangle.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "8d8a2c63a9cfe3bcd45fbf11a9ea1e6b046df74455631f635dafd0012193a75e",
+  "file_size": 1180,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "input_rectangle.png",
+    "input_rectangle.svg"
+  ],
+  "component_type": "inputs",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

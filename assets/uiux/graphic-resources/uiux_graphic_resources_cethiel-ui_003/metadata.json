@@ -1,0 +1,39 @@
+{
+  "id": "uiux_graphic_resources_cethiel-ui_003",
+  "name": "Cancel 0",
+  "description": "cancel-0 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "cethiel-ui",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Cancel_0.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "eb6c0f8bc560eb5c5c117e3038eff744f1ff317effda5063c3d9d5dc8fb3b5ce",
+  "file_size": 18910,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Cancel_0.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

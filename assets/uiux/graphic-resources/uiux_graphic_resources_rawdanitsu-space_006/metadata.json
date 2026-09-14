@@ -1,0 +1,41 @@
+{
+  "id": "uiux_graphic_resources_rawdanitsu-space_006",
+  "name": "Orn 0",
+  "description": "orn-0 from Rawdanitsu Space GUI. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "graphic-resources",
+    "rawdanitsu-space",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Rawdanitsu Space GUI",
+  "source_site": "https://opengameart.org/content/space-gui",
+  "source_repository": null,
+  "author": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/space-gui",
+  "original_filename": "orn-0.png",
+  "attribution_required": false,
+  "attribution": "Rawdanitsu",
+  "has_scripts": false,
+  "sha256": "3219c0badcdcfff4de36be8943f0e714356758c705ef39ec0476be3ea9fb8617",
+  "file_size": 9567,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "orn-0.png",
+    "black_orn-0.png",
+    "green_orn-0.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

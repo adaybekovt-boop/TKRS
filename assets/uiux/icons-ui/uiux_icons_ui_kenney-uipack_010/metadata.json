@@ -1,0 +1,41 @@
+{
+  "id": "uiux_icons_ui_kenney-uipack_010",
+  "name": "Icon Outline Cross",
+  "description": "icon-outline-cross from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "icons-ui",
+  "tags": [
+    "icons-ui",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "icon_outline_cross.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "ca1c18837f953ebaa00f473e2c326387e1cf409c8385c660d578e91176f03646",
+  "file_size": 1755,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "icon_outline_cross.png",
+    "icon_outline_cross.svg"
+  ],
+  "component_type": "icons-ui",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

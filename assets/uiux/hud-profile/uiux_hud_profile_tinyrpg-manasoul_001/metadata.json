@@ -1,0 +1,40 @@
+{
+  "id": "uiux_hud_profile_tinyrpg-manasoul_001",
+  "name": "Portraitframe Sheet",
+  "description": "portraitFrame-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "hud-profile",
+  "tags": [
+    "hud-profile",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250425portraitFrame-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "e4809a74994435e7b60725b4536361bcfa4fd88fdd467a4ae0495a378f911eaf",
+  "file_size": 1381,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250425portraitFrame-Sheet.png"
+  ],
+  "component_type": "hud-profile",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

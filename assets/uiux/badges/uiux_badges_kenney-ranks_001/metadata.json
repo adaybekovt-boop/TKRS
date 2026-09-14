@@ -1,0 +1,62 @@
+{
+  "id": "uiux_badges_kenney-ranks_001",
+  "name": "Kenney Ranks Pack",
+  "description": "Kenney Ranks Pack — one logical pack.",
+  "category": "uiux",
+  "subcategory": "badges",
+  "tags": [
+    "badges",
+    "kenney-ranks",
+    "pack"
+  ],
+  "style": [
+    "arcade"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Ranks Pack",
+  "source_site": "https://kenney.nl/assets/ranks-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/ranks-pack",
+  "original_filename": "ranks_gold.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "0ac852278d4a060ce9b2bab2e4c8e6999253358dcbbb6f72901536552a0b15fd",
+  "file_size": 410441,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "ranks_gold.svg",
+    "ranks_bronze.svg",
+    "ranks_black.svg",
+    "ranks_silver.svg",
+    "default_gold.png",
+    "default_silver.png",
+    "retina_gold.png",
+    "retina_bronze.png",
+    "retina_silver.png",
+    "retina_black.png",
+    "default_bronze.png",
+    "default_black.png",
+    "rank069.png",
+    "rank018.png",
+    "rank033.png",
+    "rank040.png",
+    "rank042.png",
+    "rank074.png",
+    "rank051.png",
+    "rank073.png",
+    "rank014.png",
+    "rank010.png",
+    "rank044.png",
+    "rank034.png"
+  ],
+  "component_type": "pack",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

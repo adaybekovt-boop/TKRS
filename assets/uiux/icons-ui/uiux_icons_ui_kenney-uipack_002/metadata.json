@@ -1,0 +1,41 @@
+{
+  "id": "uiux_icons_ui_kenney-uipack_002",
+  "name": "Icon Play Outline",
+  "description": "icon-play-outline from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "icons-ui",
+  "tags": [
+    "icons-ui",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "icon_play_outline.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "3a1337b54cf9f6cf527b836495e0a943f982ce37992abde144e2980672c53695",
+  "file_size": 1492,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "icon_play_outline.png",
+    "icon_play_outline.svg"
+  ],
+  "component_type": "icons-ui",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "uiux_hud_status_cethiel-ui_001",
+  "name": "Mana",
+  "description": "mana from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-status",
+  "tags": [
+    "cethiel-ui",
+    "hud-status",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Mana.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "1d5728198986ba085e14aa5b90d091870f702ef9d72d0c9c70dc9d07d33e4ff5",
+  "file_size": 19962,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Mana.png"
+  ],
+  "component_type": "hud-status",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

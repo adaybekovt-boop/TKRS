@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_018",
+  "name": "Btn Green Sq",
+  "description": "btn-green-sq from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_GREEN_SQ.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "05584856f4a891c48bf8617438e7380fbdf269e82f84b580b873645ae10d31f5",
+  "file_size": 6378,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_GREEN_SQ.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "uiux_cursors_cethiel-ui_001",
+  "name": "Mouse Pointer",
+  "description": "mouse-pointer from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "cethiel-ui",
+    "cursors",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Mouse Pointer.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "cb1a1e96d10ce3b309b104e25ba1c4e7d4f72e686d2c817d2a9d90a7313a7c99",
+  "file_size": 16623,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Mouse Pointer.png"
+  ],
+  "component_type": "cursors",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

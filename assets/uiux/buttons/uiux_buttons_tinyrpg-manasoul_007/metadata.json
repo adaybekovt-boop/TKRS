@@ -1,0 +1,40 @@
+{
+  "id": "uiux_buttons_tinyrpg-manasoul_007",
+  "name": "Morebutton Sheet",
+  "description": "moreButton-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250425moreButton-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "4831bbe62ea305c861d4788e22341606ac420cb1b5a6689f3ad943b628de67f3",
+  "file_size": 1425,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250425moreButton-Sheet.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

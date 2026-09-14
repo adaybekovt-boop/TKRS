@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_019",
+  "name": "Button Rectangle Flat",
+  "description": "button-rectangle-flat from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_rectangle_flat.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "83084c953e57d7506f90600df77f36a8c6156abea0b8ea0e4b3885a596cee2c8",
+  "file_size": 1169,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_rectangle_flat.png",
+    "button_rectangle_flat.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

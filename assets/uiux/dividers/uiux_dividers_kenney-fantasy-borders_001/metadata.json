@@ -1,0 +1,40 @@
+{
+  "id": "uiux_dividers_kenney-fantasy-borders_001",
+  "name": "Divider 000",
+  "description": "divider-000 from Kenney Fantasy UI Borders. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "dividers",
+  "tags": [
+    "dividers",
+    "kenney-fantasy-borders",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Fantasy UI Borders",
+  "source_site": "https://kenney.nl/assets/fantasy-ui-borders",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/fantasy-ui-borders",
+  "original_filename": "divider-000.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "f256f18613298b662b9907fd1ec8de720cb004afc0249dc597d9279388e76464",
+  "file_size": 311,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "divider-000.png",
+    "divider_divider-000.png"
+  ],
+  "component_type": "dividers",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

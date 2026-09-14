@@ -1,0 +1,42 @@
+{
+  "id": "uiux_progress_bars_kenney-uipack-scifi_045",
+  "name": "Bar Round Small Square",
+  "description": "bar-round-small-square from Kenney UI Pack Sci-Fi. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "kenney",
+    "kenney-uipack-scifi",
+    "progress-bars",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Sci-Fi",
+  "source_site": "https://kenney.nl/assets/ui-pack-sci-fi",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-sci-fi",
+  "original_filename": "bar_round_small_square.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "0d47c1fe9c6fb9353e4f76a287ac0a14af1208f1d190d16f8a4e66fb2c2c6a63",
+  "file_size": 1354,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "bar_round_small_square.png",
+    "bar_round_small_square.svg"
+  ],
+  "component_type": "progress-bars",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

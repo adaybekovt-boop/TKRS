@@ -1,0 +1,42 @@
+{
+  "id": "uiux_panels_kenney-uipack-scifi_011",
+  "name": "Panel Glass Screws",
+  "description": "panel-glass-screws from Kenney UI Pack Sci-Fi. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney",
+    "kenney-uipack-scifi",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Sci-Fi",
+  "source_site": "https://kenney.nl/assets/ui-pack-sci-fi",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-sci-fi",
+  "original_filename": "panel_glass_screws.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "6059efb0bbff5597104ecaef460d120eb30e31b174a7556e6122cec70419cc94",
+  "file_size": 2278,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "panel_glass_screws.png",
+    "panel_glass_screws.svg"
+  ],
+  "component_type": "panels",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

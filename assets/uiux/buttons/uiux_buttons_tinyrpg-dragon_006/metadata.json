@@ -1,0 +1,40 @@
+{
+  "id": "uiux_buttons_tinyrpg-dragon_006",
+  "name": "Dragonexitbutton Sheet",
+  "description": "dragonExitButton-Sheet from Tiny RPG Dragon Regalia GUI.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "tinyrpg-dragon",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Dragon Regalia GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-dragon-regalia-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-dragon-regalia-gui",
+  "original_filename": "20240713dragonExitButton-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "876874b1ac80f57452fdb1f87a74f422b406955aa014a0099c4c77d18b2ef60e",
+  "file_size": 1653,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20240713dragonExitButton-Sheet.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "uiux_inventory_wenrexa-miko_002",
+  "name": "Item 2",
+  "description": "item-2 from Wenrexa Dark Miko Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inventory",
+  "tags": [
+    "inventory",
+    "ui",
+    "wenrexa-miko"
+  ],
+  "style": [
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Dark Miko Interface",
+  "source_site": "https://opengameart.org/content/dark-miko-interface",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/dark-miko-interface",
+  "original_filename": "Item 2.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "3970b0f05072677693c968fa442502dcce07c94134c770315fcab628bb7eec8b",
+  "file_size": 7233,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Item 2.png"
+  ],
+  "component_type": "inventory",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "uiux_hud_profile_cethiel-ui_001",
+  "name": "Portrait",
+  "description": "portrait from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-profile",
+  "tags": [
+    "cethiel-ui",
+    "hud-profile",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Portrait.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "67f1f0d0025f65ac4f73f928e49c7d57a08460e1f8f4d7e0b0b61f9716e6e4c1",
+  "file_size": 27165,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Portrait.png"
+  ],
+  "component_type": "hud-profile",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

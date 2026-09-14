@@ -1,0 +1,41 @@
+{
+  "id": "uiux_panels_rawdanitsu-space_002",
+  "name": "Border Left",
+  "description": "border-left from Rawdanitsu Space GUI. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "rawdanitsu-space",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Rawdanitsu Space GUI",
+  "source_site": "https://opengameart.org/content/space-gui",
+  "source_repository": null,
+  "author": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/space-gui",
+  "original_filename": "border-left.png",
+  "attribution_required": false,
+  "attribution": "Rawdanitsu",
+  "has_scripts": false,
+  "sha256": "4dd22e7fa6b460aade86d93e990e70730ac4b528530aec46798301c7fa3c0d0f",
+  "file_size": 8595,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "border-left.png",
+    "black_border-left.png",
+    "green_border-left.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

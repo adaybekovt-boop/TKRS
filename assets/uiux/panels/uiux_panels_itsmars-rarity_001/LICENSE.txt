@@ -1,0 +1,9 @@
+License: CC0-1.0
+Author: itsmars
+Source: itsmars Rarity Borders
+URL: https://opengameart.org/content/rpg-inventory
+Attribution required: False
+Attribution: itsmars
+
+CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

@@ -1,0 +1,42 @@
+{
+  "id": "uiux_panels_kenney-uipack-adv_025",
+  "name": "Panel Grey Green",
+  "description": "panel-grey-green from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney-uipack-adv",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "panel_grey_green.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "7212603e21bd83b51d4d7bee02ae0a6b0e6d39b3043608f7e649fc37ccde12f6",
+  "file_size": 3293,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "panel_grey_green.svg",
+    "panel_grey_green.png",
+    "default_panel_grey_green.png"
+  ],
+  "component_type": "panels",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

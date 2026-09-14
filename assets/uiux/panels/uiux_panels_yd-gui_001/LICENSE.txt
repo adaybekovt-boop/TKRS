@@ -1,0 +1,9 @@
+License: CC0-1.0
+Author: yd
+Source: yd Metal Panel
+URL: https://opengameart.org/content/gui-windows-constructor
+Attribution required: False
+Attribution: yd
+
+CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

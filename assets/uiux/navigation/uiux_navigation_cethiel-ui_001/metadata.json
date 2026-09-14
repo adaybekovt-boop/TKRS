@@ -1,0 +1,39 @@
+{
+  "id": "uiux_navigation_cethiel-ui_001",
+  "name": "Arrow Down 0",
+  "description": "arrow-down-0 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "cethiel-ui",
+    "navigation",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Arrow_Down_0.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "41a447c58d1d9e964742519f35874587ef66c69a3e487a2f56fe10a1856c2f16",
+  "file_size": 16397,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Arrow_Down_0.png"
+  ],
+  "component_type": "navigation",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

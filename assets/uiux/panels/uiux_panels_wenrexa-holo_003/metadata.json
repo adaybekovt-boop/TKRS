@@ -1,0 +1,39 @@
+{
+  "id": "uiux_panels_wenrexa-holo_003",
+  "name": "Panel Empty Color",
+  "description": "panel-empty-color from Wenrexa Hologram Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "ui",
+    "wenrexa-holo"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Hologram Interface",
+  "source_site": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "original_filename": "Panel Empty Green.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "57d8976edaa81774e54b9c629c5faae6eee6a8a1fde35678e2ac317582b75124",
+  "file_size": 2684,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Panel Empty Green.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

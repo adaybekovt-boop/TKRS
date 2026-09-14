@@ -1,0 +1,39 @@
+{
+  "id": "uiux_graphic_resources_cethiel-ui_013",
+  "name": "Lock 1",
+  "description": "lock-1 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "cethiel-ui",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Lock_1.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "e75b987ff952d6e74b2783c05e4d549a3554d8db6963c2a824efa381e736ed56",
+  "file_size": 17451,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Lock_1.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

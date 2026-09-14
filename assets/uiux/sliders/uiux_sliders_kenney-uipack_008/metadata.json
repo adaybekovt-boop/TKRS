@@ -1,0 +1,41 @@
+{
+  "id": "uiux_sliders_kenney-uipack_008",
+  "name": "Slide Vertical Grey Section Wide",
+  "description": "slide-vertical-grey-section-wide from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "sliders",
+  "tags": [
+    "kenney",
+    "kenney-uipack",
+    "sliders",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "slide_vertical_grey_section_wide.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "03f74c48d11966ad6a71cff30a8f940f1e38d189f6a9e87a58917366563aa471",
+  "file_size": 1226,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "slide_vertical_grey_section_wide.png",
+    "slide_vertical_grey_section_wide.svg"
+  ],
+  "component_type": "sliders",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

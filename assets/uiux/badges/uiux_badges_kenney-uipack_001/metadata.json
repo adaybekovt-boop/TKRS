@@ -1,0 +1,41 @@
+{
+  "id": "uiux_badges_kenney-uipack_001",
+  "name": "Star Outline Depth",
+  "description": "star-outline-depth from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "badges",
+  "tags": [
+    "badges",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "star_outline_depth.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "c11615700fc1b7224972744555cbb1b724c0633afbb6a7fd2a4d1a3c00951f6b",
+  "file_size": 2490,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "star_outline_depth.png",
+    "star_outline_depth.svg"
+  ],
+  "component_type": "badges",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

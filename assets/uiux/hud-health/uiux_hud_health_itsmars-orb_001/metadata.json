@@ -1,0 +1,39 @@
+{
+  "id": "uiux_hud_health_itsmars-orb_001",
+  "name": "Itsmars Orb Back1",
+  "description": "itsmars-orb-back1 from itsmars Health Orb. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-health",
+  "tags": [
+    "hud-health",
+    "itsmars-orb",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "itsmars Health Orb",
+  "source_site": "https://opengameart.org/content/health-orb",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/health-orb",
+  "original_filename": "itsmars_orb_back1.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "f1a95daaed395678726b9ecb35c26234175327eaefd83bf83f93848a2e06230f",
+  "file_size": 50241,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "itsmars_orb_back1.png"
+  ],
+  "component_type": "hud-health",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

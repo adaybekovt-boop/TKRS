@@ -1,0 +1,39 @@
+{
+  "id": "uiux_hud_health_ui0a_001",
+  "name": "Health1",
+  "description": "health1 from Mumu / UI0A HUD bars. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-health",
+  "tags": [
+    "hud-health",
+    "ui",
+    "ui0a"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Mumu / UI0A HUD bars",
+  "source_site": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "source_repository": null,
+  "author": "Mumu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "original_filename": "Health1.png",
+  "attribution_required": false,
+  "attribution": "Mumu",
+  "has_scripts": false,
+  "sha256": "0dcfbb4ef4a7c57e3032c4949f030e27d7e228cade567eaadcd3e993a73edac9",
+  "file_size": 413,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Health1.png"
+  ],
+  "component_type": "hud-health",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "uiux_panels_kenney-uipack-adv_026",
+  "name": "Panel Grey Red",
+  "description": "panel-grey-red from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney-uipack-adv",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "panel_grey_red.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "032a095768c986b0026734aab7926ba509800c55e3b6f2d3596e125fe30d4137",
+  "file_size": 3293,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "panel_grey_red.svg",
+    "panel_grey_red.png",
+    "default_panel_grey_red.png"
+  ],
+  "component_type": "panels",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

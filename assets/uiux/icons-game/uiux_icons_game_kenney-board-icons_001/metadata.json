@@ -1,0 +1,62 @@
+{
+  "id": "uiux_icons_game_kenney-board-icons_001",
+  "name": "Kenney Board Game Icons",
+  "description": "Kenney Board Game Icons — one logical pack.",
+  "category": "uiux",
+  "subcategory": "icons-game",
+  "tags": [
+    "icons-game",
+    "kenney-board-icons",
+    "pack"
+  ],
+  "style": [
+    "minimal"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Board Game Icons",
+  "source_site": "https://kenney.nl/assets/board-game-icons",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/board-game-icons",
+  "original_filename": "overview.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "99e94f09ccc44427bd4870adfea5a982530b512ccaa5ddd53df53c559d85b92b",
+  "file_size": 334198,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "overview.svg",
+    "iconsDefault.png",
+    "bow.svg",
+    "tag_d6_infinte.svg",
+    "hand.svg",
+    "direction_n.svg",
+    "hexagon.svg",
+    "structure_church.svg",
+    "cards_collection_outline.svg",
+    "lock_open.svg",
+    "arrow_reserve.svg",
+    "d3_outline_number.svg",
+    "card_outline_lift.svg",
+    "d20_number.svg",
+    "cards_order.svg",
+    "d6_outline.svg",
+    "pawns.svg",
+    "cards_fan_outline.svg",
+    "cards_under.svg",
+    "tokens_shadow.svg",
+    "card_tap.svg",
+    "token_subtract.svg",
+    "pentagon_outline.svg",
+    "d8_outline_number.svg"
+  ],
+  "component_type": "pack",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

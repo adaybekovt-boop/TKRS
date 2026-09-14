@@ -1,0 +1,40 @@
+{
+  "id": "uiux_navigation_tinyrpg-manasoul_003",
+  "name": "Leftarrow Sheet",
+  "description": "leftArrow-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "navigation",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250425leftArrow-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "980f6731e09a31ba08bf0614d6ba70a08a1647b1e780c744f99e8d3d222bf00a",
+  "file_size": 1279,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250425leftArrow-Sheet.png"
+  ],
+  "component_type": "navigation",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

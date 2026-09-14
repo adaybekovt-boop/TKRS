@@ -1,0 +1,39 @@
+{
+  "id": "uiux_buttons_wenrexa-miko_007",
+  "name": "Custom Button Disable 3",
+  "description": "custom-button-disable-3 from Wenrexa Dark Miko Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ui",
+    "wenrexa-miko"
+  ],
+  "style": [
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Dark Miko Interface",
+  "source_site": "https://opengameart.org/content/dark-miko-interface",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/dark-miko-interface",
+  "original_filename": "Custom Button Disable 3.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "14b5dbf02f2d10ffe221d50fbfd31affa441b73863b576b9661a72ca1f2e6fab",
+  "file_size": 292,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Custom Button Disable 3.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

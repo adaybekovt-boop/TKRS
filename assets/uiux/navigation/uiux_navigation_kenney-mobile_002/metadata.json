@@ -1,0 +1,42 @@
+{
+  "id": "uiux_navigation_kenney-mobile_002",
+  "name": "Icon Arrow Curved",
+  "description": "icon-arrow-curved from Kenney Mobile Controls. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "kenney-mobile",
+    "navigation",
+    "ui"
+  ],
+  "style": [
+    "clean-mobile",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Mobile Controls",
+  "source_site": "https://kenney.nl/assets/mobile-controls",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/mobile-controls",
+  "original_filename": "icon_arrow_curved.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "fc47e2a38261be23b91aae6b71bcad88f7db8d0a522f0ac9e319778eb3c82c8d",
+  "file_size": 3334,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "icon_arrow_curved.svg",
+    "icon_arrow_curved.png",
+    "default_icon_arrow_curved.png"
+  ],
+  "component_type": "navigation",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

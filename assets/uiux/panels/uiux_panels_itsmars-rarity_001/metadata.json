@@ -1,0 +1,39 @@
+{
+  "id": "uiux_panels_itsmars-rarity_001",
+  "name": "Magicborderv11",
+  "description": "magicborderv11 from itsmars Rarity Borders. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "itsmars-rarity",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "itsmars Rarity Borders",
+  "source_site": "https://opengameart.org/content/rpg-inventory",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/rpg-inventory",
+  "original_filename": "MagicBorderV11.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "8bfda3bb90ec7497b390e35e8d152e76cc67cf6846dedfc8c64d11d2e477f519",
+  "file_size": 48771,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "MagicBorderV11.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

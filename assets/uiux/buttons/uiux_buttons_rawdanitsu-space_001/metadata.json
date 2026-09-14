@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_rawdanitsu-space_001",
+  "name": "Buttonleft",
+  "description": "buttonleft from Rawdanitsu Space GUI. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "rawdanitsu-space",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Rawdanitsu Space GUI",
+  "source_site": "https://opengameart.org/content/space-gui",
+  "source_repository": null,
+  "author": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/space-gui",
+  "original_filename": "buttonleft.png",
+  "attribution_required": false,
+  "attribution": "Rawdanitsu",
+  "has_scripts": false,
+  "sha256": "3736bb71a0556513f57e4ad89ba691f682c3c9f3da027bc9d19a79291dc8e96a",
+  "file_size": 11600,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "buttonleft.png",
+    "black_buttonleft.png",
+    "green_buttonleft.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

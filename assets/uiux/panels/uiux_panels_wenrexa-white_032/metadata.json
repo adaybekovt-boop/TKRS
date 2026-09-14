@@ -1,0 +1,41 @@
+{
+  "id": "uiux_panels_wenrexa-white_032",
+  "name": "Panel 38",
+  "description": "panel-38 from Wenrexa Free UI Kit White #5. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "ui",
+    "wenrexa-white"
+  ],
+  "style": [
+    "minimal",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Free UI Kit White #5",
+  "source_site": "https://opengameart.org/content/free-ui-kit-white-5",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-kit-white-5",
+  "original_filename": "Panel 38.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "8f9d86ea83b419b9fecd86c0d302b324141e08cce9a2e244cad6630821bc5bb5",
+  "file_size": 17718,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Panel 38.png",
+    "color-4_Panel 38.png",
+    "color-5_Panel 38.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

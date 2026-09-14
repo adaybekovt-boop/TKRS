@@ -1,0 +1,39 @@
+{
+  "id": "uiux_buttons_wenrexa-holo_002",
+  "name": "Button Disable",
+  "description": "button-disable from Wenrexa Hologram Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ui",
+    "wenrexa-holo"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Hologram Interface",
+  "source_site": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "original_filename": "Button Disable.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "2863531867e92adc5c8e43f99c504b134aa79dd107e660043f6d2dca517a7b9f",
+  "file_size": 1071,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Button Disable.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "uiux_graphic_resources_cethiel-ui_011",
+  "name": "Left 1",
+  "description": "left-1 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "cethiel-ui",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Left_1.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "37c411477190a1267758af991ff7da3b78ec99802a5c5f08dc0a003793fc5527",
+  "file_size": 15231,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Left_1.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

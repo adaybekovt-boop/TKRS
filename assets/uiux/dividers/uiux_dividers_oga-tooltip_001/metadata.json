@@ -1,0 +1,39 @@
+{
+  "id": "uiux_dividers_oga-tooltip_001",
+  "name": "Divider",
+  "description": "divider from RPG Tooltip. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "dividers",
+  "tags": [
+    "dividers",
+    "oga-tooltip",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "RPG Tooltip",
+  "source_site": "https://opengameart.org/content/rpg-tooltip",
+  "source_repository": null,
+  "author": "OGA contributor",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/rpg-tooltip",
+  "original_filename": "Divider.png",
+  "attribution_required": false,
+  "attribution": "OGA contributor",
+  "has_scripts": false,
+  "sha256": "6b3153000c8ba3bd395c137811101918e5e8293c84c2f3fdef799f84b1e3483f",
+  "file_size": 17776,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Divider.png"
+  ],
+  "component_type": "dividers",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

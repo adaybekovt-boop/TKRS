@@ -1,0 +1,42 @@
+{
+  "id": "uiux_cursors_kenney-uipack-scifi_002",
+  "name": "Cursor H",
+  "description": "cursor-h from Kenney UI Pack Sci-Fi. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "cursors",
+    "kenney",
+    "kenney-uipack-scifi",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Sci-Fi",
+  "source_site": "https://kenney.nl/assets/ui-pack-sci-fi",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-sci-fi",
+  "original_filename": "cursor_h.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "61089e47320a4144b2f4040383a1467fd6cd551d6b06f774e6123d2fe954fadc",
+  "file_size": 2420,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "cursor_h.png",
+    "cursor_h.svg"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uiux_graphic_resources_cethiel-ui_015",
+  "name": "Modulable 1",
+  "description": "modulable-1 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "cethiel-ui",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Modulable_1.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "a7c1dd39d054af6f2dcb9f63b7f39a814c3843bed535645dc4b20a387dea69d9",
+  "file_size": 47330,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Modulable_1.png",
+    "horizontal_Modulable_1.png",
+    "vertical_Modulable_1.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

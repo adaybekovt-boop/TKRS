@@ -1,0 +1,40 @@
+{
+  "id": "uiux_progress_bars_tinyrpg-manasoul_003",
+  "name": "Barc Sheet",
+  "description": "barC-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "progress-bars",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250421barC-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "8bc7674bacd7978661e96887e5f05163cf14d13d904defd44b54a0dc2c4a7898",
+  "file_size": 416,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250421barC-Sheet.png"
+  ],
+  "component_type": "progress-bars",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

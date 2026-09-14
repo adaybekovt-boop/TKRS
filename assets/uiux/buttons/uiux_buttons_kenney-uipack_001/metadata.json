@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_001",
+  "name": "Button Round Line",
+  "description": "button-round-line from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_round_line.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "2bb6ac63b9d3c8030c74b12ec9c1f42ad98fa312bf1f49ee43a3cfa09202aa4f",
+  "file_size": 2507,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_round_line.png",
+    "button_round_line.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

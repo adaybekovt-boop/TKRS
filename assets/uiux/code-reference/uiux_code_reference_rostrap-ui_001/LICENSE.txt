@@ -1,0 +1,8 @@
+License: MIT
+Author: RoStrap
+Source: RoStrap UI
+URL: https://github.com/RoStrap/RoStrapUI
+Attribution required: True
+Attribution: RoStrap — MIT
+
+MIT License. Preserve copyright notice.

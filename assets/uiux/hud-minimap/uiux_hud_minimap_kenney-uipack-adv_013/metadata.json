@@ -1,0 +1,42 @@
+{
+  "id": "uiux_hud_minimap_kenney-uipack-adv_013",
+  "name": "Minimap Ring Brown",
+  "description": "minimap-ring-brown from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-minimap",
+  "tags": [
+    "hud-minimap",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "minimap_ring_brown.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "e3e91029b14fbb7f4b20c4bb2baf9b95ccae328dc2141270163ae50d6c67cc74",
+  "file_size": 8605,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "minimap_ring_brown.svg",
+    "minimap_ring_brown.png",
+    "default_minimap_ring_brown.png"
+  ],
+  "component_type": "hud-minimap",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

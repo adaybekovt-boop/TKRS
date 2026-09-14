@@ -1,0 +1,41 @@
+{
+  "id": "uiux_panels_rawdanitsu-space_001",
+  "name": "Border Down",
+  "description": "border-down from Rawdanitsu Space GUI. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "rawdanitsu-space",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Rawdanitsu Space GUI",
+  "source_site": "https://opengameart.org/content/space-gui",
+  "source_repository": null,
+  "author": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/space-gui",
+  "original_filename": "border-down.png",
+  "attribution_required": false,
+  "attribution": "Rawdanitsu",
+  "has_scripts": false,
+  "sha256": "308783ba61dea987bd03fc6445946402048c907238db37331fb56306c5e39342",
+  "file_size": 8630,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "border-down.png",
+    "black_border-down.png",
+    "green_border-down.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "uiux_panels_itsmars-rarity_003",
+  "name": "Uniqueborderv11",
+  "description": "uniqueborderv11 from itsmars Rarity Borders. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "itsmars-rarity",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "itsmars Rarity Borders",
+  "source_site": "https://opengameart.org/content/rpg-inventory",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/rpg-inventory",
+  "original_filename": "UniqueBorderV11.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "dcc9299e1f3d5f373014752ef8ccedc6aa276297b2a73bd2412e7a200d9cb904",
+  "file_size": 48771,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "UniqueBorderV11.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

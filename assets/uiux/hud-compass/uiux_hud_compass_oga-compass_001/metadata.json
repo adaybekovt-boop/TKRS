@@ -1,0 +1,40 @@
+{
+  "id": "uiux_hud_compass_oga-compass_001",
+  "name": "Pixel Compass Set",
+  "description": "Pixel compass HUD glyphs.",
+  "category": "uiux",
+  "subcategory": "hud-compass",
+  "tags": [
+    "compass",
+    "pixel"
+  ],
+  "style": [
+    "pixel"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "OGA pixel compass",
+  "source_site": "https://opengameart.org",
+  "source_repository": null,
+  "author": "OGA contributor",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org",
+  "original_filename": "OGA-compass-pixel-1.png",
+  "attribution_required": false,
+  "attribution": "OGA contributor",
+  "has_scripts": false,
+  "sha256": "480d8121ee349150c58f54bbf56daccd6dc6f97524f511f52d1fb2190b10f6a1",
+  "file_size": 3127,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "OGA-compass-pixel-1.png",
+    "OGA-compass-pixel-2.png",
+    "OGA-compass-pixel-3.png",
+    "OGA-compass-pixel-4.png"
+  ],
+  "component_type": "hud-compass",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

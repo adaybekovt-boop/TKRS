@@ -1,0 +1,39 @@
+{
+  "id": "uiux_inventory_cethiel-inv_001",
+  "name": "Aa",
+  "description": "aa from Cethiel Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inventory",
+  "tags": [
+    "cethiel-inv",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Inventory",
+  "source_site": "https://opengameart.org/content/inventory",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/inventory",
+  "original_filename": "aa.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "42446fa1272ae03c58c55f2a8a55d88a56205fa5b0a4e5c5d9b07c41dcc6dec3",
+  "file_size": 148787,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "aa.png"
+  ],
+  "component_type": "inventory",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

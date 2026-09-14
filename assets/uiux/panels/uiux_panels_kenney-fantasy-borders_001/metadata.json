@@ -1,0 +1,38 @@
+{
+  "id": "uiux_panels_kenney-fantasy-borders_001",
+  "name": "Fantasy Ui Borders",
+  "description": "fantasy-ui-borders from Kenney Fantasy UI Borders. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney-fantasy-borders",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Kenney Fantasy UI Borders",
+  "source_site": "https://kenney.nl/assets/fantasy-ui-borders",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/fantasy-ui-borders",
+  "original_filename": "fantasy-ui-borders.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "c13776c5fb18d83bb749161fe32f49b67010a3b66c17a37bcc40527069e8b198",
+  "file_size": 134107,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "fantasy-ui-borders.svg"
+  ],
+  "component_type": "panels",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

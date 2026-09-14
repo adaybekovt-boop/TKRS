@@ -1,0 +1,40 @@
+{
+  "id": "uiux_inputs_cethiel-inv_002",
+  "name": "Field+Upper",
+  "description": "field+upper from Cethiel Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inputs",
+  "tags": [
+    "cethiel-inv",
+    "inputs",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Inventory",
+  "source_site": "https://opengameart.org/content/inventory",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/inventory",
+  "original_filename": "field+upper.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "b7e2416c0a869124d6c7fb229f60bf3c281598ab4612be3261d2d516ccc8ff24",
+  "file_size": 75094,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "field+upper.png",
+    "withshadow_field+upper.png"
+  ],
+  "component_type": "inputs",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

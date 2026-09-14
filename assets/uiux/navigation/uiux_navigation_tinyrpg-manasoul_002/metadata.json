@@ -1,0 +1,40 @@
+{
+  "id": "uiux_navigation_tinyrpg-manasoul_002",
+  "name": "Uparrow Sheet",
+  "description": "upArrow-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "navigation",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250425upArrow-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "aa320c8ad3664179d5e2fff0844fd90d8459da485831800c319e41dbd9518d3c",
+  "file_size": 1304,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250425upArrow-Sheet.png"
+  ],
+  "component_type": "navigation",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

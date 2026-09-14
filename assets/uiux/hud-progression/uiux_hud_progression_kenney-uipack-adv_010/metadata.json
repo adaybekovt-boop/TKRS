@@ -1,0 +1,42 @@
+{
+  "id": "uiux_hud_progression_kenney-uipack-adv_010",
+  "name": "Progress Transparent",
+  "description": "progress-transparent from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-progression",
+  "tags": [
+    "hud-progression",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "progress_transparent.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "8bc0065ad65b0dd95d9c8a02c0f1f8838c3d8f367b7708e50d16796375449ff8",
+  "file_size": 1553,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "progress_transparent.svg",
+    "progress_transparent.png",
+    "default_progress_transparent.png"
+  ],
+  "component_type": "hud-progression",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

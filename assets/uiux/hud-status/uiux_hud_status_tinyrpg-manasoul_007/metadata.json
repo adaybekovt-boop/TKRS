@@ -1,0 +1,40 @@
+{
+  "id": "uiux_hud_status_tinyrpg-manasoul_007",
+  "name": "Manasoulheadera Sheet",
+  "description": "manaSoulHeaderA-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "hud-status",
+  "tags": [
+    "hud-status",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250420manaSoulHeaderA-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "686a168826d86b3ceaa98df92a453e652c9b1868be4167fc3bf1395f41c7a1a0",
+  "file_size": 1378,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250420manaSoulHeaderA-Sheet.png"
+  ],
+  "component_type": "hud-status",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

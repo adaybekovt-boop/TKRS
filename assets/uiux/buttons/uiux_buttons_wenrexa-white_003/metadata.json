@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_wenrexa-white_003",
+  "name": "Button 3",
+  "description": "button-3 from Wenrexa Free UI Kit White #5. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ui",
+    "wenrexa-white"
+  ],
+  "style": [
+    "minimal",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Free UI Kit White #5",
+  "source_site": "https://opengameart.org/content/free-ui-kit-white-5",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-kit-white-5",
+  "original_filename": "Button 3.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "c597f901769659adfd2cc4d388ab3f91c97a82d3b0005f61ab520b86b16d16e4",
+  "file_size": 4512,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Button 3.png",
+    "color-4_Button 3.png",
+    "color-5_Button 3.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

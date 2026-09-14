@@ -1,0 +1,40 @@
+{
+  "id": "uiux_hud_health_cethiel-thorns_001",
+  "name": "Health 0",
+  "description": "health-0 from Cethiel Thorns Health Bar. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-health",
+  "tags": [
+    "cethiel-thorns",
+    "hud-health",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Thorns Health Bar",
+  "source_site": "https://opengameart.org/content/thorns-health-bar",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/thorns-health-bar",
+  "original_filename": "Health_0.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "62cf22e8902eca0209c29e6f6a71543881a9ba82949fbfb428dafad041d8d75a",
+  "file_size": 69526,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Health_0.png"
+  ],
+  "component_type": "hud-health",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

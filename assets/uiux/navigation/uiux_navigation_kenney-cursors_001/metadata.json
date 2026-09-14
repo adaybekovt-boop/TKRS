@@ -1,0 +1,40 @@
+{
+  "id": "uiux_navigation_kenney-cursors_001",
+  "name": "Arrow",
+  "description": "arrow from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "kenney-cursors",
+    "navigation",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "arrow_sw.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "239e7b9a167bd52681c0b15bbcad568e26d84f8088b9316e900abcc4d1a58dad",
+  "file_size": 1292,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "arrow_sw.svg",
+    "arrow_s.svg",
+    "arrow_nw.svg"
+  ],
+  "component_type": "navigation",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

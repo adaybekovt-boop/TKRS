@@ -1,0 +1,41 @@
+{
+  "id": "uiux_checkboxes_kenney-uipack_003",
+  "name": "Check Square Grey Cross",
+  "description": "check-square-grey-cross from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "checkboxes",
+  "tags": [
+    "checkboxes",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "check_square_grey_cross.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "3c93e47f9fbf1d1ee20751e0f840151862774319cef2495d9f6f63db5a093abf",
+  "file_size": 2517,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "check_square_grey_cross.png",
+    "check_square_grey_cross.svg"
+  ],
+  "component_type": "checkboxes",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

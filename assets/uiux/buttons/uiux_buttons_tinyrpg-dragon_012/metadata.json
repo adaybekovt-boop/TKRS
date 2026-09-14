@@ -1,0 +1,40 @@
+{
+  "id": "uiux_buttons_tinyrpg-dragon_012",
+  "name": "Dragonbuttona Sheet",
+  "description": "dragonButtonA-Sheet from Tiny RPG Dragon Regalia GUI.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "tinyrpg-dragon",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Dragon Regalia GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-dragon-regalia-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-dragon-regalia-gui",
+  "original_filename": "20240709dragonButtonA-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "1d92c88bcebc17c587c10cce60e50880c703d8712896fa42e2ec3e7cb9245485",
+  "file_size": 3094,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20240709dragonButtonA-Sheet.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

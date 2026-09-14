@@ -1,0 +1,44 @@
+{
+  "id": "uiux_code_reference_rostrap-ui_001",
+  "name": "RoStrap UI",
+  "description": "RoStrap UI plain-text Roblox UI reference. Inert.",
+  "category": "uiux",
+  "subcategory": "code-reference",
+  "tags": [
+    "lua",
+    "reference",
+    "roblox"
+  ],
+  "style": [
+    "minimal"
+  ],
+  "formats": [
+    "lua",
+    "md"
+  ],
+  "source": "RoStrap UI",
+  "source_site": "https://github.com/RoStrap/RoStrapUI",
+  "source_repository": "https://github.com/RoStrap/RoStrapUI",
+  "author": "RoStrap",
+  "license": "MIT",
+  "original_url": "https://github.com/RoStrap/RoStrapUI",
+  "original_filename": "Checkbox.lua",
+  "attribution_required": true,
+  "attribution": "RoStrap — MIT",
+  "has_scripts": true,
+  "sha256": "afc04f63e675f7c6dd09a84021eee4a22d3a82e4496296c70e72b7203101f7e5",
+  "file_size": 54681,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Checkbox.lua",
+    "README.md",
+    "Radio.lua",
+    "RippleButton.lua",
+    "Shadow.lua",
+    "Snackbar.lua"
+  ],
+  "component_type": "code-reference",
+  "vector": false,
+  "code_dependency": true,
+  "dimensions": null
+}

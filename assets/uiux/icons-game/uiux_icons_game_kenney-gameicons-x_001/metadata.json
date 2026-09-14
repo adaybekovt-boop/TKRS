@@ -1,0 +1,62 @@
+{
+  "id": "uiux_icons_game_kenney-gameicons-x_001",
+  "name": "Kenney Game Icons Expansion",
+  "description": "Kenney Game Icons Expansion — one logical pack.",
+  "category": "uiux",
+  "subcategory": "icons-game",
+  "tags": [
+    "icons-game",
+    "kenney-gameicons-x",
+    "pack"
+  ],
+  "style": [
+    "minimal"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Game Icons Expansion",
+  "source_site": "https://kenney.nl/assets/game-icons-expansion",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/game-icons-expansion",
+  "original_filename": "vector_whiteIcons.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "0a5bf5392be56ae968f1614046e62f6909700cb5e357365e472684af6bbeece2",
+  "file_size": 122254,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "vector_whiteIcons.svg",
+    "vector_blackIcons.svg",
+    "musicOff.png",
+    "scrollHorizontal.png",
+    "shoppingCart.png",
+    "menuGrid.png",
+    "upLeft.png",
+    "siganl1.png",
+    "larger.png",
+    "buttonX.png",
+    "upRight.png",
+    "up.png",
+    "return.png",
+    "singleplayer.png",
+    "import.png",
+    "downLeft.png",
+    "joystick.png",
+    "right.png",
+    "stop.png",
+    "trashcan.png",
+    "arrowDown.png",
+    "menuList.png",
+    "zoomDefault.png",
+    "joystickUp.png"
+  ],
+  "component_type": "pack",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

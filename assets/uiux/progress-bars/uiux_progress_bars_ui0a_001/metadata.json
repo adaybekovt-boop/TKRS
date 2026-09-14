@@ -1,0 +1,39 @@
+{
+  "id": "uiux_progress_bars_ui0a_001",
+  "name": "Genfill",
+  "description": "genfill from Mumu / UI0A HUD bars. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "graphic-resources",
+    "ui",
+    "ui0a"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Mumu / UI0A HUD bars",
+  "source_site": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "source_repository": null,
+  "author": "Mumu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "original_filename": "GenFill.png",
+  "attribution_required": false,
+  "attribution": "Mumu",
+  "has_scripts": false,
+  "sha256": "5f3b36d102ff8d9af0f9cb7f2ce1c8fec582117d00110d5da49356cc4f33ba43",
+  "file_size": 12699,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "GenFill.png"
+  ],
+  "component_type": "progress-bars",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

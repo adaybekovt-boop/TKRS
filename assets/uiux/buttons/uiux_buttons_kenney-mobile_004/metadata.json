@@ -1,0 +1,42 @@
+{
+  "id": "uiux_buttons_kenney-mobile_004",
+  "name": "Button Circle High",
+  "description": "button-circle-high from Kenney Mobile Controls. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney-mobile",
+    "ui"
+  ],
+  "style": [
+    "clean-mobile",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Mobile Controls",
+  "source_site": "https://kenney.nl/assets/mobile-controls",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/mobile-controls",
+  "original_filename": "button_circle_highlight.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "cb0f394c25e9b46bbc5a95ff69dda8acf2bd1a88e16de1dff8038a38b70239bd",
+  "file_size": 5018,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_circle_highlight.svg",
+    "highlights-b_button_circle_highlight.svg",
+    "button_circle_highlight.png"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

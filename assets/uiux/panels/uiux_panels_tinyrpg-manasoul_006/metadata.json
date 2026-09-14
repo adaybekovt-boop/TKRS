@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_tinyrpg-manasoul_006",
+  "name": "Helmetframe Sheet",
+  "description": "helmetFrame-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250423helmetFrame-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "e7a1ff14db21d813a48699ba950b4b9e272d3fd9566a182652e36fba36cf7af5",
+  "file_size": 2225,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250423helmetFrame-Sheet.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

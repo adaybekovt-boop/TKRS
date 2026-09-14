@@ -1,0 +1,42 @@
+{
+  "id": "uiux_hud_progression_kenney-uipack-adv_005",
+  "name": "Progress Green Border",
+  "description": "progress-green-border from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-progression",
+  "tags": [
+    "hud-progression",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "progress_green_border.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "1048eeb89638ac032f7af7a721915eec75437af843fdb8fad8f68b759829cddf",
+  "file_size": 2134,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "progress_green_border.svg",
+    "progress_green_border.png",
+    "default_progress_green_border.png"
+  ],
+  "component_type": "hud-progression",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

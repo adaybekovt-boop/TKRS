@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_012",
+  "name": "Btn Gray Rect Out",
+  "description": "btn-gray-rect-out from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_GRAY_RECT_OUT.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "9b622a552e49657716d38283da036a2b58bb7c04cd198f0396dd99b4189d5c4f",
+  "file_size": 11232,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_GRAY_RECT_OUT.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

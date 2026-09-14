@@ -1,0 +1,41 @@
+{
+  "id": "uiux_panels_kenney-uipack-adv_012",
+  "name": "Panel Brown",
+  "description": "panel-brown from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney-uipack-adv",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "panel_brown.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "dded438c7b82b4e4d7ba3fd33e74e6e027757247fcb78efdd1001dea1164fea8",
+  "file_size": 2027,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "panel_brown.svg",
+    "panel_brown_damaged_dark.svg",
+    "panel_brown_dark.svg"
+  ],
+  "component_type": "panels",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

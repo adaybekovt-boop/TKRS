@@ -1,0 +1,39 @@
+{
+  "id": "uiux_panels_oga-tooltip_001",
+  "name": "Namepanel",
+  "description": "namepanel from RPG Tooltip. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "oga-tooltip",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "RPG Tooltip",
+  "source_site": "https://opengameart.org/content/rpg-tooltip",
+  "source_repository": null,
+  "author": "OGA contributor",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/rpg-tooltip",
+  "original_filename": "NamePanel.png",
+  "attribution_required": false,
+  "attribution": "OGA contributor",
+  "has_scripts": false,
+  "sha256": "f86e66ac55f5e5978dfca6b6536a1a543f4b1d328672f2bed008c4f9d5132254",
+  "file_size": 55400,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "NamePanel.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

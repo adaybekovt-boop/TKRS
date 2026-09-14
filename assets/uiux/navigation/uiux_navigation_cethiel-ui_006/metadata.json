@@ -1,0 +1,39 @@
+{
+  "id": "uiux_navigation_cethiel-ui_006",
+  "name": "Arrow Right 1",
+  "description": "arrow-right-1 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "cethiel-ui",
+    "navigation",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Arrow_Right_1.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "50b2266f7e1e1abdd2686ebcd72a052740e94339ae6cd1d13f4d686e67721c13",
+  "file_size": 16409,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Arrow_Right_1.png"
+  ],
+  "component_type": "navigation",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

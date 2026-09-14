@@ -1,0 +1,46 @@
+{
+  "id": "uiux_code_reference_roblox-studiowidgets_001",
+  "name": "Roblox StudioWidgets",
+  "description": "Roblox StudioWidgets plain-text Roblox UI reference. Inert.",
+  "category": "uiux",
+  "subcategory": "code-reference",
+  "tags": [
+    "lua",
+    "reference",
+    "roblox"
+  ],
+  "style": [
+    "minimal"
+  ],
+  "formats": [
+    "lua",
+    "md"
+  ],
+  "source": "Roblox StudioWidgets",
+  "source_site": "https://github.com/Roblox/StudioWidgets",
+  "source_repository": "https://github.com/Roblox/StudioWidgets",
+  "author": "Roblox",
+  "license": "Apache-2.0",
+  "original_url": "https://github.com/Roblox/StudioWidgets",
+  "original_filename": "README.md",
+  "attribution_required": true,
+  "attribution": "Roblox — Apache-2.0",
+  "has_scripts": true,
+  "sha256": "a5f87ea650f3f021f70454767da94ad2a64cae101e1cc633aafcc5ab31e67d49",
+  "file_size": 45307,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "README.md",
+    "CollapsibleTitledSection.lua",
+    "CustomTextButton.lua",
+    "GuiUtilities.lua",
+    "LabeledCheckbox.lua",
+    "LabeledSlider.lua",
+    "LabeledTextInput.lua",
+    "StatefulImageButton.lua"
+  ],
+  "component_type": "code-reference",
+  "vector": false,
+  "code_dependency": true,
+  "dimensions": null
+}

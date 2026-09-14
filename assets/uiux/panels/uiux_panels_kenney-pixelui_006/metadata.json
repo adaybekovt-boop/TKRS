@@ -1,0 +1,39 @@
+{
+  "id": "uiux_panels_kenney-pixelui_006",
+  "name": "Grey Inlay",
+  "description": "grey-inlay from Kenney Pixel UI Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "graphic-resources",
+    "kenney-pixelui",
+    "ui"
+  ],
+  "style": [
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Pixel UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-ui-pack-750-assets",
+  "original_filename": "grey_inlay.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "770265d3a33978bd887fe12159fe940cc9c83a7ed6fa71d4f718b70b22ecc2ed",
+  "file_size": 221,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "grey_inlay.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

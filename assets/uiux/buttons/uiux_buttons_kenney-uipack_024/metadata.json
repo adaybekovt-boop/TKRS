@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_024",
+  "name": "Button Round Gradient",
+  "description": "button-round-gradient from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_round_gradient.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "5e3e71afd8305acb504e2c87e513d0c7a8c349428f50d8a5f4bdc6c96ce4761e",
+  "file_size": 2768,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_round_gradient.png",
+    "button_round_gradient.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

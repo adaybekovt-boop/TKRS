@@ -1,0 +1,62 @@
+{
+  "id": "uiux_input_prompts_kenney-prompts-pixel_002",
+  "name": "Kenney Input Prompts Pixel — Tiles",
+  "description": "Input prompt family for Tiles.",
+  "category": "uiux",
+  "subcategory": "input-prompts",
+  "tags": [
+    "input-prompts",
+    "kenney",
+    "tiles"
+  ],
+  "style": [
+    "controller-friendly"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Input Prompts Pixel",
+  "source_site": "https://kenney.nl/assets/input-prompts-pixel-16",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/input-prompts-pixel-16",
+  "original_filename": "tile_0083.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "ac7e55b0c701382e47ddfb9d56034a27ffbf6de00273bc6e1a5bd6b71b2e6992",
+  "file_size": 4459,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "tile_0083.png",
+    "tile_0329.png",
+    "tile_0152.png",
+    "tile_0520.png",
+    "tile_0758.png",
+    "tile_0755.png",
+    "tile_0650.png",
+    "tile_0362.png",
+    "tile_0441.png",
+    "tile_0675.png",
+    "tile_0151.png",
+    "tile_0631.png",
+    "tile_0670.png",
+    "tile_0381.png",
+    "tile_0281.png",
+    "tile_0622.png",
+    "tile_0018.png",
+    "tile_0684.png",
+    "tile_0126.png",
+    "tile_0451.png",
+    "tile_0231.png",
+    "tile_0375.png",
+    "tile_0782.png",
+    "tile_0476.png"
+  ],
+  "component_type": "input-prompt-family",
+  "vector": false,
+  "code_dependency": false,
+  "device": "Tiles",
+  "dimensions": null
+}

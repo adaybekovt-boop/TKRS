@@ -1,0 +1,37 @@
+{
+  "id": "uiux_hud_health_buch-shiny_001",
+  "name": "Buch Shiny HUD",
+  "description": "Buch Shiny HUD from OpenGameArt (Buch).",
+  "category": "uiux",
+  "subcategory": "hud-health",
+  "tags": [
+    "buch-shiny",
+    "hud-health"
+  ],
+  "style": [
+    "premium"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Buch Shiny HUD",
+  "source_site": "https://opengameart.org/content/shiny-hud",
+  "source_repository": null,
+  "author": "Buch",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/shiny-hud",
+  "original_filename": "buch_shiny_hud.png",
+  "attribution_required": false,
+  "attribution": "Buch",
+  "has_scripts": false,
+  "sha256": "c72af280ccffed74394ae136b39b75b861ee5b6b6b51d633ea163276396f1fc6",
+  "file_size": 7815,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "buch_shiny_hud.png"
+  ],
+  "component_type": "hud-health",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

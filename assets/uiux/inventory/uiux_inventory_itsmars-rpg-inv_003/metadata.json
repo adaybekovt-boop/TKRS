@@ -1,0 +1,39 @@
+{
+  "id": "uiux_inventory_itsmars-rpg-inv_003",
+  "name": "Itsmars Inventory",
+  "description": "itsmars-inventory from itsmars RPG Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inventory",
+  "tags": [
+    "inventory",
+    "itsmars-rpg-inv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "itsmars RPG Inventory",
+  "source_site": "https://opengameart.org/content/rpg-inventory",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/rpg-inventory",
+  "original_filename": "itsmars_Inventory.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "7fc6b69b64bb427787a29e01591a2faa3a2b4c2d5201acac5d7c9c7f2ca72282",
+  "file_size": 880509,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "itsmars_Inventory.png"
+  ],
+  "component_type": "inventory",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

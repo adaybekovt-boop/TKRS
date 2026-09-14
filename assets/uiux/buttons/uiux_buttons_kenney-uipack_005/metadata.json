@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_005",
+  "name": "Button Rectangle Line",
+  "description": "button-rectangle-line from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_rectangle_line.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "7a4b26b1dd3737938fc90a8b535be16e77da3e974f2970dbc23fbaa708b18215",
+  "file_size": 1265,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_rectangle_line.png",
+    "button_rectangle_line.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

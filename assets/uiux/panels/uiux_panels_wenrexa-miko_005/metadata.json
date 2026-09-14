@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_wenrexa-miko_005",
+  "name": "Panel 2",
+  "description": "panel-2 from Wenrexa Dark Miko Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "ui",
+    "wenrexa-miko"
+  ],
+  "style": [
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Dark Miko Interface",
+  "source_site": "https://opengameart.org/content/dark-miko-interface",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/dark-miko-interface",
+  "original_filename": "Panel 2.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "11be54664c2ac3ee2522469fdabccfab987bac4e4f92635bc063a8e1216efcf6",
+  "file_size": 4796,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Panel 2.png",
+    "Panel 2_.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

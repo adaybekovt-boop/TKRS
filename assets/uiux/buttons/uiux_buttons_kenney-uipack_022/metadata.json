@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_022",
+  "name": "Button Rectangle Depth Border",
+  "description": "button-rectangle-depth-border from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_rectangle_depth_border.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "19dd881d5c38d58e93db451152356a8ecb1375b247615d4e340b678233398b01",
+  "file_size": 2737,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_rectangle_depth_border.png",
+    "button_rectangle_depth_border.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

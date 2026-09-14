@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_035",
+  "name": "Btn Horiz Single (24)",
+  "description": "btn-horiz-single-(24) from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_HORIZ_SINGLE (24).png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "acbac7d4792ac85b92e3cfd8f283e61191245323da10a03a451daace2fcb22fe",
+  "file_size": 2051,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_HORIZ_SINGLE (24).png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

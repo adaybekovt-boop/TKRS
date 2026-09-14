@@ -1,0 +1,39 @@
+{
+  "id": "uiux_panels_kenney-pixelui_010",
+  "name": "Space",
+  "description": "space from Kenney Pixel UI Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "graphic-resources",
+    "kenney-pixelui",
+    "ui"
+  ],
+  "style": [
+    "pixel",
+    "sci-fi"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Pixel UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-ui-pack-750-assets",
+  "original_filename": "space.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "4eb96da68441bb9892bee9bb2a31510ccec02a19d6a85209ca16e35f64ec0d1f",
+  "file_size": 1048,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "space.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

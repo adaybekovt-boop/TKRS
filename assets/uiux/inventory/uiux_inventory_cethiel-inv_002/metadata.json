@@ -1,0 +1,40 @@
+{
+  "id": "uiux_inventory_cethiel-inv_002",
+  "name": "Invcell",
+  "description": "invcell from Cethiel Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inventory",
+  "tags": [
+    "cethiel-inv",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Inventory",
+  "source_site": "https://opengameart.org/content/inventory",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/inventory",
+  "original_filename": "invcell.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "8421c71b8c4fe071a0b6c5831bba46e9de0a28a3383a1063f7929df199994aaa",
+  "file_size": 37865,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "invcell.png",
+    "withshadow_invcell.png"
+  ],
+  "component_type": "inventory",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

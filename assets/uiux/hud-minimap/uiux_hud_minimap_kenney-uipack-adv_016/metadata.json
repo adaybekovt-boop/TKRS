@@ -1,0 +1,42 @@
+{
+  "id": "uiux_hud_minimap_kenney-uipack-adv_016",
+  "name": "Minimap Ring Grey Detail",
+  "description": "minimap-ring-grey-detail from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-minimap",
+  "tags": [
+    "hud-minimap",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "minimap_ring_grey_detail.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "aadd80225938f1a60e729f872d89bf4f16c79df818fd47574061ba5cde695020",
+  "file_size": 15006,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "minimap_ring_grey_detail.svg",
+    "minimap_ring_grey_detail.png",
+    "default_minimap_ring_grey_detail.png"
+  ],
+  "component_type": "hud-minimap",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_001",
+  "name": "Boot",
+  "description": "boot from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "boot.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "2f75abde4ddb54a49f16d169104d37dd35be9194871c4e974c157a5eb8cc5888",
+  "file_size": 1973,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "boot.svg",
+    "outline_boot.svg",
+    "boot.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

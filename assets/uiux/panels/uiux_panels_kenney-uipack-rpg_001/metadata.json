@@ -1,0 +1,62 @@
+{
+  "id": "uiux_panels_kenney-uipack-rpg_001",
+  "name": "Kenney UI Pack RPG Extension",
+  "description": "Kenney UI Pack RPG Extension — one logical pack.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney-uipack-rpg",
+    "pack",
+    "panels"
+  ],
+  "style": [
+    "fantasy"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack RPG Extension",
+  "source_site": "https://opengameart.org/content/ui-pack-rpg-extension",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-rpg-extension",
+  "original_filename": "uipack_rpg_vector.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "9c705070b19fbaa2f337a6937843aeebfd56ea8c6ae2b888e71ba3949590bf91",
+  "file_size": 101748,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "uipack_rpg_vector.svg",
+    "barYellow_horizontalMid.png",
+    "iconCross_grey.png",
+    "barBlue_verticalBottom.png",
+    "buttonLong_grey.png",
+    "barYellow_verticalBottom.png",
+    "barBack_verticalBottom.png",
+    "buttonSquare_blue.png",
+    "arrowBlue_left.png",
+    "cursorGauntlet_blue.png",
+    "buttonRound_beige.png",
+    "barRed_verticalMid.png",
+    "cursorSword_gold.png",
+    "arrowSilver_left.png",
+    "arrowBeige_left.png",
+    "cursorSword_bronze.png",
+    "cursorGauntlet_bronze.png",
+    "arrowSilver_right.png",
+    "barRed_verticalTop.png",
+    "iconCircle_grey.png",
+    "panel_brown.png",
+    "cursorSword_silver.png",
+    "iconCheck_blue.png",
+    "buttonLong_beige.png"
+  ],
+  "component_type": "pack",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

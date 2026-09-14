@@ -1,0 +1,41 @@
+{
+  "id": "uiux_sliders_kenney-uipack_011",
+  "name": "Slide Horizontal Color",
+  "description": "slide-horizontal-color from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "sliders",
+  "tags": [
+    "kenney",
+    "kenney-uipack",
+    "sliders",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "slide_horizontal_color.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "5e4336d1d816aefd6a17441ea190bacdab54705b560b59f0e54f5449f46c8798",
+  "file_size": 1477,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "slide_horizontal_color.png",
+    "slide_horizontal_color.svg"
+  ],
+  "component_type": "sliders",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

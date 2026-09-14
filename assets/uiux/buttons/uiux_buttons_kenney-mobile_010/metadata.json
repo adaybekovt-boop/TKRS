@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-mobile_010",
+  "name": "Button Diamond Wide",
+  "description": "button-diamond-wide from Kenney Mobile Controls. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney-mobile",
+    "ui"
+  ],
+  "style": [
+    "clean-mobile",
+    "modern"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Kenney Mobile Controls",
+  "source_site": "https://kenney.nl/assets/mobile-controls",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/mobile-controls",
+  "original_filename": "button_diamond_wide.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "caebc76d4c0f9d509df034072326fddf257be39ea2be848b47c445b56ce26ffd",
+  "file_size": 3408,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_diamond_wide.svg",
+    "style-e_button_diamond_wide.svg",
+    "style-b_button_diamond_wide.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

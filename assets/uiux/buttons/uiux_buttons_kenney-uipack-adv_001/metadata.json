@@ -1,0 +1,42 @@
+{
+  "id": "uiux_buttons_kenney-uipack-adv_001",
+  "name": "Button Brown",
+  "description": "button-brown from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "button_brown.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "822b39af4d2e34ad4434b74e87680978acdb4ec9f35bc3963e4f654244f067e0",
+  "file_size": 1718,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_brown.svg",
+    "button_brown.png",
+    "default_button_brown.png"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

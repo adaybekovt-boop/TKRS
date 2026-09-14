@@ -1,0 +1,39 @@
+{
+  "id": "uiux_tooltips_oga-tooltip_001",
+  "name": "Tooltipbackground",
+  "description": "tooltipbackground from RPG Tooltip. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "tooltips",
+  "tags": [
+    "oga-tooltip",
+    "tooltips",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "RPG Tooltip",
+  "source_site": "https://opengameart.org/content/rpg-tooltip",
+  "source_repository": null,
+  "author": "OGA contributor",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/rpg-tooltip",
+  "original_filename": "TooltipBackground.png",
+  "attribution_required": false,
+  "attribution": "OGA contributor",
+  "has_scripts": false,
+  "sha256": "89b5599f41e59a57e7466427ff17b2a5d26f6ca5427ea3796022ff28eb03cb14",
+  "file_size": 24242,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "TooltipBackground.png"
+  ],
+  "component_type": "tooltips",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

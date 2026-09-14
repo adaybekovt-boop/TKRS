@@ -1,0 +1,39 @@
+{
+  "id": "uiux_cursors_kenney-cursors-pixel_002",
+  "name": "Tilemap",
+  "description": "tilemap from Kenney Cursor Pixel Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors-pixel",
+    "ui"
+  ],
+  "style": [
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Cursor Pixel Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pixel-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pixel-pack",
+  "original_filename": "tilemap.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "8dc4942f446de5a774ccf960f6105d9b95b45563c490c5403aaf548b4bfcc660",
+  "file_size": 5031,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "tilemap.png"
+  ],
+  "component_type": "cursors",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

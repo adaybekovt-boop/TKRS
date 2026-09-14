@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_tinyrpg-dragon_016",
+  "name": "Dragonchestframe",
+  "description": "dragonChestFrame from Tiny RPG Dragon Regalia GUI.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "tinyrpg-dragon",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Dragon Regalia GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-dragon-regalia-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-dragon-regalia-gui",
+  "original_filename": "20240713dragonChestFrame.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "1c7cbfce22d28de4bff205495a0de88510948691600991fa48ba0b93c8ba7cb0",
+  "file_size": 750,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20240713dragonChestFrame.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

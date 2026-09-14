@@ -1,0 +1,41 @@
+{
+  "id": "uiux_hud_minimap_kenney-uipack-adv_006",
+  "name": "Minimap Compass Toon",
+  "description": "minimap-compass-toon from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-minimap",
+  "tags": [
+    "hud-minimap",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "minimap_compass_toon_w.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "caa1b868df67a5829e5aa1711e614d7d12ba3580c845ac74a5b99f2d96fe7e23",
+  "file_size": 4884,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "minimap_compass_toon_w.svg",
+    "minimap_compass_toon_s.svg",
+    "minimap_compass_toon_n.svg"
+  ],
+  "component_type": "hud-minimap",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

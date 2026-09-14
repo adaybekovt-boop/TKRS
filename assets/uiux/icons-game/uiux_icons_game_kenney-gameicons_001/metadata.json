@@ -1,0 +1,62 @@
+{
+  "id": "uiux_icons_game_kenney-gameicons_001",
+  "name": "Kenney Game Icons",
+  "description": "Kenney Game Icons — one logical pack.",
+  "category": "uiux",
+  "subcategory": "icons-game",
+  "tags": [
+    "icons-game",
+    "kenney-gameicons",
+    "pack"
+  ],
+  "style": [
+    "minimal"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Game Icons",
+  "source_site": "https://kenney.nl/assets/game-icons",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/game-icons",
+  "original_filename": "vector_whiteIcons.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "6de88df56865d78baa4070e2938fd4d6358cff47b547d5c782b4f03142275441",
+  "file_size": 148829,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "vector_whiteIcons.svg",
+    "vector_blackIcons.svg",
+    "musicOff.png",
+    "scrollHorizontal.png",
+    "shoppingCart.png",
+    "menuGrid.png",
+    "upLeft.png",
+    "siganl1.png",
+    "larger.png",
+    "buttonX.png",
+    "upRight.png",
+    "up.png",
+    "return.png",
+    "singleplayer.png",
+    "import.png",
+    "downLeft.png",
+    "joystick.png",
+    "right.png",
+    "stop.png",
+    "trashcan.png",
+    "arrowDown.png",
+    "menuList.png",
+    "zoomDefault.png",
+    "joystickUp.png"
+  ],
+  "component_type": "pack",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

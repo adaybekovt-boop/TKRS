@@ -1,0 +1,41 @@
+{
+  "id": "uiux_graphic_resources_rawdanitsu-space_004",
+  "name": "Corner3",
+  "description": "corner3 from Rawdanitsu Space GUI. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "graphic-resources",
+    "rawdanitsu-space",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Rawdanitsu Space GUI",
+  "source_site": "https://opengameart.org/content/space-gui",
+  "source_repository": null,
+  "author": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/space-gui",
+  "original_filename": "corner3.png",
+  "attribution_required": false,
+  "attribution": "Rawdanitsu",
+  "has_scripts": false,
+  "sha256": "5e062ba0331018836704bb5471770e80f578364c4b6ac34c99cf99d54228516b",
+  "file_size": 9530,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "corner3.png",
+    "black_corner3.png",
+    "green_corner3.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

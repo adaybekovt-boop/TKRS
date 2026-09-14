@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_kenney-pixelui_007",
+  "name": "Grey Pressed",
+  "description": "grey-pressed from Kenney Pixel UI Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "graphic-resources",
+    "kenney-pixelui",
+    "ui"
+  ],
+  "style": [
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Pixel UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-ui-pack-750-assets",
+  "original_filename": "grey_pressed.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "318a0aede7a6a14d89337b11b9a5ea0aaefa3c7d5c53f2383ad86b27baea1bf7",
+  "file_size": 455,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "grey_pressed.png",
+    "ancient_grey_pressed.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

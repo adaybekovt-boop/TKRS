@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_007",
+  "name": "Button Square Flat",
+  "description": "button-square-flat from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_square_flat.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "bb8026b29b951b698a2a4c7957549e20688a6fff1635975aea6079b208c10675",
+  "file_size": 1493,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_square_flat.png",
+    "button_square_flat.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

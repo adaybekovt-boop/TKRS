@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_028",
+  "name": "Drawing Pen",
+  "description": "drawing-pen from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "drawing_pen.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "be64305e5ade38aa1ba3e985d8caab276ac6735ec756def04151d742eedecc8c",
+  "file_size": 3316,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "drawing_pen.svg",
+    "outline_drawing_pen.svg",
+    "drawing_pen.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

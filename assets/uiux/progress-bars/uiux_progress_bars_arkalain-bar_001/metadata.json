@@ -1,0 +1,37 @@
+{
+  "id": "uiux_progress_bars_arkalain-bar_001",
+  "name": "Arkalain Progress Bar",
+  "description": "Arkalain Progress Bar from OpenGameArt (arkalain).",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "arkalain-bar",
+    "progress-bars"
+  ],
+  "style": [
+    "minimal"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Arkalain Progress Bar",
+  "source_site": "https://opengameart.org/content/progress-health-mana-bar",
+  "source_repository": null,
+  "author": "arkalain",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/progress-health-mana-bar",
+  "original_filename": "arkalain_progress_bar.svg",
+  "attribution_required": false,
+  "attribution": "arkalain",
+  "has_scripts": false,
+  "sha256": "4bd5b16f29cada68b34dff29bf7be9a91abeba6e98a09d8154f877b21b24145f",
+  "file_size": 18119,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "arkalain_progress_bar.svg"
+  ],
+  "component_type": "progress-bars",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

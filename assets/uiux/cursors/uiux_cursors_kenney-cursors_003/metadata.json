@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_003",
+  "name": "Bracket A Vertical",
+  "description": "bracket-a-vertical from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "bracket_a_vertical.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "a325be46dd987be8cb5f15dd586cd06a894ad35fc3f4c97851dc7546714ab21d",
+  "file_size": 1741,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "bracket_a_vertical.svg",
+    "outline_bracket_a_vertical.svg",
+    "bracket_a_vertical.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

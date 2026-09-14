@@ -1,0 +1,41 @@
+{
+  "id": "uiux_navigation_kenney-uipack_002",
+  "name": "Icon Arrow Down",
+  "description": "icon-arrow-down from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "kenney",
+    "kenney-uipack",
+    "navigation",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "icon_arrow_down_dark.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "d8fe0c61150e096b063895b3101969e5314516e7076ce3d77475af5b2b0e665f",
+  "file_size": 592,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "icon_arrow_down_dark.png",
+    "icon_arrow_down_light.svg"
+  ],
+  "component_type": "navigation",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "uiux_screens_yd-gui_003",
+  "name": "yd GUI Windows",
+  "description": "yd GUI Windows from OpenGameArt (yd).",
+  "category": "uiux",
+  "subcategory": "screens",
+  "tags": [
+    "screens",
+    "yd-gui"
+  ],
+  "style": [
+    "fantasy"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "yd GUI Windows",
+  "source_site": "https://opengameart.org/content/gui-windows-constructor",
+  "source_repository": null,
+  "author": "yd",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/gui-windows-constructor",
+  "original_filename": "yd_gui2.svg",
+  "attribution_required": false,
+  "attribution": "yd",
+  "has_scripts": false,
+  "sha256": "f62f088adf50e31994b88a8eeb5cc9024cb37d7945cbc124b8a61235d4af1001",
+  "file_size": 601628,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "yd_gui2.svg"
+  ],
+  "component_type": "screens",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_026",
+  "name": "Button Round Border",
+  "description": "button-round-border from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_round_border.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "4982b6829c94d16558572b0be7d423b663f011a3f88eb8d88437c2d0159da493",
+  "file_size": 3784,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_round_border.png",
+    "button_round_border.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

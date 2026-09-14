@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_015",
+  "name": "Btn Green Circle Out",
+  "description": "btn-green-circle-out from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_GREEN_CIRCLE_OUT.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "cb13b65c078a83dbff26fe3a260323e4b4c571b3c222b15c90c44258ea641ac9",
+  "file_size": 9973,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_GREEN_CIRCLE_OUT.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "uiux_panels_kenney-uipack-scifi_010",
+  "name": "Panel Glass Notch Tl",
+  "description": "panel-glass-notch-tl from Kenney UI Pack Sci-Fi. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney",
+    "kenney-uipack-scifi",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Sci-Fi",
+  "source_site": "https://kenney.nl/assets/ui-pack-sci-fi",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-sci-fi",
+  "original_filename": "panel_glass_notch_tl.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "9e19be899363c67ce2507fbfa26b5990d77d5085947efa6e06f2733e7bb6e158",
+  "file_size": 1863,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "panel_glass_notch_tl.png",
+    "panel_glass_notch_tl.svg"
+  ],
+  "component_type": "panels",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

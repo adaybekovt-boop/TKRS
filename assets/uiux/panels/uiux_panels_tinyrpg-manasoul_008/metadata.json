@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_tinyrpg-manasoul_008",
+  "name": "Neckframe Sheet",
+  "description": "neckFrame-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250423neckFrame-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "2e2e37e9976a6472451b13d0f0b51dc906da3de0ec869a6d68f746e708f83af4",
+  "file_size": 2397,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250423neckFrame-Sheet.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

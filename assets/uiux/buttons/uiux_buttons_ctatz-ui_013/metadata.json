@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_013",
+  "name": "Btn Gray Sq",
+  "description": "btn-gray-sq from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_GRAY_SQ.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "27e1bbd4805675a22352a522a3468fe5dc55dd5ade3e83b84c753714d57ed903",
+  "file_size": 5580,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_GRAY_SQ.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

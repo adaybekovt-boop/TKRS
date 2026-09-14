@@ -1,0 +1,39 @@
+{
+  "id": "uiux_graphic_resources_cethiel-ui_017",
+  "name": "Ok 1",
+  "description": "ok-1 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "cethiel-ui",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "OK_1.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "4f7d69498b6513f9338c014457d88e56ab63cce01a0c1d589cfb2a6ec0a240be",
+  "file_size": 19076,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "OK_1.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

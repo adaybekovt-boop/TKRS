@@ -1,0 +1,52 @@
+{
+  "id": "uiux_backgrounds_kenney-devess_001",
+  "name": "Kenney Development Essentials UI Graphics",
+  "description": "Kenney Development Essentials UI Graphics — one logical pack.",
+  "category": "uiux",
+  "subcategory": "backgrounds",
+  "tags": [
+    "backgrounds",
+    "kenney-devess",
+    "pack"
+  ],
+  "style": [
+    "minimal"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Development Essentials UI Graphics",
+  "source_site": "https://kenney.nl/assets/development-essentials",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/development-essentials",
+  "original_filename": "gradient-radial.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "5c19d56ca0d30b03734cb959160687e100be0fedd93b243d82acb2087533a101",
+  "file_size": 1107264,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "gradient-radial.png",
+    "gradient-horizontal-mirror.png",
+    "gradient-angular.png",
+    "gradient-vertical-mirror.png",
+    "gradient-vertical.png",
+    "gradient-horizontal.png",
+    "pixel-black.png",
+    "pixel-white.png",
+    "pixel-transparent.png",
+    "uv-texture.png",
+    "checkerboard.png",
+    "checkerboard-transparent.png",
+    "perlin-noise.png",
+    "perlin-noise-small.png",
+    "default-normal.png"
+  ],
+  "component_type": "pack",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_006",
+  "name": "Busy Circle",
+  "description": "busy-circle from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "busy_circle.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "c3f814e03b1e9f3ea77e5b7a4792bbc6bd4217fb1923d0420081d9b4eae12191",
+  "file_size": 2888,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "busy_circle.svg",
+    "outline_busy_circle.svg",
+    "busy_circle.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

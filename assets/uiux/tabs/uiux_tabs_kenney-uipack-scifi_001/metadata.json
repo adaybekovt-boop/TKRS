@@ -1,0 +1,42 @@
+{
+  "id": "uiux_tabs_kenney-uipack-scifi_001",
+  "name": "Panel Glass Tab Blade",
+  "description": "panel-glass-tab-blade from Kenney UI Pack Sci-Fi. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "tabs",
+  "tags": [
+    "kenney",
+    "kenney-uipack-scifi",
+    "tabs",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Sci-Fi",
+  "source_site": "https://kenney.nl/assets/ui-pack-sci-fi",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-sci-fi",
+  "original_filename": "panel_glass_tab_blade.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "7b2b04ce1c786c313e9f960af936a761734291c35efbd9274346c2b1c2bca99c",
+  "file_size": 2120,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "panel_glass_tab_blade.png",
+    "panel_glass_tab_blade.svg"
+  ],
+  "component_type": "tabs",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

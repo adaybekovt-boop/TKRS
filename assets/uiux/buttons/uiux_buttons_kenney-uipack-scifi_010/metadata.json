@@ -1,0 +1,42 @@
+{
+  "id": "uiux_buttons_kenney-uipack-scifi_010",
+  "name": "Button Square Header Notch Rectangle Screws",
+  "description": "button-square-header-notch-rectangle-screws from Kenney UI Pack Sci-Fi. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack-scifi",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Sci-Fi",
+  "source_site": "https://kenney.nl/assets/ui-pack-sci-fi",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-sci-fi",
+  "original_filename": "button_square_header_notch_rectangle_screws.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "05c97069fd55e1591a0dba7544ebafe5ae94ca7daf6ca148944fb84c2c243cd7",
+  "file_size": 3087,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_square_header_notch_rectangle_screws.png",
+    "button_square_header_notch_rectangle_screws.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

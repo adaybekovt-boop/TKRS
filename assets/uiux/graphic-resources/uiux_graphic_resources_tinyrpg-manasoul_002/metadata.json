@@ -1,0 +1,40 @@
+{
+  "id": "uiux_graphic_resources_tinyrpg-manasoul_002",
+  "name": "Mousesmall Sheet",
+  "description": "mouseSmall-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "graphic-resources",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250422mouseSmall-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "30e9a805b32bbd3118b4dc39fe2bac84f1044419d6361bfb7107236e9cc1fa6c",
+  "file_size": 1075,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250422mouseSmall-Sheet.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

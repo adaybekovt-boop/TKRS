@@ -1,0 +1,39 @@
+{
+  "id": "uiux_navigation_cethiel-ui_008",
+  "name": "Arrow Up 1",
+  "description": "arrow-up-1 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "cethiel-ui",
+    "navigation",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Arrow_Up_1.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "090174e30b24e6278a66675db6229272c1d711e9f80a07e52f062468235079bd",
+  "file_size": 16326,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Arrow_Up_1.png"
+  ],
+  "component_type": "navigation",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

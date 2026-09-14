@@ -1,0 +1,62 @@
+{
+  "id": "uiux_input_prompts_kenney-prompts-1bit_001",
+  "name": "Kenney 1-Bit Input Prompts — Tiles (White)",
+  "description": "Input prompt family for Tiles (White).",
+  "category": "uiux",
+  "subcategory": "input-prompts",
+  "tags": [
+    "input-prompts",
+    "kenney",
+    "tiles-white"
+  ],
+  "style": [
+    "controller-friendly"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney 1-Bit Input Prompts",
+  "source_site": "https://kenney.nl/assets/1-bit-input-prompts-pixel-16",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/1-bit-input-prompts-pixel-16",
+  "original_filename": "tile_0083.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "a1d87d21d58cfd27744ff0364500f74dbb2f7fd8e45981ac4624420d03d24d05",
+  "file_size": 3500,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "tile_0083.png",
+    "tile_0329.png",
+    "tile_0152.png",
+    "tile_0520.png",
+    "tile_0758.png",
+    "tile_0755.png",
+    "tile_0650.png",
+    "tile_0362.png",
+    "tile_0441.png",
+    "tile_0675.png",
+    "tile_0151.png",
+    "tile_0631.png",
+    "tile_0670.png",
+    "tile_0381.png",
+    "tile_0281.png",
+    "tile_0622.png",
+    "tile_0018.png",
+    "tile_0684.png",
+    "tile_0126.png",
+    "tile_0451.png",
+    "tile_0231.png",
+    "tile_0375.png",
+    "tile_0782.png",
+    "tile_0476.png"
+  ],
+  "component_type": "input-prompt-family",
+  "vector": false,
+  "code_dependency": false,
+  "device": "Tiles (White)",
+  "dimensions": null
+}

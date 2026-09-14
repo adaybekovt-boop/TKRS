@@ -1,0 +1,39 @@
+{
+  "id": "uiux_progress_bars_ui0a_005",
+  "name": "Metal",
+  "description": "metal from Mumu / UI0A HUD bars. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "graphic-resources",
+    "ui",
+    "ui0a"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Mumu / UI0A HUD bars",
+  "source_site": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "source_repository": null,
+  "author": "Mumu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "original_filename": "Metal.png",
+  "attribution_required": false,
+  "attribution": "Mumu",
+  "has_scripts": false,
+  "sha256": "6252769f2b6a73cca4f2bc1b197c2ba8306df48d69d72937ef998410562afd33",
+  "file_size": 904,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Metal.png"
+  ],
+  "component_type": "progress-bars",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "uiux_hud_status_ui0a_001",
+  "name": "Mana",
+  "description": "mana from Mumu / UI0A HUD bars. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-status",
+  "tags": [
+    "hud-status",
+    "ui",
+    "ui0a"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Mumu / UI0A HUD bars",
+  "source_site": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "source_repository": null,
+  "author": "Mumu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "original_filename": "Mana.png",
+  "attribution_required": false,
+  "attribution": "Mumu",
+  "has_scripts": false,
+  "sha256": "221625a27d17e1229428b9540890b31321d7734de594671bb2f6092e7f414961",
+  "file_size": 834,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Mana.png"
+  ],
+  "component_type": "hud-status",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

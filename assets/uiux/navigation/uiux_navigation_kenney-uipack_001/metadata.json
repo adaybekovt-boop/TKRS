@@ -1,0 +1,41 @@
+{
+  "id": "uiux_navigation_kenney-uipack_001",
+  "name": "Icon Arrow Up Outline",
+  "description": "icon-arrow-up-outline from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "kenney",
+    "kenney-uipack",
+    "navigation",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "icon_arrow_up_outline.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "38844f2d3ea7016f043495767c8ee5f6d8740ecad34832728df215bf37c8f0e4",
+  "file_size": 1285,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "icon_arrow_up_outline.png",
+    "icon_arrow_up_outline.svg"
+  ],
+  "component_type": "navigation",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

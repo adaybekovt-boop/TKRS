@@ -1,0 +1,41 @@
+{
+  "id": "uiux_progress_bars_wenrexa-miko_001",
+  "name": "Background Bar",
+  "description": "background-bar from Wenrexa Dark Miko Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "progress-bars",
+    "ui",
+    "wenrexa-miko"
+  ],
+  "style": [
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Dark Miko Interface",
+  "source_site": "https://opengameart.org/content/dark-miko-interface",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/dark-miko-interface",
+  "original_filename": "Background Bar.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "5df7fc75def02b7341596fb84871e7ca84634946b9084758c43d614264456e0e",
+  "file_size": 1697,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Background Bar.png",
+    "v1_Background Bar.png",
+    "v3_Background Bar.png"
+  ],
+  "component_type": "progress-bars",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

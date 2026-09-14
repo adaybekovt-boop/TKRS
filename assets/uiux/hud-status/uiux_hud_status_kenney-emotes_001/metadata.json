@@ -1,0 +1,62 @@
+{
+  "id": "uiux_hud_status_kenney-emotes_001",
+  "name": "Kenney Emote Pack",
+  "description": "Kenney Emote Pack — one logical pack.",
+  "category": "uiux",
+  "subcategory": "hud-status",
+  "tags": [
+    "hud-status",
+    "kenney-emotes",
+    "pack"
+  ],
+  "style": [
+    "cartoon"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Emote Pack",
+  "source_site": "https://kenney.nl/assets/emote-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/emote-pack",
+  "original_filename": "emotes_vector.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "543a65078ca368b77efbae1dd87a2eae28e0f1fa866b96ae142c276fb6d9a74c",
+  "file_size": 127602,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "emotes_vector.svg",
+    "vector_style1.png",
+    "vector_style5.png",
+    "pixel_style5.png",
+    "vector_style2.png",
+    "vector_style4.png",
+    "pixel_style6.png",
+    "vector_style8.png",
+    "pixel_style3.png",
+    "vector_style3.png",
+    "pixel_style1.png",
+    "vector_style7.png",
+    "pixel_style7.png",
+    "pixel_style2.png",
+    "vector_style6.png",
+    "pixel_style8.png",
+    "pixel_style4.png",
+    "emote_laugh.png",
+    "emote_dots2.png",
+    "emote_cross.png",
+    "emote_music.png",
+    "emote_idea.png",
+    "emote__.png",
+    "emote_anger.png"
+  ],
+  "component_type": "pack",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

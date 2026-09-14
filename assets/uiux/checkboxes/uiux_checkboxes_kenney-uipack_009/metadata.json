@@ -1,0 +1,41 @@
+{
+  "id": "uiux_checkboxes_kenney-uipack_009",
+  "name": "Check Round Grey Circle",
+  "description": "check-round-grey-circle from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "checkboxes",
+  "tags": [
+    "checkboxes",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "check_round_grey_circle.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "995fb2d318e976d96c5a87e2030ead47d46f6bd8cefeeb3d7abd9d1ed6027a15",
+  "file_size": 2433,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "check_round_grey_circle.png",
+    "check_round_grey_circle.svg"
+  ],
+  "component_type": "checkboxes",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

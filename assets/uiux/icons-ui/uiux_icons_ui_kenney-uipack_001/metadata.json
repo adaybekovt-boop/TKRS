@@ -1,0 +1,41 @@
+{
+  "id": "uiux_icons_ui_kenney-uipack_001",
+  "name": "Icon Play",
+  "description": "icon-play from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "icons-ui",
+  "tags": [
+    "icons-ui",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "icon_play_dark.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "cf2b453dbb6535ffb219f67bfab57312a2a41935ce9b1c54b1771cb28f2daf5e",
+  "file_size": 743,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "icon_play_dark.png",
+    "icon_play_dark.svg"
+  ],
+  "component_type": "icons-ui",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

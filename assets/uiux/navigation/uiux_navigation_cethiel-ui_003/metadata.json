@@ -1,0 +1,39 @@
+{
+  "id": "uiux_navigation_cethiel-ui_003",
+  "name": "Arrow Left 0",
+  "description": "arrow-left-0 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "cethiel-ui",
+    "navigation",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Arrow_Left_0.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "e68f6c4c4d6f2dc1d17aaf3ad0406b7128f9b2d9bf39e7911798329ba3ce34ef",
+  "file_size": 16405,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Arrow_Left_0.png"
+  ],
+  "component_type": "navigation",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

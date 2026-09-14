@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_017",
+  "name": "Cursor Help",
+  "description": "cursor-help from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "cursors",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "cursor_help.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "0c39376bee30584d37a639c8852676bcabc22ddadcf33a1d5642b07b5ffb32b2",
+  "file_size": 4353,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "cursor_help.svg",
+    "outline_cursor_help.svg",
+    "cursor_help.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

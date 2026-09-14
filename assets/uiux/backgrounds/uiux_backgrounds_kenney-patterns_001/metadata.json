@@ -1,0 +1,61 @@
+{
+  "id": "uiux_backgrounds_kenney-patterns_001",
+  "name": "Kenney Pattern Pack",
+  "description": "Kenney Pattern Pack — one logical pack.",
+  "category": "uiux",
+  "subcategory": "backgrounds",
+  "tags": [
+    "backgrounds",
+    "kenney-patterns",
+    "pack"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Kenney Pattern Pack",
+  "source_site": "https://kenney.nl/assets/pattern-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/pattern-pack",
+  "original_filename": "pattern_70.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "10e81f89694c78dfd0dfe67daa6fa2f03978510a8eff7aa48e8d7f528b84b5f6",
+  "file_size": 54588,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "pattern_70.svg",
+    "pattern_58.svg",
+    "pattern_47.svg",
+    "pattern_42.svg",
+    "pattern_75.svg",
+    "pattern_19.svg",
+    "pattern_35.svg",
+    "pattern_44.svg",
+    "pattern_28.svg",
+    "pattern_01.svg",
+    "pattern_57.svg",
+    "pattern_66.svg",
+    "pattern_38.svg",
+    "pattern_23.svg",
+    "pattern_06.svg",
+    "pattern_16.svg",
+    "pattern_49.svg",
+    "pattern_40.svg",
+    "pattern_76.svg",
+    "pattern_17.svg",
+    "pattern_31.svg",
+    "pattern_21.svg",
+    "pattern_14.svg",
+    "pattern_05.svg"
+  ],
+  "component_type": "pack",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

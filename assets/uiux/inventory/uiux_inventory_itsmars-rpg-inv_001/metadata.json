@@ -1,0 +1,39 @@
+{
+  "id": "uiux_inventory_itsmars-rpg-inv_001",
+  "name": "64X64 Bagslotborder",
+  "description": "64x64-bagslotborder from itsmars RPG Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inventory",
+  "tags": [
+    "inventory",
+    "itsmars-rpg-inv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "itsmars RPG Inventory",
+  "source_site": "https://opengameart.org/content/rpg-inventory",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/rpg-inventory",
+  "original_filename": "64x64 BagSlotBorder.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "559943f2c201fc984d12172f9d2f5ed2e7645f2585e8351b5f594f528c14cc57",
+  "file_size": 34832,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "64x64 BagSlotBorder.png"
+  ],
+  "component_type": "inventory",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

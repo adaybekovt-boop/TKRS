@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_002",
+  "name": "Btn Blue Circle In",
+  "description": "btn-blue-circle-in from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_BLUE_CIRCLE_IN.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "aa015b50e7dfabca4073a2182dd787874c06184ff5393e5a32e6f9f7eb91d51b",
+  "file_size": 10749,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_BLUE_CIRCLE_IN.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

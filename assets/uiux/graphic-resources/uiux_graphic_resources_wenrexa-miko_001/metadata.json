@@ -1,0 +1,41 @@
+{
+  "id": "uiux_graphic_resources_wenrexa-miko_001",
+  "name": "Foreground",
+  "description": "foreground from Wenrexa Dark Miko Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "graphic-resources",
+    "ui",
+    "wenrexa-miko"
+  ],
+  "style": [
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Dark Miko Interface",
+  "source_site": "https://opengameart.org/content/dark-miko-interface",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/dark-miko-interface",
+  "original_filename": "Foreground.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "0279e404eb6c7b5d267a23a7303429e0ac6f80dcfa85ff3df1fa345f4bda8f63",
+  "file_size": 3589,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Foreground.png",
+    "v1_Foreground.png",
+    "v3_Foreground.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

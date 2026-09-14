@@ -1,0 +1,38 @@
+{
+  "id": "uiux_crosshairs_pasmater-xh_001",
+  "name": "64 Crosshairs",
+  "description": "64 Crosshairs — one logical pack.",
+  "category": "uiux",
+  "subcategory": "crosshairs",
+  "tags": [
+    "crosshairs",
+    "pack",
+    "pasmater-xh"
+  ],
+  "style": [
+    "tactical"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "64 Crosshairs",
+  "source_site": "https://opengameart.org/content/64-crosshairs",
+  "source_repository": null,
+  "author": "para",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/64-crosshairs",
+  "original_filename": "crosshairs64.png",
+  "attribution_required": false,
+  "attribution": "para",
+  "has_scripts": false,
+  "sha256": "5ac984475928a2c951091af661b6e2e22a5698a25bc2e24fb3bedd40f30c6069",
+  "file_size": 35195,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "crosshairs64.png"
+  ],
+  "component_type": "pack",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

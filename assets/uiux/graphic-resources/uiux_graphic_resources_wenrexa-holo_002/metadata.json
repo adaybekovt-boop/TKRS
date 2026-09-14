@@ -1,0 +1,39 @@
+{
+  "id": "uiux_graphic_resources_wenrexa-holo_002",
+  "name": "Put A Rating!",
+  "description": "put-a-rating! from Wenrexa Hologram Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "graphic-resources",
+    "ui",
+    "wenrexa-holo"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "jpg"
+  ],
+  "source": "Wenrexa Hologram Interface",
+  "source_site": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "original_filename": "PUT A RATING!.jpg",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "80345c5aec872aad7fef079c8d65239550c4821db37922e7486bd2a8d93644b1",
+  "file_size": 42080,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "PUT A RATING!.jpg"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

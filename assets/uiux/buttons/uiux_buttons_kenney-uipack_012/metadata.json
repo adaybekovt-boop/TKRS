@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_012",
+  "name": "Button Square Gradient",
+  "description": "button-square-gradient from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_square_gradient.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "4c685a1bf9e5406b96a1e5503d5f6ba233016156bef7c75b658fd9c9196bdd58",
+  "file_size": 2503,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_square_gradient.png",
+    "button_square_gradient.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

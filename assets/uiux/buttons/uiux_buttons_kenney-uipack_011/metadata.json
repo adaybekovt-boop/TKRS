@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_011",
+  "name": "Button Rectangle Gradient",
+  "description": "button-rectangle-gradient from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_rectangle_gradient.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "424f7743b51666915429a32b76732aeea7079c053cabbe7874d826fed210dacc",
+  "file_size": 1694,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_rectangle_gradient.png",
+    "button_rectangle_gradient.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

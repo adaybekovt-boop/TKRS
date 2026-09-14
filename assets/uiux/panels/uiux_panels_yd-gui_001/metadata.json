@@ -1,0 +1,37 @@
+{
+  "id": "uiux_panels_yd-gui_001",
+  "name": "yd Metal Panel",
+  "description": "yd Metal Panel from OpenGameArt (yd).",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "yd-gui"
+  ],
+  "style": [
+    "industrial"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "yd Metal Panel",
+  "source_site": "https://opengameart.org/content/gui-windows-constructor",
+  "source_repository": null,
+  "author": "yd",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/gui-windows-constructor",
+  "original_filename": "yd_metal2.png",
+  "attribution_required": false,
+  "attribution": "yd",
+  "has_scripts": false,
+  "sha256": "0f13ce7685b035c91b1df21d689a04a4c2ddef1d870e733e2f823f0afe5eccfa",
+  "file_size": 24874,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "yd_metal2.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "uiux_hud_minimap_kenney-minimap_001",
+  "name": "Kenney Minimap Pack",
+  "description": "Kenney Minimap Pack — one logical pack.",
+  "category": "uiux",
+  "subcategory": "hud-minimap",
+  "tags": [
+    "hud-minimap",
+    "kenney-minimap",
+    "pack"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Minimap Pack",
+  "source_site": "https://kenney.nl/assets/minimap-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/minimap-pack",
+  "original_filename": "tilemap_packed.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "2ffd3eda39e027e59bb93b0c4e9ef156dd7fe1944015d24ada1878bca41bce72",
+  "file_size": 3072,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "tilemap_packed.png",
+    "tilemap.png",
+    "tile_0018.png",
+    "tile_0010.png",
+    "tile_0019.png",
+    "tile_0007.png",
+    "tile_0008.png",
+    "tile_0014.png",
+    "tile_0013.png",
+    "tile_0002.png",
+    "tile_0020.png",
+    "tile_0017.png",
+    "tile_0000.png",
+    "tile_0016.png",
+    "tile_0023.png",
+    "tile_0015.png",
+    "tile_0011.png",
+    "tile_0001.png",
+    "tile_0021.png",
+    "tile_0009.png",
+    "tile_0005.png",
+    "tile_0006.png",
+    "tile_0004.png",
+    "tile_0003.png"
+  ],
+  "component_type": "pack",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

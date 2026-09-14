@@ -1,0 +1,40 @@
+{
+  "id": "uiux_inputs_cethiel-inv_005",
+  "name": "Invslots+Field",
+  "description": "invslots+field from Cethiel Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inputs",
+  "tags": [
+    "cethiel-inv",
+    "inputs",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Inventory",
+  "source_site": "https://opengameart.org/content/inventory",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/inventory",
+  "original_filename": "invslots+field.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "abf9ca70d4776b13fb6707dadb5a100ab8eb014d9489b0e95246a15d2341537b",
+  "file_size": 183953,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "invslots+field.png",
+    "withshadow_invslots+field.png"
+  ],
+  "component_type": "inputs",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

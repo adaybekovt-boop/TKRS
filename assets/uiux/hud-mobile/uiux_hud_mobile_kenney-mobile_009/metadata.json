@@ -1,0 +1,41 @@
+{
+  "id": "uiux_hud_mobile_kenney-mobile_009",
+  "name": "Dpad Element South",
+  "description": "dpad-element-south from Kenney Mobile Controls. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-mobile",
+  "tags": [
+    "graphic-resources",
+    "kenney-mobile",
+    "ui"
+  ],
+  "style": [
+    "clean-mobile",
+    "modern"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Kenney Mobile Controls",
+  "source_site": "https://kenney.nl/assets/mobile-controls",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/mobile-controls",
+  "original_filename": "dpad_element_south.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "f3089acf97a86dd35d764b03060e6c9975af2c89ade04f3f6065a4835f97bc9b",
+  "file_size": 3098,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "dpad_element_south.svg",
+    "style-e_dpad_element_south.svg",
+    "style-b_dpad_element_south.svg"
+  ],
+  "component_type": "hud-mobile",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,9 @@
+License: CC0-1.0
+Author: Mumu
+Source: Mumu / UI0A HUD bars
+URL: https://opengameart.org/content/health-or-mana-ui-bars
+Attribution required: False
+Attribution: Mumu
+
+CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

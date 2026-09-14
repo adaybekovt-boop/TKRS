@@ -1,0 +1,42 @@
+{
+  "id": "uiux_panels_kenney-uipack-adv_021",
+  "name": "Panel Grey Bolts Detail A",
+  "description": "panel-grey-bolts-detail-a from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney-uipack-adv",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "panel_grey_bolts_detail_a.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "18ef0421d432aca15555de5cfda7a24b3f0bb8b0db936e380de2c1f94514d0e3",
+  "file_size": 5680,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "panel_grey_bolts_detail_a.svg",
+    "panel_grey_bolts_detail_a.png",
+    "default_panel_grey_bolts_detail_a.png"
+  ],
+  "component_type": "panels",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

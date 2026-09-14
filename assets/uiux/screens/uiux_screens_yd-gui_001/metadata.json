@@ -1,0 +1,37 @@
+{
+  "id": "uiux_screens_yd-gui_001",
+  "name": "yd Inventory Screen",
+  "description": "yd Inventory Screen from OpenGameArt (yd).",
+  "category": "uiux",
+  "subcategory": "screens",
+  "tags": [
+    "screens",
+    "yd-gui"
+  ],
+  "style": [
+    "fantasy"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "yd Inventory Screen",
+  "source_site": "https://opengameart.org/content/gui-elements",
+  "source_repository": null,
+  "author": "yd",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/gui-elements",
+  "original_filename": "yd_Inventory.svg",
+  "attribution_required": false,
+  "attribution": "yd",
+  "has_scripts": false,
+  "sha256": "8c8a454395732020c09fa0800921a1421a7f79576d610c78b983d8c9f6df5515",
+  "file_size": 734133,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "yd_Inventory.svg"
+  ],
+  "component_type": "screens",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

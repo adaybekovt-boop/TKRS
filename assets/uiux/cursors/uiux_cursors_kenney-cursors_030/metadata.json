@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_030",
+  "name": "Drawing Picker",
+  "description": "drawing-picker from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "drawing_picker.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "73ef0a4aa5469ea29add32a28779fcb7005b69299b7d4bc6f99e6696c6cbd631",
+  "file_size": 4106,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "drawing_picker.svg",
+    "outline_drawing_picker.svg",
+    "drawing_picker.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uiux_checkboxes_kenney-uipack_002",
+  "name": "Check Round Color",
+  "description": "check-round-color from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "checkboxes",
+  "tags": [
+    "checkboxes",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "check_round_color.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "8a6cb9afb994225bc9cfe75223802fec0d2cd3d71f8bf1eaf3eb497a3c84fba8",
+  "file_size": 1564,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "check_round_color.png",
+    "check_round_color.svg"
+  ],
+  "component_type": "checkboxes",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

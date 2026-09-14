@@ -1,0 +1,37 @@
+{
+  "id": "uiux_screens_yd-gui_004",
+  "name": "yd Map GUI",
+  "description": "yd Map GUI from OpenGameArt (yd).",
+  "category": "uiux",
+  "subcategory": "screens",
+  "tags": [
+    "screens",
+    "yd-gui"
+  ],
+  "style": [
+    "fantasy"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "yd Map GUI",
+  "source_site": "https://opengameart.org/content/gui-elements",
+  "source_repository": null,
+  "author": "yd",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/gui-elements",
+  "original_filename": "yd_map.svg",
+  "attribution_required": false,
+  "attribution": "yd",
+  "has_scripts": false,
+  "sha256": "aa444455d56452d1138a95e38007d8eddd59b7dc628fdb72babf4a2cb454e8bb",
+  "file_size": 83293,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "yd_map.svg"
+  ],
+  "component_type": "screens",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

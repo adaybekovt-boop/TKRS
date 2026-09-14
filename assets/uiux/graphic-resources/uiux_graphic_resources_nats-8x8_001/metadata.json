@@ -1,0 +1,61 @@
+{
+  "id": "uiux_graphic_resources_nats-8x8_001",
+  "name": "Nat's 8x8 UI Pack",
+  "description": "Nat's 8x8 UI Pack — one logical pack.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "graphic-resources",
+    "nats-8x8",
+    "pack"
+  ],
+  "style": [
+    "pixel"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Nat's 8x8 UI Pack",
+  "source_site": "https://opengameart.org/content/nats-8x8-ui-pack-over-50-ui-elements",
+  "source_repository": null,
+  "author": "nateonus",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/nats-8x8-ui-pack-over-50-ui-elements",
+  "original_filename": "main.png",
+  "attribution_required": false,
+  "attribution": "nateonus",
+  "has_scripts": false,
+  "sha256": "f993705338b74b33e3c6b177a3b831c5a29044087034cf687a3cfd5e4e941b92",
+  "file_size": 9265,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "main.png",
+    "tile014.png",
+    "tile042.png",
+    "tile018.png",
+    "tile041.png",
+    "tile047.png",
+    "tile010.png",
+    "tile040.png",
+    "tile033.png",
+    "tile030.png",
+    "tile011.png",
+    "tile000.png",
+    "tile008.png",
+    "tile005.png",
+    "tile001.png",
+    "tile049.png",
+    "tile050.png",
+    "tile016.png",
+    "tile024.png",
+    "tile004.png",
+    "tile038.png",
+    "tile002.png",
+    "tile020.png",
+    "tile039.png"
+  ],
+  "component_type": "pack",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

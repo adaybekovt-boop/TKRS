@@ -1,0 +1,41 @@
+{
+  "id": "uiux_icons_ui_kenney-uipack_006",
+  "name": "Icon Outline Square",
+  "description": "icon-outline-square from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "icons-ui",
+  "tags": [
+    "icons-ui",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "icon_outline_square.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "8d6befe4d64bd18331e1aad406e0c51e7cc9cab7a4f36e9114965b687e3f01bf",
+  "file_size": 487,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "icon_outline_square.png",
+    "icon_outline_square.svg"
+  ],
+  "component_type": "icons-ui",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

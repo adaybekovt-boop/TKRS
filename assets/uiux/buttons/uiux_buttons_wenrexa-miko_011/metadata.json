@@ -1,0 +1,39 @@
+{
+  "id": "uiux_buttons_wenrexa-miko_011",
+  "name": "Custom Button Hover 3",
+  "description": "custom-button-hover-3 from Wenrexa Dark Miko Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ui",
+    "wenrexa-miko"
+  ],
+  "style": [
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Dark Miko Interface",
+  "source_site": "https://opengameart.org/content/dark-miko-interface",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/dark-miko-interface",
+  "original_filename": "Custom Button Hover 3.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "da40d6f63719fa464e85890eb7a87e84e8963aa7122ab9789ce1e4b265ee9e1e",
+  "file_size": 709,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Custom Button Hover 3.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

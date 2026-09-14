@@ -1,0 +1,9 @@
+License: CC0-1.0
+Author: Kenney (www.kenney.nl)
+Source: Kenney UI Pack Sci-Fi
+URL: https://opengameart.org/content/ui-pack-sci-fi
+Attribution required: False
+Attribution: Kenney.nl (optional)
+
+CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

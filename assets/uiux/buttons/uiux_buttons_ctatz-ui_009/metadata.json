@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_009",
+  "name": "Btn Gray Circle In",
+  "description": "btn-gray-circle-in from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_GRAY_CIRCLE_IN.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "88db3e145ad9279f5f0f58b3fba85d1824e96eba7ccf7d8b1e7ba987264ccd66",
+  "file_size": 9734,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_GRAY_CIRCLE_IN.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

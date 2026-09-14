@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_cethiel-thorns_001",
+  "name": "Border 0",
+  "description": "border-0 from Cethiel Thorns Health Bar. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "cethiel-thorns",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Thorns Health Bar",
+  "source_site": "https://opengameart.org/content/thorns-health-bar",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/thorns-health-bar",
+  "original_filename": "Border_0.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "70a1ca25a820c29a0b915705daef92d9bf5505e5d95069dcc6379afccb2eefc1",
+  "file_size": 136388,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Border_0.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

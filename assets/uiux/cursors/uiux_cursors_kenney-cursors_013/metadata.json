@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_013",
+  "name": "Cursor Cogs",
+  "description": "cursor-cogs from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "cursors",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "cursor_cogs.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "bf9d244c9a00c279f753b05967ffaa438765ac90605f7e5edd2c0186413ebeef",
+  "file_size": 6335,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "cursor_cogs.svg",
+    "outline_cursor_cogs.svg",
+    "cursor_cogs.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

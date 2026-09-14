@@ -1,0 +1,41 @@
+{
+  "id": "uiux_navigation_kenney-uipack_005",
+  "name": "Arrow Basic",
+  "description": "arrow-basic from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "navigation",
+  "tags": [
+    "kenney",
+    "kenney-uipack",
+    "navigation",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "arrow_basic_w.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "576db7b4e55f6937306d0fa56ea4da000aeaf4f53891fa967d2bd7dc0a83950f",
+  "file_size": 1757,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "arrow_basic_w.png",
+    "arrow_basic_e.svg"
+  ],
+  "component_type": "navigation",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

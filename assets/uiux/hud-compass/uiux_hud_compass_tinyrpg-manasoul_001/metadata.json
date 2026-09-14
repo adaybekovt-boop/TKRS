@@ -1,0 +1,40 @@
+{
+  "id": "uiux_hud_compass_tinyrpg-manasoul_001",
+  "name": "Compass Sheet",
+  "description": "compass-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "hud-compass",
+  "tags": [
+    "hud-compass",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250425compass-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "74c0ca38938b78b0152bb98e2f9ec6b3cec26f052b5f7f999dc66375d1b5d4c2",
+  "file_size": 2698,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250425compass-Sheet.png"
+  ],
+  "component_type": "hud-compass",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

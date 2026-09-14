@@ -1,0 +1,42 @@
+{
+  "id": "uiux_graphic_resources_kenney-uipack-adv_002",
+  "name": "Round Grey",
+  "description": "round-grey from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "graphic-resources",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "round_grey_dark.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "18d6f6a6f6e891ac35f970ce26d86d233acc4d876261ac77a133e582eae820a4",
+  "file_size": 4356,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "round_grey_dark.svg",
+    "round_grey.svg",
+    "round_grey_dark.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

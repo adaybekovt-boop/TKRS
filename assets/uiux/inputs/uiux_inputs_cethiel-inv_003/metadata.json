@@ -1,0 +1,40 @@
+{
+  "id": "uiux_inputs_cethiel-inv_003",
+  "name": "Field+Uppersquare",
+  "description": "field+uppersquare from Cethiel Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inputs",
+  "tags": [
+    "cethiel-inv",
+    "inputs",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Inventory",
+  "source_site": "https://opengameart.org/content/inventory",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/inventory",
+  "original_filename": "field+uppersquare.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "8f32e5c2f597fcf8952529944218fff42e9b62ba648c29f9f4ba80441f4f6351",
+  "file_size": 145598,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "field+uppersquare.png",
+    "withshadow_field+uppersquare.png"
+  ],
+  "component_type": "inputs",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

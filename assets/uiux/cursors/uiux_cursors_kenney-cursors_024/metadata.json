@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_024",
+  "name": "Door Exit",
+  "description": "door-exit from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "door_exit.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "f66c9d10fed7d7e1843184974ce4b3585b4f612d4c22254ab23d7e9780bca256",
+  "file_size": 2384,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "door_exit.svg",
+    "outline_door_exit.svg",
+    "door_exit.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

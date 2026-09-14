@@ -1,0 +1,39 @@
+{
+  "id": "uiux_buttons_wenrexa-miko_014",
+  "name": "Custom Button Normal 2",
+  "description": "custom-button-normal-2 from Wenrexa Dark Miko Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ui",
+    "wenrexa-miko"
+  ],
+  "style": [
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Dark Miko Interface",
+  "source_site": "https://opengameart.org/content/dark-miko-interface",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/dark-miko-interface",
+  "original_filename": "Custom Button Normal 2.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "22b5fc72959f62429ed26b4e75d111be85d19f4478951dd4f8d027296eaddbd2",
+  "file_size": 1918,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Custom Button Normal 2.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

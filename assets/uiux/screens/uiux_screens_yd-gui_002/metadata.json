@@ -1,0 +1,37 @@
+{
+  "id": "uiux_screens_yd-gui_002",
+  "name": "yd Quest Screen",
+  "description": "yd Quest Screen from OpenGameArt (yd).",
+  "category": "uiux",
+  "subcategory": "screens",
+  "tags": [
+    "screens",
+    "yd-gui"
+  ],
+  "style": [
+    "fantasy"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "yd Quest Screen",
+  "source_site": "https://opengameart.org/content/gui-elements",
+  "source_repository": null,
+  "author": "yd",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/gui-elements",
+  "original_filename": "yd_Quest.svg",
+  "attribution_required": false,
+  "attribution": "yd",
+  "has_scripts": false,
+  "sha256": "a2ad184989064f146f1123166414133b213d0c9fe98c563f4f33269a66cd5af8",
+  "file_size": 292180,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "yd_Quest.svg"
+  ],
+  "component_type": "screens",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

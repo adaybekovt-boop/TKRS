@@ -1,0 +1,42 @@
+{
+  "id": "uiux_progress_bars_kenney-uipack-scifi_024",
+  "name": "Bar Shadow Square Small Square",
+  "description": "bar-shadow-square-small-square from Kenney UI Pack Sci-Fi. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "kenney",
+    "kenney-uipack-scifi",
+    "progress-bars",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Sci-Fi",
+  "source_site": "https://kenney.nl/assets/ui-pack-sci-fi",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-sci-fi",
+  "original_filename": "bar_shadow_square_small_square.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "da3fa3be930e2adcc29499a9a8c10ee919cd798d0bc9802080376d6185ff43e7",
+  "file_size": 436,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "bar_shadow_square_small_square.png",
+    "bar_shadow_square_small_square.svg"
+  ],
+  "component_type": "progress-bars",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

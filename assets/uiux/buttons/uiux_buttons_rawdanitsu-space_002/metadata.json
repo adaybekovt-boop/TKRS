@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_rawdanitsu-space_002",
+  "name": "Buttonright",
+  "description": "buttonright from Rawdanitsu Space GUI. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "rawdanitsu-space",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Rawdanitsu Space GUI",
+  "source_site": "https://opengameart.org/content/space-gui",
+  "source_repository": null,
+  "author": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/space-gui",
+  "original_filename": "buttonRight.png",
+  "attribution_required": false,
+  "attribution": "Rawdanitsu",
+  "has_scripts": false,
+  "sha256": "62e827f14ee52bbb5cecf756156d7e182c74c5b558b071b91dfcf29c7e5cc2a8",
+  "file_size": 11552,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "buttonRight.png",
+    "black_buttonRight.png",
+    "green_buttonRight.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

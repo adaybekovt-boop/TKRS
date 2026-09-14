@@ -1,0 +1,42 @@
+{
+  "id": "uiux_progress_bars_kenney-uipack-adv_004",
+  "name": "Scrollbar Future Transparent",
+  "description": "scrollbar-future-transparent from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "kenney-uipack-adv",
+    "progress-bars",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "scrollbar_future_transparent.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "cccf3f68faca18fdddfedbd7735d6f2f120615aed4ee1bba38c840781c9838cb",
+  "file_size": 1635,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "scrollbar_future_transparent.svg",
+    "scrollbar_future_transparent.png",
+    "default_scrollbar_future_transparent.png"
+  ],
+  "component_type": "progress-bars",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

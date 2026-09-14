@@ -1,0 +1,9 @@
+License: Apache-2.0
+Author: Roblox
+Source: Roblox StudioWidgets
+URL: https://github.com/Roblox/StudioWidgets
+Attribution required: True
+Attribution: Roblox — Apache-2.0
+
+Apache License 2.0
+http://www.apache.org/licenses/LICENSE-2.0

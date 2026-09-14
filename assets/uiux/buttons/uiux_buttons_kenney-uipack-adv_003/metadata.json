@@ -1,0 +1,42 @@
+{
+  "id": "uiux_buttons_kenney-uipack-adv_003",
+  "name": "Button Grey",
+  "description": "button-grey from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "button_grey.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "2f4bb6b6ebb0d2a53bffa773f1ec6453f906ed480a9afee5886bd3c9e580d8f7",
+  "file_size": 1347,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_grey.svg",
+    "button_grey.png",
+    "default_button_grey.png"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

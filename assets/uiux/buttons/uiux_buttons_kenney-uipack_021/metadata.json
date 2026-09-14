@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_021",
+  "name": "Button Square Depth Flat",
+  "description": "button-square-depth-flat from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_square_depth_flat.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "7f113aa488dee62009fe7b7043b51672c9845d5d0dd0c856d8aa179c91a9c688",
+  "file_size": 2228,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_square_depth_flat.png",
+    "button_square_depth_flat.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

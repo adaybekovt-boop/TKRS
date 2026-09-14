@@ -1,0 +1,42 @@
+{
+  "id": "uiux_hud_progression_kenney-uipack-adv_002",
+  "name": "Progress Blue Border",
+  "description": "progress-blue-border from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-progression",
+  "tags": [
+    "hud-progression",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "progress_blue_border.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "703215a039e0c415576ba02b9e9b6572ecffd8d3fa95e06e297279c89afdddbd",
+  "file_size": 2132,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "progress_blue_border.svg",
+    "progress_blue_border.png",
+    "default_progress_blue_border.png"
+  ],
+  "component_type": "hud-progression",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

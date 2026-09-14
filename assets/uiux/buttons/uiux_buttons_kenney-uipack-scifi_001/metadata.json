@@ -1,0 +1,42 @@
+{
+  "id": "uiux_buttons_kenney-uipack-scifi_001",
+  "name": "Button Square Depth",
+  "description": "button-square-depth from Kenney UI Pack Sci-Fi. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack-scifi",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Sci-Fi",
+  "source_site": "https://kenney.nl/assets/ui-pack-sci-fi",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-sci-fi",
+  "original_filename": "button_square_depth.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "9668e8beba0d5e8a5cb714997de96b57a91824cf78ec875e469afbe9cb39fb39",
+  "file_size": 2973,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_square_depth.png",
+    "button_square_depth.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

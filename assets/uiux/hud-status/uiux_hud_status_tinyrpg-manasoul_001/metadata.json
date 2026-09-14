@@ -1,0 +1,40 @@
+{
+  "id": "uiux_hud_status_tinyrpg-manasoul_001",
+  "name": "Manasoul9Slicesc Sheet",
+  "description": "manaSoul9SlicesC-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "hud-status",
+  "tags": [
+    "hud-status",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250420manaSoul9SlicesC-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "d89c7763428d50e59ad21a4802364e021aaf5c698a8619bca21e2de183de229e",
+  "file_size": 1944,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250420manaSoul9SlicesC-Sheet.png"
+  ],
+  "component_type": "hud-status",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

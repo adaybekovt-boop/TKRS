@@ -1,0 +1,40 @@
+{
+  "id": "uiux_cursors_tinyrpg-manasoul_004",
+  "name": "Verticalcursorc Sheet",
+  "description": "verticalCursorC-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "cursors",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250421verticalCursorC-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "70be1f6ae6c7a9007ffb5025d24e0dbb940be9e459213c878c2d28f210244e92",
+  "file_size": 1183,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250421verticalCursorC-Sheet.png"
+  ],
+  "component_type": "cursors",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

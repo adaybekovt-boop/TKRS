@@ -1,0 +1,39 @@
+{
+  "id": "uiux_inventory_itsmars-rpg-inv_002",
+  "name": "81X81 Equipslotborder",
+  "description": "81x81-equipslotborder from itsmars RPG Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inventory",
+  "tags": [
+    "inventory",
+    "itsmars-rpg-inv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "itsmars RPG Inventory",
+  "source_site": "https://opengameart.org/content/rpg-inventory",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/rpg-inventory",
+  "original_filename": "81x81 EquipSlotBorder.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "f8a6672326d6d4e8cfdfe69548473e5b678df71cbb90888cd23f655fb598d070",
+  "file_size": 36777,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "81x81 EquipSlotBorder.png"
+  ],
+  "component_type": "inventory",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

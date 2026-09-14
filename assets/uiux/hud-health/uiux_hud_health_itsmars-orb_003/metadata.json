@@ -1,0 +1,39 @@
+{
+  "id": "uiux_hud_health_itsmars-orb_003",
+  "name": "Itsmars Orb Border",
+  "description": "itsmars-orb-border from itsmars Health Orb. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-health",
+  "tags": [
+    "hud-health",
+    "itsmars-orb",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "itsmars Health Orb",
+  "source_site": "https://opengameart.org/content/health-orb",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/health-orb",
+  "original_filename": "itsmars_orb_border.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "a8105bc3217c1a75dfc31d2f9e878a22227dcd65a45ac728f44fde07ab245e85",
+  "file_size": 240386,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "itsmars_orb_border.png"
+  ],
+  "component_type": "hud-health",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

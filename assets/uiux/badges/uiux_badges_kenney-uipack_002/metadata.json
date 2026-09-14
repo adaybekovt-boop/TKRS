@@ -1,0 +1,41 @@
+{
+  "id": "uiux_badges_kenney-uipack_002",
+  "name": "Star Outline",
+  "description": "star-outline from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "badges",
+  "tags": [
+    "badges",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "star_outline.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "9267eda99fd68a28d036beca7a606e334edb2957f74c6531da28bc79e92bc4a1",
+  "file_size": 3672,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "star_outline.png",
+    "star_outline.svg"
+  ],
+  "component_type": "badges",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

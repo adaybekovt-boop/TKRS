@@ -1,0 +1,42 @@
+{
+  "id": "uiux_panels_kenney-uipack-adv_003",
+  "name": "Banner Modern",
+  "description": "banner-modern from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney-uipack-adv",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "banner_modern.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "a46e9fbb9967b162dc130ad3590f52e805dd9a17bf230ce28d1f62ce75facd33",
+  "file_size": 3762,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "banner_modern.svg",
+    "banner_modern.png",
+    "default_banner_modern.png"
+  ],
+  "component_type": "panels",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

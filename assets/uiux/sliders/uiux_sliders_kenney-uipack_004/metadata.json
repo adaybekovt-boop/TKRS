@@ -1,0 +1,41 @@
+{
+  "id": "uiux_sliders_kenney-uipack_004",
+  "name": "Slide Vertical Grey",
+  "description": "slide-vertical-grey from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "sliders",
+  "tags": [
+    "kenney",
+    "kenney-uipack",
+    "sliders",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "slide_vertical_grey.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "43395d2de831de9f8d25f2351a3d06cb6ca340781bc9051edaa2406c1dede70d",
+  "file_size": 1460,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "slide_vertical_grey.png",
+    "slide_vertical_grey.svg"
+  ],
+  "component_type": "sliders",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

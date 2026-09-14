@@ -1,0 +1,41 @@
+{
+  "id": "uiux_icons_ui_kenney-uipack_005",
+  "name": "Icon Square",
+  "description": "icon-square from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "icons-ui",
+  "tags": [
+    "icons-ui",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "icon_square.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "43d8616b7a23e56753929bf723106053994b3cf5720d47abd04dbdc67b9d595b",
+  "file_size": 494,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "icon_square.png",
+    "icon_square.svg"
+  ],
+  "component_type": "icons-ui",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

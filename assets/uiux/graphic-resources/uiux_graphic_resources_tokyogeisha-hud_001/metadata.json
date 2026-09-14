@@ -1,0 +1,39 @@
+{
+  "id": "uiux_graphic_resources_tokyogeisha-hud_001",
+  "name": "Sprite Sheet",
+  "description": "sprite-sheet from TokyoGeisha Pixel UI/HUD Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "graphic-resources",
+    "tokyogeisha-hud",
+    "ui"
+  ],
+  "style": [
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TokyoGeisha Pixel UI/HUD Pack",
+  "source_site": "https://opengameart.org/content/pixel-uihud-pack",
+  "source_repository": null,
+  "author": "TokyoGeisha",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-uihud-pack",
+  "original_filename": "Sprite Sheet.png",
+  "attribution_required": false,
+  "attribution": "TokyoGeisha",
+  "has_scripts": false,
+  "sha256": "dfe5428e712ab4cb6a5639f81ff49085f2f74e0618f3c6160767b7bf36fdc53c",
+  "file_size": 42531,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Sprite Sheet.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

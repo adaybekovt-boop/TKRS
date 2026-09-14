@@ -1,0 +1,40 @@
+{
+  "id": "uiux_progress_bars_cethiel-ui_002",
+  "name": "Bar 1",
+  "description": "bar-1 from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "cethiel-ui",
+    "progress-bars",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Bar_1.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "353a3f593d643b8e6f000e4ea4671f909e8d54231e0eb2e0f5e60538aa6f35af",
+  "file_size": 31521,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Bar_1.png",
+    "vertical_Bar_1.png"
+  ],
+  "component_type": "progress-bars",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "uiux_hud_mobile_kenney-mobile_015",
+  "name": "Dpad Separate High",
+  "description": "dpad-separate-high from Kenney Mobile Controls. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-mobile",
+  "tags": [
+    "graphic-resources",
+    "kenney-mobile",
+    "ui"
+  ],
+  "style": [
+    "clean-mobile",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Mobile Controls",
+  "source_site": "https://kenney.nl/assets/mobile-controls",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/mobile-controls",
+  "original_filename": "dpad_separate_highlight.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "78b0f35e90aa55774f050a13f1b39e2ec94bb87c0bec3f8dd9c48b1c016f3af7",
+  "file_size": 9384,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "dpad_separate_highlight.svg",
+    "highlights-b_dpad_separate_highlight.svg",
+    "dpad_separate_highlight.png"
+  ],
+  "component_type": "hud-mobile",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

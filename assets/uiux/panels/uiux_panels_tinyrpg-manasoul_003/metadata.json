@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_tinyrpg-manasoul_003",
+  "name": "Weaponframe Sheet",
+  "description": "weaponFrame-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250423weaponFrame-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "9e018a02b091007f8e735c1c1c689e18f238cc083dc3be550f58d5027330b9fe",
+  "file_size": 2474,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250423weaponFrame-Sheet.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

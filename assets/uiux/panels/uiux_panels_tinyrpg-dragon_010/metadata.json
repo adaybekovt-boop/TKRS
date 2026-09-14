@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_tinyrpg-dragon_010",
+  "name": "Dragon9Slicesb",
+  "description": "dragon9SlicesB from Tiny RPG Dragon Regalia GUI.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "tinyrpg-dragon",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Dragon Regalia GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-dragon-regalia-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-dragon-regalia-gui",
+  "original_filename": "20240707dragon9SlicesB.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "5c12bea94d96d04bfaa38324e26c3627a140db9fe01717e399fec4fa318401b9",
+  "file_size": 1936,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20240707dragon9SlicesB.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "uiux_cards_kenney-cards_001",
+  "name": "Kenney Playing Cards Pack",
+  "description": "Kenney Playing Cards Pack — one logical pack.",
+  "category": "uiux",
+  "subcategory": "cards",
+  "tags": [
+    "cards",
+    "kenney-cards",
+    "pack"
+  ],
+  "style": [
+    "arcade"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Playing Cards Pack",
+  "source_site": "https://kenney.nl/assets/playing-cards-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/playing-cards-pack",
+  "original_filename": "cardsSmall_tilemap.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "3ae455119e877f4e51ce462c6764b3f6a6f3778a4706ec61c9bd088d3f80def0",
+  "file_size": 19580,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "cardsSmall_tilemap.png",
+    "cardsLarge_tilemap_packed.png",
+    "cardsMedium_tilemap_packed.png",
+    "cardsMedium_tilemap.png",
+    "cardsLarge_tilemap.png",
+    "cardsSmall_tilemap_packed.png",
+    "card_diamonds_04.png",
+    "card_diamonds_suit.png",
+    "card_diamonds_05.png",
+    "dice_empty.png",
+    "color_green_8.png",
+    "card_clubs_06.png",
+    "card_hearts_07.png",
+    "dice_decorated_question.png",
+    "color_red_2.png",
+    "card_spades_K.png",
+    "card_back.png",
+    "dice_decorated_1.png",
+    "dice_decorated_3.png",
+    "color_yellow_7.png",
+    "card_spades_09.png",
+    "color_purple_0.png",
+    "card_diamonds_03.png",
+    "card_diamonds_07.png"
+  ],
+  "component_type": "pack",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "uiux_progress_bars_kenney-uipack-scifi_044",
+  "name": "Bar Round Large L",
+  "description": "bar-round-large-l from Kenney UI Pack Sci-Fi. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "kenney",
+    "kenney-uipack-scifi",
+    "progress-bars",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Sci-Fi",
+  "source_site": "https://kenney.nl/assets/ui-pack-sci-fi",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-sci-fi",
+  "original_filename": "bar_round_large_l.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "d166eadeaacbff05b85661f0502ea6b5b17f891e91867f97218512359bfa35f5",
+  "file_size": 1033,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "bar_round_large_l.png",
+    "bar_round_large_l.svg"
+  ],
+  "component_type": "progress-bars",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

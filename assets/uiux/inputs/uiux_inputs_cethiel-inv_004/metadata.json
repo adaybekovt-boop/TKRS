@@ -1,0 +1,40 @@
+{
+  "id": "uiux_inputs_cethiel-inv_004",
+  "name": "Fieldsquare",
+  "description": "fieldsquare from Cethiel Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inputs",
+  "tags": [
+    "cethiel-inv",
+    "inputs",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Inventory",
+  "source_site": "https://opengameart.org/content/inventory",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/inventory",
+  "original_filename": "fieldsquare.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "97d58a34ea0d1ed0f3597dbe3e0ea3e7ac8ac386a3c5469a9702fef18db4b7da",
+  "file_size": 135184,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "fieldsquare.png",
+    "withshadow_fieldsquare.png"
+  ],
+  "component_type": "inputs",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

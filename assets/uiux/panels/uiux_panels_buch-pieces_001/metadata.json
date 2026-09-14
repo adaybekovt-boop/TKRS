@@ -1,0 +1,37 @@
+{
+  "id": "uiux_panels_buch-pieces_001",
+  "name": "Buch UI Pieces",
+  "description": "Buch UI Pieces from OpenGameArt (Buch).",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "buch-pieces",
+    "panels"
+  ],
+  "style": [
+    "fantasy"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Buch UI Pieces",
+  "source_site": "https://opengameart.org/content/ui-pieces",
+  "source_repository": null,
+  "author": "Buch",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pieces",
+  "original_filename": "ui_pieces.png",
+  "attribution_required": false,
+  "attribution": "Buch",
+  "has_scripts": false,
+  "sha256": "2649ac72359360dcbd88b51b6eb774bb99bf2c383d6c446ab4b4836e5144456c",
+  "file_size": 4089,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "ui_pieces.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

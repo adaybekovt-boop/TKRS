@@ -1,0 +1,60 @@
+{
+  "id": "uiux_graphic_resources_wenrexa-holo_001",
+  "name": "Wenrexa Hologram Interface — tile/element family",
+  "description": "Numbered tiles from Wenrexa Hologram Interface grouped as one logical pack (anti-padding).",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "pack",
+    "wenrexa-holo"
+  ],
+  "style": [
+    "sci-fi"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Hologram Interface",
+  "source_site": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-hologram-interface-made-with-vectect",
+  "original_filename": "29.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "5666da0259ab97ed5783b9ffd7eafa6cbc6af74374bd92316b17438c33395f9f",
+  "file_size": 11441,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "29.png",
+    "08.png",
+    "01.png",
+    "09.png",
+    "24.png",
+    "34.png",
+    "28.png",
+    "14.png",
+    "33.png",
+    "10.png",
+    "31.png",
+    "30.png",
+    "20.png",
+    "04.png",
+    "35.png",
+    "02.png",
+    "22.png",
+    "05.png",
+    "07.png",
+    "15.png",
+    "19.png",
+    "21.png",
+    "32.png",
+    "27.png"
+  ],
+  "component_type": "pack",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

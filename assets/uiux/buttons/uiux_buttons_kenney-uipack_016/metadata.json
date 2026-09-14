@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_016",
+  "name": "Button Round Flat",
+  "description": "button-round-flat from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_round_flat.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "4a6152ea102d48a0a7fc6809196c174dd2eda7b0e705d1451d61695d049bb956",
+  "file_size": 2032,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_round_flat.png",
+    "button_round_flat.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "uiux_buttons_wenrexa-miko_001",
+  "name": "Custom Button Active 1",
+  "description": "custom-button-active-1 from Wenrexa Dark Miko Interface. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ui",
+    "wenrexa-miko"
+  ],
+  "style": [
+    "horror",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Wenrexa Dark Miko Interface",
+  "source_site": "https://opengameart.org/content/dark-miko-interface",
+  "source_repository": null,
+  "author": "Wenrexa",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/dark-miko-interface",
+  "original_filename": "Custom Button Active 1.png",
+  "attribution_required": false,
+  "attribution": "Wenrexa",
+  "has_scripts": false,
+  "sha256": "89e668516b32badaca627b0c6d8a43205be0da99788999236507f6a96d02a421",
+  "file_size": 3818,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Custom Button Active 1.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

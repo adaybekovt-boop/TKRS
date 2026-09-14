@@ -1,0 +1,42 @@
+{
+  "id": "uiux_hud_mobile_kenney-mobile_016",
+  "name": "Dpad Small High",
+  "description": "dpad-small-high from Kenney Mobile Controls. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-mobile",
+  "tags": [
+    "graphic-resources",
+    "kenney-mobile",
+    "ui"
+  ],
+  "style": [
+    "clean-mobile",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Mobile Controls",
+  "source_site": "https://kenney.nl/assets/mobile-controls",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/mobile-controls",
+  "original_filename": "dpad_small_highlight.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "6a31fc09825adf82f9ec9c73c26da5987e6de825a5fad2d734e5ae58d6e2af78",
+  "file_size": 3494,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "dpad_small_highlight.svg",
+    "highlights-b_dpad_small_highlight.svg",
+    "dpad_small_highlight.png"
+  ],
+  "component_type": "hud-mobile",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

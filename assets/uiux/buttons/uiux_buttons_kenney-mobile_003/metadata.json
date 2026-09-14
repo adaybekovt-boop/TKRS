@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-mobile_003",
+  "name": "Button Circle",
+  "description": "button-circle from Kenney Mobile Controls. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney-mobile",
+    "ui"
+  ],
+  "style": [
+    "clean-mobile",
+    "modern"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Kenney Mobile Controls",
+  "source_site": "https://kenney.nl/assets/mobile-controls",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/mobile-controls",
+  "original_filename": "button_circle.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "f96fd049def5fe31687174b48e647db43ae5635da76c955b46d3a36f3f4e08e2",
+  "file_size": 3403,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_circle.svg",
+    "style-e_button_circle.svg",
+    "style-b_button_circle.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

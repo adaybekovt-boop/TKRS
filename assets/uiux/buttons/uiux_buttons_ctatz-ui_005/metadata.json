@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_005",
+  "name": "Btn Blue Rect Out",
+  "description": "btn-blue-rect-out from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_BLUE_RECT_OUT.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "271f3a64d62cca9cf7ebc8552779451ea2c73b296be40e51c56970eb0fc11ca4",
+  "file_size": 12116,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_BLUE_RECT_OUT.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

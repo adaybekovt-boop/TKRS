@@ -1,0 +1,42 @@
+{
+  "id": "uiux_hud_minimap_kenney-uipack-adv_004",
+  "name": "Minimap Arrow D",
+  "description": "minimap-arrow-d from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-minimap",
+  "tags": [
+    "hud-minimap",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "minimap_arrow_d.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "839c8a0638bd546450ffe043e6e0e870f91fcb80b2f5ebaad739d7d57339f41d",
+  "file_size": 1092,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "minimap_arrow_d.svg",
+    "minimap_arrow_d.png",
+    "default_minimap_arrow_d.png"
+  ],
+  "component_type": "hud-minimap",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

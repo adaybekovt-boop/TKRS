@@ -1,0 +1,42 @@
+{
+  "id": "uiux_panels_kenney-uipack-adv_016",
+  "name": "Panel Brown Corners B",
+  "description": "panel-brown-corners-b from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "kenney-uipack-adv",
+    "panels",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "panel_brown_dark_corners_b.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "5a1e2c2cbf8eb4b6898eb7449d148c72bf66ba3d5ac2fbd66645c230b50166b9",
+  "file_size": 9047,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "panel_brown_dark_corners_b.svg",
+    "panel_brown_corners_b.svg",
+    "panel_brown_dark_corners_b.png"
+  ],
+  "component_type": "panels",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

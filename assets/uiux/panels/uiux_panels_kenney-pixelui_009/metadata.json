@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_kenney-pixelui_009",
+  "name": "Red Pressed",
+  "description": "red-pressed from Kenney Pixel UI Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "graphic-resources",
+    "kenney-pixelui",
+    "ui"
+  ],
+  "style": [
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Pixel UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-ui-pack-750-assets",
+  "original_filename": "red_pressed.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "ee96b22876dd4a29054548077e76ce9b539cf43bc79ccb25deeef5c5f71de92a",
+  "file_size": 421,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "red_pressed.png",
+    "colored_red_pressed.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

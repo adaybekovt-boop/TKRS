@@ -1,0 +1,38 @@
+{
+  "id": "uiux_graphic_resources_ctatz-ui_001",
+  "name": "Ap4 Example1 01",
+  "description": "ap4-example1-01 from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "graphic-resources",
+  "tags": [
+    "ctatz-ui",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "AP4_Example1-01.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "d561ba724b63fa3529baed29202146446d5b4da1f119e4cb6940fd01c90a987e",
+  "file_size": 178310,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "AP4_Example1-01.png"
+  ],
+  "component_type": "graphic-resources",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

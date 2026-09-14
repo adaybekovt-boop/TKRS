@@ -1,0 +1,41 @@
+{
+  "id": "uiux_panels_rawdanitsu-space_004",
+  "name": "Border Up",
+  "description": "border-up from Rawdanitsu Space GUI. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "rawdanitsu-space",
+    "ui"
+  ],
+  "style": [
+    "sci-fi",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Rawdanitsu Space GUI",
+  "source_site": "https://opengameart.org/content/space-gui",
+  "source_repository": null,
+  "author": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/space-gui",
+  "original_filename": "border-up.png",
+  "attribution_required": false,
+  "attribution": "Rawdanitsu",
+  "has_scripts": false,
+  "sha256": "1893d369036a48564a2fa83daab5a94f56233d7306a27a4788eacd6355b6c209",
+  "file_size": 8616,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "border-up.png",
+    "black_border-up.png",
+    "green_border-up.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

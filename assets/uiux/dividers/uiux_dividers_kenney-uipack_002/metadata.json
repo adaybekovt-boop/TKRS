@@ -1,0 +1,41 @@
+{
+  "id": "uiux_dividers_kenney-uipack_002",
+  "name": "Divider Edges",
+  "description": "divider-edges from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "dividers",
+  "tags": [
+    "dividers",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "divider_edges.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "6f3b2337ac3e320503bb97f1670ac54a780c8a91997332902ce557cc7cc269a1",
+  "file_size": 394,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "divider_edges.png",
+    "divider_edges.svg"
+  ],
+  "component_type": "dividers",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

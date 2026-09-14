@@ -1,0 +1,62 @@
+{
+  "id": "uiux_badges_kenney-medals_001",
+  "name": "Kenney Medals",
+  "description": "Kenney Medals — one logical pack.",
+  "category": "uiux",
+  "subcategory": "badges",
+  "tags": [
+    "badges",
+    "kenney-medals",
+    "pack"
+  ],
+  "style": [
+    "arcade"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Medals",
+  "source_site": "https://kenney.nl/assets/medals",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/medals",
+  "original_filename": "medals_vector.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "10908cd4b2a6320efdeef431accb1613d3051e742361d3ca3f0c750a974d42ee",
+  "file_size": 89466,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "medals_vector.svg",
+    "shaded_medal9.png",
+    "shaded_medal1.png",
+    "shaded_medal3.png",
+    "flat_medal5.png",
+    "flatshadow_medal3.png",
+    "flatshadow_medal5.png",
+    "flat_medal7.png",
+    "shaded_medal6.png",
+    "shaded_medal4.png",
+    "flat_medal6.png",
+    "flat_medal4.png",
+    "flat_medal9.png",
+    "flatshadow_medal7.png",
+    "flatshadow_medal4.png",
+    "flatshadow_medal6.png",
+    "flat_medal8.png",
+    "flat_medal1.png",
+    "flat_medal3.png",
+    "shaded_medal7.png",
+    "flat_medal2.png",
+    "flatshadow_medal8.png",
+    "flatshadow_medal1.png",
+    "shaded_medal2.png"
+  ],
+  "component_type": "pack",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

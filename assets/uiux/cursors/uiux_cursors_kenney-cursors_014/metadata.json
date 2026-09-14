@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_014",
+  "name": "Cursor Copy",
+  "description": "cursor-copy from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "cursors",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "cursor_copy.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "686ba1f3c6bb4cfa1a53cbdc5e59064bc273ba83e519b3f36c466629f10ef6c3",
+  "file_size": 2603,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "cursor_copy.svg",
+    "outline_cursor_copy.svg",
+    "cursor_copy.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

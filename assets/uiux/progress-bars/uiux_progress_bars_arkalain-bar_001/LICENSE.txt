@@ -1,0 +1,9 @@
+License: CC0-1.0
+Author: arkalain
+Source: Arkalain Progress Bar
+URL: https://opengameart.org/content/progress-health-mana-bar
+Attribution required: False
+Attribution: arkalain
+
+CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

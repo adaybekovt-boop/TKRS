@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_007",
+  "name": "Btn Checkbox In",
+  "description": "btn-checkbox-in from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_CHECKBOX_IN.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "98d6235e50d6c9f1b0578ba5954953a620042294ee0dfb328512379ff869fcd2",
+  "file_size": 2970,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_CHECKBOX_IN.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,8 @@
+License: ISC
+Author: Lucide Contributors
+Source: Lucide Icons
+URL: https://github.com/lucide-icons/lucide
+Attribution required: False
+Attribution: Lucide Contributors — ISC
+
+ISC License

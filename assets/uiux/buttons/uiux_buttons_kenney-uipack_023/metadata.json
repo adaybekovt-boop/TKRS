@@ -1,0 +1,41 @@
+{
+  "id": "uiux_buttons_kenney-uipack_023",
+  "name": "Button Rectangle Gloss",
+  "description": "button-rectangle-gloss from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "button_rectangle_gloss.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "7f3d3ae693d79471a03691d679a9fc18e151ae9a922ca73e69fb75c902190cd3",
+  "file_size": 1044,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "button_rectangle_gloss.png",
+    "button_rectangle_gloss.svg"
+  ],
+  "component_type": "buttons",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "uiux_progress_bars_ui0a_003",
+  "name": "Glass2",
+  "description": "glass2 from Mumu / UI0A HUD bars. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "graphic-resources",
+    "ui",
+    "ui0a"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Mumu / UI0A HUD bars",
+  "source_site": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "source_repository": null,
+  "author": "Mumu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "original_filename": "Glass2.png",
+  "attribution_required": false,
+  "attribution": "Mumu",
+  "has_scripts": false,
+  "sha256": "f9f801b7bf08ac4e3e49b3f47c5a9f2a89e1e236496ac9a1aecacecc91cf2815",
+  "file_size": 7089,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Glass2.png"
+  ],
+  "component_type": "progress-bars",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

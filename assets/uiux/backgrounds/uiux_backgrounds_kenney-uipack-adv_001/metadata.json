@@ -1,0 +1,42 @@
+{
+  "id": "uiux_backgrounds_kenney-uipack-adv_001",
+  "name": "Pattern Grid Blueprint",
+  "description": "pattern-grid-blueprint from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "backgrounds",
+  "tags": [
+    "backgrounds",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "pattern_grid_blueprint.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "f20bbaa220e15fedb162fd5ebe011e11f36f23846b4ca45cf0d8b743d3798016",
+  "file_size": 678,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "pattern_grid_blueprint.svg",
+    "pattern_grid_blueprint.png",
+    "default_pattern_grid_blueprint.png"
+  ],
+  "component_type": "backgrounds",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_022",
+  "name": "Door Disabled",
+  "description": "door-disabled from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "door_disabled.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "ba3c2f05647cd4d662c775ac8c9b17ed6018c8e1375a86764ea8f09b78c13c40",
+  "file_size": 4508,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "door_disabled.svg",
+    "outline_door_disabled.svg",
+    "door_disabled.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

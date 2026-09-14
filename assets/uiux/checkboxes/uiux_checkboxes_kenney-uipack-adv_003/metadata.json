@@ -1,0 +1,42 @@
+{
+  "id": "uiux_checkboxes_kenney-uipack-adv_003",
+  "name": "Checkbox Beige Empty",
+  "description": "checkbox-beige-empty from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "checkboxes",
+  "tags": [
+    "checkboxes",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "checkbox_beige_empty.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "587e20dc32e61d68b4d499efaecb8c65bfa751d12632c6fb6730946ecd189b0c",
+  "file_size": 2333,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "checkbox_beige_empty.svg",
+    "checkbox_beige_empty.png",
+    "default_checkbox_beige_empty.png"
+  ],
+  "component_type": "checkboxes",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

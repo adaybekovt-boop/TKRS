@@ -1,0 +1,39 @@
+{
+  "id": "uiux_panels_kenney-pixelui_011",
+  "name": "Space Inlay",
+  "description": "space-inlay from Kenney Pixel UI Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "graphic-resources",
+    "kenney-pixelui",
+    "ui"
+  ],
+  "style": [
+    "pixel",
+    "sci-fi"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Pixel UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-ui-pack-750-assets",
+  "original_filename": "space_inlay.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "cc48668d130953d55c53fcb8e0613a81c06bf8119f23b568989c2881b7840ed6",
+  "file_size": 1019,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "space_inlay.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

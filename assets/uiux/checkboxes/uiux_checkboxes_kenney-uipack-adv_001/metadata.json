@@ -1,0 +1,42 @@
+{
+  "id": "uiux_checkboxes_kenney-uipack-adv_001",
+  "name": "Checkbox Beige Checked",
+  "description": "checkbox-beige-checked from Kenney UI Pack Adventure. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "checkboxes",
+  "tags": [
+    "checkboxes",
+    "kenney-uipack-adv",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack Adventure",
+  "source_site": "https://kenney.nl/assets/ui-pack-adventure",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack-adventure",
+  "original_filename": "checkbox_beige_checked.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "d97c0ba5e1267e9f11dc0abd5c322aad08d943badbbcfa1cd7e2fd9f370b3c6d",
+  "file_size": 2774,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "checkbox_beige_checked.svg",
+    "checkbox_beige_checked.png",
+    "default_checkbox_beige_checked.png"
+  ],
+  "component_type": "checkboxes",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

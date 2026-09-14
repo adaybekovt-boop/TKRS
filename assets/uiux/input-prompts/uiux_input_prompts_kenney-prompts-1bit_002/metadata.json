@@ -1,0 +1,42 @@
+{
+  "id": "uiux_input_prompts_kenney-prompts-1bit_002",
+  "name": "Kenney 1-Bit Input Prompts — Tilemap",
+  "description": "Input prompt family for Tilemap.",
+  "category": "uiux",
+  "subcategory": "input-prompts",
+  "tags": [
+    "input-prompts",
+    "kenney",
+    "tilemap"
+  ],
+  "style": [
+    "controller-friendly"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney 1-Bit Input Prompts",
+  "source_site": "https://kenney.nl/assets/1-bit-input-prompts-pixel-16",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/1-bit-input-prompts-pixel-16",
+  "original_filename": "tilemap_white.png",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "8c2312a106ecb90872fe5e3da29d439d1a9d44d564c6b70a5eb864d50d2b5a52",
+  "file_size": 36266,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "tilemap_white.png",
+    "tilemap_black_packed.png",
+    "tilemap_white_packed.png",
+    "tilemap_black.png"
+  ],
+  "component_type": "input-prompt-family",
+  "vector": false,
+  "code_dependency": false,
+  "device": "Tilemap",
+  "dimensions": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "uiux_panels_rawdanitsu-gui_001",
+  "name": "Rawdanitsu GUI Set",
+  "description": "Rawdanitsu GUI Set from OpenGameArt (Rawdanitsu).",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "rawdanitsu-gui"
+  ],
+  "style": [
+    "sci-fi"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Rawdanitsu GUI Set",
+  "source_site": "https://opengameart.org/content/new-blue-gui",
+  "source_repository": null,
+  "author": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/new-blue-gui",
+  "original_filename": "rawdanitsu_Gui-Set.png",
+  "attribution_required": false,
+  "attribution": "Rawdanitsu",
+  "has_scripts": false,
+  "sha256": "3deb08ac5c19eaba6aef1d3d107a146082df27815dfdd0d3ec625562955dfee9",
+  "file_size": 165355,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "rawdanitsu_Gui-Set.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

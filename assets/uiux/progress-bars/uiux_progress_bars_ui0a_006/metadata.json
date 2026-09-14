@@ -1,0 +1,39 @@
+{
+  "id": "uiux_progress_bars_ui0a_006",
+  "name": "Vialprev",
+  "description": "vialprev from Mumu / UI0A HUD bars. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "progress-bars",
+  "tags": [
+    "graphic-resources",
+    "ui",
+    "ui0a"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Mumu / UI0A HUD bars",
+  "source_site": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "source_repository": null,
+  "author": "Mumu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/health-or-mana-ui-bars",
+  "original_filename": "VialPrev.png",
+  "attribution_required": false,
+  "attribution": "Mumu",
+  "has_scripts": false,
+  "sha256": "9305809b6743f1843f13d8dac21c88586f8173816cc73917caccf53daac72c8f",
+  "file_size": 19631,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "VialPrev.png"
+  ],
+  "component_type": "progress-bars",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

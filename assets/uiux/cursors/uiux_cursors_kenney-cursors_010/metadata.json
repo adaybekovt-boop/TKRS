@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_010",
+  "name": "Busy Hourglass Outline Detail",
+  "description": "busy-hourglass-outline-detail from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "busy_hourglass_outline_detail.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "69d16a40a569e6f1f45e0b2da51fb901b59463dd6ad500dd458877dcfca0834a",
+  "file_size": 4006,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "busy_hourglass_outline_detail.svg",
+    "outline_busy_hourglass_outline_detail.svg",
+    "busy_hourglass_outline_detail.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_019",
+  "name": "Cursor None",
+  "description": "cursor-none from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "cursors",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "cursor_none.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "b673fa5ae39c276eade382f2a2c8375a0156c8979476a249a5bdd5cca773e54c",
+  "file_size": 2108,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "cursor_none.svg",
+    "outline_cursor_none.svg",
+    "cursor_none.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

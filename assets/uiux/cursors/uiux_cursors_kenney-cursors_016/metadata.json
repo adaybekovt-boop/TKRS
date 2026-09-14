@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_016",
+  "name": "Cursor Exclamation",
+  "description": "cursor-exclamation from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "cursors",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "cursor_exclamation.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "c5c3c5c97352bef00e22a5259e2f6a365339534cde977f58a55e5881eea4289f",
+  "file_size": 2725,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "cursor_exclamation.svg",
+    "outline_cursor_exclamation.svg",
+    "cursor_exclamation.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

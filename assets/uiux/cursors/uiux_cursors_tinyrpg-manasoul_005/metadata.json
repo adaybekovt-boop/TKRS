@@ -1,0 +1,40 @@
+{
+  "id": "uiux_cursors_tinyrpg-manasoul_005",
+  "name": "Cursortarget Sheet",
+  "description": "cursorTarget-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "cursors",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250421cursorTarget-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "1f9540cb7d4013bd373896b85b97ec48521e03d838f53c8094ecbf6be3f576cd",
+  "file_size": 2882,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250421cursorTarget-Sheet.png"
+  ],
+  "component_type": "cursors",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

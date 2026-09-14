@@ -1,0 +1,40 @@
+{
+  "id": "uiux_hud_health_tinyrpg-manasoul_001",
+  "name": "Horizontalcursorb Sheet",
+  "description": "horizontalCursorB-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "hud-health",
+  "tags": [
+    "hud-health",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250421horizontalCursorB-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "aef4ea299dcdd5716850b02fb777fc0ec4474e83e08976894ab66dfbe6075b03",
+  "file_size": 864,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250421horizontalCursorB-Sheet.png"
+  ],
+  "component_type": "hud-health",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

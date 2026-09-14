@@ -1,0 +1,41 @@
+{
+  "id": "uiux_inputs_kenney-uipack_002",
+  "name": "Input Outline Square",
+  "description": "input-outline-square from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inputs",
+  "tags": [
+    "inputs",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "input_outline_square.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "643537f1bedf5963c8277670e5eac0f144e45d6f190c322336f32b00a6a8aed8",
+  "file_size": 1079,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "input_outline_square.png",
+    "input_outline_square.svg"
+  ],
+  "component_type": "inputs",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

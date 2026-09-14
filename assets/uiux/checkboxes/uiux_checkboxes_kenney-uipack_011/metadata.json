@@ -1,0 +1,41 @@
+{
+  "id": "uiux_checkboxes_kenney-uipack_011",
+  "name": "Check Square Color Cross",
+  "description": "check-square-color-cross from Kenney UI Pack. Unique shape; recolors grouped.",
+  "category": "uiux",
+  "subcategory": "checkboxes",
+  "tags": [
+    "checkboxes",
+    "kenney",
+    "kenney-uipack",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney UI Pack",
+  "source_site": "https://kenney.nl/assets/ui-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-pack",
+  "original_filename": "check_square_color_cross.png",
+  "attribution_required": false,
+  "attribution": "Kenney.nl (optional)",
+  "has_scripts": false,
+  "sha256": "a262bb5dc445c02c31d479af5a9eeca99511e475481568f015f4a9dcd7a3ee82",
+  "file_size": 2511,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "check_square_color_cross.png",
+    "check_square_color_cross.svg"
+  ],
+  "component_type": "checkboxes",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

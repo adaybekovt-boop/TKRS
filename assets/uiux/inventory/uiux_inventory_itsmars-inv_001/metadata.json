@@ -1,0 +1,37 @@
+{
+  "id": "uiux_inventory_itsmars-inv_001",
+  "name": "Blank Inventory Slot",
+  "description": "Blank Inventory Slot from OpenGameArt (itsmars).",
+  "category": "uiux",
+  "subcategory": "inventory",
+  "tags": [
+    "inventory",
+    "itsmars-inv"
+  ],
+  "style": [
+    "fantasy"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Blank Inventory Slot",
+  "source_site": "https://opengameart.org/content/rpg-inventory",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/rpg-inventory",
+  "original_filename": "BlankSlot.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "14a42b55cc325bf7db2aceee6ff3895bfa9cea8b89a0663311f2df66cd9819c7",
+  "file_size": 44900,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BlankSlot.png"
+  ],
+  "component_type": "inventory",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

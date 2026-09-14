@@ -1,0 +1,40 @@
+{
+  "id": "uiux_panels_tinyrpg-manasoul_004",
+  "name": "Ringframe Sheet",
+  "description": "ringFrame-Sheet from Tiny RPG Mana Soul GUI.",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "panels",
+    "tinyrpg-manasoul",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "pixel",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Tiny RPG Mana Soul GUI",
+  "source_site": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "source_repository": null,
+  "author": "tiopalada",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/tiny-rpg-mana-soul-gui",
+  "original_filename": "20250423ringFrame-Sheet.png",
+  "attribution_required": false,
+  "attribution": "tiopalada",
+  "has_scripts": false,
+  "sha256": "8bcbd2b66d38416347d507678520c94a08ad2456fded123e2b11b55dfb5502ee",
+  "file_size": 2555,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "20250423ringFrame-Sheet.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "uiux_buttons_ctatz-ui_010",
+  "name": "Btn Gray Circle Out",
+  "description": "btn-gray-circle-out from CTatz Free UI Asset Pack 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "buttons",
+  "tags": [
+    "buttons",
+    "ctatz-ui",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "CTatz Free UI Asset Pack 1",
+  "source_site": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "source_repository": null,
+  "author": "CTatz",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/free-ui-asset-pack-1",
+  "original_filename": "BTN_GRAY_CIRCLE_OUT.png",
+  "attribution_required": false,
+  "attribution": "CTatz",
+  "has_scripts": false,
+  "sha256": "da8ed24c3767913dd1c4dbd32bd8e1b122de45916e8f1d389b8abdebdefbcfd5",
+  "file_size": 9037,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "BTN_GRAY_CIRCLE_OUT.png"
+  ],
+  "component_type": "buttons",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

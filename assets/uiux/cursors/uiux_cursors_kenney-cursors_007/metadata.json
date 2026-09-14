@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_007",
+  "name": "Busy Circle Fade",
+  "description": "busy-circle-fade from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "busy_circle_fade.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "f6d29045772d8f15b330c86b48006df17008ff447b0a7d72834e7380e7f6136e",
+  "file_size": 3931,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "busy_circle_fade.svg",
+    "outline_busy_circle_fade.svg",
+    "busy_circle_fade.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

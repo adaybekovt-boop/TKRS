@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_039",
+  "name": "Hand Small Open",
+  "description": "hand-small-open from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "hand_small_open.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "6fc3b6624c483f7cc04184b3bf76e3ecd6e36f78224e33d0d6c5802069e8813a",
+  "file_size": 3256,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "hand_small_open.svg",
+    "outline_hand_small_open.svg",
+    "hand_small_open.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

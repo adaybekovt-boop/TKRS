@@ -1,0 +1,39 @@
+{
+  "id": "uiux_hud_health_cethiel-ui_004",
+  "name": "Heart 1 Back",
+  "description": "heart-1-back from Cethiel UI Set 1. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-health",
+  "tags": [
+    "cethiel-ui",
+    "hud-health",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel UI Set 1",
+  "source_site": "https://opengameart.org/content/ui-set-1",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/ui-set-1",
+  "original_filename": "Heart_1_Back.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "813f9ee810c2741a4cbf71cd107e25d3d779727a40f894579288b180ccced86b",
+  "file_size": 17603,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "Heart_1_Back.png"
+  ],
+  "component_type": "hud-health",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

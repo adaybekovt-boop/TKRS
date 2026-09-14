@@ -1,0 +1,37 @@
+{
+  "id": "uiux_panels_buch-golden_001",
+  "name": "Buch Golden UI",
+  "description": "Buch Golden UI from OpenGameArt (Buch).",
+  "category": "uiux",
+  "subcategory": "panels",
+  "tags": [
+    "buch-golden",
+    "panels"
+  ],
+  "style": [
+    "fantasy"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Buch Golden UI",
+  "source_site": "https://opengameart.org/content/golden-ui",
+  "source_repository": null,
+  "author": "Buch",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/golden-ui",
+  "original_filename": "buch_golden_ui_split.png",
+  "attribution_required": false,
+  "attribution": "Buch",
+  "has_scripts": false,
+  "sha256": "1b5422a4d66121f6727be855055fa23f0b21fe620bc52da0a117d480f8c7dd75",
+  "file_size": 21699,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "buch_golden_ui_split.png"
+  ],
+  "component_type": "panels",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

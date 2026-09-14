@@ -1,0 +1,39 @@
+{
+  "id": "uiux_hud_progression_itsmars-xp_001",
+  "name": "Itsmars Exp Back",
+  "description": "itsmars-exp-back from itsmars Experience Bar. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-progression",
+  "tags": [
+    "hud-progression",
+    "itsmars-xp",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "itsmars Experience Bar",
+  "source_site": "https://opengameart.org/content/experience-bar",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/experience-bar",
+  "original_filename": "itsmars_exp_back.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "8452f59457b58bbabcbcbf22c0d92a8d63bd25b2fed12ce8b891dcfee015249a",
+  "file_size": 48671,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "itsmars_exp_back.png"
+  ],
+  "component_type": "hud-progression",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

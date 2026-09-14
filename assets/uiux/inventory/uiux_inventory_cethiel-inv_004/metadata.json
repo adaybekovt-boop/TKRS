@@ -1,0 +1,40 @@
+{
+  "id": "uiux_inventory_cethiel-inv_004",
+  "name": "Invramka",
+  "description": "invramka from Cethiel Inventory. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "inventory",
+  "tags": [
+    "cethiel-inv",
+    "graphic-resources",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cethiel Inventory",
+  "source_site": "https://opengameart.org/content/inventory",
+  "source_repository": null,
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/inventory",
+  "original_filename": "invramka.png",
+  "attribution_required": false,
+  "attribution": "Cethiel",
+  "has_scripts": false,
+  "sha256": "27e2d3bb5b9524c45b79c482e960f4e41b627740b123e77afc52bbf104d28e17",
+  "file_size": 219583,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "invramka.png",
+    "withshadow_invramka.png"
+  ],
+  "component_type": "inventory",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

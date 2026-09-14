@@ -1,0 +1,39 @@
+{
+  "id": "uiux_scrollbars_itsmars-orb_001",
+  "name": "Itsmars Scroll Fill",
+  "description": "itsmars-scroll-fill from itsmars Health Orb. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "scrollbars",
+  "tags": [
+    "itsmars-orb",
+    "scrollbars",
+    "ui"
+  ],
+  "style": [
+    "fantasy",
+    "modern"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "itsmars Health Orb",
+  "source_site": "https://opengameart.org/content/health-orb",
+  "source_repository": null,
+  "author": "itsmars",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/health-orb",
+  "original_filename": "itsmars_scroll_fill.png",
+  "attribution_required": false,
+  "attribution": "itsmars",
+  "has_scripts": false,
+  "sha256": "049be6f078f8ee8661864c250904f0ece32cdadb315174489d11eaba6331429d",
+  "file_size": 277862,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "itsmars_scroll_fill.png"
+  ],
+  "component_type": "scrollbars",
+  "vector": false,
+  "code_dependency": false,
+  "dimensions": null
+}

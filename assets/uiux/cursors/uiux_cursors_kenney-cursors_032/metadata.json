@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_032",
+  "name": "Gauntlet Default",
+  "description": "gauntlet-default from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "gauntlet_default.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "6f12f169bc7cb0088d213ca29ff85bd6f12b2fb7119bc0d908b03751f1a58628",
+  "file_size": 5889,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "gauntlet_default.svg",
+    "outline_gauntlet_default.svg",
+    "gauntlet_default.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

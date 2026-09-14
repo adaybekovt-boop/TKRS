@@ -1,0 +1,41 @@
+{
+  "id": "uiux_cursors_kenney-cursors_023",
+  "name": "Door Enter",
+  "description": "door-enter from Kenney Cursor Pack. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "cursors",
+  "tags": [
+    "graphic-resources",
+    "kenney-cursors",
+    "ui"
+  ],
+  "style": [
+    "modern"
+  ],
+  "formats": [
+    "png",
+    "svg"
+  ],
+  "source": "Kenney Cursor Pack",
+  "source_site": "https://kenney.nl/assets/cursor-pack",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/cursor-pack",
+  "original_filename": "door_enter.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "e1ee358506a777f8efe3bf4d4313da19a13e97a936ff677f21e01d99e2a6e017",
+  "file_size": 2365,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "door_enter.svg",
+    "outline_door_enter.svg",
+    "door_enter.png"
+  ],
+  "component_type": "cursors",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}

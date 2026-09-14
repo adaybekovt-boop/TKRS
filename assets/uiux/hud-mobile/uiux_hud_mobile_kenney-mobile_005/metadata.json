@@ -1,0 +1,41 @@
+{
+  "id": "uiux_hud_mobile_kenney-mobile_005",
+  "name": "Dpad Element East",
+  "description": "dpad-element-east from Kenney Mobile Controls. Recolors grouped.",
+  "category": "uiux",
+  "subcategory": "hud-mobile",
+  "tags": [
+    "graphic-resources",
+    "kenney-mobile",
+    "ui"
+  ],
+  "style": [
+    "clean-mobile",
+    "modern"
+  ],
+  "formats": [
+    "svg"
+  ],
+  "source": "Kenney Mobile Controls",
+  "source_site": "https://kenney.nl/assets/mobile-controls",
+  "source_repository": null,
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/mobile-controls",
+  "original_filename": "dpad_element_east.svg",
+  "attribution_required": false,
+  "attribution": "Kenney (www.kenney.nl)",
+  "has_scripts": false,
+  "sha256": "2d0485a9508fa0d8968d6dac0c4b0515eb28e0a2821cfb1918f27eb3060c46f5",
+  "file_size": 3068,
+  "collected_in": "uiux-batch-001",
+  "files": [
+    "dpad_element_east.svg",
+    "style-e_dpad_element_east.svg",
+    "style-b_dpad_element_east.svg"
+  ],
+  "component_type": "hud-mobile",
+  "vector": true,
+  "code_dependency": false,
+  "dimensions": null
+}
