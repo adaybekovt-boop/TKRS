@@ -1,0 +1,76 @@
+:
+            if not wrote:
+                rewritten.append("mtllib model.mtl")
+                wrote=True
+            continue
+        rewritten.append(line)
+    (out_dir/"model.obj").write_text("\n".join(rewritten).rstrip()+"\n",encoding="utf-8")
+    (out_dir/"model.mtl").write_text("\n".join(combined).rstrip()+"\n",encoding="utf-8")
+
+
+def copy_declared_sidecars(metadata: dict, source_root: Path, index: dict[str, list[Path]], out_dir: Path) -> None:
+    generated={"metadata.json","LICENSE.txt","model.glb","model.gltf","model.obj","model.mtl","model.fbx"}
+    for name in metadata.get("files",[]):
+        if name in generated or (out_dir/name).exists():
+            continue
+        # Shared GLTF images are deliberately not declared in metadata; declared files should be local.
+        src=locate(source_root,index,name)
+        copy_checked(src,out_dir/name)
+
+
+def validate_asset(out_dir: Path, metadata: dict) -> Path:
+    primaries=[out_dir/f"model.{ext}" for ext in ("glb","gltf","fbx","obj") if (out_dir/f"model.{ext}").is_file()]
+    if len(primaries)!=1:
+        raise RuntimeError(f"Expected one primary model for {metadata['id']}, got {primaries}")
+    primary=primaries[0]
+    if primary.stat().st_size==0:
+        raise RuntimeError(f"Empty primary model: {metadata['id']}")
+    for name in metadata.get("files",[]):
+        p=out_dir/name
+        if not p.is_file() or p.stat().st_size==0:
+            raise RuntimeError(f"Declared file missing/empty for {metadata['id']}: {name}")
+    if primary.suffix==".gltf":
+        g=json.loads(primary.read_text(encoding="utf-8"))
+        for section in ("buffers","images"):
+            for item in g.get(section,[]):
+                uri=item.get("uri")
+                if not uri or uri.startswith("data:"):
+                    continue
+                p=(out_dir/uri).resolve()
+                if not p.is_file() or p.stat().st_size==0:
+                    raise RuntimeError(f"Missing GLTF dependency for {metadata['id']}: {uri}")
+    elif primary.suffix==".obj":
+        mtl=out_dir/"model.mtl"
+        if not mtl.is_file():
+            raise RuntimeError(f"Missing model.mtl for {metadata['id']}")
+        if "mtllib model.mtl" not in primary.read_text(encoding="utf-8", errors="replace"):
+            raise RuntimeError(f"Non-portable mtllib for {metadata['id']}")
+        for line in mtl.read_text(encoding="utf-8", errors="replace").splitlines():
+            parsed=parse_texture_ref(line)
+            if parsed:
+                _,ref=parsed
+                p=out_dir/ref
+                if not p.is_file() or p.stat().st_size==0:
+                    raise RuntimeError(f"Missing MTL texture for {metadata['id']}: {ref}")
+    return primary
+
+
+def build_catalog() -> None:
+    records=[]; ids=set(); checks=[]; formats=collections.Counter(); sources=collections.Counter()
+    for mp in sorted(ASSET_ROOT.glob("**/metadata.json")):
+        m=json.loads(mp.read_text(encoding="utf-8"))
+        aid=m["id"]
+        if aid in ids:
+            raise RuntimeError(f"Duplicate catalog id: {aid}")
+        ids.add(aid)
+        primary=None
+        for fmt in m.get("formats",[]):
+            p=mp.parent/f"model.{fmt.lower()}"
+            if p.is_file():
+                primary=p; break
+        if primary is None:
+            for ext in ("glb","gltf","fbx","obj"):
+                p=mp.parent/f"model.{ext}"
+                if p.is_file(): primary=p; break
+        if primary is None:
+            raise RuntimeError(f"No primary model 
