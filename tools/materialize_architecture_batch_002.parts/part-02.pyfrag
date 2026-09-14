@@ -1,0 +1,81 @@
+metadata: dict, out_dir: Path) -> None:
+    text = (
+        f"{metadata.get('source', 'Unknown source')}\n"
+        f"Author: {metadata.get('author') or 'Unknown'}\n"
+        f"License: {metadata.get('license', 'Unknown')}\n"
+        f"Official page: {metadata.get('source_site') or metadata.get('source_repository') or metadata.get('original_url') or 'Unknown'}\n"
+        f"Original download: {metadata.get('original_url') or 'Unknown'}\n"
+        f"Attribution required: {'yes' if metadata.get('attribution_required') else 'no'}\n"
+    )
+    (out_dir / "LICENSE.txt").write_text(text, encoding="utf-8")
+
+
+def materialize_glb(src: Path, out_dir: Path) -> None:
+    copy_checked(src, out_dir / "model.glb")
+
+
+def materialize_fbx(src: Path, out_dir: Path) -> None:
+    copy_checked(src, out_dir / "model.fbx")
+
+
+def materialize_gltf(src: Path, source_root: Path, index: dict[str, list[Path]], metadata: dict, out_dir: Path) -> None:
+    data = json.loads(src.read_text(encoding="utf-8"))
+    declared = set(metadata.get("files", []))
+    for i, buffer in enumerate(data.get("buffers", [])):
+        uri = buffer.get("uri")
+        if not uri or uri.startswith("data:"):
+            continue
+        dep = locate(source_root, index, uri, base=src.parent)
+        name = PurePosixPath(urllib.parse.unquote(uri.replace("\\", "/"))).name or f"buffer-{i}.bin"
+        copy_checked(dep, out_dir / name)
+        buffer["uri"] = name
+    for image in data.get("images", []):
+        uri = image.get("uri")
+        if not uri or uri.startswith("data:"):
+            continue
+        dep = locate(source_root, index, uri, base=src.parent)
+        name = PurePosixPath(urllib.parse.unquote(uri.replace("\\", "/"))).name
+        if name in declared:
+            copy_checked(dep, out_dir / name)
+            image["uri"] = name
+        else:
+            shared = copy_shared_texture(dep)
+            image["uri"] = os.path.relpath(shared, out_dir).replace(os.sep, "/")
+    (out_dir / "model.gltf").write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def parse_texture_ref(line: str) -> tuple[str, str] | None:
+    stripped = line.strip()
+    if not stripped or stripped.startswith("#") or " " not in stripped:
+        return None
+    key, value = stripped.split(None, 1)
+    if key.lower() not in TEXTURE_KEYS:
+        return None
+    return key, value.strip().strip('"')
+
+
+def materialize_obj(src: Path, source_root: Path, index: dict[str, list[Path]], out_dir: Path) -> None:
+    text = src.read_text(encoding="utf-8", errors="replace")
+    mtllibs=[]
+    for line in text.splitlines():
+        s=line.strip()
+        if s.lower().startswith("mtllib "):
+            mtllibs.append(s.split(None,1)[1].strip())
+    if not mtllibs:
+        raise RuntimeError(f"OBJ has no mtllib: {src}")
+    combined=[]
+    for mtl_name in mtllibs:
+        mtl_src=locate(source_root,index,mtl_name,base=src.parent)
+        combined.append(f"# From {mtl_src.name}")
+        for line in mtl_src.read_text(encoding="utf-8", errors="replace").splitlines():
+            parsed=parse_texture_ref(line)
+            if parsed:
+                key, ref=parsed
+                tex=locate(source_root,index,ref,base=mtl_src.parent)
+                copy_checked(tex,out_dir/tex.name)
+                line=f"{key} {tex.name}"
+            combined.append(line)
+        combined.append("")
+    rewritten=[]; wrote=False
+    for line in text.splitlines():
+        if line.strip().lower().startswith("mtllib ")
