@@ -1,0 +1,7 @@
+Source: Quaternius
+License: CC0 1.0 Universal
+Official/OGA page: https://opengameart.org/content/animated-animales-low-poly
+Attribution not required; credit Quaternius appreciated.
+Do not resell unmodified copies as a standalone asset pack.
+
+See https://creativecommons.org/publicdomain/zero/1.0/

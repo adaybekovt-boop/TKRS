@@ -1,0 +1,52 @@
+{
+  "id": "mov-quaternius-ual2-slide-loop",
+  "name": "Quaternius Slide Loop",
+  "description": "Animation clip Slide_Loop (slide loop) extracted from Quaternius Universal Animation Library 2 Standard (CC0). Universal humanoid rig. Single-clip GLB derived from the Standard library; Unity/Unreal duplicate exports of the same library were not packaged.",
+  "category": "movement",
+  "subcategory": "slide",
+  "tags": [
+    "slide-loop",
+    "slide",
+    "locomotion",
+    "humanoid",
+    "quaternius"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Quaternius Universal Animation Library 2 Standard",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/universal-animation-library-2",
+  "attribution": "Credit Quaternius (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "animation.glb": "62edb524d4be915c64666c33257d090e2301cec7cb3b9e9ca971df026354bd35"
+  },
+  "file_size": {
+    "animation.glb": 819352
+  },
+  "rig_name": "Quaternius Universal Humanoid",
+  "humanoid": true,
+  "source_scale": "unknown",
+  "up_axis": "Y",
+  "retargeting_requirement": "Retarget to destination humanoid; not verified as Roblox R15/R6.",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "motion_type": "slide",
+  "loopable": true,
+  "in_place": true,
+  "root_motion": false,
+  "directional_intent": "forward",
+  "clip_name": "Slide_Loop",
+  "formats_available_in_source": [
+    "glb",
+    "fbx"
+  ],
+  "dimensions": null
+}

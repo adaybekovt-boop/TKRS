@@ -1,0 +1,30 @@
+{
+  "id": "mov-code-tarodev-scriptable-stats",
+  "name": "ScriptableStats.cs",
+  "description": "Tunable movement stats (speeds, jump, dash, coyote) for Tarodev 2D controller. Do not execute. Plain-text reference only.",
+  "category": "movement",
+  "subcategory": "reference-code",
+  "tags": [
+    "reference",
+    "controller",
+    "unity",
+    "2d",
+    "stats"
+  ],
+  "style": [
+    "code-reference"
+  ],
+  "formats": [
+    "cs"
+  ],
+  "source": "Matthew-J-Spencer/Ultimate-2D-Controller",
+  "author": "Matthew Spencer (Tarodev)",
+  "license": "MIT",
+  "original_url": "https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller",
+  "attribution": "Copyright notice and MIT license text must be preserved.",
+  "has_scripts": true,
+  "code_inert": true,
+  "sha256": "54d0be19f41d83a09b977689d9e0331cfdf1073f678a69aff73adc77463f8882",
+  "file_size": 2433,
+  "dimensions": null
+}

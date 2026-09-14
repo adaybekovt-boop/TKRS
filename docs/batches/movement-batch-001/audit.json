@@ -1,0 +1,128 @@
+{
+  "batch": "movement-batch-001",
+  "summary": {
+    "supplied_candidates": 74,
+    "accepted": 74,
+    "rejected": 0,
+    "duplicate_ids_removed": 0,
+    "exact_duplicates_removed": 0,
+    "current_tkrs_duplicates_removed": 0,
+    "dependency_references_before_repair": 0,
+    "dependency_references_repaired": 0,
+    "unresolved_issues": 0,
+    "integrated_bytes": 48989652,
+    "shared_textures_copied": 0,
+    "shared_textures_deduplicated": 0,
+    "script_files_retained_as_inert_text": 13
+  },
+  "repairs": {
+    "metadata_normalized": 74
+  },
+  "audit": {
+    "asset_count": 74,
+    "valid_asset_count": 74,
+    "invalid_asset_count": 0,
+    "metadata_error_count": 0,
+    "missing_metadata_field_count": 0,
+    "missing_dependency_count": 0,
+    "outside_dependency_count": 0,
+    "invalid_media_count": 0,
+    "executable_file_count": 0,
+    "script_file_count": 13,
+    "empty_file_count": 0,
+    "file_over_100mb_count": 0,
+    "symlink_count": 0,
+    "duplicate_ids": {},
+    "exact_duplicate_logical_assets": {},
+    "category_counts": {
+      "movement": 74
+    },
+    "subcategory_counts": {
+      "animal": 7,
+      "climb": 3,
+      "crouch": 2,
+      "dodge-roll": 9,
+      "idle": 7,
+      "jump-fall": 9,
+      "reference-code": 14,
+      "run": 5,
+      "slide": 3,
+      "special": 5,
+      "swim": 3,
+      "walk": 7
+    },
+    "source_counts": {
+      "KayKit Character Animations v1.2": 12,
+      "KayKit Character Pack: Skeletons 1.0": 1,
+      "Kenney Animated Characters 3": 3,
+      "Kenney Mini Characters 1": 1,
+      "KenneyNL/Starter-Kit-3D-Platformer": 1,
+      "Matthew-J-Spencer/Ultimate-2D-Controller": 2,
+      "Mesh2Motion": 8,
+      "Quaternius Animal Pack Vol.2": 1,
+      "Quaternius Animated Knight": 1,
+      "Quaternius Animated Mech Pack": 1,
+      "Quaternius Animated Monster Pack": 1,
+      "Quaternius Universal Animation Library 2 Standard": 13,
+      "Quaternius Universal Animation Library Standard": 15,
+      "Umplix Lowpoly Dummy Character": 3,
+      "datlass/PhysicsCharacterController": 1,
+      "expressobits/character-controller": 9,
+      "pmndrs/ecctrl": 1
+    },
+    "license_counts": {
+      "CC0-1.0": 60,
+      "MIT": 14
+    },
+    "extension_counts": {
+      ".cs": 2,
+      ".fbx": 22,
+      ".gd": 10,
+      ".glb": 38,
+      ".json": 75,
+      ".md": 2,
+      ".tsx": 1,
+      ".txt": 75
+    },
+    "asset_bytes": 48989652
+  },
+  "accepted_by_subcategory": {
+    "animal": 7,
+    "climb": 3,
+    "crouch": 2,
+    "dodge-roll": 9,
+    "idle": 7,
+    "jump-fall": 9,
+    "reference-code": 14,
+    "run": 5,
+    "slide": 3,
+    "special": 5,
+    "swim": 3,
+    "walk": 7
+  },
+  "accepted_by_source": {
+    "KayKit Character Animations v1.2": 12,
+    "KayKit Character Pack: Skeletons 1.0": 1,
+    "Kenney Animated Characters 3": 3,
+    "Kenney Mini Characters 1": 1,
+    "KenneyNL/Starter-Kit-3D-Platformer": 1,
+    "Matthew-J-Spencer/Ultimate-2D-Controller": 2,
+    "Mesh2Motion": 8,
+    "Quaternius Animal Pack Vol.2": 1,
+    "Quaternius Animated Knight": 1,
+    "Quaternius Animated Mech Pack": 1,
+    "Quaternius Animated Monster Pack": 1,
+    "Quaternius Universal Animation Library 2 Standard": 13,
+    "Quaternius Universal Animation Library Standard": 15,
+    "Umplix Lowpoly Dummy Character": 3,
+    "datlass/PhysicsCharacterController": 1,
+    "expressobits/character-controller": 9,
+    "pmndrs/ecctrl": 1
+  },
+  "accepted_by_license": {
+    "CC0-1.0": 60,
+    "MIT": 14
+  },
+  "near_duplicate_groups_for_review": [],
+  "rejections": []
+}

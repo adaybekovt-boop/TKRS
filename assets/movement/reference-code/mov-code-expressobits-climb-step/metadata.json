@@ -1,0 +1,31 @@
+{
+  "id": "mov-code-expressobits-climb-step",
+  "name": "climb_step_ability_3d.gd",
+  "description": "Godot 4 step-up/climb-step ability. Inert reference implementation. Do not execute in this batch pipeline. Plain-text reference only.",
+  "category": "movement",
+  "subcategory": "reference-code",
+  "tags": [
+    "godot",
+    "controller",
+    "reference",
+    "mit",
+    "climb"
+  ],
+  "style": [
+    "code-reference"
+  ],
+  "formats": [
+    "gd"
+  ],
+  "source": "expressobits/character-controller",
+  "author": "Dimitar Whimfoome Dimitrov / Expresso Bits",
+  "license": "MIT",
+  "original_url": "https://github.com/expressobits/character-controller",
+  "attribution": "Copyright notice and MIT license text must be preserved.",
+  "has_scripts": true,
+  "code_inert": true,
+  "language": "gdscript",
+  "sha256": "d19b44769b5aa344d0f155d3369c8bb2598f8446bf4d39d948c209325fce9b63",
+  "file_size": 6035,
+  "dimensions": null
+}

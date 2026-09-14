@@ -1,0 +1,31 @@
+{
+  "id": "mov-code-expressobits-head-bob",
+  "name": "head_bob.gd",
+  "description": "Godot 4 first-person camera head-bob. Inert reference implementation. Do not execute in this batch pipeline. Plain-text reference only.",
+  "category": "movement",
+  "subcategory": "reference-code",
+  "tags": [
+    "godot",
+    "controller",
+    "reference",
+    "mit",
+    "special"
+  ],
+  "style": [
+    "code-reference"
+  ],
+  "formats": [
+    "gd"
+  ],
+  "source": "expressobits/character-controller",
+  "author": "Dimitar Whimfoome Dimitrov / Expresso Bits",
+  "license": "MIT",
+  "original_url": "https://github.com/expressobits/character-controller",
+  "attribution": "Copyright notice and MIT license text must be preserved.",
+  "has_scripts": true,
+  "code_inert": true,
+  "language": "gdscript",
+  "sha256": "cee4b336c7864e814c9bc265e180eea29b01c9e5b69eff9c133b69eaaa7d87f7",
+  "file_size": 3528,
+  "dimensions": null
+}

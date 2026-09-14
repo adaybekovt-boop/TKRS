@@ -1,0 +1,54 @@
+{
+  "id": "mov-m2m-spider",
+  "name": "spider animations",
+  "description": "Mesh2Motion spider walk/jump. Clips: Attack, Bite, Death, Death 2, Eating, Hit, Idle, Jump, Rest Pose, Walk.",
+  "category": "movement",
+  "subcategory": "animal",
+  "tags": [
+    "mesh2motion",
+    "cc0",
+    "attack",
+    "bite",
+    "death",
+    "death-2",
+    "eating",
+    "hit",
+    "idle",
+    "jump",
+    "rest-pose",
+    "walk"
+  ],
+  "style": [
+    "game-ready"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Mesh2Motion",
+  "author": "Scott Petrovic / Mesh2Motion contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/Mesh2Motion/mesh2motion-app",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "clip_names": [
+    "Attack",
+    "Bite",
+    "Death",
+    "Death 2",
+    "Eating",
+    "Hit",
+    "Idle",
+    "Jump",
+    "Rest Pose",
+    "Walk"
+  ],
+  "clip_count": 10,
+  "humanoid": false,
+  "rig": "Mesh2Motion Spider",
+  "bone_count": 56,
+  "sha256": "a321c1617c7f74cf86c050694bc254e74409c6c69db26fe542338f2f7c43d07a",
+  "file_size": 597156,
+  "retargeting_requirement": "Mesh2Motion rig; Roblox R15/R6 not verified",
+  "note": "Skipped CarnegieMellonAnimations folder (CMU no-resell-as-data).",
+  "dimensions": null
+}

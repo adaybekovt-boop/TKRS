@@ -1,0 +1,54 @@
+{
+  "id": "mov-m2m-kaiju",
+  "name": "kaiju animations",
+  "description": "Mesh2Motion kaiju walk/swim. Clips: Attack, Death, Hit, Idle, Rest Pose, Roar, Swim, Tail Attack, Walk, Walk RM.",
+  "category": "movement",
+  "subcategory": "animal",
+  "tags": [
+    "mesh2motion",
+    "cc0",
+    "attack",
+    "death",
+    "hit",
+    "idle",
+    "rest-pose",
+    "roar",
+    "swim",
+    "tail-attack",
+    "walk",
+    "walk-rm"
+  ],
+  "style": [
+    "game-ready"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Mesh2Motion",
+  "author": "Scott Petrovic / Mesh2Motion contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/Mesh2Motion/mesh2motion-app",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "clip_names": [
+    "Attack",
+    "Death",
+    "Hit",
+    "Idle",
+    "Rest Pose",
+    "Roar",
+    "Swim",
+    "Tail Attack",
+    "Walk",
+    "Walk RM"
+  ],
+  "clip_count": 10,
+  "humanoid": false,
+  "rig": "Mesh2Motion Kaiju",
+  "bone_count": 58,
+  "sha256": "675a098d8cdddf5247c55d49fa04712556cd0493facec0be586b6bb9aaeed410",
+  "file_size": 1046032,
+  "retargeting_requirement": "Mesh2Motion rig; Roblox R15/R6 not verified",
+  "note": "Skipped CarnegieMellonAnimations folder (CMU no-resell-as-data).",
+  "dimensions": null
+}

@@ -1,0 +1,5 @@
+Source: Quaternius
+License: CC0 1.0 Universal
+Official/OGA: https://opengameart.org/content/lowpoly-animated-knight
+Attribution not required.
+https://creativecommons.org/publicdomain/zero/1.0/

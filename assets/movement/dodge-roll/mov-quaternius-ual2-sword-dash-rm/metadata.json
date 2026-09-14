@@ -1,0 +1,52 @@
+{
+  "id": "mov-quaternius-ual2-sword-dash-rm",
+  "name": "Quaternius Sword Dash RM",
+  "description": "Animation clip Sword_Dash_RM (sword dash root motion) extracted from Quaternius Universal Animation Library 2 Standard (CC0). Universal humanoid rig. Single-clip GLB derived from the Standard library; Unity/Unreal duplicate exports of the same library were not packaged.",
+  "category": "movement",
+  "subcategory": "dodge-roll",
+  "tags": [
+    "sword-dash-rm",
+    "dodge-roll",
+    "locomotion",
+    "humanoid",
+    "quaternius"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Quaternius Universal Animation Library 2 Standard",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/universal-animation-library-2",
+  "attribution": "Credit Quaternius (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "animation.glb": "add6de8e9e57225cfb1bdaa9fef275b35df26819bda5150ead53dd52a77cefc3"
+  },
+  "file_size": {
+    "animation.glb": 785520
+  },
+  "rig_name": "Quaternius Universal Humanoid",
+  "humanoid": true,
+  "source_scale": "unknown",
+  "up_axis": "Y",
+  "retargeting_requirement": "Retarget to destination humanoid; not verified as Roblox R15/R6.",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "motion_type": "dodge-roll",
+  "loopable": false,
+  "in_place": false,
+  "root_motion": true,
+  "directional_intent": "forward",
+  "clip_name": "Sword_Dash_RM",
+  "formats_available_in_source": [
+    "glb",
+    "fbx"
+  ],
+  "dimensions": null
+}

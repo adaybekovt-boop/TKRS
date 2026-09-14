@@ -1,0 +1,52 @@
+{
+  "id": "mov-quaternius-ual1-swim-fwd-loop",
+  "name": "Quaternius Swim Fwd Loop",
+  "description": "Animation clip Swim_Fwd_Loop (swim forward loop) extracted from Quaternius Universal Animation Library Standard (CC0). Universal humanoid rig. Single-clip GLB derived from the Standard library; Unity/Unreal duplicate exports of the same library were not packaged.",
+  "category": "movement",
+  "subcategory": "swim",
+  "tags": [
+    "swim-fwd-loop",
+    "swim",
+    "locomotion",
+    "humanoid",
+    "quaternius"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Quaternius Universal Animation Library Standard",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/universal-animation-library",
+  "attribution": "Credit Quaternius (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "animation.glb": "df884d743d3d3b51d890a03a0cfe2ff398a9982a8da59d85e752f2c31f7635aa"
+  },
+  "file_size": {
+    "animation.glb": 736396
+  },
+  "rig_name": "Quaternius Universal Humanoid",
+  "humanoid": true,
+  "source_scale": "unknown",
+  "up_axis": "Y",
+  "retargeting_requirement": "Retarget to destination humanoid; not verified as Roblox R15/R6.",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "motion_type": "swim",
+  "loopable": true,
+  "in_place": true,
+  "root_motion": false,
+  "directional_intent": "forward",
+  "clip_name": "Swim_Fwd_Loop",
+  "formats_available_in_source": [
+    "glb",
+    "fbx"
+  ],
+  "dimensions": null
+}

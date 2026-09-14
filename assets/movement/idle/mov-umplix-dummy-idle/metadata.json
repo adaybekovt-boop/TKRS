@@ -1,0 +1,33 @@
+{
+  "id": "mov-umplix-dummy-idle",
+  "name": "Umplix lowpoly dummy idle",
+  "description": "Animation-oriented FBX (idle) from Umplix Lowpoly Dummy Character (CC0). Compatible with Mixamo armature naming but clips are author-made, not Mixamo library clips.",
+  "category": "movement",
+  "subcategory": "idle",
+  "tags": [
+    "dummy",
+    "humanoid",
+    "low-poly",
+    "animation-only",
+    "idle",
+    "umplix"
+  ],
+  "style": [
+    "low-poly",
+    "stylized"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Umplix Lowpoly Dummy Character",
+  "author": "Umplix Lowpoly Dummy Character",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/lowpoly-dummy-character10-animations",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "humanoid": true,
+  "sha256": "00177d777d324e2eb807f5f94b573026c94226c6574267900213863a0dc8014d",
+  "file_size": 442604,
+  "retargeting_requirement": "Source rig; Roblox R15/R6 not verified",
+  "dimensions": null
+}

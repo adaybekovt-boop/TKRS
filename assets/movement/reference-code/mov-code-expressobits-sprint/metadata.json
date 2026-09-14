@@ -1,0 +1,31 @@
+{
+  "id": "mov-code-expressobits-sprint",
+  "name": "sprint_ability_3d.gd",
+  "description": "Godot 4 sprint ability. Inert reference implementation. Do not execute in this batch pipeline. Plain-text reference only.",
+  "category": "movement",
+  "subcategory": "reference-code",
+  "tags": [
+    "godot",
+    "controller",
+    "reference",
+    "mit",
+    "run"
+  ],
+  "style": [
+    "code-reference"
+  ],
+  "formats": [
+    "gd"
+  ],
+  "source": "expressobits/character-controller",
+  "author": "Dimitar Whimfoome Dimitrov / Expresso Bits",
+  "license": "MIT",
+  "original_url": "https://github.com/expressobits/character-controller",
+  "attribution": "Copyright notice and MIT license text must be preserved.",
+  "has_scripts": true,
+  "code_inert": true,
+  "language": "gdscript",
+  "sha256": "db77991f5952488f1666061fa98b75bb99fc51c99e83c2b9e674dd1fef6ce3c8",
+  "file_size": 478,
+  "dimensions": null
+}

@@ -1,0 +1,68 @@
+{
+  "id": "mov-quaternius-knight",
+  "name": "Quaternius Animated Knight Locomotion",
+  "description": "Stylized low-poly knight with locomotion clips (idle/walk/run/roll/death and more) from Quaternius Animated Knight (CC0). Weapons/helmets in the source zip were not packaged.",
+  "category": "movement",
+  "subcategory": "special",
+  "tags": [
+    "knight",
+    "walk",
+    "run",
+    "roll",
+    "idle",
+    "humanoid",
+    "quaternius"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Quaternius Animated Knight",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/lowpoly-animated-knight",
+  "attribution": "Credit Quaternius (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "animation.fbx": "41f2616fb4a42f9d35e242bbed1450ededc7537def4bf38cbb11b4e54ff2bf21"
+  },
+  "file_size": {
+    "animation.fbx": 2092236
+  },
+  "rig_name": "Quaternius Knight",
+  "humanoid": true,
+  "source_scale": "unknown",
+  "up_axis": "Y",
+  "retargeting_requirement": "Retarget to destination humanoid; not verified as Roblox R15/R6.",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "motion_type": "special",
+  "clip_names": [
+    "Death",
+    "Idle",
+    "Idle_swordLeft",
+    "Idle_swordRight",
+    "Jump",
+    "Roll",
+    "Roll_sword",
+    "Run",
+    "Run_swordAttack",
+    "Run_swordRight",
+    "swordAttackJump",
+    "Walking",
+    "Death9",
+    "JumpG",
+    "Run|",
+    "Run_swordAttackK"
+  ],
+  "formats_available_in_source": [
+    "fbx",
+    "obj",
+    "blend"
+  ],
+  "dimensions": null
+}

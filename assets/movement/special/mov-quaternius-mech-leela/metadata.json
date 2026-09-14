@@ -1,0 +1,31 @@
+{
+  "id": "mov-quaternius-mech-leela",
+  "name": "Quaternius animated mech Leela",
+  "description": "Low-poly animated mech (Leela) with baked clips from Quaternius Animated Mech Pack. Other heavier mechs (George/Mike/Stan, 8–10MB each) omitted to save size.",
+  "category": "movement",
+  "subcategory": "special",
+  "tags": [
+    "quaternius",
+    "mech",
+    "robot",
+    "low-poly"
+  ],
+  "style": [
+    "low-poly",
+    "stylized"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Quaternius Animated Mech Pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/animated-mech-pack",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "humanoid": false,
+  "sha256": "350c6633bd3b7ad9fc83817d92b2e292a9600af61cb6bbd3dc8e2097bd7dd38d",
+  "file_size": 3490060,
+  "retargeting_requirement": "Source rig; Roblox R15/R6 not verified",
+  "dimensions": null
+}

@@ -1,0 +1,62 @@
+{
+  "id": "mov-m2m-fox",
+  "name": "fox animations",
+  "description": "Mesh2Motion fox/quadruped locomotion and idles. Clips: Bark, Bite, Death, Fall, Fetch, Howl, Idle, Idle Alert, Jump, Rest Pose, Run, Sit, Sneak, Walk.",
+  "category": "movement",
+  "subcategory": "animal",
+  "tags": [
+    "mesh2motion",
+    "cc0",
+    "bark",
+    "bite",
+    "death",
+    "fall",
+    "fetch",
+    "howl",
+    "idle",
+    "idle-alert",
+    "jump",
+    "rest-pose",
+    "run",
+    "sit",
+    "sneak",
+    "walk"
+  ],
+  "style": [
+    "game-ready"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Mesh2Motion",
+  "author": "Scott Petrovic / Mesh2Motion contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/Mesh2Motion/mesh2motion-app",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "clip_names": [
+    "Bark",
+    "Bite",
+    "Death",
+    "Fall",
+    "Fetch",
+    "Howl",
+    "Idle",
+    "Idle Alert",
+    "Jump",
+    "Rest Pose",
+    "Run",
+    "Sit",
+    "Sneak",
+    "Walk"
+  ],
+  "clip_count": 14,
+  "humanoid": false,
+  "rig": "Mesh2Motion Fox",
+  "bone_count": 49,
+  "sha256": "80e80641a5692a14aba7616a46d2a28d3595479764887c578c766b99dba8a0d0",
+  "file_size": 788588,
+  "retargeting_requirement": "Mesh2Motion rig; Roblox R15/R6 not verified",
+  "note": "Skipped CarnegieMellonAnimations folder (CMU no-resell-as-data).",
+  "dimensions": null
+}

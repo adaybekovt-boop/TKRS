@@ -1,0 +1,7 @@
+{
+  "init.lua": "https://raw.githubusercontent.com/datlass/PhysicsCharacterController/master/src/client/CharacterController/PhysicsCharacterController/init.lua",
+  "Running.lua": "https://raw.githubusercontent.com/datlass/PhysicsCharacterController/master/src/client/CharacterController/PhysicsCharacterController/Components/CoreComponents/Running.lua",
+  "Jump.lua": "https://raw.githubusercontent.com/datlass/PhysicsCharacterController/master/src/client/CharacterController/PhysicsCharacterController/Components/CoreComponents/Jump.lua",
+  "Slide.lua": "https://raw.githubusercontent.com/datlass/PhysicsCharacterController/master/src/client/CharacterController/PhysicsCharacterController/Components/AddonComponents/Slide.lua",
+  "fsm.lua": "https://raw.githubusercontent.com/datlass/PhysicsCharacterController/master/src/client/CharacterController/PhysicsCharacterController/fsm.lua"
+}

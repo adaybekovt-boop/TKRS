@@ -1,0 +1,52 @@
+{
+  "id": "mov-quaternius-ual1-jump-loop",
+  "name": "Quaternius Jump Loop",
+  "description": "Animation clip Jump_Loop (jump air loop / fall) extracted from Quaternius Universal Animation Library Standard (CC0). Universal humanoid rig. Single-clip GLB derived from the Standard library; Unity/Unreal duplicate exports of the same library were not packaged.",
+  "category": "movement",
+  "subcategory": "jump-fall",
+  "tags": [
+    "jump-loop",
+    "jump-fall",
+    "locomotion",
+    "humanoid",
+    "quaternius"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Quaternius Universal Animation Library Standard",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/universal-animation-library",
+  "attribution": "Credit Quaternius (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "animation.glb": "0ac7465d14742e836d77c8160fe9b777275c65f75ec878cab189c29f8561bb42"
+  },
+  "file_size": {
+    "animation.glb": 810772
+  },
+  "rig_name": "Quaternius Universal Humanoid",
+  "humanoid": true,
+  "source_scale": "unknown",
+  "up_axis": "Y",
+  "retargeting_requirement": "Retarget to destination humanoid; not verified as Roblox R15/R6.",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "motion_type": "jump-fall",
+  "loopable": true,
+  "in_place": true,
+  "root_motion": false,
+  "directional_intent": "fall",
+  "clip_name": "Jump_Loop",
+  "formats_available_in_source": [
+    "glb",
+    "fbx"
+  ],
+  "dimensions": null
+}

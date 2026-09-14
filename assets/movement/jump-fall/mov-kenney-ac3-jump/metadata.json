@@ -1,0 +1,41 @@
+{
+  "id": "mov-kenney-ac3-jump",
+  "name": "Kenney Animated Characters 3 Jump",
+  "description": "Animation-only FBX from Kenney Animated Characters 3 (CC0). Separate stylized rig from Mini/Blocky packs.",
+  "category": "movement",
+  "subcategory": "jump-fall",
+  "tags": [
+    "jump",
+    "airborne",
+    "stylized",
+    "animation-only",
+    "kenney"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Kenney Animated Characters 3",
+  "author": "Kenney",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/animated-characters-3",
+  "attribution": "Credit Kenney.nl (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "jump.fbx": "b88429077a7a1af5d3f55f43cfd8ce0f7441b4f6f7bb15a8070d7ed15d275f74"
+  },
+  "file_size": {
+    "jump.fbx": 562796
+  },
+  "humanoid": true,
+  "loopable": false,
+  "root_motion": "unknown-unverified",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "retargeting_requirement": "Retarget from Kenney AC3 rig. Not verified as Roblox R15/R6.",
+  "dimensions": null
+}

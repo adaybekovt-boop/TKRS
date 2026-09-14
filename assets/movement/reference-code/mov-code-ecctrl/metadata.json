@@ -1,0 +1,30 @@
+{
+  "id": "mov-code-ecctrl",
+  "name": "Ecctrl.tsx",
+  "description": "React Three Fiber floating character controller (walk/run accel/decel, jump, slope, air drag). Inert TypeScript reference. Do not execute.",
+  "category": "movement",
+  "subcategory": "reference-code",
+  "tags": [
+    "threejs",
+    "r3f",
+    "controller",
+    "reference",
+    "mit"
+  ],
+  "style": [
+    "code-reference"
+  ],
+  "formats": [
+    "tsx"
+  ],
+  "source": "pmndrs/ecctrl",
+  "author": "pmndrs / ecctrl authors",
+  "license": "MIT",
+  "original_url": "https://github.com/pmndrs/ecctrl",
+  "attribution": "Copyright notice and MIT license text must be preserved.",
+  "has_scripts": true,
+  "code_inert": true,
+  "sha256": "d34442be3af7722d4f6550f725aa48b98f742f8d7afb6dbdcb376589017cb942",
+  "file_size": 54440,
+  "dimensions": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "mov-code-expressobits-crouch",
+  "name": "crouch_ability_3d.gd",
+  "description": "Godot 4 crouch ability. Inert reference implementation. Do not execute in this batch pipeline. Plain-text reference only.",
+  "category": "movement",
+  "subcategory": "reference-code",
+  "tags": [
+    "godot",
+    "controller",
+    "reference",
+    "mit",
+    "crouch"
+  ],
+  "style": [
+    "code-reference"
+  ],
+  "formats": [
+    "gd"
+  ],
+  "source": "expressobits/character-controller",
+  "author": "Dimitar Whimfoome Dimitrov / Expresso Bits",
+  "license": "MIT",
+  "original_url": "https://github.com/expressobits/character-controller",
+  "attribution": "Copyright notice and MIT license text must be preserved.",
+  "has_scripts": true,
+  "code_inert": true,
+  "language": "gdscript",
+  "sha256": "315d7230d00e74e8cc9bb89bc3bc93d84a3875fadd143d1a8b87557114efb5a0",
+  "file_size": 1318,
+  "dimensions": null
+}

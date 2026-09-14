@@ -1,0 +1,57 @@
+{
+  "id": "mov-quaternius-skeleton",
+  "name": "Quaternius Skeleton Locomotion",
+  "description": "Stylized low-poly skeleton idle/run/spawn locomotion set from Quaternius Animated Monster Pack (CC0). Multi-clip FBX on a creature rig. OBJ/Blend source duplicates were not packaged.",
+  "category": "movement",
+  "subcategory": "special",
+  "tags": [
+    "skeleton",
+    "run",
+    "idle",
+    "locomotion",
+    "quaternius",
+    "creature",
+    "animated"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Quaternius Animated Monster Pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/lowpoly-animated-monsters",
+  "attribution": "Credit Quaternius (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "animation.fbx": "be0a5992b677e563c6c9601e76fdcb9d50e91c195aebb1eb70604fbfe8fb26d5"
+  },
+  "file_size": {
+    "animation.fbx": 433820
+  },
+  "rig_name": "Quaternius Skeleton",
+  "humanoid": true,
+  "source_scale": "unknown",
+  "up_axis": "Y",
+  "retargeting_requirement": "Creature-specific rig; retarget only to a matching skeleton. Not Roblox R15/R6.",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "motion_type": "special",
+  "clip_names": [
+    "Skeleton_Attack",
+    "Skeleton_Death",
+    "Skeleton_Idle",
+    "Skeleton_Running",
+    "Skeleton_Spawn"
+  ],
+  "formats_available_in_source": [
+    "fbx",
+    "obj",
+    "blend"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mov-m2m-shark",
+  "name": "shark animations",
+  "description": "Mesh2Motion shark swim horizontal/vertical. Clips: Bite, Dead Floating, Hit, Idle, Rest Pose, Swim Horizontal, Swim Vertical.",
+  "category": "movement",
+  "subcategory": "swim",
+  "tags": [
+    "mesh2motion",
+    "cc0",
+    "bite",
+    "dead-floating",
+    "hit",
+    "idle",
+    "rest-pose",
+    "swim-horizontal",
+    "swim-vertical"
+  ],
+  "style": [
+    "game-ready"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Mesh2Motion",
+  "author": "Scott Petrovic / Mesh2Motion contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/Mesh2Motion/mesh2motion-app",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "clip_names": [
+    "Bite",
+    "Dead Floating",
+    "Hit",
+    "Idle",
+    "Rest Pose",
+    "Swim Horizontal",
+    "Swim Vertical"
+  ],
+  "clip_count": 7,
+  "humanoid": false,
+  "rig": "Mesh2Motion Shark",
+  "bone_count": 33,
+  "sha256": "918321bbcab9439456fcc5838d745c810ea6fd5adb658ccc3651b5d4244f9107",
+  "file_size": 470340,
+  "retargeting_requirement": "Mesh2Motion rig; Roblox R15/R6 not verified",
+  "note": "Skipped CarnegieMellonAnimations folder (CMU no-resell-as-data).",
+  "dimensions": null
+}

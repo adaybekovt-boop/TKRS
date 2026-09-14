@@ -1,0 +1,44 @@
+{
+  "id": "mov-m2m-bird",
+  "name": "bird animations",
+  "description": "Mesh2Motion bird walk/flap/glide. Clips: Flap, Glide, Idle, Rest Pose, Walk.",
+  "category": "movement",
+  "subcategory": "animal",
+  "tags": [
+    "mesh2motion",
+    "cc0",
+    "flap",
+    "glide",
+    "idle",
+    "rest-pose",
+    "walk"
+  ],
+  "style": [
+    "game-ready"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Mesh2Motion",
+  "author": "Scott Petrovic / Mesh2Motion contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/Mesh2Motion/mesh2motion-app",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "clip_names": [
+    "Flap",
+    "Glide",
+    "Idle",
+    "Rest Pose",
+    "Walk"
+  ],
+  "clip_count": 5,
+  "humanoid": false,
+  "rig": "Mesh2Motion Bird",
+  "bone_count": 55,
+  "sha256": "9624b0bf70abe400ed0445c2423c69d5e046bd7d60074e399e2be161763c4f99",
+  "file_size": 329424,
+  "retargeting_requirement": "Mesh2Motion rig; Roblox R15/R6 not verified",
+  "note": "Skipped CarnegieMellonAnimations folder (CMU no-resell-as-data).",
+  "dimensions": null
+}

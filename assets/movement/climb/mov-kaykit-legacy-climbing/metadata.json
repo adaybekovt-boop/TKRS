@@ -1,0 +1,51 @@
+{
+  "id": "mov-kaykit-legacy-climbing",
+  "name": "KayKit Climbing",
+  "description": "Animation-only KayKit Climbing clip from KayKit Character Animations v1.2 (CC0). Legacy KayKit rig. Prefer this single-clip FBX over the all-in-one file.",
+  "category": "movement",
+  "subcategory": "climb",
+  "tags": [
+    "climb",
+    "ladder",
+    "traversal",
+    "loop",
+    "humanoid"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "KayKit Character Animations v1.2",
+  "author": "Kay Lousberg",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/kaykit-character-animations",
+  "attribution": "Credit Kay Lousberg / www.kaylousberg.com (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "Climbing.fbx": "82b588fd498168a6bd1cbe546806281e03a53979ae6f8a3eac240d6f279fc858"
+  },
+  "file_size": {
+    "Climbing.fbx": 215420
+  },
+  "rig_name": "KayKit legacy animated character",
+  "humanoid": true,
+  "source_scale": "unknown",
+  "up_axis": "Y",
+  "retargeting_requirement": "Retarget to destination humanoid; not verified as Roblox R15/R6.",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "motion_type": "climb",
+  "loopable": true,
+  "in_place": true,
+  "root_motion": false,
+  "directional_intent": "climb",
+  "formats_available_in_source": [
+    "fbx",
+    "glb"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "mov-code-kenney-platformer-player",
+  "name": "player.gd",
+  "description": "Kenney Godot 3D platformer player controller (walk, jump, double jump). MIT code; assets in that repo are CC0 but not included here. Do not execute. Plain-text reference only.",
+  "category": "movement",
+  "subcategory": "reference-code",
+  "tags": [
+    "reference",
+    "controller",
+    "godot",
+    "kenney",
+    "platformer",
+    "double-jump"
+  ],
+  "style": [
+    "code-reference"
+  ],
+  "formats": [
+    "gd"
+  ],
+  "source": "KenneyNL/Starter-Kit-3D-Platformer",
+  "author": "Kenney",
+  "license": "MIT",
+  "original_url": "https://github.com/KenneyNL/Starter-Kit-3D-Platformer",
+  "attribution": "Copyright notice and MIT license text must be preserved.",
+  "has_scripts": true,
+  "code_inert": true,
+  "sha256": "bfb8edfce98b95e7f7116dbc3e884604db277904dd9c329d4493521fa363e269",
+  "file_size": 3229,
+  "dimensions": null
+}

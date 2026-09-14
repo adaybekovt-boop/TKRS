@@ -1,0 +1,43 @@
+{
+  "id": "mov-ref-physics-character-controller",
+  "name": "PhysicsCharacterController (Roblox, MIT, inert reference)",
+  "description": "Inert plain-text reference implementation of a Roblox constraint-based character controller: walk/run VectorForce + quadratic drag, jump impulse, slide addon, and Standing/Running/Jumping/FreeFalling/Landed FSM. Do not execute.",
+  "category": "movement",
+  "subcategory": "reference-code",
+  "tags": [
+    "reference",
+    "roblox",
+    "luau",
+    "slide",
+    "jump",
+    "run",
+    "state-machine",
+    "inert"
+  ],
+  "style": [
+    "code-reference"
+  ],
+  "formats": [
+    "lua.txt",
+    "md",
+    "json"
+  ],
+  "source": "datlass/PhysicsCharacterController",
+  "author": "dthecoolest",
+  "license": "MIT",
+  "original_url": "https://github.com/datlass/PhysicsCharacterController",
+  "attribution": "Copyright (c) 2022 dthecoolest — MIT license notice required",
+  "has_scripts": true,
+  "code_inert": true,
+  "sha256": {
+    "LICENSE.txt": "053d3879d4d6ff7e9f6f4afeeaa55b3fe3c0dddf60e3116290ecf4a8badc416f",
+    "README.md": "395c810460a7a94e898e04398ee859af5f0da743efef345099fc0af5b2440838",
+    "SOURCE_URLS.json": "1706f5ef6714880a21d8a8d4d2ef07913d5ed9be01d9a754068f15e85455184a"
+  },
+  "file_size": {
+    "LICENSE.txt": 1068,
+    "README.md": 842,
+    "SOURCE_URLS.json": 888
+  },
+  "dimensions": null
+}

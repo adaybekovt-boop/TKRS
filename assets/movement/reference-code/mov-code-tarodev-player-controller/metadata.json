@@ -1,0 +1,31 @@
+{
+  "id": "mov-code-tarodev-player-controller",
+  "name": "PlayerController.cs",
+  "description": "Unity 2D controller reference: coyote time, jump buffer, dash/crouch/slide hooks, slopes. Do not execute. Plain-text reference only.",
+  "category": "movement",
+  "subcategory": "reference-code",
+  "tags": [
+    "reference",
+    "controller",
+    "unity",
+    "2d",
+    "coyote-time",
+    "jump-buffer"
+  ],
+  "style": [
+    "code-reference"
+  ],
+  "formats": [
+    "cs"
+  ],
+  "source": "Matthew-J-Spencer/Ultimate-2D-Controller",
+  "author": "Matthew Spencer (Tarodev)",
+  "license": "MIT",
+  "original_url": "https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller",
+  "attribution": "Copyright notice and MIT license text must be preserved.",
+  "has_scripts": true,
+  "code_inert": true,
+  "sha256": "875f105384e58c2efdd39f9c1c141679f7501da4d69a05cbc2e373c1a640b305",
+  "file_size": 6940,
+  "dimensions": null
+}

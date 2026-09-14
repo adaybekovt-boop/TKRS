@@ -1,0 +1,44 @@
+{
+  "id": "mov-m2m-dragon",
+  "name": "dragon animations",
+  "description": "Mesh2Motion dragon walk/fly. Clips: Fly Flap, Fly Glide, Idle, Rest Pose, Walk.",
+  "category": "movement",
+  "subcategory": "animal",
+  "tags": [
+    "mesh2motion",
+    "cc0",
+    "fly-flap",
+    "fly-glide",
+    "idle",
+    "rest-pose",
+    "walk"
+  ],
+  "style": [
+    "game-ready"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Mesh2Motion",
+  "author": "Scott Petrovic / Mesh2Motion contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/Mesh2Motion/mesh2motion-app",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "clip_names": [
+    "Fly Flap",
+    "Fly Glide",
+    "Idle",
+    "Rest Pose",
+    "Walk"
+  ],
+  "clip_count": 5,
+  "humanoid": false,
+  "rig": "Mesh2Motion Dragon",
+  "bone_count": 80,
+  "sha256": "73262041b09aa0499778818162b34955e76e17548212825548799643d5c925b3",
+  "file_size": 752088,
+  "retargeting_requirement": "Mesh2Motion rig; Roblox R15/R6 not verified",
+  "note": "Skipped CarnegieMellonAnimations folder (CMU no-resell-as-data).",
+  "dimensions": null
+}

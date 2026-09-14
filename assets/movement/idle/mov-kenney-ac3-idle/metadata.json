@@ -1,0 +1,41 @@
+{
+  "id": "mov-kenney-ac3-idle",
+  "name": "Kenney Animated Characters 3 Idle",
+  "description": "Animation-only FBX from Kenney Animated Characters 3 (CC0). Separate stylized rig from Mini/Blocky packs.",
+  "category": "movement",
+  "subcategory": "idle",
+  "tags": [
+    "idle",
+    "loop",
+    "stylized",
+    "animation-only",
+    "kenney"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Kenney Animated Characters 3",
+  "author": "Kenney",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/animated-characters-3",
+  "attribution": "Credit Kenney.nl (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "idle.fbx": "c8a24e0294376ee5a195c56752a13310e1c0b5f8588a4db50e094120e3e4cc74"
+  },
+  "file_size": {
+    "idle.fbx": 608188
+  },
+  "humanoid": true,
+  "loopable": true,
+  "root_motion": "unknown-unverified",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "retargeting_requirement": "Retarget from Kenney AC3 rig. Not verified as Roblox R15/R6.",
+  "dimensions": null
+}

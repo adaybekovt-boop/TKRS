@@ -1,0 +1,62 @@
+{
+  "id": "mov-m2m-horse",
+  "name": "horse animations",
+  "description": "Mesh2Motion horse walk/trot/run/turns. Clips: Death, Eating, Head_But, Idle, Kick, lay_to_idle, Rear, Rest_Pose, Run, Sleep, Trot, Turn_Left, Turn_Right, Walk.",
+  "category": "movement",
+  "subcategory": "animal",
+  "tags": [
+    "mesh2motion",
+    "cc0",
+    "death",
+    "eating",
+    "head_but",
+    "idle",
+    "kick",
+    "lay_to_idle",
+    "rear",
+    "rest_pose",
+    "run",
+    "sleep",
+    "trot",
+    "turn_left",
+    "turn_right",
+    "walk"
+  ],
+  "style": [
+    "game-ready"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Mesh2Motion",
+  "author": "Scott Petrovic / Mesh2Motion contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/Mesh2Motion/mesh2motion-app",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "clip_names": [
+    "Death",
+    "Eating",
+    "Head_But",
+    "Idle",
+    "Kick",
+    "lay_to_idle",
+    "Rear",
+    "Rest_Pose",
+    "Run",
+    "Sleep",
+    "Trot",
+    "Turn_Left",
+    "Turn_Right",
+    "Walk"
+  ],
+  "clip_count": 14,
+  "humanoid": false,
+  "rig": "Mesh2Motion Horse",
+  "bone_count": 56,
+  "sha256": "c6f890c307e457b9aa7cceda1fbc1e39f8e6723ef340f23e3e667e122673b51c",
+  "file_size": 1087132,
+  "retargeting_requirement": "Mesh2Motion rig; Roblox R15/R6 not verified",
+  "note": "Skipped CarnegieMellonAnimations folder (CMU no-resell-as-data).",
+  "dimensions": null
+}

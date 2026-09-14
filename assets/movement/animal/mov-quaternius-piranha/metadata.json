@@ -1,0 +1,53 @@
+{
+  "id": "mov-quaternius-piranha",
+  "name": "Quaternius Piranha Locomotion",
+  "description": "Stylized low-poly piranha swim/bite locomotion set from Quaternius Animal Pack Vol.2 (CC0). Multi-clip FBX on a creature rig. OBJ/Blend source duplicates were not packaged.",
+  "category": "movement",
+  "subcategory": "animal",
+  "tags": [
+    "piranha",
+    "swim",
+    "locomotion",
+    "quaternius",
+    "creature",
+    "animated"
+  ],
+  "style": [
+    "stylized",
+    "low-poly",
+    "third-person"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Quaternius Animal Pack Vol.2",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/animated-animales-low-poly",
+  "attribution": "Credit Quaternius (not required by CC0)",
+  "has_scripts": false,
+  "sha256": {
+    "animation.fbx": "8dfc2e6494fc04dacd7f2ad7acd14e5881b4c2d19bc2ba375d63c6d832a94a0f"
+  },
+  "file_size": {
+    "animation.fbx": 180620
+  },
+  "rig_name": "Quaternius Piranha",
+  "humanoid": false,
+  "source_scale": "unknown",
+  "up_axis": "Y",
+  "retargeting_requirement": "Creature-specific rig; retarget only to a matching skeleton. Not Roblox R15/R6.",
+  "roblox_r15_compatible": false,
+  "roblox_r6_compatible": false,
+  "motion_type": "animal",
+  "clip_names": [
+    "Bite",
+    "Swimming"
+  ],
+  "formats_available_in_source": [
+    "fbx",
+    "obj",
+    "blend"
+  ],
+  "dimensions": null
+}
