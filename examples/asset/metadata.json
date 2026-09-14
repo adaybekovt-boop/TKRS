@@ -1,0 +1,15 @@
+{
+  "id": "example_asset_001",
+  "name": "Example Asset",
+  "description": "Placeholder metadata example.",
+  "category": "architecture",
+  "tags": ["example"],
+  "style": [],
+  "formats": ["rbxm"],
+  "source": "placeholder",
+  "author": null,
+  "license": "REPLACE_ME",
+  "original_url": null,
+  "has_scripts": false,
+  "dimensions": null
+}
