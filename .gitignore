@@ -3,6 +3,8 @@
 Thumbs.db
 .vscode/
 .idea/
+__pycache__/
+*.pyc
 
 # Temporary files
 *.tmp
