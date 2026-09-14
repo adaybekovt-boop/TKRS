@@ -1,8 +1,4 @@
-y paths: normalized during materialization
-- no substitute textures were fabricated
-
-This is the repository-materialized form of the audited Batch 002 package.
-"""
+y paths: normalized during materialization\n- no substitute textures were fabricated\n\nThis is the repository-materialized form of the audited Batch 002 package.\n"""
     (BATCH_DIR/"REPORT.md").write_text(text,encoding="utf-8")
 
 

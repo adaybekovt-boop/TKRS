@@ -89,4 +89,4 @@ def download(url: str, destination: Path) -> None:
             return
         except Exception as exc:
             last_error = exc
-            destination.unlink(missing_ok=True)
+            destination.unlink(missing_ok=True
