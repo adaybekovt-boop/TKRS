@@ -28,6 +28,7 @@ python tools/search_assets.py "wall" --subcategory walls --style industrial --fo
 
 Available filters:
 
+- `--category` (`architecture`, `movement`, `lighting`, `uiux`, or `vfx`)
 - `--subcategory`
 - `--style`
 - `--format`
@@ -49,8 +50,11 @@ The command emits JSON. Every result includes:
 - dimensions
 - source and license
 - repository path
-- concrete model files
+- concrete asset files
 - SHA-256 from the catalog
+
+`index/index.json` contains one record per logical asset. The indexed SHA-256
+and `index/checksums.sha256` both refer to that record's `primary_file`.
 
 ## Agent contract
 

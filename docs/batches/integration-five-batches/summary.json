@@ -1,0 +1,26 @@
+{
+  "base_main_sha": "f377f1c0b9605c36f98706662d9fd987bd6fdacb",
+  "branch": "agent/integrate-five-asset-batches",
+  "repository_bytes_before": 90476367,
+  "repository_bytes_after": 655430414,
+  "previous_asset_count": 410,
+  "final_asset_count": 3604,
+  "final_index_count": 3604,
+  "batches": {
+    "architecture-002": {"supplied": 991, "accepted": 991, "rejected": 0},
+    "movement-001": {"supplied": 74, "accepted": 74, "rejected": 0},
+    "lighting-001": {"supplied": 656, "accepted": 656, "rejected": 0},
+    "uiux-001": {"supplied": 835, "accepted": 835, "rejected": 0},
+    "vfx-001": {"supplied": 638, "accepted": 638, "rejected": 0}
+  },
+  "dependency_references_repaired": 280,
+  "missing_or_empty_dependencies_recovered": 29,
+  "duplicate_ids": 0,
+  "exact_duplicate_logical_assets_removed": 0,
+  "exact_duplicate_shared_binaries_removed": 15,
+  "duplicate_shared_bytes_removed": 24886414,
+  "current_tkrs_duplicates_removed": 0,
+  "unresolved_issues": 0,
+  "validation": "PASS",
+  "tests": "PASS (10)"
+}

@@ -4,7 +4,7 @@ TKRS is a searchable asset library for Roblox Studio agents. It lets AI coding a
 
 ## Current state
 
-- 410 architecture assets in the first catalog
+- 3,604 validated assets across architecture, movement, lighting, UI/UX, and VFX
 - searchable `index/index.json`
 - dependency-free natural-language search CLI
 - filters for subcategory, style, format, source, and license
@@ -15,6 +15,13 @@ TKRS is a searchable asset library for Roblox Studio agents. It lets AI coding a
 
 ```bash
 python tools/search_assets.py "industrial wall" --limit 5
+```
+
+Filter explicitly by category when the query is domain-specific:
+
+```bash
+python tools/search_assets.py "sprint animation" --category movement --limit 5
+python tools/search_assets.py "window gobo" --category lighting --limit 5
 ```
 
 ```bash

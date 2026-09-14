@@ -83,6 +83,15 @@ ALIASES = {
     "замок": "castle",
     "modular": "modular",
     "модульный": "modular",
+    "vault": "climb",
+    "vaulting": "climb",
+    "mantle": "climb",
+    "settings": "options",
+    "setting": "options",
+    "preferences": "options",
+    "gobo": "mask",
+    "gobos": "mask",
+    "lightmask": "mask",
     "lowpoly": "low-poly",
     "low-poly": "low-poly",
     "низкополигональный": "low-poly",
@@ -91,8 +100,10 @@ ALIASES = {
 FIELD_WEIGHTS = {
     "name": 12.0,
     "tags": 9.0,
+    "category": 8.0,
     "subcategory": 8.0,
     "style": 6.0,
+    "details": 4.0,
     "id": 5.0,
     "source": 3.0,
     "description": 2.0,
@@ -134,11 +145,24 @@ def load_index(path: Path | str = DEFAULT_INDEX) -> dict[str, Any]:
 
 
 def _asset_fields(asset: dict[str, Any]) -> dict[str, set[str]]:
+    core = {"id", "name", "category", "subcategory", "description", "tags", "style", "formats", "source", "license", "path", "sha256", "primary_file"}
+    detail_values: list[Any] = []
+    for key, value in asset.items():
+        if key in core or value is None:
+            continue
+        if isinstance(value, dict):
+            detail_values.extend(value.values())
+        elif isinstance(value, list):
+            detail_values.extend(value)
+        else:
+            detail_values.append(value)
     return {
         "name": tokens(asset.get("name")),
         "tags": list_tokens(asset.get("tags") or []),
+        "category": tokens(asset.get("category")),
         "subcategory": tokens(asset.get("subcategory")),
         "style": list_tokens(asset.get("style") or []),
+        "details": list_tokens(detail_values),
         "id": tokens(asset.get("id")),
         "source": tokens(asset.get("source")),
         "description": tokens(asset.get("description")),
@@ -211,9 +235,12 @@ def _score_asset(asset: dict[str, Any], query: str) -> tuple[float, list[str]]:
         score += token_score
 
     # Prefer results that satisfy more of the query instead of one very strong token.
-    coverage = len(matched) / max(len(set(query_tokens)), 1)
+    unique_query_tokens = set(query_tokens)
+    coverage = len(matched) / max(len(unique_query_tokens), 1)
+    if len(unique_query_tokens) >= 3 and coverage < 0.5:
+        return 0.0, []
     score *= 0.55 + (0.45 * coverage)
-    if len(set(query_tokens)) > 1 and coverage == 1.0:
+    if len(unique_query_tokens) > 1 and coverage == 1.0:
         score += 8.0
 
     return score, sorted(matched)
@@ -226,11 +253,14 @@ def _asset_files(asset: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[str
     directory = repo_root / path
     if not directory.is_dir():
         return []
-    allowed = {".glb", ".gltf", ".bin", ".obj", ".mtl", ".fbx", ".png", ".jpg", ".jpeg", ".webp"}
+    allowed = {".glb", ".gltf", ".bin", ".obj", ".mtl", ".fbx", ".png", ".jpg", ".jpeg", ".webp", ".svg", ".hdr", ".cube", ".lua", ".luau", ".gd", ".cs", ".tsx", ".json", ".txt"}
     return [
         str(file.relative_to(repo_root)).replace("\\", "/")
         for file in sorted(directory.iterdir())
-        if file.is_file() and file.suffix.casefold() in allowed
+        if file.is_file()
+        and file.suffix.casefold() in allowed
+        and file.name.casefold() != "metadata.json"
+        and not file.name.casefold().startswith(("license", "copying"))
     ]
 
 
@@ -239,6 +269,7 @@ def search_assets(
     query: str,
     *,
     limit: int = 10,
+    category: str | None = None,
     subcategory: str | None = None,
     style: str | None = None,
     format_name: str | None = None,
@@ -250,6 +281,8 @@ def search_assets(
     ranked: list[tuple[float, list[str], dict[str, Any]]] = []
 
     for asset in assets:
+        if not _matches_filter(asset, "category", category):
+            continue
         if not _matches_filter(asset, "subcategory", subcategory):
             continue
         if not _matches_filter(asset, "style", style):
@@ -297,6 +330,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("query", nargs="+", help="Search query, e.g. 'industrial wall' or 'средневековая дверь'")
     parser.add_argument("--index", default=str(DEFAULT_INDEX), help="Path to index/index.json")
     parser.add_argument("--limit", type=int, default=10, help="Maximum number of results (default: 10)")
+    parser.add_argument("--category", choices=("architecture", "movement", "lighting", "uiux", "vfx"), help="Filter by top-level category")
     parser.add_argument("--subcategory", help="Filter by subcategory, e.g. walls, doors, stairs")
     parser.add_argument("--style", help="Filter by style/tag, e.g. industrial, medieval, low-poly")
     parser.add_argument("--format", dest="format_name", help="Filter by asset format, e.g. glb, gltf, obj")
@@ -316,6 +350,7 @@ def main() -> int:
         catalog["assets"],
         query,
         limit=args.limit,
+        category=args.category,
         subcategory=args.subcategory,
         style=args.style,
         format_name=args.format_name,
