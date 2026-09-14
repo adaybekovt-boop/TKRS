@@ -1,0 +1,45 @@
+{
+  "id": "vfx_noise_tkrs-proc_006",
+  "name": "Turbulence Noise",
+  "description": "Absolute-value turbulence noise tile.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "noise",
+    "turbulence",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "a2d3cbca46192c99d5cfb37d986437ee7439bd039255af3f5fc2b4a34f433b4f"
+  },
+  "file_size": 46330,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "noise",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "fire / heat distortion driver",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

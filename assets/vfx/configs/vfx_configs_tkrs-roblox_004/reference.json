@@ -1,0 +1,33 @@
+{
+  "id": "vfx_configs_tkrs-roblox_004",
+  "name": "Snow Blizzard",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 50,
+    "Lifetime": [
+      2,
+      4
+    ],
+    "Speed": [
+      6,
+      10
+    ],
+    "SpreadAngle": [
+      25,
+      12
+    ],
+    "Acceleration": [
+      3,
+      -4,
+      0
+    ],
+    "Drag": 1,
+    "RotSpeed": [
+      -40,
+      40
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

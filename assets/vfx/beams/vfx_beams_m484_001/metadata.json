@@ -1,0 +1,41 @@
+{
+  "id": "vfx_beams_m484_001",
+  "name": "M484 Lightning Weapon Sheet",
+  "description": "Classic arcade-style lightning weapon sprite sheet (40 pieces x 2 frames) by Master484. CC0.",
+  "category": "vfx",
+  "subcategory": "beams",
+  "tags": [
+    "lightning",
+    "beam",
+    "shmup",
+    "sheet",
+    "m484"
+  ],
+  "style": [
+    "pixel-art",
+    "arcade"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "M484 Lightning Weapon",
+  "author": "Master484",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/m484-lightning-weapon",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "M484LightningWeapon.png": "db64312bd109bb6bb81746e88a249358572545018cdecb7f11f7149f70431e89"
+  },
+  "file_size": 28698,
+  "files": [
+    "M484LightningWeapon.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "lightning",
+  "dimensionality": "2D",
+  "asset_kind": "sprite-sheet",
+  "attribution": "Attribution optional",
+  "grid_note": "30x30 tiles, 40 pieces, 2 frames each",
+  "dimensions": null
+}

@@ -1,0 +1,6 @@
+{
+  "class": "ScreenOverlay",
+  "textureHint": "dirt specks + smudges",
+  "opacity": 0.25,
+  "notes": "additive over bright areas if engine allows"
+}

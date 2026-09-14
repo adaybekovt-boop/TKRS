@@ -1,0 +1,26 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 1,
+  "Lifetime": [
+    0.35,
+    0.35
+  ],
+  "Speed": [
+    0,
+    0
+  ],
+  "Size": [
+    0.5,
+    6.0
+  ],
+  "Color": [
+    "#ffffff",
+    "#c0d0ff"
+  ],
+  "Transparency": [
+    0.2,
+    1.0
+  ],
+  "TextureHint": "ring / circle outline"
+}

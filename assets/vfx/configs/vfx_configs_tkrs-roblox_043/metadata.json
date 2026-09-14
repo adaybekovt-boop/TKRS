@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_043",
+  "name": "Frost Overlay Note",
+  "description": "Inert Roblox ScreenGui reference settings for 'Frost Overlay Note'. Plain-text JSON only. Not executable.",
+  "category": "vfx",
+  "subcategory": "configs",
+  "tags": [
+    "roblox",
+    "config",
+    "reference",
+    "frost-overlay",
+    "ScreenGui"
+  ],
+  "style": [
+    "technical-reference"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS VFX Batch 001 original reference",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "attribution_required": false,
+  "has_scripts": true,
+  "sha256": {
+    "reference.json": "2096d68c105e29d3aee2d3b654366b7154eaad90eb04939b267db67a1c2e7e1e"
+  },
+  "file_size": 431,
+  "files": [
+    "reference.json"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "frost-overlay",
+  "dimensionality": "2D",
+  "asset_kind": "config",
+  "attribution": "Not required",
+  "code_note": "JSON reference only; no Luau executed",
+  "dimensions": null
+}

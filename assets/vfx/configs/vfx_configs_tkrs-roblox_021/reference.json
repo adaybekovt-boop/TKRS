@@ -1,0 +1,35 @@
+{
+  "id": "vfx_configs_tkrs-roblox_021",
+  "name": "Electric Arc Burst",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 0,
+    "Lifetime": [
+      0.08,
+      0.18
+    ],
+    "Speed": [
+      4,
+      10
+    ],
+    "LightEmission": 1,
+    "Color": [
+      [
+        0.7,
+        0.9,
+        1
+      ],
+      [
+        0.3,
+        0.6,
+        1
+      ]
+    ],
+    "suggested_texture": "13rice lightning or m484 sheet",
+    "emit_burst": 6,
+    "Enabled": false
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

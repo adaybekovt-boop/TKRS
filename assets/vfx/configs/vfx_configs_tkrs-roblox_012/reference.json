@@ -1,0 +1,47 @@
+{
+  "id": "vfx_configs_tkrs-roblox_012",
+  "name": "Embers",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 10,
+    "Lifetime": [
+      0.8,
+      1.8
+    ],
+    "Speed": [
+      2,
+      5
+    ],
+    "Acceleration": [
+      0,
+      2,
+      0
+    ],
+    "LightEmission": 0.8,
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.04,
+        0.02
+      ]
+    },
+    "Color": [
+      [
+        1,
+        0.6,
+        0.15
+      ],
+      [
+        1,
+        0.2,
+        0
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

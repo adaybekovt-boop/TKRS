@@ -1,0 +1,48 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_049",
+  "name": "Cone Composed E",
+  "description": "Kenney Light Masks cookie 'cone_composed_e' (transparent encoding). Use as a light cookie, ParticleEmitter texture, or additive glow mask in Roblox.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx",
+    "cone",
+    "composed",
+    "e"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "cone_composed_e.png": "1b72203819071dadf8eb5d5d119bac990e09b64da81558e0a16b04c5f5fb259b"
+  },
+  "file_size": 21491,
+  "files": [
+    "cone_composed_e.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask / glow",
+  "source_site": "https://kenney.nl/assets/light-masks",
+  "original_filename": "cone_composed_e.png",
+  "attribution": null,
+  "dimensions": null
+}

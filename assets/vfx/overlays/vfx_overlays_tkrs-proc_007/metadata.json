@@ -1,0 +1,46 @@
+{
+  "id": "vfx_overlays_tkrs-proc_007",
+  "name": "Frost Edge Overlay",
+  "description": "Procedural icy frost buildup toward frame edges.",
+  "category": "vfx",
+  "subcategory": "overlays",
+  "tags": [
+    "frost",
+    "screen",
+    "overlay",
+    "ice"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "54397c2d7b3078cd5471d70dce7256288a3d8fa89a8b21432a269f49270e861e"
+  },
+  "file_size": 72151,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "overlays",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "cold biome overlay",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "vfx_impact_kenney-particle_020",
+  "name": "Spark 07",
+  "description": "Kenney Particle Pack sprite 'spark_07'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "kenney",
+    "particle",
+    "spark",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "spark_07.png": "1f1f798a6f969349da9cdbc87738ab8bc26542149f3a421cf9b64726491e01e1"
+  },
+  "file_size": 27522,
+  "files": [
+    "spark_07.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "spark",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "spark_07.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

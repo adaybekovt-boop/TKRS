@@ -1,0 +1,46 @@
+{
+  "id": "vfx_gradients_tkrs-proc_011",
+  "name": "Grayscale Ramp",
+  "description": "Procedural grayscale ramp color lookup for particles and beams.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "gray",
+    "gradient",
+    "ramp",
+    "lut"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "306c6ad7b7f4931b3db3a53c3bb03f0f2c2e85e3ebbfaf8a2bd846df0da2507f"
+  },
+  "file_size": 1176,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "gradients",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "colorize grayscale particles",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

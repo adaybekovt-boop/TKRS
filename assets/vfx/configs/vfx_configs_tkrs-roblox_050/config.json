@@ -1,0 +1,20 @@
+{
+  "class": "PoolingPattern",
+  "poolSize": 16,
+  "recycleAfter": "Lifetime.Max",
+  "notes": "Pre-create emitters, parent on demand, disable Rate after burst, return to pool when all particles die.",
+  "burstEmitters": [
+    "sparks-impact",
+    "explosion-burst",
+    "muzzle-flash",
+    "hit-flash",
+    "slash-arc",
+    "water-splash"
+  ],
+  "loopEmitters": [
+    "rain-drizzle",
+    "smoke-column",
+    "campfire",
+    "aura-loop"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_018",
+  "name": "Slash Arc",
+  "description": "Inert Roblox ParticleEmitter reference settings for 'Slash Arc'. Plain-text JSON only. Not executable.",
+  "category": "vfx",
+  "subcategory": "configs",
+  "tags": [
+    "roblox",
+    "config",
+    "reference",
+    "slash",
+    "ParticleEmitter"
+  ],
+  "style": [
+    "technical-reference"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS VFX Batch 001 original reference",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "attribution_required": false,
+  "has_scripts": true,
+  "sha256": {
+    "reference.json": "93a2a783581a198e8e2815b54467bb666c04dca5435fb951a18661fa84c332a2"
+  },
+  "file_size": 705,
+  "files": [
+    "reference.json"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "config",
+  "attribution": "Not required",
+  "code_note": "JSON reference only; no Luau executed",
+  "dimensions": null
+}

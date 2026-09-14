@@ -1,0 +1,44 @@
+{
+  "id": "vfx_impact_kenney-particle_011",
+  "name": "Slash 02",
+  "description": "Kenney Particle Pack sprite 'slash_02'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "kenney",
+    "particle",
+    "slash",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "slash_02.png": "4c226fe5bcc428ad8859f49832c1a933e31450dc0bafca8ab33610d15d3ea876"
+  },
+  "file_size": 28122,
+  "files": [
+    "slash_02.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "slash_02.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

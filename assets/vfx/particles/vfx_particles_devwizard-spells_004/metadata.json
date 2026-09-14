@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_004",
+  "name": "Bolt Of Purity",
+  "description": "Pixel-art spell sprite 'Bolt Of Purity' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Bolt Of Purity.png": "70c9cba7a44e72f7719b1db61fdbe7a6a04ce12763afa0f12e8378aa907eaee5"
+  },
+  "file_size": 359,
+  "files": [
+    "Bolt Of Purity.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

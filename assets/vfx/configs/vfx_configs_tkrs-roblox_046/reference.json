@@ -1,0 +1,11 @@
+{
+  "id": "vfx_configs_tkrs-roblox_046",
+  "name": "Hit Overlay Red",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ScreenGui",
+    "note": "Brief red ImageLabel flash, fade 0.15s. Trigger on damage."
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

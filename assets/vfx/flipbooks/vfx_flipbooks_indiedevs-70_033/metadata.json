@@ -1,0 +1,37 @@
+{
+  "id": "vfx_flipbooks_indiedevs-70_033",
+  "name": "explosion70",
+  "description": "Animated 2D effect sheet 'explosion70' by IndieDevs. CC0. Parenthetical variants omitted.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "explosion",
+    "flipbook",
+    "indiedevs"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "70 Animated 2D Game Effects!",
+  "author": "IndieDevs",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/70-animated-2d-game-effects",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "explosion70.png": "33958e7921140da580bc16e807d225d5d72400293756480e756ca3c4daae5a46"
+  },
+  "file_size": 649342,
+  "files": [
+    "explosion70.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "explosion",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Optional: IndieDevs",
+  "dimensions": null
+}

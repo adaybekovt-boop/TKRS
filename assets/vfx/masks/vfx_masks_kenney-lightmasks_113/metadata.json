@@ -1,0 +1,47 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_113",
+  "name": "Streaks Composed G Noise",
+  "description": "Kenney Light Masks cookie 'streaks_composed_g_noise' (transparent encoding).",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "streaks",
+    "composed",
+    "g",
+    "noise"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "streaks_composed_g_noise.png": "bb81008d45cc51f476e60d5a59b9ba3cc9a15ca7cc7f6ba118b2fd2d250e55e4"
+  },
+  "file_size": 29480,
+  "files": [
+    "streaks_composed_g_noise.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask",
+  "original_filename": "streaks_composed_g_noise.png",
+  "attribution": null,
+  "dimensions": null
+}

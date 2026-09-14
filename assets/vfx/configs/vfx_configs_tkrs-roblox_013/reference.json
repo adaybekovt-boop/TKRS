@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_013",
+  "name": "Sparks Impact",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 0,
+    "Lifetime": [
+      0.15,
+      0.4
+    ],
+    "Speed": [
+      8,
+      16
+    ],
+    "Drag": 4,
+    "LightEmission": 0.9,
+    "SpreadAngle": [
+      40,
+      40
+    ],
+    "Color": [
+      [
+        1,
+        1,
+        0.7
+      ],
+      [
+        1,
+        0.7,
+        0.2
+      ]
+    ],
+    "emit_burst": 16,
+    "Enabled": false,
+    "note": "Call :Emit(16) on impact"
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

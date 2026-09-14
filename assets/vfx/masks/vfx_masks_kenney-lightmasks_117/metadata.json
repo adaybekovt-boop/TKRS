@@ -1,0 +1,46 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_117",
+  "name": "Water Caustics B",
+  "description": "Kenney Light Masks cookie 'water_caustics_b' (transparent encoding).",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "water",
+    "caustics",
+    "b"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "water_caustics_b.png": "aaf8b9c086fda4f40b33874c8591e8fa3e9bf8cebb26bd4b79511ab8e29eef18"
+  },
+  "file_size": 111028,
+  "files": [
+    "water_caustics_b.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask",
+  "original_filename": "water_caustics_b.png",
+  "attribution": null,
+  "dimensions": null
+}

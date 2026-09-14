@@ -1,0 +1,36 @@
+{
+  "id": "vfx_configs_tkrs-roblox_040",
+  "name": "Electric Field Loop",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 20,
+    "Lifetime": [
+      0.12,
+      0.25
+    ],
+    "Speed": [
+      1,
+      4
+    ],
+    "LightEmission": 1,
+    "SpreadAngle": [
+      40,
+      40
+    ],
+    "Color": [
+      [
+        0.6,
+        0.85,
+        1
+      ],
+      [
+        0.2,
+        0.5,
+        1
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

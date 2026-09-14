@@ -1,0 +1,41 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_129",
+  "name": "Window D",
+  "description": "Kenney Light Masks transparent cookie 'window_d.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "window_d.png": "9e1bb23a15217f235d57a2de2ab3779a013036e73410c049a711811d1bb2d583"
+  },
+  "file_size": 229,
+  "files": [
+    "window_d.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "window_d.png",
+  "effect_type": "light-cookie",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

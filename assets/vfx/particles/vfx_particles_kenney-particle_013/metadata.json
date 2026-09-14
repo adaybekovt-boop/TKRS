@@ -1,0 +1,44 @@
+{
+  "id": "vfx_particles_kenney-particle_013",
+  "name": "Magic 05",
+  "description": "Kenney Particle Pack sprite 'magic_05'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "kenney",
+    "particle",
+    "magic",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "magic_05.png": "1342389b347925ebbc395e0e7c1ef7fef030d2303ff020c6b9ffa07d2a206b63"
+  },
+  "file_size": 48663,
+  "files": [
+    "magic_05.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "magic",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "magic_05.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

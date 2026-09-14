@@ -1,0 +1,48 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_068",
+  "name": "Fan C Blur",
+  "description": "Kenney Light Masks cookie 'fan_c_blur' (transparent encoding). Use as a light cookie, ParticleEmitter texture, or additive glow mask in Roblox.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx",
+    "fan",
+    "c",
+    "blur"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "fan_c_blur.png": "64c276488b174d137c21e2d2896e01f18a85e583f2e44a2e923c587911ee986e"
+  },
+  "file_size": 38734,
+  "files": [
+    "fan_c_blur.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask / glow",
+  "source_site": "https://kenney.nl/assets/light-masks",
+  "original_filename": "fan_c_blur.png",
+  "attribution": null,
+  "dimensions": null
+}

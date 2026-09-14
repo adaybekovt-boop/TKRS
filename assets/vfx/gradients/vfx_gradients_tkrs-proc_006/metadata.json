@@ -1,0 +1,46 @@
+{
+  "id": "vfx_gradients_tkrs-proc_006",
+  "name": "Heal Ramp",
+  "description": "Procedural heal ramp color lookup for particles and beams.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "heal",
+    "gradient",
+    "ramp",
+    "lut"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "fb42afc35c9dbd04edbf8ff3e07e5fd4784ec6a4667617acc6a740726e94192d"
+  },
+  "file_size": 1164,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "gradients",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "colorize grayscale particles",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

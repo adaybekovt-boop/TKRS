@@ -1,0 +1,46 @@
+{
+  "id": "vfx_environmental_kenney-smoke_026",
+  "name": "Wispy Cloud 00",
+  "description": "Kenney Smoke Particles wispy/fart cloud sprite 'fart00.png'. Distinct silhouette family from black smoke; usable as steam/gas puff.",
+  "category": "vfx",
+  "subcategory": "environmental",
+  "tags": [
+    "kenney",
+    "steam",
+    "gas",
+    "wispy",
+    "puff",
+    "environmental",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "soft"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Smoke Particles",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/smoke-particles",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "fart00.png": "b7e94e239b3d94cc9ec30e90a83f0b341827682c738c97cda52bee5bef2fc134"
+  },
+  "file_size": 254176,
+  "files": [
+    "fart00.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "fart00.png",
+  "source_site": "https://kenney.nl/assets/smoke-particles",
+  "attribution": "Attribution optional",
+  "source_repository": "https://opengameart.org/content/smoke-particle-assets",
+  "effect_type": "steam",
+  "dimensions": null
+}

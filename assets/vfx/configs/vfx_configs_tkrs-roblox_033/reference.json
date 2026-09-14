@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_033",
+  "name": "Energy Beam",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "Beam",
+    "Width0": 0.2,
+    "Width1": 0.6,
+    "LightEmission": 0.8,
+    "LightInfluence": 0,
+    "TextureSpeed": 2,
+    "Segments": 12,
+    "FaceCamera": false,
+    "Color": [
+      [
+        0.4,
+        0.7,
+        1
+      ],
+      [
+        0.2,
+        0.4,
+        1
+      ]
+    ],
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.1,
+        0.4
+      ]
+    },
+    "note": "Requires two Attachments (Attachment0/Attachment1)"
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_089",
+  "name": "Ring B Streaks",
+  "description": "Kenney Light Masks transparent cookie 'ring_b_streaks.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "ring_b_streaks.png": "0c388bf04b201dabb2fe11f5b08f45522d557389aad64198f6f8478c29ae68ec"
+  },
+  "file_size": 43489,
+  "files": [
+    "ring_b_streaks.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "ring_b_streaks.png",
+  "effect_type": "light-cookie",
+  "alpha_mode": "straight",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

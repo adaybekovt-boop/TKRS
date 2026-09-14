@@ -1,0 +1,40 @@
+{
+  "id": "vfx_gradients_tkrs-proc_213",
+  "name": "Ramp shadow",
+  "description": "Color ramp 'shadow' for particle color sequences. 256x32.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "procedural",
+    "gradient",
+    "shadow",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "ramp_shadow.png": "6d06e4ae68e7f34497d82d98fcbb9e058aca6cd264b926cac29c98851db272a4"
+  },
+  "file_size": 230,
+  "files": [
+    "ramp_shadow.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "gradient-ramp",
+  "generated": true,
+  "dimensions": null
+}

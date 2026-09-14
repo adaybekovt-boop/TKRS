@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_003",
+  "name": "Snow Gentle",
+  "description": "Inert Roblox ParticleEmitter reference settings for 'Snow Gentle'. Plain-text JSON only. Not executable.",
+  "category": "vfx",
+  "subcategory": "configs",
+  "tags": [
+    "roblox",
+    "config",
+    "reference",
+    "snow",
+    "ParticleEmitter"
+  ],
+  "style": [
+    "technical-reference"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS VFX Batch 001 original reference",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "attribution_required": false,
+  "has_scripts": true,
+  "sha256": {
+    "reference.json": "cf1ca1af824b512f326798bc8a69c21907b473e0ba38c853ac3d11044650d138"
+  },
+  "file_size": 987,
+  "files": [
+    "reference.json"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "snow",
+  "dimensionality": "2D",
+  "asset_kind": "config",
+  "attribution": "Not required",
+  "code_note": "JSON reference only; no Luau executed",
+  "dimensions": null
+}

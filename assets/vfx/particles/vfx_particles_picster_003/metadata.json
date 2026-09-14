@@ -1,0 +1,46 @@
+{
+  "id": "vfx_particles_picster_003",
+  "name": "Effect 3",
+  "description": "RPicster CC0 VFX texture 'effect_3' (256px, best encoding kept).",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "picster",
+    "rpicster",
+    "particle",
+    "vfx",
+    "cc0",
+    "effect"
+  ],
+  "style": [
+    "rendered",
+    "soft"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Godot particle and VFX textures",
+  "author": "Raffaele Picca (RPicster)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/RPicster/Godot-particle-and-vfx-textures",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "effect_3.png": "fa1e53532476be9611b3a7af940aca88ffdd24ca120eddcb17b3ea5e243f0070"
+  },
+  "file_size": 13164,
+  "files": [
+    "effect_3.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "particle-texture",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "original_filename": "effect_3.png",
+  "attribution": null,
+  "dimensions": null
+}

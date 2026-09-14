@@ -1,0 +1,44 @@
+{
+  "id": "vfx_glows_kenney-particle_001",
+  "name": "Flare 01",
+  "description": "Kenney Particle Pack sprite 'flare_01'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "glows",
+  "tags": [
+    "kenney",
+    "particle",
+    "flare",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "flare_01.png": "439a58c4e3486031996af880a841067961218cb7f7cc513ded25dc480f50f840"
+  },
+  "file_size": 17953,
+  "files": [
+    "flare_01.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "flare",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "flare_01.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

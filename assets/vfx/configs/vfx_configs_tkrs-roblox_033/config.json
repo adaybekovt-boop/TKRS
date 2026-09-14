@@ -1,0 +1,17 @@
+{
+  "class": "Beam",
+  "Width0": 0.2,
+  "Width1": 0.6,
+  "TextureSpeed": 2.0,
+  "LightEmission": 0.8,
+  "Color": [
+    "#40c0ff",
+    "#ffffff"
+  ],
+  "Transparency": [
+    0.1,
+    0.4
+  ],
+  "TextureHint": "tiled energy / kenney trace",
+  "FaceCamera": true
+}

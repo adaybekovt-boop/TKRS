@@ -1,0 +1,42 @@
+{
+  "id": "vfx_noise_tkrs-proc_210",
+  "name": "Noise sand",
+  "description": "Fine sand/dust grain. 256² grayscale RGB, opaque alpha. Procedural CC0.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "procedural",
+    "noise",
+    "sand",
+    "building-block",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "sand.png": "312ed549e523f0ddffc2cee544e6c503ac6ff367eada4f459b2118cebe9c7508"
+  },
+  "file_size": 93416,
+  "files": [
+    "sand.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "noise",
+  "generated": true,
+  "resolution": "256x256",
+  "dimensions": null
+}

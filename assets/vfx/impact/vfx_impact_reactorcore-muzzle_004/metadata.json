@@ -1,0 +1,37 @@
+{
+  "id": "vfx_impact_reactorcore-muzzle_004",
+  "name": "Muzzle Large Fire",
+  "description": "Reactorcore 'Muzzle Large Fire' sprite sheet. CC0. Ion/red recolors and individual frames omitted.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "reactorcore",
+    "muzzle-flash",
+    "spritesheet"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Gun Muzzle Flash Effects (Fire and Ion and Melee)",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/gun-muzzle-flash-effects-fire-and-ion-and-melee",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Muzzle_Large_Fire.png": "9d4de2b5976927766b6bd8ef4dc69c3f94093e74db023dd0807678573e546479"
+  },
+  "file_size": 4204,
+  "files": [
+    "Muzzle_Large_Fire.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "muzzle-flash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite-sheet",
+  "attribution": "Optional: Reactorcore",
+  "dimensions": null
+}

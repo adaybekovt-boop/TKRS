@@ -1,0 +1,40 @@
+{
+  "id": "vfx_gradients_tkrs-proc_212",
+  "name": "Ramp rainbow",
+  "description": "Color ramp 'rainbow' for particle color sequences. 256x32.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "procedural",
+    "gradient",
+    "rainbow",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "ramp_rainbow.png": "666659d320f29a89741b1485f9a1e74d187eec708a834b8fdd11bf5ba5f31189"
+  },
+  "file_size": 252,
+  "files": [
+    "ramp_rainbow.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "gradient-ramp",
+  "generated": true,
+  "dimensions": null
+}

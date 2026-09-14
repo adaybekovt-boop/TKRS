@@ -1,0 +1,46 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_070",
+  "name": "Fan D",
+  "description": "Kenney Light Masks transparent cookie 'fan_d.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "fan_d.png": "b93a733b06ffd15f83adc53783a69d3a6c05d01f58bd0d760ec5efba7e83869c"
+  },
+  "file_size": 5262,
+  "files": [
+    "fan_d.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "fan_d.png",
+  "effect_type": "light-cookie",
+  "alpha_mode": "straight",
+  "attribution": "Credit Kenney.nl optional",
+  "resolution": [
+    512,
+    512
+  ],
+  "dimensions": null
+}

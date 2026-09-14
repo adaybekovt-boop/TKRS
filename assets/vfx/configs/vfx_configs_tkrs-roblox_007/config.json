@@ -1,0 +1,37 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 14,
+  "Lifetime": [
+    3.0,
+    5.0
+  ],
+  "Speed": [
+    1,
+    2
+  ],
+  "SpreadAngle": [
+    15,
+    15
+  ],
+  "Size": [
+    0.04,
+    0.12
+  ],
+  "Acceleration": [
+    0,
+    -1.5,
+    0
+  ],
+  "Color": [
+    "#3a3a3a",
+    "#6a6a6a"
+  ],
+  "Transparency": [
+    0.2,
+    0.7
+  ],
+  "RotSpeed": [
+    -40,
+    40
+  ]
+}

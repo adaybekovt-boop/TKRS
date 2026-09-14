@@ -1,0 +1,42 @@
+{
+  "id": "vfx_noise_tkrs-proc_206",
+  "name": "Noise billow",
+  "description": "Billowy cloud density. 256² grayscale RGB, opaque alpha. Procedural CC0.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "procedural",
+    "noise",
+    "billow",
+    "building-block",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "billow.png": "c0bedc0ff15a32838076f9ab6acffad5347de6b3684259fd0d047db9b945de49"
+  },
+  "file_size": 68830,
+  "files": [
+    "billow.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "noise",
+  "generated": true,
+  "resolution": "256x256",
+  "dimensions": null
+}

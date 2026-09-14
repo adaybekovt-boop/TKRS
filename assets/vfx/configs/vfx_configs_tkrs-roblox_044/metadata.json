@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_044",
+  "name": "Film Grain Overlay Note",
+  "description": "Inert Roblox ScreenGui reference settings for 'Film Grain Overlay Note'. Plain-text JSON only. Not executable.",
+  "category": "vfx",
+  "subcategory": "configs",
+  "tags": [
+    "roblox",
+    "config",
+    "reference",
+    "film-grain",
+    "ScreenGui"
+  ],
+  "style": [
+    "technical-reference"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS VFX Batch 001 original reference",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "attribution_required": false,
+  "has_scripts": true,
+  "sha256": {
+    "reference.json": "bb6c0ba84c24aae58e5ca615268347badb3853893cc7b156d8e71cc8fdd832d4"
+  },
+  "file_size": 458,
+  "files": [
+    "reference.json"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "film-grain",
+  "dimensionality": "2D",
+  "asset_kind": "config",
+  "attribution": "Not required",
+  "code_note": "JSON reference only; no Luau executed",
+  "dimensions": null
+}

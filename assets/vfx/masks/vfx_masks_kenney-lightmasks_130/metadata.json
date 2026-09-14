@@ -1,0 +1,41 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_130",
+  "name": "Window D Blur",
+  "description": "Kenney Light Masks transparent cookie 'window_d_blur.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "window_d_blur.png": "4b0edb5e273dedfa4f279706b537537876baed2efd864333986324d55c61c804"
+  },
+  "file_size": 21490,
+  "files": [
+    "window_d_blur.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "window_d_blur.png",
+  "effect_type": "light-cookie",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

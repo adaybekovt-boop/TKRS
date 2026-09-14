@@ -1,0 +1,44 @@
+{
+  "id": "vfx_configs_tkrs-roblox_017",
+  "name": "Hit Flash",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 0,
+    "Lifetime": [
+      0.08,
+      0.08
+    ],
+    "Speed": [
+      0,
+      0
+    ],
+    "LightEmission": 1,
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.6,
+        0.2
+      ]
+    },
+    "Color": [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "emit_burst": 1,
+    "Enabled": false
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_017",
+  "name": "Hit Flash",
+  "description": "Inert Roblox ParticleEmitter reference settings for 'Hit Flash'. Plain-text JSON only. Not executable.",
+  "category": "vfx",
+  "subcategory": "configs",
+  "tags": [
+    "roblox",
+    "config",
+    "reference",
+    "hit-flash",
+    "ParticleEmitter"
+  ],
+  "style": [
+    "technical-reference"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS VFX Batch 001 original reference",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "attribution_required": false,
+  "has_scripts": true,
+  "sha256": {
+    "reference.json": "6b8c8e61f7908afcee472dd5ce9344c9d1db0402069eb1d53021c9884bd9d5ae"
+  },
+  "file_size": 735,
+  "files": [
+    "reference.json"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "hit-flash",
+  "dimensionality": "2D",
+  "asset_kind": "config",
+  "attribution": "Not required",
+  "code_note": "JSON reference only; no Luau executed",
+  "dimensions": null
+}

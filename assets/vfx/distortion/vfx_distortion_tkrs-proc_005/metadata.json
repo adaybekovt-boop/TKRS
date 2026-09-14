@@ -1,0 +1,45 @@
+{
+  "id": "vfx_distortion_tkrs-proc_005",
+  "name": "Noise Normal Distortion",
+  "description": "Derivative-of-FBM distortion/normal map.",
+  "category": "vfx",
+  "subcategory": "distortion",
+  "tags": [
+    "distortion",
+    "normal",
+    "heat"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "877fe68f872840b191dfe4c57196f906755f4637e68a1955a355f5c3218bdd47"
+  },
+  "file_size": 63454,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "distortion",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "heat haze / water refraction",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

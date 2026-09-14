@@ -1,0 +1,50 @@
+{
+  "id": "vfx_configs_tkrs-roblox_029",
+  "name": "Falling Leaves",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 4,
+    "Lifetime": [
+      3,
+      6
+    ],
+    "Speed": [
+      0.5,
+      1.2
+    ],
+    "Acceleration": [
+      0,
+      -3,
+      0
+    ],
+    "RotSpeed": [
+      -60,
+      60
+    ],
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.15,
+        0.3
+      ]
+    },
+    "Color": [
+      [
+        0.7,
+        0.45,
+        0.15
+      ],
+      [
+        0.5,
+        0.25,
+        0.08
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "vfx_noise_tkrs-proc_203",
+  "name": "Noise fbm-high",
+  "description": "High-frequency FBM for energy grain. 256² grayscale RGB, opaque alpha. Procedural CC0.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "procedural",
+    "noise",
+    "fbm-high",
+    "building-block",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "fbm-high.png": "b8e87271504b6e7ff7488d9d78afb57d14997f7bc6933ec707dda6f789ac01d3"
+  },
+  "file_size": 85584,
+  "files": [
+    "fbm-high.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "noise",
+  "generated": true,
+  "resolution": "256x256",
+  "dimensions": null
+}

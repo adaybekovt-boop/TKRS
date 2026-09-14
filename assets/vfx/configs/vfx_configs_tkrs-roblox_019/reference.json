@@ -1,0 +1,42 @@
+{
+  "id": "vfx_configs_tkrs-roblox_019",
+  "name": "Water Splash",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 0,
+    "Lifetime": [
+      0.3,
+      0.7
+    ],
+    "Speed": [
+      6,
+      12
+    ],
+    "Acceleration": [
+      0,
+      -20,
+      0
+    ],
+    "SpreadAngle": [
+      50,
+      20
+    ],
+    "Color": [
+      [
+        0.7,
+        0.85,
+        1
+      ],
+      [
+        0.5,
+        0.7,
+        0.95
+      ]
+    ],
+    "emit_burst": 20,
+    "Enabled": false
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

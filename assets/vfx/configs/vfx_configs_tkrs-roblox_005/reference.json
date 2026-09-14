@@ -1,0 +1,57 @@
+{
+  "id": "vfx_configs_tkrs-roblox_005",
+  "name": "Dust Motes",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 8,
+    "Lifetime": [
+      3,
+      6
+    ],
+    "Speed": [
+      0.2,
+      0.6
+    ],
+    "SpreadAngle": [
+      30,
+      30
+    ],
+    "Drag": 4,
+    "LightEmission": 0.2,
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.03,
+        0.08
+      ]
+    },
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.4,
+        1
+      ]
+    },
+    "Color": [
+      [
+        0.85,
+        0.78,
+        0.62
+      ],
+      [
+        0.7,
+        0.65,
+        0.5
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

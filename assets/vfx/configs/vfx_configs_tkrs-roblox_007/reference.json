@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_007",
+  "name": "Ash Fall",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 14,
+    "Lifetime": [
+      3,
+      5
+    ],
+    "Speed": [
+      1,
+      2
+    ],
+    "Acceleration": [
+      0,
+      -1.5,
+      0
+    ],
+    "RotSpeed": [
+      -30,
+      30
+    ],
+    "Color": [
+      [
+        0.25,
+        0.25,
+        0.25
+      ],
+      [
+        0.15,
+        0.15,
+        0.15
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

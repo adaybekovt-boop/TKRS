@@ -1,0 +1,41 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_119",
+  "name": "Water Caustics D",
+  "description": "Kenney Light Masks transparent cookie 'water_caustics_d.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "water_caustics_d.png": "5ad46cfa7b9ae89e6352864ba33192835a10b9c86946ce464ede0c4cac6dcf39"
+  },
+  "file_size": 94408,
+  "files": [
+    "water_caustics_d.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "water_caustics_d.png",
+  "effect_type": "light-cookie",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

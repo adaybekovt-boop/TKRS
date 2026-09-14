@@ -1,0 +1,133 @@
+{
+  "batch": "vfx-batch-001",
+  "summary": {
+    "supplied_candidates": 638,
+    "accepted": 638,
+    "rejected": 0,
+    "duplicate_ids_removed": 0,
+    "exact_duplicates_removed": 0,
+    "current_tkrs_duplicates_removed": 0,
+    "dependency_references_before_repair": 0,
+    "dependency_references_repaired": 0,
+    "unresolved_issues": 0,
+    "integrated_bytes": 70998906,
+    "shared_textures_copied": 0,
+    "shared_textures_deduplicated": 0,
+    "script_files_retained_as_inert_text": 0
+  },
+  "repairs": {
+    "metadata_normalized": 638
+  },
+  "audit": {
+    "asset_count": 638,
+    "valid_asset_count": 638,
+    "invalid_asset_count": 0,
+    "metadata_error_count": 0,
+    "missing_metadata_field_count": 0,
+    "missing_dependency_count": 0,
+    "outside_dependency_count": 0,
+    "invalid_media_count": 0,
+    "executable_file_count": 0,
+    "script_file_count": 0,
+    "empty_file_count": 0,
+    "file_over_100mb_count": 0,
+    "symlink_count": 0,
+    "duplicate_ids": {},
+    "exact_duplicate_logical_assets": {},
+    "category_counts": {
+      "vfx": 638
+    },
+    "subcategory_counts": {
+      "beams": 8,
+      "configs": 50,
+      "continuous": 34,
+      "distortion": 18,
+      "environmental": 44,
+      "flipbooks": 79,
+      "glows": 26,
+      "gradients": 27,
+      "impact": 109,
+      "masks": 156,
+      "noise": 25,
+      "overlays": 13,
+      "particles": 39,
+      "trails": 10
+    },
+    "source_counts": {
+      "70 Animated 2D Game Effects!": 44,
+      "Animated particle effects #1": 14,
+      "Animated particle effects #2": 9,
+      "Cosmic Time - Magic Effect": 5,
+      "Explosion effects and more / Lots of game effects": 3,
+      "Godot particle and VFX textures": 12,
+      "Gun Muzzle Flash Effects (Fire and Ion and Melee)": 8,
+      "Kenney Light Masks": 152,
+      "Kenney Particle Pack": 80,
+      "Kenney Smoke Particles": 52,
+      "Kenney Splat Pack": 35,
+      "Lots of game effects / Explosion effects and more": 7,
+      "M484 Lightning Weapon": 1,
+      "Pixel Art Spells": 22,
+      "Pixel art sword slash effect": 1,
+      "Plasma Electric Effect Animations": 27,
+      "Radial lightning effect (OpenGameArt)": 4,
+      "Slash Effect Collection": 11,
+      "TKRS Procedural VFX Primitives": 59,
+      "TKRS VFX Batch 001 original reference": 50,
+      "TKRS VFX Batch 001 procedural": 42
+    },
+    "license_counts": {
+      "CC0-1.0": 638
+    },
+    "extension_counts": {
+      ".json": 760,
+      ".png": 608,
+      ".txt": 638
+    },
+    "asset_bytes": 70998906
+  },
+  "accepted_by_subcategory": {
+    "beams": 8,
+    "configs": 50,
+    "continuous": 34,
+    "distortion": 18,
+    "environmental": 44,
+    "flipbooks": 79,
+    "glows": 26,
+    "gradients": 27,
+    "impact": 109,
+    "masks": 156,
+    "noise": 25,
+    "overlays": 13,
+    "particles": 39,
+    "trails": 10
+  },
+  "accepted_by_source": {
+    "70 Animated 2D Game Effects!": 44,
+    "Animated particle effects #1": 14,
+    "Animated particle effects #2": 9,
+    "Cosmic Time - Magic Effect": 5,
+    "Explosion effects and more / Lots of game effects": 3,
+    "Godot particle and VFX textures": 12,
+    "Gun Muzzle Flash Effects (Fire and Ion and Melee)": 8,
+    "Kenney Light Masks": 152,
+    "Kenney Particle Pack": 80,
+    "Kenney Smoke Particles": 52,
+    "Kenney Splat Pack": 35,
+    "Lots of game effects / Explosion effects and more": 7,
+    "M484 Lightning Weapon": 1,
+    "Pixel Art Spells": 22,
+    "Pixel art sword slash effect": 1,
+    "Plasma Electric Effect Animations": 27,
+    "Radial lightning effect (OpenGameArt)": 4,
+    "Slash Effect Collection": 11,
+    "TKRS Procedural VFX Primitives": 59,
+    "TKRS VFX Batch 001 original reference": 50,
+    "TKRS VFX Batch 001 procedural": 42
+  },
+  "accepted_by_license": {
+    "CC0-1.0": 638
+  },
+  "near_duplicate_groups_for_review": [],
+  "rejections": []
+}

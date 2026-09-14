@@ -1,0 +1,38 @@
+{
+  "id": "vfx_continuous_reactorcore-plasma_013",
+  "name": "Plasma Sparkle",
+  "description": "Plasma/electric effect 'Plasma Sparkle' by Reactorcore. CC0. Sprite sheet preferred over individual frames.",
+  "category": "vfx",
+  "subcategory": "continuous",
+  "tags": [
+    "plasma",
+    "electric",
+    "reactorcore",
+    "plasma"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Plasma Electric Effect Animations",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/plasma-electric-effect-animations",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Plasma Sparkle.png": "3abb14207a48357af576d8d542ed315031479fb4894f1c531f4ead52abde54a6"
+  },
+  "file_size": 1079,
+  "files": [
+    "Plasma Sparkle.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "plasma",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

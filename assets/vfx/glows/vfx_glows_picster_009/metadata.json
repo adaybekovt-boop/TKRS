@@ -1,0 +1,46 @@
+{
+  "id": "vfx_glows_picster_009",
+  "name": "Spotlight 5",
+  "description": "RPicster CC0 VFX texture 'spotlight_5' (256px, best encoding kept).",
+  "category": "vfx",
+  "subcategory": "glows",
+  "tags": [
+    "picster",
+    "rpicster",
+    "particle",
+    "vfx",
+    "cc0",
+    "spotlight"
+  ],
+  "style": [
+    "rendered",
+    "soft"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Godot particle and VFX textures",
+  "author": "Raffaele Picca (RPicster)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/RPicster/Godot-particle-and-vfx-textures",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "spotlight_5.png": "b592404ca95d27cfe7e12b017db7569fd74b4f3b154286ff3fc4dc6b97651658"
+  },
+  "file_size": 18706,
+  "files": [
+    "spotlight_5.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "particle-texture",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "original_filename": "spotlight_5.png",
+  "attribution": null,
+  "dimensions": null
+}

@@ -1,0 +1,7 @@
+{
+  "class": "ScreenOverlay",
+  "textureHint": "red edge vignette",
+  "opacity": 0.6,
+  "duration": 0.15,
+  "notes": "fade out after hit"
+}

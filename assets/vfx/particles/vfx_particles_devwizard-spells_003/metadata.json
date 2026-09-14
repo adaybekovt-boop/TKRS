@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_003",
+  "name": "Black And White Sparks",
+  "description": "Pixel-art spell sprite 'Black And White Sparks' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "spark"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Black And White Sparks.png": "ef82cfa6f84a9b441356023d5ae0181ed55f473d35f39b83222234415bc30bac"
+  },
+  "file_size": 242,
+  "files": [
+    "Black And White Sparks.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "spark",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

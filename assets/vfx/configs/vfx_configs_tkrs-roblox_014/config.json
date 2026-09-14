@@ -1,0 +1,31 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 40,
+  "Lifetime": [
+    0.3,
+    0.8
+  ],
+  "Speed": [
+    10,
+    22
+  ],
+  "SpreadAngle": [
+    180,
+    180
+  ],
+  "Size": [
+    0.3,
+    1.8
+  ],
+  "Color": [
+    "#ff4a00",
+    "#ffd070"
+  ],
+  "Transparency": [
+    0.0,
+    1.0
+  ],
+  "LightEmission": 0.5,
+  "TextureHint": "explosion puff"
+}

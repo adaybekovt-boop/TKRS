@@ -1,0 +1,38 @@
+{
+  "id": "vfx_continuous_reactorcore-plasma_010",
+  "name": "Plasma Giga Shockwave",
+  "description": "Plasma/electric effect 'Plasma Giga Shockwave' by Reactorcore. CC0. Sprite sheet preferred over individual frames.",
+  "category": "vfx",
+  "subcategory": "continuous",
+  "tags": [
+    "plasma",
+    "electric",
+    "reactorcore",
+    "plasma"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Plasma Electric Effect Animations",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/plasma-electric-effect-animations",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Plasma Giga Shockwave.png": "3a11d8b46afa9dce62097c6c9cb333d4a0b59f90b56e5ad33ff83ab1e04e5772"
+  },
+  "file_size": 362345,
+  "files": [
+    "Plasma Giga Shockwave.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "plasma",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

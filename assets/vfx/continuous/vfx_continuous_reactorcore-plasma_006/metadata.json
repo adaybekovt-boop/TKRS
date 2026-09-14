@@ -1,0 +1,38 @@
+{
+  "id": "vfx_continuous_reactorcore-plasma_006",
+  "name": "Loop Plasma Anomaly",
+  "description": "Plasma/electric effect 'Loop Plasma Anomaly' by Reactorcore. CC0. Sprite sheet preferred over individual frames.",
+  "category": "vfx",
+  "subcategory": "continuous",
+  "tags": [
+    "plasma",
+    "electric",
+    "reactorcore",
+    "electricity"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Plasma Electric Effect Animations",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/plasma-electric-effect-animations",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Loop Plasma Anomaly.png": "55637d03768a12be8587474625787783dc551c991a2bd866e19d793c6d1e3c46"
+  },
+  "file_size": 21734,
+  "files": [
+    "Loop Plasma Anomaly.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "electricity",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

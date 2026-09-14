@@ -1,0 +1,61 @@
+{
+  "id": "vfx_configs_tkrs-roblox_009",
+  "name": "Steam Vent",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 20,
+    "Lifetime": [
+      0.8,
+      1.6
+    ],
+    "Speed": [
+      4,
+      8
+    ],
+    "Acceleration": [
+      0,
+      8,
+      0
+    ],
+    "SpreadAngle": [
+      12,
+      12
+    ],
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.2,
+        1.5
+      ]
+    },
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.2,
+        1
+      ]
+    },
+    "Color": [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        0.85,
+        0.9,
+        0.95
+      ]
+    ],
+    "EmissionDirection": "Top"
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

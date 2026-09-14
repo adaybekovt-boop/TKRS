@@ -1,0 +1,37 @@
+{
+  "id": "vfx_impact_soluna_012",
+  "name": "Explosion 21",
+  "description": "Soluna Software effect sheet 'Explosion 21'. CC0.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "soluna",
+    "explosion",
+    "flipbook"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Explosion effects and more / Lots of game effects",
+  "author": "Soluna Software",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/explosion-effects-and-more",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Explosion21.png": "000e3bf4f435f9772a50274913ecc90ae3ebb75c6454e0ba2f5b91e52f9c5e98"
+  },
+  "file_size": 309460,
+  "files": [
+    "Explosion21.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "explosion",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Not required",
+  "dimensions": null
+}

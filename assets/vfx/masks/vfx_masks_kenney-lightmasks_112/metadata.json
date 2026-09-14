@@ -1,0 +1,46 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_112",
+  "name": "Streaks Composed G",
+  "description": "Kenney Light Masks cookie 'streaks_composed_g' (transparent encoding).",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "streaks",
+    "composed",
+    "g"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "streaks_composed_g.png": "ccb052271c43995cc9ddbd776588ee50e1ea6e8f3c19e44a7a94ab14e3ccd1f7"
+  },
+  "file_size": 30982,
+  "files": [
+    "streaks_composed_g.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask",
+  "original_filename": "streaks_composed_g.png",
+  "attribution": null,
+  "dimensions": null
+}

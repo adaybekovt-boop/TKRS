@@ -1,0 +1,37 @@
+{
+  "id": "vfx_impact_reactorcore-muzzle_007",
+  "name": "Blades Green Sheet",
+  "description": "Reactorcore 'Blades Green Sheet' sprite sheet. CC0. Ion/red recolors and individual frames omitted.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "reactorcore",
+    "slash",
+    "spritesheet"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Gun Muzzle Flash Effects (Fire and Ion and Melee)",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/gun-muzzle-flash-effects-fire-and-ion-and-melee",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "BladesGreen_SHEET.png": "0d4fd841dd605dd3dd05f4b865c54e12916e938068c1677b6b3a4c145ca52eec"
+  },
+  "file_size": 101639,
+  "files": [
+    "BladesGreen_SHEET.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite-sheet",
+  "attribution": "Optional: Reactorcore",
+  "dimensions": null
+}

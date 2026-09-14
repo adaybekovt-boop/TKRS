@@ -1,0 +1,46 @@
+{
+  "id": "vfx_configs_tkrs-roblox_035",
+  "name": "Smoke Trail",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "Trail",
+    "Lifetime": 0.6,
+    "MinLength": 0.1,
+    "LightEmission": 0.1,
+    "Color": [
+      [
+        0.4,
+        0.4,
+        0.4
+      ],
+      [
+        0.2,
+        0.2,
+        0.2
+      ]
+    ],
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.3,
+        1
+      ]
+    },
+    "WidthScale": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.4,
+        1.2
+      ]
+    },
+    "note": "Requires two Attachments"
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

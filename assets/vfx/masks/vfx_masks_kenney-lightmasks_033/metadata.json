@@ -1,0 +1,47 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_033",
+  "name": "Cone B",
+  "description": "Kenney Light Masks cookie 'cone_b' (transparent encoding). Use as a light cookie, ParticleEmitter texture, or additive glow mask in Roblox.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx",
+    "cone",
+    "b"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "cone_b.png": "0f35dfe3ce45ca1848abfcb28901ddf2fd465c6faadeb151d4148d987e3ad5c6"
+  },
+  "file_size": 2930,
+  "files": [
+    "cone_b.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask / glow",
+  "source_site": "https://kenney.nl/assets/light-masks",
+  "original_filename": "cone_b.png",
+  "attribution": null,
+  "dimensions": null
+}

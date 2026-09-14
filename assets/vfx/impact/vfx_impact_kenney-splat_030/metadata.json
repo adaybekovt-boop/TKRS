@@ -1,0 +1,43 @@
+{
+  "id": "vfx_impact_kenney-splat_030",
+  "name": "Splat 29",
+  "description": "Kenney Splat Pack sprite 'splat29.png' (512px). Impact decal / liquid splat with alpha.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "kenney",
+    "splat",
+    "impact",
+    "decal",
+    "liquid",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Splat Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/splat-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "splat29.png": "fa98e5972289ea63ad630dadc1b6c5065943e4baa339e29fa04fb7801c602031"
+  },
+  "file_size": 4857,
+  "files": [
+    "splat29.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "splat29.png",
+  "effect_type": "splat",
+  "resolution": "512x512",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "vfx_flipbooks_soluna_009",
+  "name": "toonexplosion31",
+  "description": "Soluna Software CC0 game-effect sheet 'toonexplosion31'.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "soluna",
+    "flipbook",
+    "explosion",
+    "cc0"
+  ],
+  "style": [
+    "rendered",
+    "sprite-sheet"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Lots of game effects / Explosion effects and more",
+  "author": "Soluna Software",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/lots-of-game-effects",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "soluna_toonexplosion31.png": "be8b73c5655ae05a4a83be32ce812a366ef157fdd8696f91224565ccf72c0f7f"
+  },
+  "file_size": 90347,
+  "files": [
+    "soluna_toonexplosion31.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "flipbook",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "original_filename": "soluna_toonexplosion31.png",
+  "attribution": null,
+  "dimensions": null
+}

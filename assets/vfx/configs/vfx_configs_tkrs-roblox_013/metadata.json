@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_013",
+  "name": "Sparks Impact",
+  "description": "Inert Roblox ParticleEmitter reference settings for 'Sparks Impact'. Plain-text JSON only. Not executable.",
+  "category": "vfx",
+  "subcategory": "configs",
+  "tags": [
+    "roblox",
+    "config",
+    "reference",
+    "sparks",
+    "ParticleEmitter"
+  ],
+  "style": [
+    "technical-reference"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS VFX Batch 001 original reference",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "attribution_required": false,
+  "has_scripts": true,
+  "sha256": {
+    "reference.json": "f9418937c4c22ec76e4a070b49e64055fda1528baf4eb92081d413d8dd5495ea"
+  },
+  "file_size": 740,
+  "files": [
+    "reference.json"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "sparks",
+  "dimensionality": "2D",
+  "asset_kind": "config",
+  "attribution": "Not required",
+  "code_note": "JSON reference only; no Luau executed",
+  "dimensions": null
+}

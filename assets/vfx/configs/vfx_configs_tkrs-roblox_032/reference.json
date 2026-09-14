@@ -1,0 +1,42 @@
+{
+  "id": "vfx_configs_tkrs-roblox_032",
+  "name": "Speed Lines",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 40,
+    "Lifetime": [
+      0.08,
+      0.16
+    ],
+    "Speed": [
+      0,
+      0
+    ],
+    "LockedToPart": true,
+    "Orientation": "VelocityParallel",
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.04,
+        0.8
+      ]
+    },
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.2,
+        1
+      ]
+    },
+    "note": "Parent to moving part; align EmissionDirection to velocity"
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

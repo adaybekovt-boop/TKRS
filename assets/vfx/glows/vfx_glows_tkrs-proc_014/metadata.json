@@ -1,0 +1,44 @@
+{
+  "id": "vfx_glows_tkrs-proc_014",
+  "name": "Soft Circle Glow",
+  "description": "Classic soft circular particle/glow sprite.",
+  "category": "vfx",
+  "subcategory": "glows",
+  "tags": [
+    "glow",
+    "circle",
+    "particle"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "8b56e989e18938296c6f1c43caba2ac4dd9718dd6183691a5c2b1153805ac638"
+  },
+  "file_size": 22632,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "glows",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "ParticleEmitter texture",
+  "attribution": null,
+  "dimensions": null
+}

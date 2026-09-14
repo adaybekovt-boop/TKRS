@@ -1,0 +1,46 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_152",
+  "name": "Window K Noise",
+  "description": "Kenney Light Masks cookie 'window_k_noise' (transparent encoding).",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "window",
+    "k",
+    "noise"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "window_k_noise.png": "6b401657402fcbc2af32b35ffe432fbb5ce01245b4344e30ce06419907a34a54"
+  },
+  "file_size": 43476,
+  "files": [
+    "window_k_noise.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask",
+  "original_filename": "window_k_noise.png",
+  "attribution": null,
+  "dimensions": null
+}

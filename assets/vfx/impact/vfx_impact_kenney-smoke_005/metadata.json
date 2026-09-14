@@ -1,0 +1,44 @@
+{
+  "id": "vfx_impact_kenney-smoke_005",
+  "name": "Explosion 04",
+  "description": "Kenney Smoke Particles explosion sprite 'explosion04.png'. Alpha-ready explosion burst for impacts.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "kenney",
+    "explosion",
+    "impact",
+    "burst",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "soft"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Smoke Particles",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/smoke-particles",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "explosion04.png": "3a08a13d126ee000e5ec4ec7328ffcb4b6ba6274cf70bed8cdee69ad5dde39b1"
+  },
+  "file_size": 305044,
+  "files": [
+    "explosion04.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "explosion04.png",
+  "source_site": "https://kenney.nl/assets/smoke-particles",
+  "attribution": "Attribution optional",
+  "source_repository": "https://opengameart.org/content/smoke-particle-assets",
+  "effect_type": "explosion",
+  "dimensions": null
+}

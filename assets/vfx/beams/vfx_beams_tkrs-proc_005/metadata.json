@@ -1,0 +1,45 @@
+{
+  "id": "vfx_beams_tkrs-proc_005",
+  "name": "Lightning Beam Tile",
+  "description": "Jagged lightning beam tile.",
+  "category": "vfx",
+  "subcategory": "beams",
+  "tags": [
+    "beam",
+    "lightning",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "dd3c13a6489ebac9747f2976b832529ff803be904fc44e6c56df93f07ba81358"
+  },
+  "file_size": 2502,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "beams",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    64
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "Roblox Beam texture",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

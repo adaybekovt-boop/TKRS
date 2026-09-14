@@ -1,0 +1,30 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 6,
+  "Lifetime": [
+    4.0,
+    7.0
+  ],
+  "Speed": [
+    0.3,
+    0.8
+  ],
+  "Acceleration": [
+    0,
+    0.4,
+    0
+  ],
+  "Size": [
+    0.04,
+    0.09
+  ],
+  "Color": [
+    "#d6e85a",
+    "#f2f0a0"
+  ],
+  "Transparency": [
+    0.3,
+    0.8
+  ],
+  "suggested_texture": "kenney circle_04"
+}

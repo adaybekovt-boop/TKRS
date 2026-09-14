@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_013",
+  "name": "Magic Sparks",
+  "description": "Pixel-art spell sprite 'Magic Sparks' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "spark"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Magic Sparks.png": "203c795346f695308371eb85ac57689be95e3b14bda1d0ddb17d79916bc51a49"
+  },
+  "file_size": 216,
+  "files": [
+    "Magic Sparks.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "spark",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

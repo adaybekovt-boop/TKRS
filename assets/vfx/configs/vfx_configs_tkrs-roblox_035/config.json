@@ -1,0 +1,19 @@
+{
+  "class": "Trail",
+  "Lifetime": 0.6,
+  "MinLength": 0.1,
+  "MaxLength": 6.0,
+  "Color": [
+    "#666666",
+    "#222222"
+  ],
+  "Transparency": [
+    0.3,
+    1.0
+  ],
+  "TextureHint": "soft smoke / kenney smoke",
+  "Width": [
+    0.4,
+    1.2
+  ]
+}

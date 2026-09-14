@@ -1,0 +1,39 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 24,
+  "Lifetime": [
+    0.4,
+    1.0
+  ],
+  "Speed": [
+    6,
+    14
+  ],
+  "SpreadAngle": [
+    80,
+    80
+  ],
+  "Size": [
+    0.08,
+    0.4
+  ],
+  "Acceleration": [
+    0,
+    -20,
+    0
+  ],
+  "RotSpeed": [
+    -180,
+    180
+  ],
+  "Color": [
+    "#6a5a40",
+    "#c0b090"
+  ],
+  "Transparency": [
+    0.0,
+    0.3
+  ],
+  "TextureHint": "dirt / debris"
+}

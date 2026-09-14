@@ -1,0 +1,30 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 20,
+  "Lifetime": [
+    0.15,
+    0.35
+  ],
+  "Speed": [
+    0.5,
+    2.0
+  ],
+  "SpreadAngle": [
+    180,
+    180
+  ],
+  "Size": [
+    0.08,
+    0.4
+  ],
+  "Color": [
+    "#80e8ff",
+    "#ffffff"
+  ],
+  "Transparency": [
+    0.0,
+    1.0
+  ],
+  "LightEmission": 0.9,
+  "TextureHint": "spark / lightning stub"
+}

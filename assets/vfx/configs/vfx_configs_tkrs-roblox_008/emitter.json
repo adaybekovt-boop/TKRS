@@ -1,0 +1,25 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 4,
+  "Lifetime": [
+    5.0,
+    8.0
+  ],
+  "Speed": [
+    0.4,
+    0.8
+  ],
+  "Size": [
+    3.0,
+    6.0
+  ],
+  "Color": [
+    "#cfd6e0"
+  ],
+  "Transparency": [
+    0.7,
+    0.95
+  ],
+  "Drag": 1,
+  "suggested_texture": "kenney smoke_01"
+}

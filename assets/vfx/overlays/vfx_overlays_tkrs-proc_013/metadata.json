@@ -1,0 +1,45 @@
+{
+  "id": "vfx_overlays_tkrs-proc_013",
+  "name": "VHS Tracking Bars",
+  "description": "Procedural analog tracking-error bars.",
+  "category": "vfx",
+  "subcategory": "overlays",
+  "tags": [
+    "vhs",
+    "glitch",
+    "screen"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "7be6d9d2da497ad8b61e4ed8700d03c633a0468bd3f2188d1eb67bb1e6bb5528"
+  },
+  "file_size": 442,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "overlays",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "retro overlay",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

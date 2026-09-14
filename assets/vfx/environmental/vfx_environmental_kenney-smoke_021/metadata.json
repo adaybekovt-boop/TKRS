@@ -1,0 +1,45 @@
+{
+  "id": "vfx_environmental_kenney-smoke_021",
+  "name": "Black Smoke 20",
+  "description": "Kenney Smoke Particles black smoke sprite 'blackSmoke20.png'. Alpha-ready environmental smoke puff for ParticleEmitter.",
+  "category": "vfx",
+  "subcategory": "environmental",
+  "tags": [
+    "kenney",
+    "smoke",
+    "black-smoke",
+    "puff",
+    "environmental",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "soft"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Smoke Particles",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/smoke-particles",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "blackSmoke20.png": "abdd2907b4df851f63d87f6db7594266167dfba5efa0bba4a6c8e949a1285cee"
+  },
+  "file_size": 113608,
+  "files": [
+    "blackSmoke20.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "blackSmoke20.png",
+  "source_site": "https://kenney.nl/assets/smoke-particles",
+  "attribution": "Attribution optional",
+  "source_repository": "https://opengameart.org/content/smoke-particle-assets",
+  "effect_type": "smoke",
+  "dimensions": null
+}

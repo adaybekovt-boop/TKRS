@@ -1,0 +1,35 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 25,
+  "Lifetime": [
+    0.5,
+    1.1
+  ],
+  "Speed": [
+    1,
+    3
+  ],
+  "SpreadAngle": [
+    10,
+    10
+  ],
+  "Size": [
+    0.3,
+    1.2
+  ],
+  "Acceleration": [
+    0,
+    6,
+    0
+  ],
+  "Color": [
+    "#ff3b00",
+    "#ffd27a"
+  ],
+  "Transparency": [
+    0.1,
+    0.9
+  ],
+  "LightEmission": 0.6,
+  "TextureHint": "flame / kenney fire"
+}

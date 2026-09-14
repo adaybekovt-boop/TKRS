@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_metashinryu-slash_010",
+  "name": "Lunge Thrust",
+  "description": "Slash effect 'Lunge Thrust' by MetaShinryu. CC0. Size variants collapsed to unique types.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "melee",
+    "impact",
+    "metashinryu"
+  ],
+  "style": [
+    "hand-painted",
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Slash Effect Collection",
+  "author": "MetaShinryu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/slash-effect-collection",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Lunge Thrust.png": "5aaec8ce985409c5b629598d5b325618c88c6104a753a8cf88c1d6a32fa30e9b"
+  },
+  "file_size": 98825,
+  "files": [
+    "Lunge Thrust.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

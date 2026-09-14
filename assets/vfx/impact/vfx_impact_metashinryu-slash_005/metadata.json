@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_metashinryu-slash_005",
+  "name": "Slash symmetrical",
+  "description": "Slash effect 'Slash symmetrical' by MetaShinryu. CC0. Size variants collapsed to unique types.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "melee",
+    "impact",
+    "metashinryu"
+  ],
+  "style": [
+    "hand-painted",
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Slash Effect Collection",
+  "author": "MetaShinryu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/slash-effect-collection",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Slash symmetrical.png": "8a8c1cc6145ee2ff42418cbc8f2846388d6a2baa359d7a086c7ed561cc5cfd2e"
+  },
+  "file_size": 34358,
+  "files": [
+    "Slash symmetrical.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "vfx_configs_tkrs-roblox_025",
+  "name": "Character Aura",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 12,
+    "Lifetime": [
+      0.6,
+      1.2
+    ],
+    "Speed": [
+      0.3,
+      0.8
+    ],
+    "LockedToPart": true,
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        1,
+        2
+      ]
+    },
+    "LightEmission": 0.35,
+    "Color": [
+      [
+        1,
+        0.85,
+        0.3
+      ],
+      [
+        1,
+        0.6,
+        0.1
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

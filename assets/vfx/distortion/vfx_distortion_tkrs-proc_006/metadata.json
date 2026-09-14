@@ -1,0 +1,44 @@
+{
+  "id": "vfx_distortion_tkrs-proc_006",
+  "name": "Sine Wave Distortion",
+  "description": "Horizontal sine-wave vertical displacement map.",
+  "category": "vfx",
+  "subcategory": "distortion",
+  "tags": [
+    "distortion",
+    "wave"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "2f61fb730811867459a335f4f330153ed5cb95b52d64a015f00cf6a28cd2a8ba"
+  },
+  "file_size": 1560,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "distortion",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "flag / heat / underwater",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

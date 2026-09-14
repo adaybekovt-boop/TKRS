@@ -1,0 +1,26 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 1,
+  "Lifetime": [
+    0.08,
+    0.08
+  ],
+  "Speed": [
+    0,
+    0
+  ],
+  "Size": [
+    0.5,
+    0.7
+  ],
+  "Color": [
+    "#ffffff"
+  ],
+  "Transparency": [
+    0.0,
+    1.0
+  ],
+  "LightEmission": 1.0,
+  "suggested_texture": "kenney flare_01"
+}

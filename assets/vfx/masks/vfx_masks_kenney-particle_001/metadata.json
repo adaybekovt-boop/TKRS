@@ -1,0 +1,44 @@
+{
+  "id": "vfx_masks_kenney-particle_001",
+  "name": "Window 01",
+  "description": "Kenney Particle Pack sprite 'window_01'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "particle",
+    "window",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "window_01.png": "e6da81a1fc24e12574ca44c5f55d9e2543cd3aae5732825ed031dd10c01f387f"
+  },
+  "file_size": 13573,
+  "files": [
+    "window_01.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "window",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "window_01.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vfx_overlays_tkrs-proc_008",
+  "name": "White Hit Flash",
+  "description": "Soft white radial hit flash sprite.",
+  "category": "vfx",
+  "subcategory": "overlays",
+  "tags": [
+    "hit",
+    "flash",
+    "impact",
+    "overlay"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "ba531beb32b2b743e0f24cd8f0950eb62f5b055249cc370d93cf4b94a07eadd4"
+  },
+  "file_size": 18436,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "overlays",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "additive flash",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

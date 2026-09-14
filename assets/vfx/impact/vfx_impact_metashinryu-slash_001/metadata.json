@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_metashinryu-slash_001",
+  "name": "Arcing",
+  "description": "Slash effect 'Arcing' by MetaShinryu. CC0. Size variants collapsed to unique types.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "melee",
+    "impact",
+    "metashinryu"
+  ],
+  "style": [
+    "hand-painted",
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Slash Effect Collection",
+  "author": "MetaShinryu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/slash-effect-collection",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Arcing.png": "1eed66af7aa2c2240442961c688b7680e5378ca3b805abd6f10996326b10fcde"
+  },
+  "file_size": 29980,
+  "files": [
+    "Arcing.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

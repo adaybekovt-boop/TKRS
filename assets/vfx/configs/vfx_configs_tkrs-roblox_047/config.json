@@ -1,0 +1,25 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 22,
+  "Lifetime": [
+    1.5,
+    3.0
+  ],
+  "Speed": [
+    0.5,
+    1.5
+  ],
+  "Size": [
+    2.0,
+    5.0
+  ],
+  "Color": [
+    "#d0e8ff",
+    "#ffffff"
+  ],
+  "Transparency": [
+    0.6,
+    0.95
+  ],
+  "TextureHint": "white puff / smoke"
+}

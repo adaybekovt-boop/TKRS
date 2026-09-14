@@ -1,0 +1,45 @@
+{
+  "id": "vfx_noise_tkrs-proc_009",
+  "name": "Blue-Noise Approximation",
+  "description": "Jittered-grid blue-noise-like speckle tile.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "noise",
+    "blue",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "9a6a1332e78390aa93c9859330a6d4109cb2f449c0c18fe6e2468a9242acf585"
+  },
+  "file_size": 8505,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "noise",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "dither / sparkle scatter",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

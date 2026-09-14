@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_032",
+  "name": "Speed Lines",
+  "description": "Inert Roblox ParticleEmitter reference settings for 'Speed Lines'. Plain-text JSON only. Not executable.",
+  "category": "vfx",
+  "subcategory": "configs",
+  "tags": [
+    "roblox",
+    "config",
+    "reference",
+    "speed-lines",
+    "ParticleEmitter"
+  ],
+  "style": [
+    "technical-reference"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS VFX Batch 001 original reference",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "attribution_required": false,
+  "has_scripts": true,
+  "sha256": {
+    "reference.json": "7cb1921deb67ab26f2155332816ce3d985c9e43428b5d0b22bad5462c8fd3f48"
+  },
+  "file_size": 808,
+  "files": [
+    "reference.json"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "speed-lines",
+  "dimensionality": "2D",
+  "asset_kind": "config",
+  "attribution": "Not required",
+  "code_note": "JSON reference only; no Luau executed",
+  "dimensions": null
+}

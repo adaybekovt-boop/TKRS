@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_devwizard-spells_007",
+  "name": "Fireball",
+  "description": "Pixel-art spell sprite 'Fireball' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "magic"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Fireball.png": "35f2ccc7e23ad18103ce6a48d515c4316c170e05eaa388189d8576793da0edf2"
+  },
+  "file_size": 436,
+  "files": [
+    "Fireball.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "magic",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

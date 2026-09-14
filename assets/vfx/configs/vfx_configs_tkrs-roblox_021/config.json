@@ -1,0 +1,27 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 6,
+  "Lifetime": [
+    0.08,
+    0.18
+  ],
+  "Speed": [
+    2,
+    6
+  ],
+  "Size": [
+    0.4,
+    1.1
+  ],
+  "Color": [
+    "#c8f0ff",
+    "#ffffff"
+  ],
+  "Transparency": [
+    0.0,
+    1.0
+  ],
+  "LightEmission": 1.0,
+  "TextureHint": "lightning / jagged beam"
+}

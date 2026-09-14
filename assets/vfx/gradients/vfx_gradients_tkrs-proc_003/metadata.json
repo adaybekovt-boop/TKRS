@@ -1,0 +1,46 @@
+{
+  "id": "vfx_gradients_tkrs-proc_003",
+  "name": "Poison Ramp",
+  "description": "Procedural poison ramp color lookup for particles and beams.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "poison",
+    "gradient",
+    "ramp",
+    "lut"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "26e8563f380212bc9f28dd1d8b17bc3fce7aa332720a0601e0fb335286fbc038"
+  },
+  "file_size": 1116,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "gradients",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "colorize grayscale particles",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

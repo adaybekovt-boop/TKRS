@@ -1,0 +1,44 @@
+{
+  "id": "vfx_configs_tkrs-roblox_024",
+  "name": "Shield Dome",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 15,
+    "Lifetime": [
+      0.8,
+      1.4
+    ],
+    "Speed": [
+      0.2,
+      0.6
+    ],
+    "Shape": "Sphere",
+    "LockedToPart": true,
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.6,
+        1
+      ]
+    },
+    "Color": [
+      [
+        0.3,
+        0.9,
+        1
+      ],
+      [
+        0.1,
+        0.5,
+        0.8
+      ]
+    ],
+    "LightEmission": 0.4
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

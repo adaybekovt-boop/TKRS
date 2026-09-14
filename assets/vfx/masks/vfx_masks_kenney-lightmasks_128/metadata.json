@@ -1,0 +1,41 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_128",
+  "name": "Window C Noise",
+  "description": "Kenney Light Masks transparent cookie 'window_c_noise.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "window_c_noise.png": "db5778ee4a979fb8af746c94b68067b1a9ffb9a6836f0263d463661a1b26af0a"
+  },
+  "file_size": 55219,
+  "files": [
+    "window_c_noise.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "window_c_noise.png",
+  "effect_type": "light-cookie",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

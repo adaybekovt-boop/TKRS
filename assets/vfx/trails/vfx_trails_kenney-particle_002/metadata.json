@@ -1,0 +1,44 @@
+{
+  "id": "vfx_trails_kenney-particle_002",
+  "name": "Trace 02",
+  "description": "Kenney Particle Pack sprite 'trace_02'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "trails",
+  "tags": [
+    "kenney",
+    "particle",
+    "trace",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "trace_02.png": "590bf09870a76e840068cd84333d14cde0666d1816e5636efac6201440dc66c7"
+  },
+  "file_size": 20280,
+  "files": [
+    "trace_02.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "trace",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "trace_02.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "vfx_overlays_tkrs-proc_011",
+  "name": "Glitch Block Mask",
+  "description": "Procedural blocky RGB glitch overlay mask.",
+  "category": "vfx",
+  "subcategory": "overlays",
+  "tags": [
+    "glitch",
+    "screen",
+    "overlay"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "0b05b37ef842389c0585bb13b0548ed2b0be03a0a57955b8e42b4ceb5705026a"
+  },
+  "file_size": 1365,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "overlays",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "short glitch bursts",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

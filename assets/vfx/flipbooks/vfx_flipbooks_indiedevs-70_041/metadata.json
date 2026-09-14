@@ -1,0 +1,37 @@
+{
+  "id": "vfx_flipbooks_indiedevs-70_041",
+  "name": "projectile1",
+  "description": "Animated 2D effect sheet 'projectile1' by IndieDevs. CC0. Parenthetical variants omitted.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "explosion",
+    "flipbook",
+    "indiedevs"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "70 Animated 2D Game Effects!",
+  "author": "IndieDevs",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/70-animated-2d-game-effects",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "projectile1.png": "0717abfa191adc812d83e741e304bc4fcfc0a48cb902a30122b08c26156f2e8a"
+  },
+  "file_size": 583984,
+  "files": [
+    "projectile1.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "explosion",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Optional: IndieDevs",
+  "dimensions": null
+}

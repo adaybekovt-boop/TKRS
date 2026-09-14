@@ -1,0 +1,44 @@
+{
+  "id": "vfx_impact_kenney-particle_006",
+  "name": "Scorch 01",
+  "description": "Kenney Particle Pack sprite 'scorch_01'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "kenney",
+    "particle",
+    "scorch",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "scorch_01.png": "bae15192478d1db2cf6da8bccc3e7fad43a87d4354725d66e7d8d33987b8802c"
+  },
+  "file_size": 59486,
+  "files": [
+    "scorch_01.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "scorch",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "scorch_01.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

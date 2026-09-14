@@ -1,0 +1,47 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_061",
+  "name": "Fan A",
+  "description": "Kenney Light Masks cookie 'fan_a' (transparent encoding). Use as a light cookie, ParticleEmitter texture, or additive glow mask in Roblox.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx",
+    "fan",
+    "a"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "fan_a.png": "239224118ace3205c020098b05ca4f7a9eb52f45eeb417717c1390418bed59a1"
+  },
+  "file_size": 4339,
+  "files": [
+    "fan_a.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask / glow",
+  "source_site": "https://kenney.nl/assets/light-masks",
+  "original_filename": "fan_a.png",
+  "attribution": null,
+  "dimensions": null
+}

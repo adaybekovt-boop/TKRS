@@ -1,0 +1,42 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_083",
+  "name": "Foliage Canopy D Noise",
+  "description": "Kenney Light Masks transparent cookie 'foliage_canopy_d_noise.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "foliage_canopy_d_noise.png": "d68647ebdfc21f22d281059e66dc87239bb820c0a10af3d56f9f14d5e2e8a45d"
+  },
+  "file_size": 64599,
+  "files": [
+    "foliage_canopy_d_noise.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "foliage_canopy_d_noise.png",
+  "effect_type": "light-cookie",
+  "alpha_mode": "straight",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

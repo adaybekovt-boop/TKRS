@@ -1,0 +1,38 @@
+{
+  "id": "vfx_continuous_reactorcore-plasma_026",
+  "name": "Plasmas 9",
+  "description": "Plasma/electric effect 'Plasmas 9' by Reactorcore. CC0. Sprite sheet preferred over individual frames.",
+  "category": "vfx",
+  "subcategory": "continuous",
+  "tags": [
+    "plasma",
+    "electric",
+    "reactorcore",
+    "plasma"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Plasma Electric Effect Animations",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/plasma-electric-effect-animations",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Plasmas 9.png": "7a8253159b4b29e57abb60c0245da49da4ba03437e1e57f75167b32956d24b31"
+  },
+  "file_size": 2141,
+  "files": [
+    "Plasmas 9.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "plasma",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

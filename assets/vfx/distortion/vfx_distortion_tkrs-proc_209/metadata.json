@@ -1,0 +1,40 @@
+{
+  "id": "vfx_distortion_tkrs-proc_209",
+  "name": "Distortion glitch",
+  "description": "Block glitch offsets. RG = XY offset, 0.5=none.",
+  "category": "vfx",
+  "subcategory": "distortion",
+  "tags": [
+    "procedural",
+    "distortion",
+    "glitch",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "glitch.png": "cd845e15a51d4d8a60d5294dddad3e3bcebb9710b9da19f8224fa2813764a9ff"
+  },
+  "file_size": 715,
+  "files": [
+    "glitch.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "distortion-map",
+  "generated": true,
+  "dimensions": null
+}

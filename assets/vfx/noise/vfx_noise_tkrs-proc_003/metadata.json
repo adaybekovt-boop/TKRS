@@ -1,0 +1,45 @@
+{
+  "id": "vfx_noise_tkrs-proc_003",
+  "name": "Fine Value Noise",
+  "description": "Finer value-noise tile.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "noise",
+    "value",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "90effa70a5061e817a16ebf27081fb03eb337ec654d9676b683a8be3e82c9020"
+  },
+  "file_size": 55409,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "noise",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "detail modulation",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

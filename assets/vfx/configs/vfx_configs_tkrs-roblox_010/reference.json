@@ -1,0 +1,56 @@
+{
+  "id": "vfx_configs_tkrs-roblox_010",
+  "name": "Smoke Column",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 12,
+    "Lifetime": [
+      2,
+      4
+    ],
+    "Speed": [
+      2,
+      4
+    ],
+    "Acceleration": [
+      0,
+      3,
+      0
+    ],
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.5,
+        2.5
+      ]
+    },
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.3,
+        1
+      ]
+    },
+    "Color": [
+      [
+        0.2,
+        0.2,
+        0.2
+      ],
+      [
+        0.35,
+        0.35,
+        0.35
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

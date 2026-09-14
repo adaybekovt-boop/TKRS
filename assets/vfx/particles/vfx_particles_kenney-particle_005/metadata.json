@@ -1,0 +1,44 @@
+{
+  "id": "vfx_particles_kenney-particle_005",
+  "name": "Circle 05",
+  "description": "Kenney Particle Pack sprite 'circle_05'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "kenney",
+    "particle",
+    "circle",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "circle_05.png": "05e87b80ad4e65ddc0904f91f8520bb22059ca05c053ec7f5c780118e1294012"
+  },
+  "file_size": 27583,
+  "files": [
+    "circle_05.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "circle",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "circle_05.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

@@ -1,0 +1,38 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 50,
+  "Lifetime": [
+    2.0,
+    3.5
+  ],
+  "Speed": [
+    6,
+    10
+  ],
+  "SpreadAngle": [
+    25,
+    25
+  ],
+  "Size": [
+    0.08,
+    0.22
+  ],
+  "Acceleration": [
+    0,
+    -4,
+    0
+  ],
+  "Drag": 1.5,
+  "Color": [
+    "#ffffff"
+  ],
+  "Transparency": [
+    0.15,
+    0.55
+  ],
+  "RotSpeed": [
+    -40,
+    40
+  ],
+  "suggested_texture": "kenney circle_02"
+}

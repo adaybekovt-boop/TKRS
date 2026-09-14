@@ -1,0 +1,17 @@
+{
+  "class": "Beam",
+  "Width0": 0.08,
+  "Width1": 0.18,
+  "TextureSpeed": 8.0,
+  "LightEmission": 1.0,
+  "Color": [
+    "#d0f0ff",
+    "#ffffff"
+  ],
+  "Transparency": [
+    0.0,
+    0.3
+  ],
+  "TextureHint": "lightning bolt tile",
+  "Segments": 8
+}

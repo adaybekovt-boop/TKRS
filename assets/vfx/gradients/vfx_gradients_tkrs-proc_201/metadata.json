@@ -1,0 +1,40 @@
+{
+  "id": "vfx_gradients_tkrs-proc_201",
+  "name": "Ramp fire",
+  "description": "Color ramp 'fire' for particle color sequences. 256x32.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "procedural",
+    "gradient",
+    "fire",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "ramp_fire.png": "c7fd2e937a0895eec00c61d602dce007673008b40bccf5a2cc20ac383da063f6"
+  },
+  "file_size": 286,
+  "files": [
+    "ramp_fire.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "gradient-ramp",
+  "generated": true,
+  "dimensions": null
+}

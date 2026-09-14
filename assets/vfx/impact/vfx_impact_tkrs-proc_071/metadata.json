@@ -1,0 +1,44 @@
+{
+  "id": "vfx_impact_tkrs-proc_071",
+  "name": "Slash Arc Sprite",
+  "description": "Curved slash arc sprite.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "impact",
+    "melee"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "00a1579fd3a90a89e3d46d20e379ff8280e9cf5006730c3ae5a76233a0969407"
+  },
+  "file_size": 8747,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "impact",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "melee slash",
+  "attribution": null,
+  "dimensions": null
+}

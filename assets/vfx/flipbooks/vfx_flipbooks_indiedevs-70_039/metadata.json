@@ -1,0 +1,37 @@
+{
+  "id": "vfx_flipbooks_indiedevs-70_039",
+  "name": "muzzle flash",
+  "description": "Animated 2D effect sheet 'muzzle flash' by IndieDevs. CC0. Parenthetical variants omitted.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "explosion",
+    "flipbook",
+    "indiedevs"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "70 Animated 2D Game Effects!",
+  "author": "IndieDevs",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/70-animated-2d-game-effects",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "muzzle_flash.png": "4e1ef97bcd9de932d840c1b63dc6bd8def657b9603779e02409fe69a60b7c295"
+  },
+  "file_size": 731055,
+  "files": [
+    "muzzle_flash.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "explosion",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Optional: IndieDevs",
+  "dimensions": null
+}

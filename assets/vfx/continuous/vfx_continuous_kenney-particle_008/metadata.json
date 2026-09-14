@@ -1,0 +1,44 @@
+{
+  "id": "vfx_continuous_kenney-particle_008",
+  "name": "Flame 06",
+  "description": "Kenney Particle Pack sprite 'flame_06'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "continuous",
+  "tags": [
+    "kenney",
+    "particle",
+    "flame",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "flame_06.png": "174a44ab516a969b1b4bf4dfa75d9bb370de5b567bf8fb64966bf89862d6a45f"
+  },
+  "file_size": 13722,
+  "files": [
+    "flame_06.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "flame",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "flame_06.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

@@ -1,0 +1,10 @@
+{
+  "class": "ScreenOverlay",
+  "textureHint": "thin streaks + droplets",
+  "opacity": 0.35,
+  "scroll": [
+    0,
+    -0.4
+  ],
+  "notes": "BillboardGui or ParticleEmitter parented to camera"
+}

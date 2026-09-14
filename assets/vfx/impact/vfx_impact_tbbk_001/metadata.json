@@ -1,0 +1,37 @@
+{
+  "id": "vfx_impact_tbbk_001",
+  "name": "Pixel Art Sword Slash",
+  "description": "Pixel-art sword slash sprites by tbbk. CC0.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "pixel-art",
+    "melee"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel art sword slash effect",
+  "author": "tbbk",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-sword-slash-effect",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "pixel_art_sword_slash_sprites.png": "7642aa4698828f6cc908b3fd2873c3b3d8555138bae188991c6b775ae0c96915"
+  },
+  "file_size": 2349,
+  "files": [
+    "pixel_art_sword_slash_sprites.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Optional: tbbk",
+  "dimensions": null
+}

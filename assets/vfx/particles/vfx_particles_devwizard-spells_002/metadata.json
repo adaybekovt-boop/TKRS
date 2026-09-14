@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_002",
+  "name": "Black And White Ray",
+  "description": "Pixel-art spell sprite 'Black And White Ray' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Black And White Ray.png": "6ab0677048b69c6420ea5eba09aba9eb0de5bf0a6f8b6c522f1ea193cfa0ce8d"
+  },
+  "file_size": 310,
+  "files": [
+    "Black And White Ray.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

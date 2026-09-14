@@ -1,0 +1,38 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 4,
+  "Lifetime": [
+    3.0,
+    6.0
+  ],
+  "Speed": [
+    0.5,
+    1.5
+  ],
+  "SpreadAngle": [
+    20,
+    20
+  ],
+  "Size": [
+    0.15,
+    0.3
+  ],
+  "Acceleration": [
+    0,
+    -3,
+    0
+  ],
+  "RotSpeed": [
+    -90,
+    90
+  ],
+  "Color": [
+    "#d06020",
+    "#e8c040"
+  ],
+  "Transparency": [
+    0.0,
+    0.4
+  ],
+  "TextureHint": "leaf sprite"
+}

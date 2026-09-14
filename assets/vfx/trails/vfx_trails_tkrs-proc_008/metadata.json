@@ -1,0 +1,45 @@
+{
+  "id": "vfx_trails_tkrs-proc_008",
+  "name": "Smoke Trail Tile",
+  "description": "Soft dissipating smoke trail tile.",
+  "category": "vfx",
+  "subcategory": "trails",
+  "tags": [
+    "trail",
+    "smoke",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "f79dbd14cb608b6d516b603be4518c2ab87e6224df196fdf8bb04457da4867e6"
+  },
+  "file_size": 9472,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "trails",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    64
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "Roblox Trail texture",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

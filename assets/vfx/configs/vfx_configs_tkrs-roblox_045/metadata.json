@@ -1,0 +1,40 @@
+{
+  "id": "vfx_configs_tkrs-roblox_045",
+  "name": "Vignette Overlay Note",
+  "description": "Inert Roblox ScreenGui reference settings for 'Vignette Overlay Note'. Plain-text JSON only. Not executable.",
+  "category": "vfx",
+  "subcategory": "configs",
+  "tags": [
+    "roblox",
+    "config",
+    "reference",
+    "vignette",
+    "ScreenGui"
+  ],
+  "style": [
+    "technical-reference"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS VFX Batch 001 original reference",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "attribution_required": false,
+  "has_scripts": true,
+  "sha256": {
+    "reference.json": "6af3dd3576ce98838a0d7acfa05857ba7da15f9c6bf112beb4c22852f5f1af30"
+  },
+  "file_size": 439,
+  "files": [
+    "reference.json"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "vignette",
+  "dimensionality": "2D",
+  "asset_kind": "config",
+  "attribution": "Not required",
+  "code_note": "JSON reference only; no Luau executed",
+  "dimensions": null
+}

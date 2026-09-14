@@ -1,0 +1,46 @@
+{
+  "id": "vfx_overlays_tkrs-proc_006",
+  "name": "Rain On Glass",
+  "description": "Procedural rain droplets and short streaks for a glass/camera overlay.",
+  "category": "vfx",
+  "subcategory": "overlays",
+  "tags": [
+    "rain",
+    "screen",
+    "overlay",
+    "glass"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "4ffe0df4c969b34897b74fb6d9f2f634d8e1953f78b176d0fc7e7a862f714fea"
+  },
+  "file_size": 9148,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "overlays",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "screen or windshield overlay",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

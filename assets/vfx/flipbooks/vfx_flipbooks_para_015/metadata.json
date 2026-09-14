@@ -1,0 +1,38 @@
+{
+  "id": "vfx_flipbooks_para_015",
+  "name": "Air Bubbles 01",
+  "description": "Animated particle flipbook 'air_bubbles_01.png' by para. CC0. Angle/recolor family variants omitted.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "particle",
+    "flipbook",
+    "para",
+    "bubbles"
+  ],
+  "style": [
+    "pre-rendered"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Animated particle effects #2",
+  "author": "para",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/animated-particle-effects-2",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "air_bubbles_01.png": "607ab3c6c0031247989367db717ce8774eb3c2f5d2d3fbd2033508b942b5509a"
+  },
+  "file_size": 408779,
+  "files": [
+    "air_bubbles_01.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "bubbles",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Optional: para",
+  "dimensions": null
+}

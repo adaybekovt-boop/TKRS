@@ -1,0 +1,27 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 2,
+  "Lifetime": [
+    0.05,
+    0.12
+  ],
+  "Speed": [
+    0,
+    1
+  ],
+  "Size": [
+    0.4,
+    0.9
+  ],
+  "Color": [
+    "#fff2a0",
+    "#ff8a20"
+  ],
+  "Transparency": [
+    0.0,
+    0.8
+  ],
+  "LightEmission": 1.0,
+  "TextureHint": "kenney muzzle"
+}

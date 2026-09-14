@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_021",
+  "name": "Water Orb",
+  "description": "Pixel-art spell sprite 'Water Orb' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Water Orb.png": "b705ff3b3cd41bfb3ab8e537060b063feb9b4875e314b2e5c4297ffac16e33d6"
+  },
+  "file_size": 308,
+  "files": [
+    "Water Orb.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

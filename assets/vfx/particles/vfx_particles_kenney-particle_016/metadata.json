@@ -1,0 +1,44 @@
+{
+  "id": "vfx_particles_kenney-particle_016",
+  "name": "Twirl 01",
+  "description": "Kenney Particle Pack sprite 'twirl_01'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "kenney",
+    "particle",
+    "twirl",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "twirl_01.png": "18137131f93a9f97dbe9ba6f405a6c89236759875635c97be8c4859617a6a5f7"
+  },
+  "file_size": 31267,
+  "files": [
+    "twirl_01.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "twirl",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "twirl_01.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

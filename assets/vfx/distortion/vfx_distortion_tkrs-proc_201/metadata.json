@@ -1,0 +1,40 @@
+{
+  "id": "vfx_distortion_tkrs-proc_201",
+  "name": "Distortion radial-out",
+  "description": "Shockwave push. RG = XY offset, 0.5=none.",
+  "category": "vfx",
+  "subcategory": "distortion",
+  "tags": [
+    "procedural",
+    "distortion",
+    "radial-out",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "radial-out.png": "c4bd886e7075fe085ad76b540c227c7f6362b57bc68d7df61c8a4dc197f347cc"
+  },
+  "file_size": 707,
+  "files": [
+    "radial-out.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "distortion-map",
+  "generated": true,
+  "dimensions": null
+}

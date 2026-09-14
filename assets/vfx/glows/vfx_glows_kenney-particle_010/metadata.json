@@ -1,0 +1,44 @@
+{
+  "id": "vfx_glows_kenney-particle_010",
+  "name": "Star 06",
+  "description": "Kenney Particle Pack sprite 'star_06'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "glows",
+  "tags": [
+    "kenney",
+    "particle",
+    "star",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "star_06.png": "4b55a5f4e03ab541b3d6b81a1b0f41c1e30f700144e1fcf204e4bec31fa1ae73"
+  },
+  "file_size": 25156,
+  "files": [
+    "star_06.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "star",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "star_06.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

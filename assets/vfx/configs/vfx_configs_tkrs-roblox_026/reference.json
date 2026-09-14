@@ -1,0 +1,51 @@
+{
+  "id": "vfx_configs_tkrs-roblox_026",
+  "name": "Toxic Haze",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 10,
+    "Lifetime": [
+      2,
+      4
+    ],
+    "Speed": [
+      0.5,
+      1.2
+    ],
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        1,
+        3
+      ]
+    },
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.5,
+        0.95
+      ]
+    },
+    "Color": [
+      [
+        0.35,
+        0.85,
+        0.2
+      ],
+      [
+        0.1,
+        0.4,
+        0.05
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vfx_overlays_tkrs-proc_004",
+  "name": "Film Grain",
+  "description": "Procedural grayscale film grain overlay tile.",
+  "category": "vfx",
+  "subcategory": "overlays",
+  "tags": [
+    "grain",
+    "screen",
+    "overlay",
+    "noise"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "81e72c9f267101d2f464fd4cef09cc19537374eaf7cd3223176798df3df97c5c"
+  },
+  "file_size": 90241,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "overlays",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "overlay tile, animate UV",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_devwizard-spells_008",
+  "name": "Firebomb",
+  "description": "Pixel-art spell sprite 'Firebomb' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "magic"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Firebomb.png": "a59b3e5e80dea2572c72b11dd84ed9bf17578cf584f4d32719f67e215372e18b"
+  },
+  "file_size": 423,
+  "files": [
+    "Firebomb.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "magic",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

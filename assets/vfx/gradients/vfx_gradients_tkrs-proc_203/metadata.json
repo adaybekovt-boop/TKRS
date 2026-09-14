@@ -1,0 +1,40 @@
+{
+  "id": "vfx_gradients_tkrs-proc_203",
+  "name": "Ramp ice",
+  "description": "Color ramp 'ice' for particle color sequences. 256x32.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "procedural",
+    "gradient",
+    "ice",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "ramp_ice.png": "6a034d1a5b3900d236b401650dd485e0f50836e9a3ba43142563f38f7a2e06f4"
+  },
+  "file_size": 303,
+  "files": [
+    "ramp_ice.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "gradient-ramp",
+  "generated": true,
+  "dimensions": null
+}

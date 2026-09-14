@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_devwizard-spells_019",
+  "name": "Water Blast",
+  "description": "Pixel-art spell sprite 'Water Blast' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "splash"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Water Blast.png": "e41b86748ef386fd0a164b9952c2d0fdce94541633d080a6a320f75e3cd07238"
+  },
+  "file_size": 494,
+  "files": [
+    "Water Blast.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "splash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

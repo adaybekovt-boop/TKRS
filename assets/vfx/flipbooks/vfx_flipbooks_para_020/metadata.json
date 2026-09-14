@@ -1,0 +1,38 @@
+{
+  "id": "vfx_flipbooks_para_020",
+  "name": "Fire 02",
+  "description": "Animated particle flipbook 'fire_02.png' by para. CC0.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "particle",
+    "flipbook",
+    "para",
+    "fire"
+  ],
+  "style": [
+    "pre-rendered"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Animated particle effects #2",
+  "author": "para",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/animated-particle-effects-2",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "fire_02.png": "1b5ca27c4a36df4b04b0ac5ebab53b231b3fecb9e08bde4921f45b65fb9e44c1"
+  },
+  "file_size": 1249777,
+  "files": [
+    "fire_02.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "fire",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Optional: para",
+  "dimensions": null
+}

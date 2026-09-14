@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_011",
+  "name": "Magic Orb",
+  "description": "Pixel-art spell sprite 'Magic Orb' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Magic Orb.png": "a7b6f0efc91b6625a428854d1436305f4583947bee399a8cf5e833aad772a95d"
+  },
+  "file_size": 373,
+  "files": [
+    "Magic Orb.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

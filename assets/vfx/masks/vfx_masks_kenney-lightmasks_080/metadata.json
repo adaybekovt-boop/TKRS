@@ -1,0 +1,42 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_080",
+  "name": "Foliage Canopy C Blur",
+  "description": "Kenney Light Masks transparent cookie 'foliage_canopy_c_blur.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "foliage_canopy_c_blur.png": "1cc15cf4839df6bfba76b456955269dde6e14c28eedeee747dd36fbe9142c24a"
+  },
+  "file_size": 110257,
+  "files": [
+    "foliage_canopy_c_blur.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "foliage_canopy_c_blur.png",
+  "effect_type": "light-cookie",
+  "alpha_mode": "straight",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

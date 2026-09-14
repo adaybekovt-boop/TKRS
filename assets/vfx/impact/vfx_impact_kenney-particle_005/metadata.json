@@ -1,0 +1,44 @@
+{
+  "id": "vfx_impact_kenney-particle_005",
+  "name": "Muzzle 05",
+  "description": "Kenney Particle Pack sprite 'muzzle_05'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "kenney",
+    "particle",
+    "muzzle",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "muzzle_05.png": "4573dfd3e030dfd3257455b26fd4be8483cdf374df0c4aecff0e8176f607dfe9"
+  },
+  "file_size": 56402,
+  "files": [
+    "muzzle_05.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "muzzle",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "muzzle_05.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

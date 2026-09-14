@@ -1,0 +1,44 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 40,
+  "Lifetime": [
+    0.8,
+    1.4
+  ],
+  "Speed": [
+    12,
+    18
+  ],
+  "SpreadAngle": [
+    4,
+    4
+  ],
+  "Size": [
+    0.05,
+    0.12
+  ],
+  "Acceleration": [
+    0,
+    -20,
+    0
+  ],
+  "Color": [
+    "#d7e7ff",
+    "#9bb8d8"
+  ],
+  "Transparency": [
+    0.3,
+    0.7
+  ],
+  "Rotation": [
+    0,
+    0
+  ],
+  "RotSpeed": [
+    0,
+    0
+  ],
+  "LightEmission": 0.05,
+  "TextureHint": "thin streak / kenney trace",
+  "EmissionDirection": "Bottom"
+}

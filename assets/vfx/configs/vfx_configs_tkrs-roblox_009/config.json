@@ -1,0 +1,34 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 20,
+  "Lifetime": [
+    1.0,
+    2.0
+  ],
+  "Speed": [
+    4,
+    8
+  ],
+  "SpreadAngle": [
+    12,
+    12
+  ],
+  "Size": [
+    0.2,
+    1.5
+  ],
+  "Acceleration": [
+    0,
+    8,
+    0
+  ],
+  "Color": [
+    "#ffffff",
+    "#d0d8e0"
+  ],
+  "Transparency": [
+    0.3,
+    0.95
+  ],
+  "TextureHint": "white puff / kenney smoke"
+}

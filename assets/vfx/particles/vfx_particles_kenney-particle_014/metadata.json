@@ -1,0 +1,44 @@
+{
+  "id": "vfx_particles_kenney-particle_014",
+  "name": "Symbol 01",
+  "description": "Kenney Particle Pack sprite 'symbol_01'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "kenney",
+    "particle",
+    "symbol",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "symbol_01.png": "97c8874aba170cd014c8a58067c4f49bbb941151180e20c1dbcd2c889b3e2e13"
+  },
+  "file_size": 3849,
+  "files": [
+    "symbol_01.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "symbol",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "symbol_01.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

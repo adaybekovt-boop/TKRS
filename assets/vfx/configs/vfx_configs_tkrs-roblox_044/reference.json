@@ -1,0 +1,11 @@
+{
+  "id": "vfx_configs_tkrs-roblox_044",
+  "name": "Film Grain Overlay Note",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ScreenGui",
+    "note": "Tiled grain texture ImageLabel at low opacity. Prefer procedural grain from building-blocks lane."
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

@@ -1,0 +1,27 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 1,
+  "Lifetime": [
+    0.12,
+    0.2
+  ],
+  "Speed": [
+    0,
+    0
+  ],
+  "Size": [
+    0.8,
+    1.6
+  ],
+  "Color": [
+    "#ffffff",
+    "#c8e6ff"
+  ],
+  "Transparency": [
+    0.1,
+    1.0
+  ],
+  "Orientation": "VelocityParallel",
+  "suggested_texture": "kenney slash_01"
+}

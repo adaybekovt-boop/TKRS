@@ -1,0 +1,7 @@
+{
+  "class": "ScreenOverlay",
+  "textureHint": "procedural grain tile",
+  "opacity": 0.12,
+  "tile": true,
+  "notes": "animate UV offset each frame"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "vfx_impact_reactorcore-muzzle_008",
+  "name": "Blades All Long Sheet",
+  "description": "Reactorcore 'Blades All Long Sheet' sprite sheet. CC0. Ion/red recolors and individual frames omitted.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "reactorcore",
+    "slash",
+    "spritesheet"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Gun Muzzle Flash Effects (Fire and Ion and Melee)",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/gun-muzzle-flash-effects-fire-and-ion-and-melee",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Blades_ALL_long_SHEET.png": "fc005517b9bb02087834fd2af0930ff9a8213bc1f4d3d9d6dc72ca1ffa0d68dd"
+  },
+  "file_size": 112704,
+  "files": [
+    "Blades_ALL_long_SHEET.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite-sheet",
+  "attribution": "Optional: Reactorcore",
+  "dimensions": null
+}

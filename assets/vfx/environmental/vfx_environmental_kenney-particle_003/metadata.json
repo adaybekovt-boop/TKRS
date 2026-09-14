@@ -1,0 +1,44 @@
+{
+  "id": "vfx_environmental_kenney-particle_003",
+  "name": "Smoke 03",
+  "description": "Kenney Particle Pack sprite 'smoke_03'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "environmental",
+  "tags": [
+    "kenney",
+    "particle",
+    "smoke",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "smoke_03.png": "588255cfa015d2fd44488cf9a03d15edd73b2f5777dbf0301f431835b49eacc4"
+  },
+  "file_size": 33642,
+  "files": [
+    "smoke_03.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "smoke",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "smoke_03.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

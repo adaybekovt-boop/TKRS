@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_metashinryu-slash_006",
+  "name": "Slash",
+  "description": "Slash effect 'Slash' by MetaShinryu. CC0. Size variants collapsed to unique types.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "melee",
+    "impact",
+    "metashinryu"
+  ],
+  "style": [
+    "hand-painted",
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Slash Effect Collection",
+  "author": "MetaShinryu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/slash-effect-collection",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Slash.png": "71b9c59e19ebd7a13402ae3e35d076493862b54ec05ba048d5b881b14020fd12"
+  },
+  "file_size": 25109,
+  "files": [
+    "Slash.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

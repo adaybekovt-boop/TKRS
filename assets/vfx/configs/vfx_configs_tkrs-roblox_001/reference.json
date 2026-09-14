@@ -1,0 +1,74 @@
+{
+  "id": "vfx_configs_tkrs-roblox_001",
+  "name": "Rain Drizzle",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 40,
+    "Lifetime": [
+      0.8,
+      1.4
+    ],
+    "Speed": [
+      12,
+      18
+    ],
+    "SpreadAngle": [
+      4,
+      4
+    ],
+    "Acceleration": [
+      0,
+      -20,
+      0
+    ],
+    "Drag": 0,
+    "LightEmission": 0.15,
+    "LightInfluence": 0.2,
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.05,
+        0.12
+      ]
+    },
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.3,
+        0.7
+      ]
+    },
+    "Color": [
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        0.75,
+        0.85,
+        1
+      ]
+    ],
+    "EmissionDirection": "Bottom",
+    "LockedToPart": false,
+    "Rotation": [
+      0,
+      0
+    ],
+    "RotSpeed": [
+      0,
+      0
+    ],
+    "suggested_texture": "thin rain streak / kenney trace"
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

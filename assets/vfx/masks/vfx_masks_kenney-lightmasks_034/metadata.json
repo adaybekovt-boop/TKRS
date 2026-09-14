@@ -1,0 +1,48 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_034",
+  "name": "Cone B Blur",
+  "description": "Kenney Light Masks cookie 'cone_b_blur' (transparent encoding). Use as a light cookie, ParticleEmitter texture, or additive glow mask in Roblox.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx",
+    "cone",
+    "b",
+    "blur"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "cone_b_blur.png": "3ba00c5c49175e9f762ce3951ad1ff09817746d5dfde8bb3812970c0cc47301a"
+  },
+  "file_size": 14711,
+  "files": [
+    "cone_b_blur.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask / glow",
+  "source_site": "https://kenney.nl/assets/light-masks",
+  "original_filename": "cone_b_blur.png",
+  "attribution": null,
+  "dimensions": null
+}

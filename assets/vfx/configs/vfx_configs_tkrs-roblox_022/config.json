@@ -1,0 +1,31 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 18,
+  "Lifetime": [
+    0.25,
+    0.55
+  ],
+  "Speed": [
+    4,
+    10
+  ],
+  "SpreadAngle": [
+    180,
+    180
+  ],
+  "Size": [
+    0.1,
+    0.6
+  ],
+  "Color": [
+    "#ff40d0",
+    "#c080ff"
+  ],
+  "Transparency": [
+    0.0,
+    1.0
+  ],
+  "LightEmission": 0.7,
+  "TextureHint": "star / magic spark"
+}

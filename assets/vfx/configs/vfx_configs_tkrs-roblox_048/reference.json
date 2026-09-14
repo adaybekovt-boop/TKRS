@@ -1,0 +1,11 @@
+{
+  "id": "vfx_configs_tkrs-roblox_048",
+  "name": "Glitch Overlay Note",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ScreenGui",
+    "note": "Short-lived RGB-offset ImageLabels; pair with distortion map from building-blocks."
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

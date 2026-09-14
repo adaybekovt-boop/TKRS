@@ -1,0 +1,44 @@
+{
+  "id": "vfx_glows_tkrs-proc_017",
+  "name": "Ring Glow",
+  "description": "Soft glowing ring sprite.",
+  "category": "vfx",
+  "subcategory": "glows",
+  "tags": [
+    "glow",
+    "ring",
+    "shockwave"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "40c1d499fc6901ba2a27aa65bf41af419898d080593d13ee12e09fd098b55522"
+  },
+  "file_size": 24730,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "glows",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "shockwave / portal",
+  "attribution": null,
+  "dimensions": null
+}

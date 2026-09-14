@@ -1,0 +1,40 @@
+{
+  "id": "vfx_distortion_tkrs-proc_210",
+  "name": "Distortion barrel",
+  "description": "Mild barrel lens. RG = XY offset, 0.5=none.",
+  "category": "vfx",
+  "subcategory": "distortion",
+  "tags": [
+    "procedural",
+    "distortion",
+    "barrel",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "barrel.png": "3567a89dc98ef015b9f4b110c33d23d82f659bd015c7e98f2e581ba4bab7d9df"
+  },
+  "file_size": 16242,
+  "files": [
+    "barrel.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "distortion-map",
+  "generated": true,
+  "dimensions": null
+}

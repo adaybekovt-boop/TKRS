@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_metashinryu-slash_008",
+  "name": "Lunge Big",
+  "description": "Slash effect 'Lunge Big' by MetaShinryu. CC0. Size variants collapsed to unique types.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "melee",
+    "impact",
+    "metashinryu"
+  ],
+  "style": [
+    "hand-painted",
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Slash Effect Collection",
+  "author": "MetaShinryu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/slash-effect-collection",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Lunge Big.png": "02112c86ce2637925fa79595b24e851c125d8929cdcf06783db215c460abe470"
+  },
+  "file_size": 189614,
+  "files": [
+    "Lunge Big.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

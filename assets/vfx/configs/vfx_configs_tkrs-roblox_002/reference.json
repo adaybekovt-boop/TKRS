@@ -1,0 +1,63 @@
+{
+  "id": "vfx_configs_tkrs-roblox_002",
+  "name": "Rain Heavy",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 90,
+    "Lifetime": [
+      0.6,
+      1.1
+    ],
+    "Speed": [
+      20,
+      28
+    ],
+    "SpreadAngle": [
+      8,
+      8
+    ],
+    "Acceleration": [
+      0,
+      -35,
+      0
+    ],
+    "Drag": 0,
+    "LightEmission": 0.1,
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.06,
+        0.16
+      ]
+    },
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.25,
+        0.65
+      ]
+    },
+    "Color": [
+      [
+        0.8,
+        0.88,
+        1
+      ],
+      [
+        0.6,
+        0.7,
+        0.9
+      ]
+    ],
+    "EmissionDirection": "Bottom"
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

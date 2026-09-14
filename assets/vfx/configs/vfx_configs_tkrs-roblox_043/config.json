@@ -1,0 +1,6 @@
+{
+  "class": "ScreenOverlay",
+  "textureHint": "horizontal scanlines tile",
+  "opacity": 0.18,
+  "tile": true
+}

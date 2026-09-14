@@ -1,0 +1,30 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 16,
+  "Lifetime": [
+    1.0,
+    2.0
+  ],
+  "Speed": [
+    3,
+    6
+  ],
+  "SpreadAngle": [
+    8,
+    4
+  ],
+  "Size": [
+    0.08,
+    0.3
+  ],
+  "Drag": 1,
+  "Color": [
+    "#c8a060",
+    "#e0c080"
+  ],
+  "Transparency": [
+    0.2,
+    0.85
+  ],
+  "TextureHint": "dirt / soft puff"
+}

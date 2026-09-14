@@ -1,0 +1,40 @@
+{
+  "id": "vfx_gradients_tkrs-proc_214",
+  "name": "Ramp gold",
+  "description": "Color ramp 'gold' for particle color sequences. 256x32.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "procedural",
+    "gradient",
+    "gold",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "ramp_gold.png": "fea4f3f7f6712f2cfce6a3daacf0594852baad06a9403ffdd721265bb3acbe6f"
+  },
+  "file_size": 280,
+  "files": [
+    "ramp_gold.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "gradient-ramp",
+  "generated": true,
+  "dimensions": null
+}

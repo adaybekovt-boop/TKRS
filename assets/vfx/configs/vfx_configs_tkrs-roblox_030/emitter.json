@@ -1,0 +1,25 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 16,
+  "Lifetime": [
+    0.8,
+    1.6
+  ],
+  "Speed": [
+    3,
+    6
+  ],
+  "Drag": 1,
+  "Size": [
+    0.08,
+    0.25
+  ],
+  "Color": [
+    "#d2b48c"
+  ],
+  "Transparency": [
+    0.25,
+    0.85
+  ],
+  "suggested_texture": "kenney dirt_03"
+}

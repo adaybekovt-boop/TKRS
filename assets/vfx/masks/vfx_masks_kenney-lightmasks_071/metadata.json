@@ -1,0 +1,42 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_071",
+  "name": "Fan D Blur",
+  "description": "Kenney Light Masks transparent cookie 'fan_d_blur.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "fan_d_blur.png": "1754f4369cdd86eb8bbe316096cbb22b2ebc685a75e502327ae84b6dfdb34eb2"
+  },
+  "file_size": 40889,
+  "files": [
+    "fan_d_blur.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "fan_d_blur.png",
+  "effect_type": "light-cookie",
+  "alpha_mode": "straight",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

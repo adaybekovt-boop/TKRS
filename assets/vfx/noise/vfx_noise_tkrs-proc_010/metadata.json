@@ -1,0 +1,45 @@
+{
+  "id": "vfx_noise_tkrs-proc_010",
+  "name": "Vortex Noise",
+  "description": "Angular vortex-modulated noise tile.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "noise",
+    "vortex",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "26d12576128462cf9d4e8f5da782b86e63add148045817d4dd3f1f62ecea496b"
+  },
+  "file_size": 52749,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "noise",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "portals / swirl",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

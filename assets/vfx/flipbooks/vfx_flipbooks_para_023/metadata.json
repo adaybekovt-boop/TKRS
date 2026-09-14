@@ -1,0 +1,38 @@
+{
+  "id": "vfx_flipbooks_para_023",
+  "name": "Teleporter Hit",
+  "description": "Animated particle flipbook 'teleporter_hit.png' by para. CC0.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "particle",
+    "flipbook",
+    "para",
+    "teleport"
+  ],
+  "style": [
+    "pre-rendered"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Animated particle effects #2",
+  "author": "para",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/animated-particle-effects-2",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "teleporter_hit.png": "841f43f5201a6b0436946e47af82e5569ee622bc2625dd68daaada634e17cead"
+  },
+  "file_size": 416053,
+  "files": [
+    "teleporter_hit.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "teleport",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Optional: para",
+  "dimensions": null
+}

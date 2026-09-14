@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_010",
+  "name": "Light Bolt",
+  "description": "Pixel-art spell sprite 'Light Bolt' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Light Bolt.png": "38fe63a44f7e96694fb66217a42190539bc1ee4fe1f3b2792804bfe9196043ea"
+  },
+  "file_size": 362,
+  "files": [
+    "Light Bolt.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

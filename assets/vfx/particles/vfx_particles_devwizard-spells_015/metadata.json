@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_015",
+  "name": "Plant Missle",
+  "description": "Pixel-art spell sprite 'Plant Missle' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Plant Missle.png": "4dd2bba0e660329d08559924442e54232e79f00fb2d7215c2d9f6f726545bf2f"
+  },
+  "file_size": 325,
+  "files": [
+    "Plant Missle.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

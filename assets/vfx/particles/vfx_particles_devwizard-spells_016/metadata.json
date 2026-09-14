@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_016",
+  "name": "Pure Bolt 2",
+  "description": "Pixel-art spell sprite 'Pure Bolt 2' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Pure Bolt 2.png": "6dcdaabe18378531ed70b7874f354d3cb6ce4c0fd7a422a0feaa3b9ddbd2a989"
+  },
+  "file_size": 332,
+  "files": [
+    "Pure Bolt 2.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

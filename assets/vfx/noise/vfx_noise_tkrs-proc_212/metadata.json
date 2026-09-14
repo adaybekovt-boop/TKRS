@@ -1,0 +1,42 @@
+{
+  "id": "vfx_noise_tkrs-proc_212",
+  "name": "Noise scan",
+  "description": "Horizontal interference + noise. 256² grayscale RGB, opaque alpha. Procedural CC0.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "procedural",
+    "noise",
+    "scan",
+    "building-block",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "scan.png": "3527dd09b7886fc547d73ea7b1f393299f203c7a0cba3707ab0ef5a6e43308e5"
+  },
+  "file_size": 153493,
+  "files": [
+    "scan.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "noise",
+  "generated": true,
+  "resolution": "256x256",
+  "dimensions": null
+}

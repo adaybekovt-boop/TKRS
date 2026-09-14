@@ -1,0 +1,6 @@
+{
+  "class": "ScreenOverlay",
+  "textureHint": "radial vignette",
+  "opacity": 0.45,
+  "notes": "multiply or transparent black edges"
+}

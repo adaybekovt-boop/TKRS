@@ -1,0 +1,45 @@
+{
+  "id": "vfx_noise_tkrs-proc_001",
+  "name": "White Noise",
+  "description": "Uncorrelated white noise tile for grain and dither.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "noise",
+    "white",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "3bd4d6d0e8fa64f1920fe63caa3e4b3ea05ea674f803ac192546ad4f7f2751b1"
+  },
+  "file_size": 65880,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "noise",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "grain / randomize particles",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 40,
+  "Lifetime": [
+    0.8,
+    1.4
+  ],
+  "Speed": [
+    12,
+    18
+  ],
+  "SpreadAngle": [
+    4,
+    4
+  ],
+  "Size": [
+    0.05,
+    0.12
+  ],
+  "Acceleration": [
+    0,
+    -20,
+    0
+  ],
+  "Color": [
+    "#c8d8ff",
+    "#ffffff"
+  ],
+  "Transparency": [
+    0.3,
+    0.7
+  ],
+  "LightEmission": 0.0,
+  "RotSpeed": [
+    0,
+    0
+  ],
+  "suggested_texture": "kenney trace or rain streak"
+}

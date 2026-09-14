@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_metashinryu-slash_009",
+  "name": "Lunge Medium",
+  "description": "Slash effect 'Lunge Medium' by MetaShinryu. CC0. Size variants collapsed to unique types.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "melee",
+    "impact",
+    "metashinryu"
+  ],
+  "style": [
+    "hand-painted",
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Slash Effect Collection",
+  "author": "MetaShinryu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/slash-effect-collection",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Lunge Medium.png": "03dc4457f9126280c9c17d3a09a28d48071e6ac0468be8670fc6386af849fbeb"
+  },
+  "file_size": 181531,
+  "files": [
+    "Lunge Medium.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

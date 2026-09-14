@@ -1,0 +1,41 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_105",
+  "name": "Streaks Composed C Noise",
+  "description": "Kenney Light Masks transparent cookie 'streaks_composed_c_noise.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "streaks_composed_c_noise.png": "79326d977e5ea913bcbb0c0cce949b83b9dd1ac4fb9074632a5fff0d42ac418a"
+  },
+  "file_size": 26346,
+  "files": [
+    "streaks_composed_c_noise.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "streaks_composed_c_noise.png",
+  "effect_type": "light-cookie",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

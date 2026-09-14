@@ -1,0 +1,45 @@
+{
+  "id": "vfx_overlays_tkrs-proc_001",
+  "name": "Round Vignette",
+  "description": "Procedural circular edge vignette, black with radial alpha.",
+  "category": "vfx",
+  "subcategory": "overlays",
+  "tags": [
+    "vignette",
+    "screen",
+    "overlay"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "538ce953a23e690eb649d08d29635fa74d4d2e31ee52446e36297aeb9e2b6387"
+  },
+  "file_size": 35090,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "overlays",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "screen overlay multiply/alpha",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

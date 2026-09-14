@@ -1,0 +1,38 @@
+{
+  "id": "vfx_continuous_reactorcore-plasma_027",
+  "name": "Sheet1_All",
+  "description": "Plasma/electric effect 'Sheet1_All' by Reactorcore. CC0. Sprite sheet preferred over individual frames.",
+  "category": "vfx",
+  "subcategory": "continuous",
+  "tags": [
+    "plasma",
+    "electric",
+    "reactorcore",
+    "plasma"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Plasma Electric Effect Animations",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/plasma-electric-effect-animations",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Sheet1_All.png": "c16cab7615ef8a1769af837c35d3844c738583888e8d7e595f7537355fb9e67f"
+  },
+  "file_size": 841885,
+  "files": [
+    "Sheet1_All.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "plasma",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

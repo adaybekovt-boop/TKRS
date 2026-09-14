@@ -1,0 +1,45 @@
+{
+  "id": "vfx_beams_tkrs-proc_004",
+  "name": "Plasma Beam",
+  "description": "Noisy purple-blue plasma beam tile.",
+  "category": "vfx",
+  "subcategory": "beams",
+  "tags": [
+    "beam",
+    "plasma",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "02cada653036c8f4179b09b20ceda01b46b0447e85963bfc60d9f399d2d40751"
+  },
+  "file_size": 11050,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "beams",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    64
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "Roblox Beam texture",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

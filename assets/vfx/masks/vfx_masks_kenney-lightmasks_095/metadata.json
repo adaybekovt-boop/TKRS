@@ -1,0 +1,41 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_095",
+  "name": "Shape C",
+  "description": "Kenney Light Masks transparent cookie 'shape_c.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "shape_c.png": "9c746ac86cb235934a1854bc6aa26c761e92cd0f328803aacfed6568eb4690ab"
+  },
+  "file_size": 30148,
+  "files": [
+    "shape_c.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "shape_c.png",
+  "effect_type": "light-cookie",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

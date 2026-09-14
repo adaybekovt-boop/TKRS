@@ -1,0 +1,11 @@
+{
+  "id": "vfx_configs_tkrs-roblox_041",
+  "name": "Screen Rain Overlay Note",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ScreenGui",
+    "note": "Suggested BillboardGui/ImageLabel overlay using a rain streak sprite; animate offset. Not a ParticleEmitter. Pair with world rain emitter."
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

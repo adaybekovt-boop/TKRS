@@ -1,0 +1,42 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_072",
+  "name": "Fan D Gradient",
+  "description": "Kenney Light Masks transparent cookie 'fan_d_gradient.png'. Light cookie / alpha mask for beams, spotlights, and VFX cards.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "fan_d_gradient.png": "8be78ce3fe5cc64fe42721f22f073236344a7be8048ce76694dbf2967609d9c9"
+  },
+  "file_size": 49281,
+  "files": [
+    "fan_d_gradient.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "fan_d_gradient.png",
+  "effect_type": "light-cookie",
+  "alpha_mode": "straight",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

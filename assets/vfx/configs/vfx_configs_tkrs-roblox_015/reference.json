@@ -1,0 +1,43 @@
+{
+  "id": "vfx_configs_tkrs-roblox_015",
+  "name": "Shockwave Ring",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 0,
+    "Lifetime": [
+      0.35,
+      0.35
+    ],
+    "Speed": [
+      0,
+      0
+    ],
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.5,
+        6
+      ]
+    },
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.2,
+        1
+      ]
+    },
+    "Orientation": "VelocityParallel",
+    "emit_burst": 1,
+    "Enabled": false,
+    "suggested_texture": "soft ring / kenney circle"
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

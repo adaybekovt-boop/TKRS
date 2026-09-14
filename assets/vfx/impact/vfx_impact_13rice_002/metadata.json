@@ -1,0 +1,40 @@
+{
+  "id": "vfx_impact_13rice_002",
+  "name": "Radial Lightning Spark Variation 02",
+  "description": "CC0 radial lightning / spark flipbook by 13rice (spark_02.png).",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "lightning",
+    "spark",
+    "flipbook",
+    "impact",
+    "13rice"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Radial lightning effect (OpenGameArt)",
+  "author": "13rice",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/radial-lightning-effect",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "spark_02.png": "7366cab30d84d5089674eb795f216d81299611eda3c74df849597e9459b1bc20"
+  },
+  "file_size": 185933,
+  "files": [
+    "spark_02.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "lightning",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "source_repository": "https://opengameart.org/content/radial-lightning-effect",
+  "dimensions": null
+}

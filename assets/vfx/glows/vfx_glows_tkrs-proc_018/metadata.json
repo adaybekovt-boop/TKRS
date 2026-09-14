@@ -1,0 +1,44 @@
+{
+  "id": "vfx_glows_tkrs-proc_018",
+  "name": "Hex Modulated Glow",
+  "description": "Glow with hexagonal angular modulation.",
+  "category": "vfx",
+  "subcategory": "glows",
+  "tags": [
+    "glow",
+    "hex",
+    "magic"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "25a8e549769b5f4c54e6b8ea21dca23cea58e7d547b0ab2e4ae3a1749282e36b"
+  },
+  "file_size": 31531,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "glows",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "magic aura",
+  "attribution": null,
+  "dimensions": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "vfx_overlays_tkrs-proc_005",
+  "name": "Chromatic Fringe Mask",
+  "description": "Procedural RGB fringe mask stronger at edges.",
+  "category": "vfx",
+  "subcategory": "overlays",
+  "tags": [
+    "chromatic",
+    "screen",
+    "overlay"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "f93a048ddc6ab27b2a00fe2732e4269cc45bdc7278eb3cb864e28e73c6c5abad"
+  },
+  "file_size": 75892,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "overlays",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "offset R/B channels",
+  "loopable": null,
+  "attribution": null,
+  "dimensions": null
+}

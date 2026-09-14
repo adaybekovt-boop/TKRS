@@ -1,0 +1,46 @@
+{
+  "id": "vfx_trails_tkrs-proc_009",
+  "name": "Spark Trail Tile",
+  "description": "Bright spark/fire trail tile.",
+  "category": "vfx",
+  "subcategory": "trails",
+  "tags": [
+    "trail",
+    "spark",
+    "fire",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "c364d24d471214d8cfe32022cc1cd510ab8ee9e7ed707ae09e75d5bccc9237f8"
+  },
+  "file_size": 4521,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "trails",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    64
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "Roblox Trail texture",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_017",
+  "name": "Circle Rings A",
+  "description": "Kenney Light Masks cookie 'circle_rings_a' (transparent encoding). Use as a light cookie, ParticleEmitter texture, or additive glow mask in Roblox.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx",
+    "circle",
+    "rings",
+    "a"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "circle_rings_a.png": "cf7b673b29fcb0ee3101368edf51a4df21bfc2e25a18c2afd91439abd58d4499"
+  },
+  "file_size": 58655,
+  "files": [
+    "circle_rings_a.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask / glow",
+  "source_site": "https://kenney.nl/assets/light-masks",
+  "original_filename": "circle_rings_a.png",
+  "attribution": null,
+  "dimensions": null
+}

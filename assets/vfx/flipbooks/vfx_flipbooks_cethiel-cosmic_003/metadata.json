@@ -1,0 +1,48 @@
+{
+  "id": "vfx_flipbooks_cethiel-cosmic_003",
+  "name": "Cosmic Time Magic Effect 3",
+  "description": "Cethiel Cosmic Time magic effect sequence 3 (5 frames). CC0.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "magic",
+    "cosmic",
+    "flipbook",
+    "cethiel"
+  ],
+  "style": [
+    "stylized",
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Cosmic Time - Magic Effect",
+  "author": "Cethiel",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/cosmic-time-magic-effect",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Cosmic_11.png": "fdf3ba78129db59150890dcb5b06692a849bcebb357b5350281ec565355d541e",
+    "Cosmic_12.png": "8706c093a117c08305835fce2cc04dee02e42e2a2e9736d5a1767a616f59059a",
+    "Cosmic_13.png": "c47bda803e6cdf377cae12d2a9899759beca500782076e1e8f3d8dd47c36f6ce",
+    "Cosmic_14.png": "90938b3f224ad25528f38b8aa8f905767c59019db9535af2cdc5f58aa1340f06",
+    "Cosmic_15.png": "bbea438cdc8aa4b5c3fa3006e9d1e713b46aebd5d0aa77ec0ea4a84a0ac68b19"
+  },
+  "file_size": 40653,
+  "files": [
+    "Cosmic_11.png",
+    "Cosmic_12.png",
+    "Cosmic_13.png",
+    "Cosmic_14.png",
+    "Cosmic_15.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "magic",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "frame_count": 5,
+  "dimensions": null
+}

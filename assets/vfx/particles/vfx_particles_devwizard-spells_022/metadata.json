@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_022",
+  "name": "Wind Bolt",
+  "description": "Pixel-art spell sprite 'Wind Bolt' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Wind Bolt.png": "19adb7e77df6c94eef4c23ba8c7713296a5ab08378a1406f4ba30a0b93692522"
+  },
+  "file_size": 447,
+  "files": [
+    "Wind Bolt.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_metashinryu-slash_004",
+  "name": "Slash Gradual",
+  "description": "Slash effect 'Slash Gradual' by MetaShinryu. CC0. Size variants collapsed to unique types.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "melee",
+    "impact",
+    "metashinryu"
+  ],
+  "style": [
+    "hand-painted",
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Slash Effect Collection",
+  "author": "MetaShinryu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/slash-effect-collection",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Slash Gradual.png": "7e3839541a2d0193cd8e4e6b7cc5d34558b7bff165e6b37affdb7cc9da7f8f60"
+  },
+  "file_size": 52939,
+  "files": [
+    "Slash Gradual.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

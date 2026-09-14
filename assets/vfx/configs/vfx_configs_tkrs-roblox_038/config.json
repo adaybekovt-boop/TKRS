@@ -1,0 +1,10 @@
+{
+  "class": "ScreenOverlay",
+  "textureHint": "kenney water_caustics or procedural caustics",
+  "opacity": 0.25,
+  "scroll": [
+    0.05,
+    0.02
+  ],
+  "notes": "additive blend over scene or water plane"
+}

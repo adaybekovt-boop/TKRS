@@ -1,0 +1,7 @@
+{
+  "class": "EmitterPool",
+  "pool_size": 16,
+  "recycle_after": "Lifetime.Max",
+  "prewarm": false,
+  "notes": "Lightweight pooling pattern for Roblox VFX. Keep a small array of ParticleEmitter clones parented to a folder; enable one on use, disable when Lifetime.Max elapses. Do not execute this file."
+}

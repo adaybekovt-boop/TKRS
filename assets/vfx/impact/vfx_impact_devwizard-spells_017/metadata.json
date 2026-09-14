@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_devwizard-spells_017",
+  "name": "Rock Sling",
+  "description": "Pixel-art spell sprite 'Rock Sling' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "magic"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Rock Sling.png": "19d858b0cd1bc38efbcfe63cf259ca297dd5ca28f91e3373ead42bb9b3685aae"
+  },
+  "file_size": 224,
+  "files": [
+    "Rock Sling.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "magic",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

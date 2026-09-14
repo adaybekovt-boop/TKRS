@@ -1,0 +1,46 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_133",
+  "name": "Window E Blur",
+  "description": "Kenney Light Masks cookie 'window_e_blur' (transparent encoding).",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "window",
+    "e",
+    "blur"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "window_e_blur.png": "5b31248697bf066b6e6895c8bcd3db067349d060e360b9cea78a0548bfa23a0b"
+  },
+  "file_size": 22815,
+  "files": [
+    "window_e_blur.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask",
+  "original_filename": "window_e_blur.png",
+  "attribution": null,
+  "dimensions": null
+}

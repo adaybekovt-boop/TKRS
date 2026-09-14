@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_005",
+  "name": "Darkness Bolt",
+  "description": "Pixel-art spell sprite 'Darkness Bolt' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Darkness Bolt.png": "98f42005d9e3daf837986cc8a9939e4f585687bd1889ee55e5abd2c10d893d94"
+  },
+  "file_size": 422,
+  "files": [
+    "Darkness Bolt.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

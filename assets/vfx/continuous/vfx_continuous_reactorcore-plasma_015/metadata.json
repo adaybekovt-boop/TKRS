@@ -1,0 +1,38 @@
+{
+  "id": "vfx_continuous_reactorcore-plasma_015",
+  "name": "Plasma Super Blast",
+  "description": "Plasma/electric effect 'Plasma Super Blast' by Reactorcore. CC0. Sprite sheet preferred over individual frames.",
+  "category": "vfx",
+  "subcategory": "continuous",
+  "tags": [
+    "plasma",
+    "electric",
+    "reactorcore",
+    "plasma"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Plasma Electric Effect Animations",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/plasma-electric-effect-animations",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Plasma Super Blast.png": "c6576d4571fda6d8b3da0eafd2913b1885561684bfee1bd673aa3b47b172679f"
+  },
+  "file_size": 355308,
+  "files": [
+    "Plasma Super Blast.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "plasma",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

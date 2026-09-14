@@ -1,0 +1,32 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 16,
+  "Lifetime": [
+    0.15,
+    0.4
+  ],
+  "Speed": [
+    8,
+    16
+  ],
+  "SpreadAngle": [
+    40,
+    40
+  ],
+  "Size": [
+    0.04,
+    0.12
+  ],
+  "Drag": 4,
+  "Color": [
+    "#fff4a0",
+    "#ff9a2a"
+  ],
+  "Transparency": [
+    0.0,
+    1.0
+  ],
+  "LightEmission": 0.7,
+  "TextureHint": "spark / kenney spark"
+}

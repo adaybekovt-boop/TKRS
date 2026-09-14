@@ -1,0 +1,40 @@
+{
+  "id": "vfx_flipbooks_para_011",
+  "name": "Para Particle FX 11",
+  "description": "Animated particle flipbook 'particlefx_11.png' by para. CC0.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "particle",
+    "flipbook",
+    "para"
+  ],
+  "style": [
+    "pre-rendered"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Animated particle effects #1",
+  "author": "para",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/animated-particle-effects-1",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "particlefx_11.png": "d11d20e88681fc7188604b1b6b6a38896293f831c7eda219701b2bd73be85dbd"
+  },
+  "file_size": 2099169,
+  "files": [
+    "particlefx_11.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "particle",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "frame_count": 64,
+  "grid_layout": "8x8",
+  "fps": 30,
+  "attribution": "Optional: para",
+  "dimensions": null
+}

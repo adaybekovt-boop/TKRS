@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_012",
+  "name": "Magic Ray",
+  "description": "Pixel-art spell sprite 'Magic Ray' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Magic Ray.png": "c497d50d1287d2ff7f6c9ffae616e7856e8a9147a4931c3d6d50383220faa988"
+  },
+  "file_size": 323,
+  "files": [
+    "Magic Ray.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

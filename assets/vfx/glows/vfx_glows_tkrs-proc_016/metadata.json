@@ -1,0 +1,44 @@
+{
+  "id": "vfx_glows_tkrs-proc_016",
+  "name": "Four-Point Flare",
+  "description": "Anamorphic-like 4-point star flare.",
+  "category": "vfx",
+  "subcategory": "glows",
+  "tags": [
+    "glow",
+    "flare",
+    "star"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "e9f9a04b5515198f5604ccf24b2451c6c2c83f8a48deda503617489168537c32"
+  },
+  "file_size": 16810,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "glows",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "hit flash / lens flare",
+  "attribution": null,
+  "dimensions": null
+}

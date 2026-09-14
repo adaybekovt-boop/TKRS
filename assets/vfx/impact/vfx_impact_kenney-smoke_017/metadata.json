@@ -1,0 +1,44 @@
+{
+  "id": "vfx_impact_kenney-smoke_017",
+  "name": "Flash 07",
+  "description": "Kenney Smoke Particles flash sprite 'flash07.png'. Alpha-ready hit flash / burst.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "kenney",
+    "flash",
+    "impact",
+    "hit-flash",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "soft"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Smoke Particles",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/smoke-particles",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "flash07.png": "a626eaa1c07f6669dac7a4d1de21525c23c692d31482ceb91cf2c30794195e3a"
+  },
+  "file_size": 217427,
+  "files": [
+    "flash07.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "flash07.png",
+  "source_site": "https://kenney.nl/assets/smoke-particles",
+  "attribution": "Attribution optional",
+  "source_repository": "https://opengameart.org/content/smoke-particle-assets",
+  "effect_type": "flash",
+  "dimensions": null
+}

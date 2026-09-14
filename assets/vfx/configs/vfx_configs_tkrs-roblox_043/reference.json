@@ -1,0 +1,11 @@
+{
+  "id": "vfx_configs_tkrs-roblox_043",
+  "name": "Frost Overlay Note",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ScreenGui",
+    "note": "Edge-only frost alpha mask ImageLabel on ScreenGui. Pair with snow emitter."
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

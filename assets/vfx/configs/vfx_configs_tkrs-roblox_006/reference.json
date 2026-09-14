@@ -1,0 +1,37 @@
+{
+  "id": "vfx_configs_tkrs-roblox_006",
+  "name": "Pollen Drift",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 6,
+    "Lifetime": [
+      4,
+      8
+    ],
+    "Speed": [
+      0.3,
+      0.8
+    ],
+    "Acceleration": [
+      0,
+      0.4,
+      0
+    ],
+    "Drag": 3,
+    "Color": [
+      [
+        0.9,
+        0.95,
+        0.4
+      ],
+      [
+        0.7,
+        0.85,
+        0.3
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

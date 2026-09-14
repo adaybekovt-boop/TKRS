@@ -1,0 +1,38 @@
+{
+  "id": "vfx_impact_reactorcore-plasma_001",
+  "name": "Electrical Zap",
+  "description": "Plasma/electric effect 'Electrical Zap' by Reactorcore. CC0. Sprite sheet preferred over individual frames.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "plasma",
+    "electric",
+    "reactorcore",
+    "electricity"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Plasma Electric Effect Animations",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/plasma-electric-effect-animations",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Electrical Zap.png": "5072a60ce204b3b24c102073d3f0a3d6793e27c2764091c24433e5878889e33e"
+  },
+  "file_size": 459,
+  "files": [
+    "Electrical Zap.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "electricity",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

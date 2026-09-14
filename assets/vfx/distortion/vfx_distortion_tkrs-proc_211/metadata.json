@@ -1,0 +1,40 @@
+{
+  "id": "vfx_distortion_tkrs-proc_211",
+  "name": "Distortion twist",
+  "description": "Center swirl falloff. RG = XY offset, 0.5=none.",
+  "category": "vfx",
+  "subcategory": "distortion",
+  "tags": [
+    "procedural",
+    "distortion",
+    "twist",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "twist.png": "f2ddab9641756dc994c9ab72ad91ac69bc50ae95b9989c53b682a1683dcd31fa"
+  },
+  "file_size": 10310,
+  "files": [
+    "twist.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "distortion-map",
+  "generated": true,
+  "dimensions": null
+}

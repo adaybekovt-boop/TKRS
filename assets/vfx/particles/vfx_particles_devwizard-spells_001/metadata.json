@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_001",
+  "name": "Arcane Bolt",
+  "description": "Pixel-art spell sprite 'Arcane Bolt' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Arcane Bolt.png": "1ef5fd0b85ad134db664dade0774a7554e8d55fabba016ed95d8afa12b9ac1c3"
+  },
+  "file_size": 458,
+  "files": [
+    "Arcane Bolt.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

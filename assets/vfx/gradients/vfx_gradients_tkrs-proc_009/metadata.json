@@ -1,0 +1,46 @@
+{
+  "id": "vfx_gradients_tkrs-proc_009",
+  "name": "Ember Ramp",
+  "description": "Procedural ember ramp color lookup for particles and beams.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "ember",
+    "gradient",
+    "ramp",
+    "lut"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "33a8e773cb4b724ebdf5fbd3bb70e641203206820cb049feed0ae0400a059749"
+  },
+  "file_size": 996,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "gradients",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "colorize grayscale particles",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

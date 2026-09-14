@@ -1,0 +1,39 @@
+{
+  "id": "vfx_impact_metashinryu-slash_007",
+  "name": "Huge Sheet",
+  "description": "Slash effect 'Huge Sheet' by MetaShinryu. CC0. Size variants collapsed to unique types.",
+  "category": "vfx",
+  "subcategory": "impact",
+  "tags": [
+    "slash",
+    "melee",
+    "impact",
+    "metashinryu"
+  ],
+  "style": [
+    "hand-painted",
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Slash Effect Collection",
+  "author": "MetaShinryu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/slash-effect-collection",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Huge Sheet.png": "2d0523b6d9c0dd84d8af655f45829b6c950b402d45e762484896b1f017142ed5"
+  },
+  "file_size": 240001,
+  "files": [
+    "Huge Sheet.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "slash",
+  "dimensionality": "2D",
+  "asset_kind": "sprite-sheet",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "vfx_particles_devwizard-spells_006",
+  "name": "Darkness Orb",
+  "description": "Pixel-art spell sprite 'Darkness Orb' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "projectile"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Darkness Orb.png": "1c0841abd3c22972fd6d3fb82210214ad7d3a0526276d88aa8e45b62af1c4f64"
+  },
+  "file_size": 282,
+  "files": [
+    "Darkness Orb.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "projectile",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

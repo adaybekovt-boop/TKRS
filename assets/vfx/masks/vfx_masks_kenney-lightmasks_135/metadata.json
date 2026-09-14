@@ -1,0 +1,45 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_135",
+  "name": "Window F",
+  "description": "Kenney Light Masks cookie 'window_f' (transparent encoding).",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "window",
+    "f"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "window_f.png": "f0cc9c319090c302a0fe2cf3c7a3a9bf6a6a6ca2b1a06b487cbc4328b27697e2"
+  },
+  "file_size": 1974,
+  "files": [
+    "window_f.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask",
+  "original_filename": "window_f.png",
+  "attribution": null,
+  "dimensions": null
+}

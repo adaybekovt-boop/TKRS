@@ -1,0 +1,38 @@
+{
+  "id": "vfx_flipbooks_para_018",
+  "name": "Blood Hit 04",
+  "description": "Animated particle flipbook 'blood_hit_04.png' by para. CC0. Angle/recolor family variants omitted.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "particle",
+    "flipbook",
+    "para",
+    "blood"
+  ],
+  "style": [
+    "pre-rendered"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Animated particle effects #2",
+  "author": "para",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/animated-particle-effects-2",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "blood_hit_04.png": "472d743c2ce0a4e5e2eca293f50c2430c550e1271768dbca44bac25ef6603f12"
+  },
+  "file_size": 91450,
+  "files": [
+    "blood_hit_04.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "blood",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Optional: para",
+  "dimensions": null
+}

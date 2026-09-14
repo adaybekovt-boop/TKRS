@@ -1,0 +1,27 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 40,
+  "Lifetime": [
+    0.3,
+    0.8
+  ],
+  "Speed": [
+    10,
+    22
+  ],
+  "Size": [
+    0.3,
+    1.8
+  ],
+  "Color": [
+    "#ff4d00",
+    "#ffcc55"
+  ],
+  "Transparency": [
+    0.1,
+    1.0
+  ],
+  "LightEmission": 0.7,
+  "suggested_texture": "kenney smoke explosion00"
+}

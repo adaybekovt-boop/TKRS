@@ -1,0 +1,47 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_115",
+  "name": "Streaks Composed H Noise",
+  "description": "Kenney Light Masks cookie 'streaks_composed_h_noise' (transparent encoding).",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "streaks",
+    "composed",
+    "h",
+    "noise"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "streaks_composed_h_noise.png": "63a22df7388a732b14128aa3576f4659e17c4fc34fd120a56af0fe9a4e98f668"
+  },
+  "file_size": 32257,
+  "files": [
+    "streaks_composed_h_noise.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask",
+  "original_filename": "streaks_composed_h_noise.png",
+  "attribution": null,
+  "dimensions": null
+}

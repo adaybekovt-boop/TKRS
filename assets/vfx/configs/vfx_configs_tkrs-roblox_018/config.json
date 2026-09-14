@@ -1,0 +1,27 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 0,
+  "Burst": 1,
+  "Lifetime": [
+    0.12,
+    0.18
+  ],
+  "Speed": [
+    0,
+    0
+  ],
+  "Size": [
+    1.2,
+    1.8
+  ],
+  "Color": [
+    "#ffffff",
+    "#c0e0ff"
+  ],
+  "Transparency": [
+    0.0,
+    1.0
+  ],
+  "TextureHint": "slash sprite",
+  "OrientationHint": "align to look vector"
+}

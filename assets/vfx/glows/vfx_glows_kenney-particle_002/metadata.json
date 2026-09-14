@@ -1,0 +1,44 @@
+{
+  "id": "vfx_glows_kenney-particle_002",
+  "name": "Light 01",
+  "description": "Kenney Particle Pack sprite 'light_01'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "glows",
+  "tags": [
+    "kenney",
+    "particle",
+    "light",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "light_01.png": "c9e0e947892b87cb71e110e60d85798810142b11aed154542c50b17dc93033b0"
+  },
+  "file_size": 60764,
+  "files": [
+    "light_01.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "light_01.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

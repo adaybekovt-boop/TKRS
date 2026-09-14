@@ -1,0 +1,39 @@
+{
+  "id": "vfx_continuous_devwizard-spells_014",
+  "name": "Pixelart Shield",
+  "description": "Pixel-art spell sprite 'Pixelart Shield' by DevWizard. CC0. Intended as projectile/hit/shield VFX.",
+  "category": "vfx",
+  "subcategory": "continuous",
+  "tags": [
+    "pixel-art",
+    "spell",
+    "magic",
+    "devwizard",
+    "shield"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Pixel Art Spells",
+  "author": "DevWizard",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/pixel-art-spells",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Pixelart Shield.png": "da035602b6bf9a185ce89663e917a2309ffe61016d9e22c84e671dd81feecbc2"
+  },
+  "file_size": 1355,
+  "files": [
+    "Pixelart Shield.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "shield",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

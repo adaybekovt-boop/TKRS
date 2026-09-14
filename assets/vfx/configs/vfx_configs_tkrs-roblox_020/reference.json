@@ -1,0 +1,56 @@
+{
+  "id": "vfx_configs_tkrs-roblox_020",
+  "name": "Underwater Bubbles",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 8,
+    "Lifetime": [
+      1.5,
+      3
+    ],
+    "Speed": [
+      0.8,
+      1.6
+    ],
+    "Acceleration": [
+      0,
+      3,
+      0
+    ],
+    "Size": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.05,
+        0.2
+      ]
+    },
+    "Transparency": {
+      "t": [
+        0,
+        1
+      ],
+      "v": [
+        0.2,
+        0.8
+      ]
+    },
+    "Color": [
+      [
+        0.8,
+        0.9,
+        1
+      ],
+      [
+        0.6,
+        0.8,
+        1
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

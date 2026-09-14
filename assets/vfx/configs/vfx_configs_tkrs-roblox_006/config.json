@@ -1,0 +1,34 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 6,
+  "Lifetime": [
+    4.0,
+    7.0
+  ],
+  "Speed": [
+    0.3,
+    0.8
+  ],
+  "SpreadAngle": [
+    40,
+    40
+  ],
+  "Size": [
+    0.04,
+    0.1
+  ],
+  "Acceleration": [
+    0,
+    0.4,
+    0
+  ],
+  "Color": [
+    "#d6e36a",
+    "#f0f0a0"
+  ],
+  "Transparency": [
+    0.3,
+    0.8
+  ],
+  "TextureHint": "soft circle"
+}

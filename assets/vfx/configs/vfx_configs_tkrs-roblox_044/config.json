@@ -1,0 +1,6 @@
+{
+  "class": "ScreenOverlay",
+  "textureHint": "block displacement mask",
+  "opacity": 0.4,
+  "notes": "swap slices / RGB offset in shader or layered ImageLabels"
+}

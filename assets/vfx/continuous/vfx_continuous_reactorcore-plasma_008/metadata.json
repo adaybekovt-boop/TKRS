@@ -1,0 +1,38 @@
+{
+  "id": "vfx_continuous_reactorcore-plasma_008",
+  "name": "Plasma Bubble",
+  "description": "Plasma/electric effect 'Plasma Bubble' by Reactorcore. CC0. Sprite sheet preferred over individual frames.",
+  "category": "vfx",
+  "subcategory": "continuous",
+  "tags": [
+    "plasma",
+    "electric",
+    "reactorcore",
+    "plasma"
+  ],
+  "style": [
+    "pixel-art"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Plasma Electric Effect Animations",
+  "author": "Reactorcore",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/plasma-electric-effect-animations",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "Plasma Bubble.png": "934fa8448c9fbe40cf1b0c750a3eebe9fdbdd51e3209ba4a2cb3f5deb9f2aefe"
+  },
+  "file_size": 1048,
+  "files": [
+    "Plasma Bubble.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "plasma",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Attribution optional",
+  "dimensions": null
+}

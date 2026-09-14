@@ -1,0 +1,48 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_063",
+  "name": "Fan A Gradient",
+  "description": "Kenney Light Masks cookie 'fan_a_gradient' (transparent encoding). Use as a light cookie, ParticleEmitter texture, or additive glow mask in Roblox.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx",
+    "fan",
+    "a",
+    "gradient"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "fan_a_gradient.png": "ce2f62def7d10856345f7045b2d944af15ee42af204072c957593c774ff0c2f3"
+  },
+  "file_size": 39854,
+  "files": [
+    "fan_a_gradient.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask / glow",
+  "source_site": "https://kenney.nl/assets/light-masks",
+  "original_filename": "fan_a_gradient.png",
+  "attribution": null,
+  "dimensions": null
+}

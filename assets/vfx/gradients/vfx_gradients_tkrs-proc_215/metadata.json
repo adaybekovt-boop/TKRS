@@ -1,0 +1,44 @@
+{
+  "id": "vfx_gradients_tkrs-proc_215",
+  "name": "Ramp water",
+  "description": "Color ramp 'water' for particle color sequences. 256x32.",
+  "category": "vfx",
+  "subcategory": "gradients",
+  "tags": [
+    "procedural",
+    "gradient",
+    "water",
+    "vfx"
+  ],
+  "style": [
+    "procedural"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS VFX Batch 001 procedural",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "ramp_water.png": "5cc77b764bdaa090859396dd2b19b828be953327e24e030887dd8d7a2e398381"
+  },
+  "file_size": 236,
+  "files": [
+    "ramp_water.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "attribution": "Credit optional (CC0)",
+  "source_site": "https://github.com/adaybekovt-boop/TKRS",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "effect_type": "gradient-ramp",
+  "generated": true,
+  "resolution": [
+    256,
+    32
+  ],
+  "dimensions": null
+}

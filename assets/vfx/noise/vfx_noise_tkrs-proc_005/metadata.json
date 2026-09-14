@@ -1,0 +1,45 @@
+{
+  "id": "vfx_noise_tkrs-proc_005",
+  "name": "Ridged Multifractal Noise",
+  "description": "Ridged noise tile useful for lightning masks and cracks.",
+  "category": "vfx",
+  "subcategory": "noise",
+  "tags": [
+    "noise",
+    "ridged",
+    "tile"
+  ],
+  "style": [
+    "procedural",
+    "realtime"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS Procedural VFX Primitives",
+  "author": "TKRS VFX Batch 001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "texture.png": "ccf97665b173aca8c5dfb7460cdce19ae98f81dbc1b5f42386673defc620995f"
+  },
+  "file_size": 51213,
+  "files": [
+    "texture.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "noise",
+  "dimensionality": "2D",
+  "asset_kind": "texture",
+  "resolution": [
+    256,
+    256
+  ],
+  "alpha_mode": "straight",
+  "intended_usage": "lightning / crack masks",
+  "loopable": true,
+  "attribution": null,
+  "dimensions": null
+}

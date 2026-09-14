@@ -1,0 +1,41 @@
+{
+  "id": "vfx_configs_tkrs-roblox_037",
+  "name": "Fountain Jet",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ParticleEmitter",
+    "Rate": 35,
+    "Lifetime": [
+      0.5,
+      1.0
+    ],
+    "Speed": [
+      10,
+      16
+    ],
+    "Acceleration": [
+      0,
+      -28,
+      0
+    ],
+    "SpreadAngle": [
+      8,
+      8
+    ],
+    "EmissionDirection": "Top",
+    "Color": [
+      [
+        0.7,
+        0.85,
+        1
+      ],
+      [
+        0.5,
+        0.7,
+        0.95
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

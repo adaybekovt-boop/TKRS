@@ -1,0 +1,13 @@
+{
+  "id": "vfx_configs_tkrs-roblox_050",
+  "name": "Emitter Pooling Pattern",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ReferencePattern",
+    "pool_size": 16,
+    "recycle_after": "Lifetime.Max",
+    "note": "Keep N disabled ParticleEmitters; on request parent to attachment, :Emit or enable briefly, return to pool. Do not create/destroy per shot."
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

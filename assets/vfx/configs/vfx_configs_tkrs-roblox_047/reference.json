@@ -1,0 +1,11 @@
+{
+  "id": "vfx_configs_tkrs-roblox_047",
+  "name": "Scanlines Overlay Note",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "ScreenGui",
+    "note": "Tiled 1-px line mask ImageLabel, low opacity, optional slow scroll."
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "vfx_flipbooks_indiedevs-70_044",
+  "name": "smoke2",
+  "description": "Animated 2D effect sheet 'smoke2' by IndieDevs. CC0. Parenthetical variants omitted.",
+  "category": "vfx",
+  "subcategory": "flipbooks",
+  "tags": [
+    "explosion",
+    "flipbook",
+    "indiedevs"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "70 Animated 2D Game Effects!",
+  "author": "IndieDevs",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/70-animated-2d-game-effects",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "smoke2.png": "c49eebd6b6842d051a1fa6b8b470575c1c048fca1503e91c260e4e4e7f7e65ee"
+  },
+  "file_size": 494875,
+  "files": [
+    "smoke2.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "explosion",
+  "dimensionality": "2D",
+  "asset_kind": "flipbook",
+  "attribution": "Optional: IndieDevs",
+  "dimensions": null
+}

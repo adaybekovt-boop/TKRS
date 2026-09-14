@@ -1,0 +1,44 @@
+{
+  "id": "vfx_particles_kenney-particle_007",
+  "name": "Dirt 02",
+  "description": "Kenney Particle Pack sprite 'dirt_02'. Alpha-ready particle/VFX sprite for Roblox ParticleEmitter, BillboardGui, or Beam textures.",
+  "category": "vfx",
+  "subcategory": "particles",
+  "tags": [
+    "kenney",
+    "particle",
+    "dirt",
+    "sprite",
+    "2d",
+    "vfx"
+  ],
+  "style": [
+    "stylized",
+    "hand-painted"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "dirt_02.png": "64c4d7d7f529e9ce78929ebf5b312b664ac177cfb63b943f5f2fa2b9bffe9452"
+  },
+  "file_size": 53980,
+  "files": [
+    "dirt_02.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "dirt",
+  "dimensionality": "2D",
+  "asset_kind": "sprite",
+  "original_filename": "dirt_02.png",
+  "source_site": "https://kenney.nl/assets/particle-pack",
+  "source_repository": "https://opengameart.org/content/particle-pack-80-sprites",
+  "attribution": "Credit Kenney.nl optional",
+  "dimensions": null
+}

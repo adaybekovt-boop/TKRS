@@ -1,0 +1,48 @@
+{
+  "id": "vfx_masks_kenney-lightmasks_002",
+  "name": "Circle A Noise",
+  "description": "Kenney Light Masks cookie 'circle_a_noise' (transparent encoding). Use as a light cookie, ParticleEmitter texture, or additive glow mask in Roblox.",
+  "category": "vfx",
+  "subcategory": "masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "mask",
+    "2d",
+    "vfx",
+    "circle",
+    "a",
+    "noise"
+  ],
+  "style": [
+    "stylized",
+    "mask"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": {
+    "circle_a_noise.png": "a7c440fb4f8f6b9287d0edb6142b0c9f09b75f37c52f22f51b92580c48b5e8cf"
+  },
+  "file_size": 52740,
+  "files": [
+    "circle_a_noise.png"
+  ],
+  "collected_in": "vfx-batch-001",
+  "effect_type": "light-cookie",
+  "dimensionality": "2D",
+  "asset_kind": "mask",
+  "alpha_mode": "straight",
+  "intended_usage": "light cookie / particle mask / glow",
+  "source_site": "https://kenney.nl/assets/light-masks",
+  "original_filename": "circle_a_noise.png",
+  "attribution": null,
+  "dimensions": null
+}

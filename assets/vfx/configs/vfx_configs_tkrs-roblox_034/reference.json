@@ -1,0 +1,28 @@
+{
+  "id": "vfx_configs_tkrs-roblox_034",
+  "name": "Lightning Beam",
+  "engine": "Roblox",
+  "documented_api": "https://create.roblox.com/docs/reference/engine/classes/ParticleEmitter",
+  "settings": {
+    "class": "Beam",
+    "Width0": 0.08,
+    "Width1": 0.15,
+    "LightEmission": 1,
+    "TextureSpeed": 8,
+    "Segments": 16,
+    "suggested_texture": "m484 lightning pieces or noise streak",
+    "Color": [
+      [
+        0.8,
+        0.9,
+        1
+      ],
+      [
+        0.4,
+        0.6,
+        1
+      ]
+    ]
+  },
+  "warning": "Inert reference. Do not execute. Values are starting points, not baked engine presets."
+}

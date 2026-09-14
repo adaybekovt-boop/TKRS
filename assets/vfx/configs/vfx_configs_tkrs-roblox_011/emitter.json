@@ -1,0 +1,32 @@
+{
+  "class": "ParticleEmitter",
+  "Rate": 25,
+  "Lifetime": [
+    0.4,
+    0.9
+  ],
+  "Speed": [
+    1,
+    3
+  ],
+  "Acceleration": [
+    0,
+    6,
+    0
+  ],
+  "Size": [
+    0.15,
+    0.7
+  ],
+  "Color": [
+    "#ff6a00",
+    "#ffd36a"
+  ],
+  "Transparency": [
+    0.15,
+    0.9
+  ],
+  "LightEmission": 0.6,
+  "LightInfluence": 0,
+  "suggested_texture": "kenney flame_03"
+}
