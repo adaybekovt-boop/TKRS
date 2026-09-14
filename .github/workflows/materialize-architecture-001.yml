@@ -41,3 +41,5 @@ jobs:
           fi
           git commit -m "Add architecture asset batch 001 [skip ci]"
           git push origin HEAD:agent/architecture-batch-001-final
+
+# Triggered after manifest upload.
