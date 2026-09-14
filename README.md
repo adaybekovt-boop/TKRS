@@ -7,6 +7,7 @@ TKRS is a searchable asset library for Roblox Studio agents. It lets AI coding a
 - 410 architecture assets in the first catalog
 - searchable `index/index.json`
 - dependency-free natural-language search CLI
+- local read-only MCP server over stdio
 - filters for subcategory, style, format, source, and license
 - English search plus basic Russian aliases
 - per-asset dimensions, source, license, path, format, and SHA-256 metadata
@@ -23,12 +24,24 @@ python tools/search_assets.py "средневековая дверь" --limit 5
 
 The command returns compact agent-friendly asset records without loading the 3D model files. See `docs/SEARCH.md` for the search contract and filters.
 
+## MCP
+
+TKRS can run locally as an MCP server. No website or hosted backend is required.
+
+```bash
+pip install -r requirements-mcp.txt
+python server/tkrs_mcp.py
+```
+
+The MCP server currently exposes `search_assets`, `get_asset`, and `list_asset_categories`. See `docs/MCP.md` for the intended Codex/Roblox workflow.
+
 ## Repository layout
 
 - `assets/` — ready-made assets grouped by category/subcategory
 - `textures/` — shared deduplicated textures
 - `index/` — searchable catalog and checksums
 - `schemas/` — metadata schemas
+- `server/` — MCP server
 - `tools/` — search, materialization, and validation tooling
 - `docs/` — project documentation
 - `tests/` — automated checks
