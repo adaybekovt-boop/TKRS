@@ -1,0 +1,32 @@
+name: Test TKRS MCP
+
+on:
+  push:
+    branches:
+      - agent/search-assets-v1
+      - main
+    paths:
+      - 'server/**'
+      - 'tools/search_assets.py'
+      - 'tests/test_mcp_server.py'
+      - 'requirements-mcp.txt'
+      - '.github/workflows/test-tkrs-mcp.yml'
+  pull_request:
+    paths:
+      - 'server/**'
+      - 'tools/search_assets.py'
+      - 'tests/test_mcp_server.py'
+      - 'requirements-mcp.txt'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install MCP SDK
+        run: pip install -r requirements-mcp.txt
+      - name: Test MCP over stdio
+        run: python -m unittest tests.test_mcp_server -v
