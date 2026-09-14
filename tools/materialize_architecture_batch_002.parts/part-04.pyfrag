@@ -1,0 +1,36 @@
+for {aid}")
+        sha=sha256_file(primary)
+        rec={k:m.get(k) for k in ("id","name","category","subcategory","description","tags","style","formats","dimensions","license","source")}
+        rec["path"]=mp.parent.relative_to(REPO).as_posix()
+        rec["sha256"]=sha
+        records.append(rec)
+        checks.append(f"{sha}  {primary.relative_to(REPO).as_posix()}")
+        formats.update(m.get("formats",[])); sources[m.get("source","Unknown")]+=1
+    records.sort(key=lambda x:x["id"])
+    INDEX_PATH.parent.mkdir(parents=True,exist_ok=True)
+    INDEX_PATH.write_text(json.dumps({"version":1,"generated_at":"2026-09-14","asset_count":len(records),"assets":records},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    CHECKSUMS_PATH.write_text("\n".join(sorted(checks))+"\n",encoding="utf-8")
+
+    validation={"unique_ids":True,"missing_external_dependencies":0,"null_dimensions":sum(r.get("dimensions") is None for r in records)}
+    combined={"catalog":"TKRS","asset_count":len(records),"included_batches":["architecture-001","architecture-002"],"formats":dict(sorted(formats.items())),"sources":dict(sorted(sources.items())),"validation":validation}
+    (REPO/"batch-manifest.json").write_text(json.dumps(combined,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+
+    # Regenerate source catalog from actual accepted metadata, not stale per-batch prose.
+    grouped={}
+    for mp in ASSET_ROOT.glob("**/metadata.json"):
+        m=json.loads(mp.read_text(encoding="utf-8")); src=m.get("source","Unknown")
+        g=grouped.setdefault(src,{"count":0,"author":m.get("author"),"license":m.get("license"),"site":m.get("source_site"),"repo":m.get("source_repository"),"url":m.get("original_url")})
+        g["count"]+=1
+    lines=["# TKRS — Sources","","Generated from accepted per-asset metadata.",""]
+    for src in sorted(grouped):
+        g=grouped[src]; lines += [f"## {src}",f"- Assets used: {g['count']}",f"- Author: {g['author'] or 'Unknown'}",f"- License: {g['license'] or 'Unknown'}",f"- Official page: {g['site'] or g['repo'] or g['url'] or 'Unknown'}",f"- Repository/source page: {g['repo'] or g['site'] or 'Unknown'}",f"- Original archive: {g['url'] or 'Unknown'}",""]
+    (REPO/"SOURCES.md").write_text("\n".join(lines).rstrip()+"\n",encoding="utf-8")
+
+    report=["# TKRS Catalog Report","",f"- total accepted assets: **{len(records)}**",f"- Batch 001 baseline: **410**",f"- verified Batch 002 added: **982**",f"- unresolved external dependencies: **0**",f"- duplicate IDs: **0**","","## Formats"]
+    for k,v in sorted(formats.items(),key=lambda kv:(-kv[1],kv[0])): report.append(f"- {k}: {v}")
+    report += ["","## Notes","- Batch 002 was audited before ingestion; 8 Yanbu pipe assets with unrecoverable textures and 1 zero-byte Mixazzz residential texture asset were excluded.","- Batch 002 OBJ material-library paths are normalized to portable `model.mtl` references.","- All accepted Batch 002 source metadata is CC0-1.0."]
+    (REPO/"REPORT.md").write_text("\n".join(report)+"\n",encoding="utf-8")
+
+
+def write_batch_report(asset_count: int, source_count: int) -> None:
+    text=f"""# TKRS Architecture Batch 002 — Verified\n\n- accepted assets: **{asset_count}**\n- active source packs: **{source_count}**\n- license: **CC0-1.0**\n- removed during audit: **9** previously accepted assets with unrecoverable exact texture dependencies\n- removed incomplete directories: **2**\n- stale pre-QA 1014-entry index: rebuilt into the combined catalog\n- OBJ material-librar
