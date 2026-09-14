@@ -1,0 +1,40 @@
+name: Test TKRS search
+
+on:
+  push:
+    branches:
+      - main
+      - agent/search-assets-v1
+    paths:
+      - 'tools/search_assets.py'
+      - 'tests/test_search_assets.py'
+      - 'index/index.json'
+      - '.github/workflows/test-search-assets.yml'
+  pull_request:
+    paths:
+      - 'tools/search_assets.py'
+      - 'tests/test_search_assets.py'
+      - 'index/index.json'
+      - '.github/workflows/test-search-assets.yml'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Smoke search
+        run: |
+          python tools/search_assets.py "industrial wall" --limit 5 --compact > /tmp/search.json
+          python - <<'PY'
+          import json
+          data = json.load(open('/tmp/search.json', encoding='utf-8'))
+          assert data['catalog_asset_count'] >= 410
+          assert data['result_count'] > 0
+          assert all('id' in item and 'path' in item for item in data['results'])
+          print('Search smoke test OK:', [item['id'] for item in data['results']])
+          PY
