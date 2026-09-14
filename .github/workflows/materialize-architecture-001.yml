@@ -7,6 +7,7 @@ on:
     paths:
       - 'batches/architecture-001/manifest.part-*.b64'
       - 'tools/materialize_architecture_batch.py'
+      - 'tools/materialize_architecture_batch_v2.py'
       - '.github/workflows/materialize-architecture-001.yml'
 
 permissions:
@@ -28,7 +29,7 @@ jobs:
           python-version: '3.12'
 
       - name: Materialize and validate assets
-        run: python tools/materialize_architecture_batch.py
+        run: python tools/materialize_architecture_batch_v2.py
 
       - name: Commit generated batch
         run: |
@@ -41,5 +42,3 @@ jobs:
           fi
           git commit -m "Add architecture asset batch 001 [skip ci]"
           git push origin HEAD:agent/architecture-batch-001-final
-
-# Triggered after manifest upload.
