@@ -1,0 +1,67 @@
+name: Materialize architecture batch 002
+
+on:
+  push:
+    branches:
+      - agent/architecture-batch-002-final
+    paths:
+      - 'batches/architecture-002/manifest.part-*.b64'
+      - 'tools/materialize_architecture_batch_002.parts/**'
+      - '.github/workflows/materialize-architecture-002.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Reconstruct materializer
+        shell: bash
+        run: |
+          cat tools/materialize_architecture_batch_002.parts/part-*.pyfrag > /tmp/materialize_architecture_batch_002.py
+          python -m py_compile /tmp/materialize_architecture_batch_002.py
+
+      - name: Materialize and validate Batch 002
+        run: python /tmp/materialize_architecture_batch_002.py
+
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Search smoke test
+        shell: bash
+        run: |
+          python tools/search_assets.py "industrial wall" --limit 5 --compact > /tmp/search.json
+          python - <<'PY'
+          import json
+          data = json.load(open('/tmp/search.json', encoding='utf-8'))
+          assert data['catalog_asset_count'] >= 1392, data['catalog_asset_count']
+          assert data['result_count'] > 0
+          assert all('id' in item and 'path' in item for item in data['results'])
+          print('Search smoke test OK:', data['catalog_asset_count'], [item['id'] for item in data['results']])
+          PY
+
+      - name: Commit generated Batch 002
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets/architecture textures/architecture-002 index batches/architecture-002/manifest.json batches/architecture-002/REPORT.md SOURCES.md REPORT.md batch-manifest.json
+          if git diff --cached --quiet; then
+            echo "No generated changes."
+            exit 0
+          fi
+          git commit -m "Add verified architecture asset batch 002"
+          git push origin HEAD:agent/architecture-batch-002-final
