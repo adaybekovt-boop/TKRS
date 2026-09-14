@@ -1,0 +1,41 @@
+{
+  "name": "Motel Night",
+  "intended_usage": "Vacancy neon + room tungsten",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 30,
+      "g": 22,
+      "b": 28
+    },
+    "key": {
+      "r": 255,
+      "g": 80,
+      "b": 90
+    },
+    "fill": {
+      "r": 80,
+      "g": 50,
+      "b": 30
+    },
+    "fog": {
+      "r": 35,
+      "g": 25,
+      "b": 30
+    },
+    "suggested_clocktime": 22.5,
+    "suggested_brightness": 0.9,
+    "colorcorrection": {
+      "Brightness": -0.1,
+      "Contrast": 0.1,
+      "Saturation": 0.05,
+      "TintColor": [
+        255,
+        100,
+        110
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

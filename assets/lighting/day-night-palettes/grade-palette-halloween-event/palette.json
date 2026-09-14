@@ -1,0 +1,41 @@
+{
+  "name": "Halloween Event",
+  "intended_usage": "Orange-purple holiday night",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 40,
+      "g": 20,
+      "b": 60
+    },
+    "key": {
+      "r": 255,
+      "g": 120,
+      "b": 40
+    },
+    "fill": {
+      "r": 30,
+      "g": 15,
+      "b": 50
+    },
+    "fog": {
+      "r": 50,
+      "g": 25,
+      "b": 40
+    },
+    "suggested_clocktime": 20.0,
+    "suggested_brightness": 1.1,
+    "colorcorrection": {
+      "Brightness": -0.08,
+      "Contrast": 0.12,
+      "Saturation": 0.15,
+      "TintColor": [
+        255,
+        140,
+        60
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

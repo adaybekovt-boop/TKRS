@@ -1,0 +1,50 @@
+{
+  "id": "shape-kenney-lm-water-caustics-b",
+  "name": "Kenney Light Mask water caustics b",
+  "description": "Water caustics light cookie 'water_caustics_b' from Kenney Light Masks 1.0. 512px white-on-black cookie. Noise/streaks/blur filenames are optically distinct.",
+  "category": "lighting",
+  "subcategory": "caustics",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "caustics",
+    "water"
+  ],
+  "style": [
+    "stylized",
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks 1.0",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "f67718aef2717e85a5ae5d0cfb5a130a8cc19d0c90331a22638126b4bf0b8cd8",
+  "file_size": 105023,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "mask",
+  "intended_usage": "light cookie / projector pattern",
+  "source_variant": "Default",
+  "native_filename": "water_caustics_b.png",
+  "dimensions": null
+}

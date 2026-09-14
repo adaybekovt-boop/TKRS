@@ -1,0 +1,55 @@
+{
+  "id": "env-ph-studio_small_09",
+  "name": "Studio Small 09",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "studio",
+  "tags": [
+    "umbrella",
+    "softbox",
+    "infinity",
+    "lamp",
+    "studio",
+    "photo",
+    "hdri",
+    "environment",
+    "1k",
+    "indoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Sergej Majboroda",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/studio_small_09",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "e7cfda5f4e98e623db12b8bfd0184e048488e4855d9c83e2751fb44a32e80c45",
+  "file_size": 1615248,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 2750,
+  "evs_cap": 18,
+  "attributes": {
+    "light_type": "artificial",
+    "contrast": "medium",
+    "environment": "indoor"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

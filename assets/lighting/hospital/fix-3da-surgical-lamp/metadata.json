@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-surgical-lamp",
+  "name": "Surgical Lamp",
+  "description": "Ceiling-mounted twin surgical lamp: a mounting plate and drop tube, a main lamp on a named articulated arm with a named dish head of six emitters, and a smaller fixed satellite head.",
+  "category": "lighting",
+  "subcategory": "hospital",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "hospital"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/hospital-wards-and-clinic-operations-surgical-lamp-8bc7fd9e",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "9f5029ebf8b22554b05d6bbd7a8b4c3fbcdf97017e3d7ecaeff78227d5212546",
+  "file_size": 45056,
+  "dimensions": null
+}

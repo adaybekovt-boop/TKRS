@@ -1,0 +1,37 @@
+{
+  "id": "grade-palette-teal-orange",
+  "name": "Teal Orange Cinema Palette",
+  "description": "Teal-orange cinematic grade palette",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "teal",
+    "orange",
+    "cinematic",
+    "palette"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "35f2fe17dd2dc84b73dbcad6a5fc653a17b7a45e094c8397549685d184ea9a8f",
+  "file_size": 824,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Teal-orange cinematic grade palette",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

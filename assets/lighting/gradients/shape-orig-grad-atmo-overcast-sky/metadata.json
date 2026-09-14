@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-grad-atmo-overcast-sky",
+  "name": "Atmosphere gradient overcast-sky",
+  "description": "Vertical atmosphere gradient (overcast-sky) for backdrop/fog colorization.",
+  "category": "lighting",
+  "subcategory": "gradients",
+  "tags": [
+    "gradient",
+    "atmosphere",
+    "overcast-sky"
+  ],
+  "style": [
+    "procedural",
+    "cinematic"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "e5b2a6057b7cf5fb7dfef5112b3b283f44519ddfc1a148840715f1a3e6c34868",
+  "file_size": 2080,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGB",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "texture",
+  "note": "artistic reference, not measured photometry",
+  "dimensions": null
+}

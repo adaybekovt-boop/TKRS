@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-gobo-radial-spokes-12",
+  "name": "Gobo Radial Spokes 12",
+  "description": "Circular gobo with 12 radial spokes.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "gobo",
+    "radial",
+    "cookie",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "7fca25f54d235bbd888f29291369add1875bf89e987350dd563752e495f9417e",
+  "file_size": 5628,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

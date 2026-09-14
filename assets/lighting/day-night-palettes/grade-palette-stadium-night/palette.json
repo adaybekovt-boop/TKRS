@@ -1,0 +1,41 @@
+{
+  "name": "Stadium Night",
+  "intended_usage": "Floodlit arena",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 30,
+      "g": 35,
+      "b": 40
+    },
+    "key": {
+      "r": 255,
+      "g": 245,
+      "b": 220
+    },
+    "fill": {
+      "r": 20,
+      "g": 25,
+      "b": 30
+    },
+    "fog": {
+      "r": 35,
+      "g": 40,
+      "b": 45
+    },
+    "suggested_clocktime": 21.0,
+    "suggested_brightness": 2.4,
+    "colorcorrection": {
+      "Brightness": 0.0,
+      "Contrast": 0.15,
+      "Saturation": -0.05,
+      "TintColor": [
+        255,
+        245,
+        220
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

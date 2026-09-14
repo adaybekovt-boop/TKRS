@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-gas-station-night",
+  "name": "Gas Station Night",
+  "description": "Canopy fluorescent + sodium road",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "gas-station",
+    "night",
+    "urban",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "8135b747ceaa80d4041de3c70fcdafd827502fe409527aa711bd812c24df8147",
+  "file_size": 802,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Canopy fluorescent + sodium road",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

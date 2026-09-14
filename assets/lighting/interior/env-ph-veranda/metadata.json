@@ -1,0 +1,57 @@
+{
+  "id": "env-ph-veranda",
+  "name": "Veranda",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "interior",
+  "tags": [
+    "table",
+    "tile",
+    "brick",
+    "patio",
+    "veranda",
+    "porch",
+    "hdri",
+    "environment",
+    "1k",
+    "overcast",
+    "indoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/veranda",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "10dc644020922b34b999c7949aec139476788109b193b2ecd18cc1d0d03b3d8d",
+  "file_size": 1719531,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 12,
+  "attributes": {
+    "light_type": "natural",
+    "contrast": "medium",
+    "environment": "indoor",
+    "weather": "overcast"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

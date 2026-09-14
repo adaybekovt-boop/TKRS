@@ -1,0 +1,60 @@
+{
+  "id": "env-ph-castel_st_angelo_roof",
+  "name": "Castel St. Angelo Roof",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "storms",
+  "tags": [
+    "europe",
+    "statue",
+    "roof",
+    "city",
+    "rome",
+    "rain",
+    "wet",
+    "hdri",
+    "environment",
+    "1k",
+    "morning",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Andreas Mischok",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/castel_st_angelo_roof",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "6bf03efc17702ef636cca6debac18086f22978b1204a4563b72e8b32287f576f",
+  "file_size": 1615142,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 9,
+  "attributes": {
+    "time_of_day": "morning",
+    "weather": "rain",
+    "light_type": "natural",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-gobo-rose-8",
+  "name": "Gothic rose gobo 8-fold",
+  "description": "Radial rose-window gobo with 8 lobes for cathedral lighting.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "gobo",
+    "gothic",
+    "church",
+    "radial"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "db20e80f15edb249a50960496d734af5b2d10a8f0314bebe1336486c3d15bd63",
+  "file_size": 37772,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

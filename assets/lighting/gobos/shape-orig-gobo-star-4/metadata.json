@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-gobo-star-4",
+  "name": "Gobo Star 4-point",
+  "description": "4-point star gobo.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "gobo",
+    "star",
+    "cookie",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "30095e0aa76f2ad5670fc33385884e17f353153d4ccd85ccc6cee39f2ad3d7fe",
+  "file_size": 1936,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

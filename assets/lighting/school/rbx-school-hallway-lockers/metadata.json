@@ -1,0 +1,45 @@
+{
+  "id": "rbx-school-hallway-lockers",
+  "name": "School Hallway Lockers",
+  "description": "Locker hall, slightly underlit fluorescents, green-gray paint bounce.",
+  "category": "lighting",
+  "subcategory": "school",
+  "tags": [
+    "school",
+    "hallway",
+    "lockers",
+    "interior",
+    "fluorescent",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "realistic",
+    "institutional",
+    "liminal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Secondary-school corridor.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1136,
+  "sha256": "295184561a4d9051d795335267a8faf5e9f6ff5865501c771f0bab26d8a8aaca",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

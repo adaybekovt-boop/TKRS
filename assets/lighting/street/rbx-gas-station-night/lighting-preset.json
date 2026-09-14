@@ -1,0 +1,59 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 1.05,
+    "Ambient": {
+      "r": 0.0706,
+      "g": 0.0784,
+      "b": 0.102
+    },
+    "OutdoorAmbient": {
+      "r": 0.0627,
+      "g": 0.0706,
+      "b": 0.0941
+    },
+    "ColorShift_Top": {
+      "r": 0.902,
+      "g": 0.9412,
+      "b": 1.0
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0549,
+      "g": 0.0627,
+      "b": 0.0784
+    },
+    "EnvironmentDiffuseScale": 0.15,
+    "EnvironmentSpecularScale": 0.55,
+    "ClockTime": 22.0,
+    "ExposureCompensation": -0.1,
+    "ShadowSoftness": 0.14,
+    "FogStart": 25,
+    "FogEnd": 180,
+    "FogColor": {
+      "r": 0.0784,
+      "g": 0.0941,
+      "b": 0.1255
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.55,
+    "Size": 28,
+    "Threshold": 0.65
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.02,
+    "Contrast": 0.14,
+    "Saturation": -0.06,
+    "TintColor": {
+      "r": 0.9255,
+      "g": 0.9569,
+      "b": 1.0
+    }
+  },
+  "art_notes": "Canopy underside is the key. Forecourt brighter than the road by two stops."
+}

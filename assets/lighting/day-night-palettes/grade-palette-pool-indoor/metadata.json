@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-pool-indoor",
+  "name": "Indoor Pool",
+  "description": "Humid cyan bounce",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "pool",
+    "indoor",
+    "wet",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "4b906cffb8d8994cd70bde23c666be8748bce40e587a28124eea675908bc0ae5",
+  "file_size": 787,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Humid cyan bounce",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

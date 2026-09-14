@@ -1,0 +1,39 @@
+{
+  "id": "grade-palette-crystal-cave",
+  "name": "Crystal Cave",
+  "description": "Emissive crystal bounce",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "cave",
+    "crystal",
+    "scifi",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "sci-fi",
+    "stylized"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "7fb2042cb99ae0445ec47147e1e3fa08ba438f3bffeb809aa83c83c8095b67d7",
+  "file_size": 784,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Emissive crystal bounce",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

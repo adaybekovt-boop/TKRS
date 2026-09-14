@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-grad-lin-3200k-quartz",
+  "name": "Linear lighting gradient 3200k-quartz",
+  "description": "Linear sRGB lighting color ramp labeled 3200k-quartz. Artistic, not measured SPD.",
+  "category": "lighting",
+  "subcategory": "gradients",
+  "tags": [
+    "gradient",
+    "palette",
+    "3200k-quartz"
+  ],
+  "style": [
+    "procedural",
+    "cinematic"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "bc0a6db05b823153647561ef6f157bdea5e6d036be2ac78c0418908511257bba",
+  "file_size": 2083,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGB",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "texture",
+  "note": "artistic reference, not measured photometry",
+  "dimensions": null
+}

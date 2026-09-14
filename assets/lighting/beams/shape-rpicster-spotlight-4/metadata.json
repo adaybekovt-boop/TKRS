@@ -1,0 +1,45 @@
+{
+  "id": "shape-rpicster-spotlight-4",
+  "name": "RPicster spotlight 4",
+  "description": "spotlight_4 1024px light/lens texture from RPicster CC0 VFX pack.",
+  "category": "lighting",
+  "subcategory": "beams",
+  "tags": [
+    "rpicster",
+    "vfx",
+    "beams"
+  ],
+  "style": [
+    "realistic",
+    "vfx"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Godot particle and VFX textures (RPicster)",
+  "author": "RPicster",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/RPicster/Godot-particle-and-vfx-textures",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "492e90ae8a2e5c57523273bb0ecee6e4db494b8f29ebc1a1c2771a810c8386d3",
+  "file_size": 259924,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    1024,
+    1024
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "native_filename": "spotlight_4.png",
+  "dimensions": null
+}

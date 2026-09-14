@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-leak-top-edge",
+  "name": "Light Leak Top Edge",
+  "description": "Edge light leak from the top.",
+  "category": "lighting",
+  "subcategory": "light-leaks",
+  "tags": [
+    "light-leak",
+    "edge",
+    "grade",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "03cec4b3d669013ab667ab16808d7e443cd1424671b2343a167d2dcba6c89de6",
+  "file_size": 540,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

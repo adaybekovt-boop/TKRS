@@ -1,0 +1,58 @@
+{
+  "id": "env-ph-alps_field",
+  "name": "Alps Field",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "day",
+  "tags": [
+    "sun",
+    "grass",
+    "field",
+    "mountain",
+    "forest",
+    "alps",
+    "valley",
+    "hdri",
+    "environment",
+    "1k"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Andreas Mischok",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/alps_field",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "97d15fba887151efbd122126a1820c470d091f330dc65b1437236aca64853014",
+  "file_size": 1614313,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 22,
+  "attributes": {
+    "time_of_day": "morning",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "high",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

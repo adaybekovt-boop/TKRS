@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-gobo-vert-bars-3",
+  "name": "Gobo Vertical Bars 3",
+  "description": "Circular gobo with 3 vertical bars.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "gobo",
+    "bars",
+    "cookie",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "6934f6d08342ea23895ee91e56638a54bc67a6a6bcc4d998713cdca3b0cb9a18",
+  "file_size": 1885,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

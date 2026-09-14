@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-grad-lin-uv-blacklight",
+  "name": "Linear lighting gradient uv-blacklight",
+  "description": "Linear sRGB lighting color ramp labeled uv-blacklight. Artistic, not measured SPD.",
+  "category": "lighting",
+  "subcategory": "gradients",
+  "tags": [
+    "gradient",
+    "palette",
+    "uv-blacklight"
+  ],
+  "style": [
+    "procedural",
+    "cinematic"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "50f79778d82bd82893b993d238d2c4f0ee5460584be90a355b41a74b1f5fb3e1",
+  "file_size": 2071,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGB",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "texture",
+  "note": "artistic reference, not measured photometry",
+  "dimensions": null
+}

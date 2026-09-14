@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-lens-dirt-dense",
+  "name": "Lens Dirt Dense",
+  "description": "Lens dirt / dust bokeh mask (dense).",
+  "category": "lighting",
+  "subcategory": "lens-dirt",
+  "tags": [
+    "lens-dirt",
+    "bokeh",
+    "mask",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "c5ed2ed1759d46bd6b15d5d669376a55d6bcaf55a6db591cad5e9e7ee04a55b2",
+  "file_size": 48182,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

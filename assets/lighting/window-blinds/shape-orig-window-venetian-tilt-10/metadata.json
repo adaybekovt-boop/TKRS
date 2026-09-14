@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-window-venetian-tilt-10",
+  "name": "Window Venetian Tilt 10",
+  "description": "Tilted venetian blinds, 10 slats.",
+  "category": "lighting",
+  "subcategory": "window-blinds",
+  "tags": [
+    "window",
+    "venetian",
+    "shadow-pattern",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "7d68db0edba460659c75d6d06c7a75aa28f5bef29346ac00c3e6593ffe016078",
+  "file_size": 2353,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

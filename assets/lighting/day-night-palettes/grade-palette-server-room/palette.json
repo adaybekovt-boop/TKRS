@@ -1,0 +1,41 @@
+{
+  "name": "Server Room",
+  "intended_usage": "Cold blue rack LEDs",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 15,
+      "g": 25,
+      "b": 35
+    },
+    "key": {
+      "r": 60,
+      "g": 140,
+      "b": 255
+    },
+    "fill": {
+      "r": 10,
+      "g": 20,
+      "b": 30
+    },
+    "fog": {
+      "r": 10,
+      "g": 18,
+      "b": 28
+    },
+    "suggested_clocktime": 12.0,
+    "suggested_brightness": 1.1,
+    "colorcorrection": {
+      "Brightness": -0.06,
+      "Contrast": 0.1,
+      "Saturation": -0.05,
+      "TintColor": [
+        80,
+        160,
+        255
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

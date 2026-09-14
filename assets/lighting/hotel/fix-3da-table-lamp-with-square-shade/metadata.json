@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-table-lamp-with-square-shade",
+  "name": "Table lamp with square shade",
+  "description": "A 0.42 m table lamp: a metal disc base, a turned timber stem and a tapered square fabric shade with a diffuser.",
+  "category": "lighting",
+  "subcategory": "hotel",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "hotel"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/hotel-and-resort-operations-table-lamp-square-shade-f944e032",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "3e1311f8a2c35ccf07ca232b08a00c4b83aaef9372272e8014fc6667bc75f2d2",
+  "file_size": 24228,
+  "dimensions": null
+}

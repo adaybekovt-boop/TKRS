@@ -1,0 +1,59 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "ShadowMap",
+    "Brightness": 1.55,
+    "Ambient": {
+      "r": 0.4314,
+      "g": 0.4627,
+      "b": 0.4235
+    },
+    "OutdoorAmbient": {
+      "r": 0.5098,
+      "g": 0.5333,
+      "b": 0.502
+    },
+    "ColorShift_Top": {
+      "r": 0.9255,
+      "g": 0.9412,
+      "b": 0.8627
+    },
+    "ColorShift_Bottom": {
+      "r": 0.3529,
+      "g": 0.3765,
+      "b": 0.3294
+    },
+    "EnvironmentDiffuseScale": 0.4,
+    "EnvironmentSpecularScale": 0.35,
+    "ClockTime": 14.0,
+    "ExposureCompensation": -0.05,
+    "ShadowSoftness": 0.32,
+    "FogStart": 40,
+    "FogEnd": 220,
+    "FogColor": {
+      "r": 0.549,
+      "g": 0.5804,
+      "b": 0.5333
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.3,
+    "Size": 20,
+    "Threshold": 0.92
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.02,
+    "Contrast": 0.08,
+    "Saturation": -0.1,
+    "TintColor": {
+      "r": 0.902,
+      "g": 0.9255,
+      "b": 0.8627
+    }
+  },
+  "art_notes": "Fluorescent flicker is a design note only \u2014 keep values static."
+}

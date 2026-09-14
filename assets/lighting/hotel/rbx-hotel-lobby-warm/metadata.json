@@ -1,0 +1,44 @@
+{
+  "id": "rbx-hotel-lobby-warm",
+  "name": "Hotel Lobby Warm",
+  "description": "Four-star lobby: 2700K cans, brass, wood, lifted shadows, gentle bloom on pendants.",
+  "category": "lighting",
+  "subcategory": "hotel",
+  "tags": [
+    "hotel",
+    "lobby",
+    "warm",
+    "interior",
+    "hospitality",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "realistic",
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Hotel lobby evening check-in.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1548,
+  "sha256": "632f79bb0ac24781ca96e3f618d896e72d61f916c4e4a20438ba5157c1cf81b0",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

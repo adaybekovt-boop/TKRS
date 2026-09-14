@@ -1,0 +1,58 @@
+{
+  "id": "env-ph-je_gray_02",
+  "name": "J&E Gray 02",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "day",
+  "tags": [
+    "forest",
+    "grass",
+    "pine",
+    "sun",
+    "hdri",
+    "environment",
+    "1k",
+    "afternoon",
+    "clear",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/je_gray_02",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "094fe84f580bfd947903470b948fe562658f54f9e11ad3d94c1f248231d87118",
+  "file_size": 1857839,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 20,
+  "attributes": {
+    "time_of_day": "afternoon",
+    "weather": "clear",
+    "light_type": "natural",
+    "contrast": "high",
+    "environment": "outdoor",
+    "sky_view": "obstructed"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

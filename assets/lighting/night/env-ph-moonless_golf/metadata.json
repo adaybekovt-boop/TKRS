@@ -1,0 +1,59 @@
+{
+  "id": "env-ph-moonless_golf",
+  "name": "Moonless Golf",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "night",
+  "tags": [
+    "grass",
+    "golf",
+    "stars",
+    "milky way",
+    "field",
+    "hdri",
+    "environment",
+    "1k",
+    "night",
+    "clear",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/moonless_golf",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "4f597078024bd81429431e872d466d8808653ad62a8bc8c61d8052af7466c3aa",
+  "file_size": 1672754,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 3942,
+  "evs_cap": 23,
+  "attributes": {
+    "time_of_day": "night",
+    "weather": "clear",
+    "light_type": "mixed",
+    "contrast": "medium",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

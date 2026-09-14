@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-airport-terminal",
+  "name": "Airport Terminal",
+  "description": "Big-window daylight + cool fluorescents",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "airport",
+    "terminal",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "192d062c899a4e1b514f475cb3a6999a0a57bb9225e6de2444807172da259df3",
+  "file_size": 816,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Big-window daylight + cool fluorescents",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

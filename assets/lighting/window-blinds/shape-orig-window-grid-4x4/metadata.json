@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-window-grid-4x4",
+  "name": "Window Grid 4x4",
+  "description": "Window divided into a 4 by 4 pane grid.",
+  "category": "lighting",
+  "subcategory": "window-blinds",
+  "tags": [
+    "window",
+    "grid",
+    "shadow-pattern",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "27a99bc518be1e7ceaadf50d820a5f8d544a412056262018ddebbfab085e9d71",
+  "file_size": 854,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "env-sbs-planet-rocky",
+  "name": "Planet Surface Skybox — Rocky",
+  "description": "CC0 512px packed cubemap skybox of a rocky planet surface by Screaming Brain Studios. LDR sky reference for sci-fi / alien Roblox environments.",
+  "category": "lighting",
+  "subcategory": "skyboxes",
+  "tags": [
+    "skybox",
+    "cubemap",
+    "planet",
+    "rocky",
+    "sci-fi",
+    "ldr",
+    "screaming-brain"
+  ],
+  "style": [
+    "stylized",
+    "sci-fi"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Planet Surface Skyboxes (Screaming Brain Studios)",
+  "source_site": "https://opengameart.org/content/planet-surface-skyboxes",
+  "author": "Screaming Brain Studios",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/planet-surface-skyboxes",
+  "original_filename": "Cubemap_Rocky_01-512x512.png",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "3c64af7dcf3f41a6a5e591fcad543d0372e1d4c55bdd9347e3da5d6a72510e32",
+  "file_size": 2087587,
+  "asset_type": "skybox",
+  "source_format": "png",
+  "resolution": "512",
+  "hdr": false,
+  "color_space": "sRGB LDR",
+  "cubemap_layout": "packed-cubemap-png",
+  "intended_usage": "Roblox Sky / sci-fi environment backdrop",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "skybox_cubemap.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

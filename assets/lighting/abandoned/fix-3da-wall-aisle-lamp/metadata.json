@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-wall-aisle-lamp",
+  "name": "Wall Aisle Lamp",
+  "description": "Shielded aisle wall lamp with protected warm diffuser and brass mounting plate.",
+  "category": "lighting",
+  "subcategory": "abandoned",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "abandoned"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/abandoned-cinema-and-projection-booth-abandoned-cinema-91aeba08",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "a083935ac6162fe8b625cb5a7c815b1ff97ae3e968e4931f1b4d67a76c57f432",
+  "file_size": 13120,
+  "dimensions": null
+}

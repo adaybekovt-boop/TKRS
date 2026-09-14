@@ -1,0 +1,45 @@
+{
+  "id": "shape-kenney-pp-star-06",
+  "name": "Kenney Particle star 06",
+  "description": "star_06 from Kenney Particle Pack used as a gobos light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "kenney",
+    "particle-pack",
+    "gobos"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "8418baff4c325b6bdd9ebd54314b040fd694cab82d74f906a0d31c2608ec387c",
+  "file_size": 25132,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "native_filename": "star_06.png",
+  "dimensions": null
+}

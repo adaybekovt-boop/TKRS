@@ -1,0 +1,8 @@
+TKRS original Roblox lighting reference preset
+Author: TKRS lighting-batch-001
+License: CC0-1.0
+Attribution required: no
+
+This file is an original inert JSON lighting recipe for Roblox Studio
+(Lighting service + Atmosphere + Bloom + ColorCorrection + DepthOfField + SunRays).
+It contains no executable code.

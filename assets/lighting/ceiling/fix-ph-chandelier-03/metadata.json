@@ -1,0 +1,38 @@
+{
+  "id": "fix-ph-chandelier-03",
+  "name": "Chandelier 03",
+  "description": "ornate hanging chandelier with glass. Photogrammetry/authored PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "ceiling",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "ceiling"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "bin",
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Kirill Sannikov",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/Chandelier_03",
+  "attribution": "Not required (CC0). Credit Poly Haven / author appreciated.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "color_space": "sRGB+linear PBR",
+  "HDR_LDR": "LDR",
+  "intended_usage": "placeable lighting fixture model with PBR maps",
+  "sha256": "ab3c57ada6a22e472778b4c7f7e7d5e9b3b10fe91d4566de95e89497f282e00f",
+  "file_size": 1364013,
+  "dimensions": null
+}

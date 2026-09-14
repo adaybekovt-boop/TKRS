@@ -1,0 +1,37 @@
+{
+  "id": "grade-palette-night-moonlight",
+  "name": "Night Moonlight Palette",
+  "description": "Night exterior moonlight palette for Roblox Lighting/Atmosphere",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "night",
+    "moon",
+    "palette"
+  ],
+  "style": [
+    "cinematic",
+    "horror"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "850b4dd1926509cba4a604a67c5b6242ed87dabec9eb0212009edfc75afdfd13",
+  "file_size": 852,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Night exterior moonlight palette for Roblox Lighting/Atmosphere",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "grade-broadcast-safe-proxy",
+  "name": "Broadcast-Safe Contrast Proxy",
+  "description": "pull extremes toward legal-ish range Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "technical",
+  "tags": [
+    "broadcast",
+    "technical",
+    "safe",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "technical"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "f6e1130af9dda6ac12f3c7faa72410df4235031636024b64037d18137d55fa30",
+  "file_size": 132863,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "pull extremes toward legal-ish range",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

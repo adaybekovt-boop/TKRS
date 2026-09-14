@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-dungeon-torch",
+  "name": "Dungeon Torch",
+  "description": "Stone hall torchlight",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "dungeon",
+    "torch",
+    "medieval",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "12f853c515b433671324cb59a9db34a61e22f0df13f968dbfd556df0c30217db",
+  "file_size": 782,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Stone hall torchlight",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

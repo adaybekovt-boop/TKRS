@@ -1,0 +1,42 @@
+{
+  "id": "grade-interior-ambient-soft",
+  "name": "Interior Ambient Soft",
+  "description": "soft bounced interior, gentle roll-off Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "interior",
+    "soft",
+    "ambient",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "42040ec0b7a6820fd2be234b72aa7597d27084378ded7ad28df6df399bdb4b9a",
+  "file_size": 132857,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "soft bounced interior, gentle roll-off",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

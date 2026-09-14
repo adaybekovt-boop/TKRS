@@ -1,0 +1,45 @@
+{
+  "id": "shape-orig-gobo-grate-6",
+  "name": "Industrial grate gobo 6x6",
+  "description": "Square grate gobo 6x6 for warehouse vent shadows.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "gobo",
+    "grate",
+    "warehouse"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "51fdc1e666188f8b5c30b3602dc772faa96a49c31b938b1f2ca2d6e53bbe16dc",
+  "file_size": 4879,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

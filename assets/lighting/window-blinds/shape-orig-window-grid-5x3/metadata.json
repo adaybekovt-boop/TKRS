@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-window-grid-5x3",
+  "name": "Window Grid 5x3",
+  "description": "Window divided into a 5 by 3 pane grid.",
+  "category": "lighting",
+  "subcategory": "window-blinds",
+  "tags": [
+    "window",
+    "grid",
+    "shadow-pattern",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "d43cc1e150d26d42bc551e5179905b04df5afd24615b1ca064d1744e167ea669",
+  "file_size": 868,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

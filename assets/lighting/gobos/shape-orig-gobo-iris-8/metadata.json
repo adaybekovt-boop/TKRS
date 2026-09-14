@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-gobo-iris-8",
+  "name": "Iris aperture gobo 8-blade",
+  "description": "8-blade iris gobo opening 0.18.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "gobo",
+    "iris",
+    "aperture",
+    "stage"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "3c6ed748120b7ad1ff52b10379118d31e868b47dfdb81dce966c8682cb56dbcd",
+  "file_size": 5451,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

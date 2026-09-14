@@ -1,0 +1,45 @@
+{
+  "id": "grade-school-fluorescent",
+  "name": "School Fluorescent",
+  "description": "institutional classroom cool-white Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "school",
+    "fluorescent",
+    "interior",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "photoreal",
+    "liminal"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "c8080b01a8293d4e7d5bf58505989a5260ad67a945aed77addc04d8c91d99490",
+  "file_size": 132850,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "institutional classroom cool-white",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "color_temperature_k": 5000,
+  "color_temperature_note": "creative target temperature used in generation; not measured photometric data",
+  "dimensions": null
+}

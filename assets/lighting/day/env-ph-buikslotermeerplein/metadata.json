@@ -1,0 +1,61 @@
+{
+  "id": "env-ph-buikslotermeerplein",
+  "name": "Buikslotermeerplein",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "day",
+  "tags": [
+    "grass",
+    "park",
+    "skate",
+    "graffiti",
+    "field",
+    "building",
+    "architecture",
+    "city",
+    "europe",
+    "amsterdam",
+    "hdri",
+    "environment",
+    "1k"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/buikslotermeerplein",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "cd2c5fb4cb6d14887c6b268dafb7ac50a59ac1d6a2be5b17fa32b7c34f94e2d8",
+  "file_size": 1624392,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5600,
+  "evs_cap": 12,
+  "attributes": {
+    "time_of_day": "afternoon",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

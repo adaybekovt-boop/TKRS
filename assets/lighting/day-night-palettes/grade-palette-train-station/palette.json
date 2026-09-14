@@ -1,0 +1,41 @@
+{
+  "name": "Train Station",
+  "intended_usage": "Concourse daylight + platform fluorescents",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 150,
+      "g": 155,
+      "b": 160
+    },
+    "key": {
+      "r": 230,
+      "g": 225,
+      "b": 210
+    },
+    "fill": {
+      "r": 130,
+      "g": 135,
+      "b": 140
+    },
+    "fog": {
+      "r": 160,
+      "g": 165,
+      "b": 170
+    },
+    "suggested_clocktime": 10.0,
+    "suggested_brightness": 1.7,
+    "colorcorrection": {
+      "Brightness": 0.02,
+      "Contrast": 0.04,
+      "Saturation": -0.15,
+      "TintColor": [
+        230,
+        225,
+        210
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

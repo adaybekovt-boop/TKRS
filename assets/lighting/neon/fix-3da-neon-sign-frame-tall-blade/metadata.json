@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-neon-sign-frame-tall-blade",
+  "name": "Neon Sign Frame, Tall Blade",
+  "description": "The same sign as a 780 by 2300 mm blade for a facade corner, with a hook of cyan tube and a rectangle of amber above it. The face is blank and the figures are geometric.",
+  "category": "lighting",
+  "subcategory": "neon",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "neon"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/cyberpunk-apartment-and-neon-block-neon-sign-frame-tal-6047d9cc",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "a2c35d87c51a156e018617da3ed369f051c01a0d1c2c40e85159f398d468c38a",
+  "file_size": 63372,
+  "dimensions": null
+}

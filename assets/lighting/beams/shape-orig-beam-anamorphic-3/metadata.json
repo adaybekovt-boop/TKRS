@@ -1,0 +1,45 @@
+{
+  "id": "shape-orig-beam-anamorphic-3",
+  "name": "Anamorphic streak 0.06x0.5",
+  "description": "Horizontal anamorphic flare streak for cinematic highlights.",
+  "category": "lighting",
+  "subcategory": "beams",
+  "tags": [
+    "anamorphic",
+    "flare",
+    "cinematic"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "3088289cbe17a153d7711b922838008fd3a8f77935f7292dab463b3b645ec75e",
+  "file_size": 8777,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

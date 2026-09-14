@@ -1,0 +1,41 @@
+{
+  "name": "Airport Terminal",
+  "intended_usage": "Big-window daylight + cool fluorescents",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 180,
+      "g": 195,
+      "b": 210
+    },
+    "key": {
+      "r": 230,
+      "g": 235,
+      "b": 240
+    },
+    "fill": {
+      "r": 160,
+      "g": 175,
+      "b": 190
+    },
+    "fog": {
+      "r": 190,
+      "g": 200,
+      "b": 210
+    },
+    "suggested_clocktime": 11.0,
+    "suggested_brightness": 2.0,
+    "colorcorrection": {
+      "Brightness": 0.05,
+      "Contrast": 0.02,
+      "Saturation": -0.12,
+      "TintColor": [
+        210,
+        225,
+        240
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

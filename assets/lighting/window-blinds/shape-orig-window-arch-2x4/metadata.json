@@ -1,0 +1,45 @@
+{
+  "id": "shape-orig-window-arch-2x4",
+  "name": "Architectural window 2x4",
+  "description": "2x4 pane architectural window cookie with muntins.",
+  "category": "lighting",
+  "subcategory": "window-blinds",
+  "tags": [
+    "window",
+    "architecture",
+    "muntin"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "c1a948eaba7f417f1004efeed0bc2accb68204d2e46c2c0c73eb0c58bf4a8399",
+  "file_size": 1063,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

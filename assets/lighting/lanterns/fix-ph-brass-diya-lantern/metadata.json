@@ -1,0 +1,38 @@
+{
+  "id": "fix-ph-brass-diya-lantern",
+  "name": "Brass Diya Lantern",
+  "description": "hanging brass diya lantern with emissive. Photogrammetry/authored PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "lanterns",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "lanterns"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "bin",
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Bhargav Kubal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/brass_diya_lantern",
+  "attribution": "Not required (CC0). Credit Poly Haven / author appreciated.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "color_space": "sRGB+linear PBR",
+  "HDR_LDR": "LDR",
+  "intended_usage": "placeable lighting fixture model with PBR maps",
+  "sha256": "6b908c48f0f5300ba561cbcfe38e938863e8d1d33569e9a1fab6c7e9c16f8e95",
+  "file_size": 1969803,
+  "dimensions": null
+}

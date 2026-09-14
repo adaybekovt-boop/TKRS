@@ -1,0 +1,37 @@
+{
+  "id": "grade-palette-warehouse-sodium",
+  "name": "Warehouse Sodium Palette",
+  "description": "Sodium-vapor warehouse night palette",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "warehouse",
+    "sodium",
+    "industrial",
+    "palette"
+  ],
+  "style": [
+    "industrial"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "4b3e0eaefa2e9c0e7828e6989a563d644491fd5807d6d3584270e1f231976410",
+  "file_size": 823,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Sodium-vapor warehouse night palette",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

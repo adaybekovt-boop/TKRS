@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-neon-sign-frame",
+  "name": "Neon Sign Frame",
+  "description": "Rectangular sign frame with three original tube runs.",
+  "category": "lighting",
+  "subcategory": "neon",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "neon"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/casino-floor-and-back-rooms-neon-sign-frame-bar-be2eb6f1",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "ee784f4f5e4e4a6ce5756478c6fe16c7b4d70a9fcda7185078ba7bcbe219e116",
+  "file_size": 61080,
+  "dimensions": null
+}

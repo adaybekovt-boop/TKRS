@@ -1,0 +1,8 @@
+Asset: Seamless caustics frame caust00
+Author: Calinou
+Source: OpenGameArt — Caustic textures
+License: CC0-1.0
+URL: https://lpc.opengameart.org/node/36560
+
+Creative Commons Zero 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/

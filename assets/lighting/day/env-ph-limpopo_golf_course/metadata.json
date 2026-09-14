@@ -1,0 +1,57 @@
+{
+  "id": "env-ph-limpopo_golf_course",
+  "name": "Limpopo Golf Course",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "day",
+  "tags": [
+    "tree",
+    "sun",
+    "grass",
+    "dam",
+    "pond",
+    "golf",
+    "hdri",
+    "environment",
+    "1k"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Dimitrios Savva, Jarod Guest",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/limpopo_golf_course",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "465326b9331a908023482021a80c6d9216175203e1b4ccf9beaf39d708fc56f0",
+  "file_size": 1642433,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5313,
+  "evs_cap": 22,
+  "attributes": {
+    "time_of_day": "morning",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "high",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

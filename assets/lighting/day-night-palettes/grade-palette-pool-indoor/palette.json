@@ -1,0 +1,41 @@
+{
+  "name": "Indoor Pool",
+  "intended_usage": "Humid cyan bounce",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 80,
+      "g": 140,
+      "b": 160
+    },
+    "key": {
+      "r": 200,
+      "g": 230,
+      "b": 240
+    },
+    "fill": {
+      "r": 60,
+      "g": 120,
+      "b": 140
+    },
+    "fog": {
+      "r": 90,
+      "g": 150,
+      "b": 165
+    },
+    "suggested_clocktime": 13.0,
+    "suggested_brightness": 1.6,
+    "colorcorrection": {
+      "Brightness": 0.04,
+      "Contrast": -0.04,
+      "Saturation": -0.05,
+      "TintColor": [
+        160,
+        220,
+        235
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

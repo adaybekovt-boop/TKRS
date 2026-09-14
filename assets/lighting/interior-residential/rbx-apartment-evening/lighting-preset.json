@@ -1,0 +1,59 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.9,
+    "Ambient": {
+      "r": 0.1569,
+      "g": 0.1255,
+      "b": 0.1098
+    },
+    "OutdoorAmbient": {
+      "r": 0.1412,
+      "g": 0.1647,
+      "b": 0.251
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.7686,
+      "b": 0.549
+    },
+    "ColorShift_Bottom": {
+      "r": 0.1412,
+      "g": 0.1098,
+      "b": 0.0941
+    },
+    "EnvironmentDiffuseScale": 0.22,
+    "EnvironmentSpecularScale": 0.4,
+    "ClockTime": 20.5,
+    "ExposureCompensation": -0.08,
+    "ShadowSoftness": 0.35,
+    "FogStart": 25,
+    "FogEnd": 140,
+    "FogColor": {
+      "r": 0.1961,
+      "g": 0.1647,
+      "b": 0.149
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.4,
+    "Size": 24,
+    "Threshold": 0.72
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": 0.02,
+    "Contrast": 0.08,
+    "Saturation": 0.06,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.9098,
+      "b": 0.8235
+    }
+  },
+  "art_notes": "No ceiling dome. Table + floor + kitchen under-cabinet."
+}

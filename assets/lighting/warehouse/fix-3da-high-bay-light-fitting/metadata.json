@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-high-bay-light-fitting",
+  "name": "High bay light fitting",
+  "description": "Industrial high bay pendant: a cast aluminium reflector with a cream diffuser on a 0.85 m drop rod and a hanging hook. The origin is under the lamp, so place it at the fitting's height.",
+  "category": "lighting",
+  "subcategory": "warehouse",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "warehouse"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/machine-shop-and-factory-hall-machine-shop-and-factory-0dd4b199",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "ecca7bd96c4b8c80d4b971a4c48ff4992494092d40a23caef483fe94f6d7ac8d",
+  "file_size": 14952,
+  "dimensions": null
+}

@@ -1,0 +1,5 @@
+TKRS original light-shaping texture
+Author: TKRS lighting-batch-001
+License: CC0-1.0
+Original procedural texture authored for this batch. No third-party media.
+Attribution required: no

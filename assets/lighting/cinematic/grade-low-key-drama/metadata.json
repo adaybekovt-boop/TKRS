@@ -1,0 +1,42 @@
+{
+  "id": "grade-low-key-drama",
+  "name": "Low Key Drama",
+  "description": "crushed shadows dramatic interior Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "drama",
+    "low-key",
+    "contrast",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "4e5d2024831c8d7d2e85b09c0f0794558276354cad17f22f0d88f09388c92e52",
+  "file_size": 132844,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "crushed shadows dramatic interior",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

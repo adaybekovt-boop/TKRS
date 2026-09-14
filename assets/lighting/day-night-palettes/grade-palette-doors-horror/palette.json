@@ -1,0 +1,41 @@
+{
+  "name": "Doors Horror Hotel",
+  "intended_usage": "Hotel horror dim warm practicals",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 35,
+      "g": 28,
+      "b": 22
+    },
+    "key": {
+      "r": 200,
+      "g": 150,
+      "b": 90
+    },
+    "fill": {
+      "r": 25,
+      "g": 20,
+      "b": 18
+    },
+    "fog": {
+      "r": 30,
+      "g": 24,
+      "b": 20
+    },
+    "suggested_clocktime": 0.0,
+    "suggested_brightness": 0.6,
+    "colorcorrection": {
+      "Brightness": -0.18,
+      "Contrast": 0.18,
+      "Saturation": -0.15,
+      "TintColor": [
+        220,
+        170,
+        110
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fix-oga-3d-torch",
+  "name": "Low-Poly 3D Torch",
+  "description": "Low-poly handheld/wall torch with separate wood and coal materials.",
+  "category": "lighting",
+  "subcategory": "lanterns",
+  "tags": [
+    "fixture",
+    "torch",
+    "fantasy",
+    "oga"
+  ],
+  "style": [
+    "low-poly"
+  ],
+  "formats": [
+    "obj",
+    "fbx"
+  ],
+  "source": "OpenGameArt",
+  "author": "inog",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/3d-torch",
+  "attribution": "Credit appreciated but not required.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "obj",
+  "intended_usage": "placeable fantasy torch fixture",
+  "sha256": "69fd49e245bde04fc868009c81ad9f36c13a8cfdf1f1adfefa44dc31353cb2c3",
+  "file_size": 7583,
+  "dimensions": null
+}

@@ -1,0 +1,7 @@
+Asset: Radial glow kernel s=0.12
+Author: TKRS lighting-batch-001 (Harper)
+Source: TKRS original procedural
+License: CC0-1.0
+
+Creative Commons Zero 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/

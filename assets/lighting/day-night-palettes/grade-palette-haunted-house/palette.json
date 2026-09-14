@@ -1,0 +1,41 @@
+{
+  "name": "Haunted House",
+  "intended_usage": "Sick green-amber decaying interior",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 35,
+      "g": 40,
+      "b": 25
+    },
+    "key": {
+      "r": 180,
+      "g": 160,
+      "b": 70
+    },
+    "fill": {
+      "r": 25,
+      "g": 30,
+      "b": 18
+    },
+    "fog": {
+      "r": 40,
+      "g": 45,
+      "b": 28
+    },
+    "suggested_clocktime": 21.0,
+    "suggested_brightness": 0.6,
+    "colorcorrection": {
+      "Brightness": -0.16,
+      "Contrast": 0.12,
+      "Saturation": -0.1,
+      "TintColor": [
+        190,
+        180,
+        80
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

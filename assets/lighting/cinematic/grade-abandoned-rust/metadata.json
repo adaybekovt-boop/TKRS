@@ -1,0 +1,46 @@
+{
+  "id": "grade-abandoned-rust",
+  "name": "Abandoned Rust",
+  "description": "decayed warm-dust abandoned interiors Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "abandoned",
+    "rust",
+    "warm",
+    "decay",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "horror",
+    "industrial"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "659f975a8cab080d98bba4db87fe016d7c2bdbbddbbb661878c35885b6a78fe0",
+  "file_size": 132849,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "decayed warm-dust abandoned interiors",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "color_temperature_k": 3800,
+  "color_temperature_note": "creative target temperature used in generation; not measured photometric data",
+  "dimensions": null
+}

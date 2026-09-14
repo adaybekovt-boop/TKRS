@@ -1,0 +1,50 @@
+{
+  "id": "shape-kenney-lm-fan-c",
+  "name": "Kenney Light Mask fan c",
+  "description": "Radial fan gobo 'fan_c' from Kenney Light Masks 1.0. 512px white-on-black cookie. Noise/streaks/blur filenames are optically distinct.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "fan",
+    "gobo"
+  ],
+  "style": [
+    "stylized",
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks 1.0",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "94be506fe36da811f8d2dfc82351f0e710c968ca83ebd0d1e7139e3d872992ff",
+  "file_size": 6233,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "mask",
+  "intended_usage": "light cookie / projector pattern",
+  "source_variant": "Default",
+  "native_filename": "fan_c.png",
+  "dimensions": null
+}

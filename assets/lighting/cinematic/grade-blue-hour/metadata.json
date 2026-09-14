@@ -1,0 +1,45 @@
+{
+  "id": "grade-blue-hour",
+  "name": "Blue Hour",
+  "description": "post-sunset cool ambient, city/liminal exteriors Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "dusk",
+    "blue-hour",
+    "cool",
+    "twilight",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "0cc1f4491d8bad9f00ec4934d4a1b7574c88e5cb3251a8b927951087f3453721",
+  "file_size": 132855,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "post-sunset cool ambient, city/liminal exteriors",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "color_temperature_k": 9000,
+  "color_temperature_note": "creative target temperature used in generation; not measured photometric data",
+  "dimensions": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-haunted-house",
+  "name": "Haunted House",
+  "description": "Sick green-amber decaying interior",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "haunted",
+    "horror",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "horror"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "c9727a28ba48044e26ae97e2d3271df450953c20b7a74467e002d1557354087c",
+  "file_size": 797,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Sick green-amber decaying interior",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

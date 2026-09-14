@@ -1,0 +1,36 @@
+{
+  "id": "grade-palette-overcast",
+  "name": "Overcast Day Palette",
+  "description": "Soft overcast daylight palette",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "overcast",
+    "day",
+    "palette"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "94f1bf027cf68900a1907ca60219865106e4a0aa95bd99ddd79e84dc9cd5f60e",
+  "file_size": 825,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Soft overcast daylight palette",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "grade-palette-motel-night",
+  "name": "Motel Night",
+  "description": "Vacancy neon + room tungsten",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "motel",
+    "night",
+    "liminal",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "liminal",
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "9c546a37668b85d435a7660a2a469b8f72f323a6d11182c3fe801efd1be58218",
+  "file_size": 787,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Vacancy neon + room tungsten",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

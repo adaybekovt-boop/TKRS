@@ -1,0 +1,42 @@
+{
+  "id": "grade-pastel-low-contrast",
+  "name": "Pastel Low Contrast",
+  "description": "soft pastel slice-of-life / kids map Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "pastel",
+    "soft",
+    "low-contrast",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "6a275e908ace9f57e6822c32889e8207d64b448b880cf46b6ab12fa3c0dfbbed",
+  "file_size": 132853,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "soft pastel slice-of-life / kids map",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-grad-lin-moonlight-cool",
+  "name": "Linear lighting gradient moonlight-cool",
+  "description": "Linear sRGB lighting color ramp labeled moonlight-cool. Artistic, not measured SPD.",
+  "category": "lighting",
+  "subcategory": "gradients",
+  "tags": [
+    "gradient",
+    "palette",
+    "moonlight-cool"
+  ],
+  "style": [
+    "procedural",
+    "cinematic"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "1bf7950565e7868c08cdeb2a6e7a9fb5ccd235d40e03691fcf09b93976a3d155",
+  "file_size": 1972,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGB",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "texture",
+  "note": "artistic reference, not measured photometry",
+  "dimensions": null
+}

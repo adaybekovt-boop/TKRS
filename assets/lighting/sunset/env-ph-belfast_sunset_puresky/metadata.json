@@ -1,0 +1,55 @@
+{
+  "id": "env-ph-belfast_sunset_puresky",
+  "name": "Belfast Sunset (Pure Sky)",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "sunset",
+  "tags": [
+    "pure skies",
+    "hdri",
+    "environment",
+    "1k",
+    "sunset",
+    "partly_cloudy",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal, Dimitrios Savva, Jarod Guest",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/belfast_sunset_puresky",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "cec532d8dd382bcdca98d7010fa951a782f3295f98e8bd72ee453be8d0a64e98",
+  "file_size": 1190247,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 12,
+  "attributes": {
+    "time_of_day": "sunset",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

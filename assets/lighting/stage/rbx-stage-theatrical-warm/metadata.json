@@ -1,0 +1,44 @@
+{
+  "id": "rbx-stage-theatrical-warm",
+  "name": "Stage Theatrical Warm",
+  "description": "Proscenium play: warm front light, cool backlight idea, dark wings.",
+  "category": "lighting",
+  "subcategory": "stage",
+  "tags": [
+    "stage",
+    "theatre",
+    "warm",
+    "interior",
+    "drama",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "cinematic",
+    "theatrical"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Spoken-word theatrical look.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1108,
+  "sha256": "0ded337ffcfed30d85257baeef3a0a6561d68e4b75e7834f3efa98306b3b58c5",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

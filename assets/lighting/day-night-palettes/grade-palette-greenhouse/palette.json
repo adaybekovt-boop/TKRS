@@ -1,0 +1,41 @@
+{
+  "name": "Greenhouse",
+  "intended_usage": "Plant-green filtered sun",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 140,
+      "g": 180,
+      "b": 120
+    },
+    "key": {
+      "r": 230,
+      "g": 255,
+      "b": 180
+    },
+    "fill": {
+      "r": 110,
+      "g": 150,
+      "b": 100
+    },
+    "fog": {
+      "r": 160,
+      "g": 190,
+      "b": 140
+    },
+    "suggested_clocktime": 13.0,
+    "suggested_brightness": 2.1,
+    "colorcorrection": {
+      "Brightness": 0.04,
+      "Contrast": 0.04,
+      "Saturation": 0.1,
+      "TintColor": [
+        200,
+        255,
+        160
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

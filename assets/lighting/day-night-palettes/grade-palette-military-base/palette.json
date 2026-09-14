@@ -1,0 +1,41 @@
+{
+  "name": "Military Base",
+  "intended_usage": "Olive drab daylight base",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 140,
+      "g": 145,
+      "b": 120
+    },
+    "key": {
+      "r": 230,
+      "g": 220,
+      "b": 180
+    },
+    "fill": {
+      "r": 110,
+      "g": 115,
+      "b": 95
+    },
+    "fog": {
+      "r": 150,
+      "g": 150,
+      "b": 130
+    },
+    "suggested_clocktime": 13.0,
+    "suggested_brightness": 2.0,
+    "colorcorrection": {
+      "Brightness": 0.0,
+      "Contrast": 0.1,
+      "Saturation": -0.1,
+      "TintColor": [
+        220,
+        215,
+        170
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

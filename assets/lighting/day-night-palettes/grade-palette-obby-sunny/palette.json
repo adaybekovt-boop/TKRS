@@ -1,0 +1,41 @@
+{
+  "name": "Obby Sunny",
+  "intended_usage": "High-visibility colorful obstacle course",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 200,
+      "g": 220,
+      "b": 255
+    },
+    "key": {
+      "r": 255,
+      "g": 245,
+      "b": 210
+    },
+    "fill": {
+      "r": 170,
+      "g": 190,
+      "b": 220
+    },
+    "fog": {
+      "r": 180,
+      "g": 210,
+      "b": 255
+    },
+    "suggested_clocktime": 14.0,
+    "suggested_brightness": 2.8,
+    "colorcorrection": {
+      "Brightness": 0.1,
+      "Contrast": 0.12,
+      "Saturation": 0.2,
+      "TintColor": [
+        255,
+        240,
+        200
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

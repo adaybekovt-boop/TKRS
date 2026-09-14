@@ -1,0 +1,36 @@
+{
+  "id": "fix-ph-street-lamp-02",
+  "name": "Street Lamp 02",
+  "description": "urban street lamp post variant. PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "street",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "street"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "gltf",
+    "bin",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Josh Dean",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/street_lamp_02",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "3a8a42486c5dc4538a8b44aeeef502c64a1c9d0d42fa5610e37886c355337ff8",
+  "file_size": 1870246,
+  "dimensions": null
+}

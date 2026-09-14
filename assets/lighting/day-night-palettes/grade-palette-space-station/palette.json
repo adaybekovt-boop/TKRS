@@ -1,0 +1,41 @@
+{
+  "name": "Space Station",
+  "intended_usage": "Cool artificial interior no sun",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 30,
+      "g": 40,
+      "b": 55
+    },
+    "key": {
+      "r": 160,
+      "g": 200,
+      "b": 255
+    },
+    "fill": {
+      "r": 20,
+      "g": 30,
+      "b": 45
+    },
+    "fog": {
+      "r": 15,
+      "g": 20,
+      "b": 30
+    },
+    "suggested_clocktime": 12.0,
+    "suggested_brightness": 1.4,
+    "colorcorrection": {
+      "Brightness": 0.0,
+      "Contrast": 0.12,
+      "Saturation": -0.1,
+      "TintColor": [
+        150,
+        200,
+        255
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

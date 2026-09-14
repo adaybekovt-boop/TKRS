@@ -1,0 +1,8 @@
+Asset: Water caustics atlas (16-frame)
+Author: leeor_net
+Source: OpenGameArt — Water Caustics Effect (Small)
+License: CC0-1.0
+URL: https://opengameart.org/content/water-caustics-effect-small
+
+Creative Commons Zero 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/

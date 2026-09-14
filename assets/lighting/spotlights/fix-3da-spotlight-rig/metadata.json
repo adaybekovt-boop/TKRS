@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-spotlight-rig",
+  "name": "Spotlight Rig",
+  "description": "Four-post lighting tower carrying four fresnel heads.",
+  "category": "lighting",
+  "subcategory": "spotlights",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "spotlights"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/martial-arts-dojo-and-fight-stages-spotlight-rig-458850f7",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "398d48ab7cab6a95b2825a98328cfc742782435c7d3e5d5dd610dd17aa9d3bd6",
+  "file_size": 39776,
+  "dimensions": null
+}

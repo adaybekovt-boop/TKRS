@@ -1,0 +1,41 @@
+{
+  "name": "Museum Gallery",
+  "intended_usage": "Even cool gallery lighting",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 170,
+      "g": 175,
+      "b": 180
+    },
+    "key": {
+      "r": 230,
+      "g": 230,
+      "b": 225
+    },
+    "fill": {
+      "r": 150,
+      "g": 155,
+      "b": 160
+    },
+    "fog": {
+      "r": 180,
+      "g": 182,
+      "b": 185
+    },
+    "suggested_clocktime": 12.0,
+    "suggested_brightness": 1.7,
+    "colorcorrection": {
+      "Brightness": 0.03,
+      "Contrast": 0.04,
+      "Saturation": -0.12,
+      "TintColor": [
+        230,
+        230,
+        225
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

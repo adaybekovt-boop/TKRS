@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-swing-arm-lamp",
+  "name": "Swing arm lamp",
+  "description": "A weighted swing arm lamp: a cast base, a column, a sprung parallel arm as a named node and a conical shade with its diffuser, reaching 700 mm out over a table.",
+  "category": "lighting",
+  "subcategory": "office",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "office"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/police-station-and-detective-office-swing-arm-lamp-c61b6b30",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "0b18774be09ba5f1af1edb80e66a4bbd3d337743b3dc7994373b0d0ee30750a9",
+  "file_size": 34688,
+  "dimensions": null
+}

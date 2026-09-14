@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-emergency-lamp-mount",
+  "name": "Emergency Lamp Mount",
+  "description": "Emergency Lamp Mount: 0.3 × 0.5 × 0.25 m nominal survival machine assembly.",
+  "category": "lighting",
+  "subcategory": "emergency",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "emergency"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/bunker-shelter-construction-emergency-lamp-mount-cde19c91",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "dcde6fb9a67cd63e52cfcfba0f225009053468fc43a4b6b3b97d554144ee0d0d",
+  "file_size": 9696,
+  "dimensions": null
+}

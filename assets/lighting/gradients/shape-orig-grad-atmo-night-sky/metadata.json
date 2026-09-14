@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-grad-atmo-night-sky",
+  "name": "Atmosphere gradient night-sky",
+  "description": "Vertical atmosphere gradient (night-sky) for backdrop/fog colorization.",
+  "category": "lighting",
+  "subcategory": "gradients",
+  "tags": [
+    "gradient",
+    "atmosphere",
+    "night-sky"
+  ],
+  "style": [
+    "procedural",
+    "cinematic"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "e043ac2f0b6171b968c7b6ce726a860098b002b2b89143e4b2071da756ec3f31",
+  "file_size": 1998,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGB",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "texture",
+  "note": "artistic reference, not measured photometry",
+  "dimensions": null
+}

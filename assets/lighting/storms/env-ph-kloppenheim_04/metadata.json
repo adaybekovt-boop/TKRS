@@ -1,0 +1,57 @@
+{
+  "id": "env-ph-kloppenheim_04",
+  "name": "Kloppenheim 04",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "storms",
+  "tags": [
+    "field",
+    "grass",
+    "mist",
+    "fog",
+    "hdri",
+    "environment",
+    "1k",
+    "night",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/kloppenheim_04",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "19c38435c0858aba42f03533e02c3c50488b91f24ec66e8ac71b1098d170c545",
+  "file_size": 1665034,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 3392,
+  "evs_cap": 12,
+  "attributes": {
+    "time_of_day": "night",
+    "weather": "fog",
+    "light_type": "mixed",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "obstructed"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-news-studio",
+  "name": "News Studio",
+  "description": "Even key/fill broadcast floor",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "studio",
+    "broadcast",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "2f58c344d17c2b32612bff1d707cb40f83fcfaf8d8fa5ee413a31ddfedc9327f",
+  "file_size": 801,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Even key/fill broadcast floor",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

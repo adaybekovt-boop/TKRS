@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-emissive-2x2-grid",
+  "name": "Emissive 2x2-grid",
+  "description": "Ceiling-panel emissive layout (2x2-grid).",
+  "category": "lighting",
+  "subcategory": "emissive-masks",
+  "tags": [
+    "emissive",
+    "panel",
+    "mask",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "a8fdbce8c49cb7e920829765c129bd42ae62fdfb9638ea825b3840536f9f6157",
+  "file_size": 17409,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

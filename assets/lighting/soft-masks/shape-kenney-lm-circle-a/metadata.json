@@ -1,0 +1,53 @@
+{
+  "id": "shape-kenney-lm-circle-a",
+  "name": "Kenney Light Mask circle a",
+  "description": "Circular light mask 'circle_a' from Kenney Light Masks 1.0. 512px white-on-black light cookie for projector/spot lighting in Roblox. Variants marked in filename (noise/streaks/blur) are optically distinct cookies.",
+  "category": "lighting",
+  "subcategory": "soft-masks",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "projector",
+    "circle",
+    "soft",
+    "falloff"
+  ],
+  "style": [
+    "stylized",
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks 1.0",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "4e530d6ced3ca5a97c504ef0ea91720abc54205f050fa701e7342a89c7abcd6e",
+  "file_size": 33173,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "asset_type": "mask",
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "intended_usage": "light cookie / projector pattern / gobo",
+  "source_format": "png",
+  "source_variant": "Default/white-on-black",
+  "native_filename": "circle_a.png",
+  "dimensions": null
+}

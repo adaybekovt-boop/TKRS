@@ -1,0 +1,43 @@
+{
+  "id": "rbx-liminal-stairwell",
+  "name": "Liminal Stairwell",
+  "description": "Concrete fire stair, single cool bulkhead per landing.",
+  "category": "lighting",
+  "subcategory": "liminal",
+  "tags": [
+    "liminal",
+    "stairwell",
+    "interior",
+    "concrete",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "liminal",
+    "institutional"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Service stairwell.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1041,
+  "sha256": "f1100408a88e434815cf70a9c1cf0bc2b83427ddea9ddbadb7635063c31b843b",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

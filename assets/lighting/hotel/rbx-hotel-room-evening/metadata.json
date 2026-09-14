@@ -1,0 +1,44 @@
+{
+  "id": "rbx-hotel-room-evening",
+  "name": "Hotel Room Evening",
+  "description": "Guest room lamps on, drapes closed, TV optional. Intimate 2700K.",
+  "category": "lighting",
+  "subcategory": "hotel",
+  "tags": [
+    "hotel",
+    "room",
+    "evening",
+    "interior",
+    "practicals",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "realistic",
+    "hospitality"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Hotel guest room after dark.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1109,
+  "sha256": "8a3091aa4a83e18535ca2ac2987bc3b27861fb3697a20a4ea5dd828831a67529",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

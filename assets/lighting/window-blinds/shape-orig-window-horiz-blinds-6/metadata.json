@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-window-horiz-blinds-6",
+  "name": "Window Horizontal Blinds 6",
+  "description": "Window with 6 horizontal blinds and a center mullion.",
+  "category": "lighting",
+  "subcategory": "window-blinds",
+  "tags": [
+    "window",
+    "blinds",
+    "shadow-pattern",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "df82dc6bc4276f0605305cd9d86e100f06d3f6e39bab0dcb8cca4bddb6641403",
+  "file_size": 765,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

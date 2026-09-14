@@ -1,0 +1,41 @@
+{
+  "name": "Attic Dusty",
+  "intended_usage": "Small dirty window high-contrast",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 70,
+      "g": 60,
+      "b": 45
+    },
+    "key": {
+      "r": 255,
+      "g": 220,
+      "b": 150
+    },
+    "fill": {
+      "r": 40,
+      "g": 35,
+      "b": 25
+    },
+    "fog": {
+      "r": 80,
+      "g": 70,
+      "b": 50
+    },
+    "suggested_clocktime": 15.0,
+    "suggested_brightness": 1.0,
+    "colorcorrection": {
+      "Brightness": -0.06,
+      "Contrast": 0.14,
+      "Saturation": -0.1,
+      "TintColor": [
+        255,
+        210,
+        140
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

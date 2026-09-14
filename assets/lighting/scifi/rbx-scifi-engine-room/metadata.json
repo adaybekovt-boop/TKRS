@@ -1,0 +1,44 @@
+{
+  "id": "rbx-scifi-engine-room",
+  "name": "Sci-Fi Engine Room",
+  "description": "Hot core + cool hull: orange practicals against blue fill, heavy bloom.",
+  "category": "lighting",
+  "subcategory": "scifi",
+  "tags": [
+    "scifi",
+    "engine",
+    "industrial",
+    "interior",
+    "contrast",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "stylized",
+    "scifi"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Reactor / engine compartment.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1368,
+  "sha256": "962ce4b4f1731b118c574e92ab8bdd565e27ef9ec29675789100f3904eba5657",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

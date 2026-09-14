@@ -1,0 +1,45 @@
+{
+  "id": "shape-kenney-pp-window-01",
+  "name": "Kenney Particle window 01",
+  "description": "window_01 from Kenney Particle Pack used as a window-blinds light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "window-blinds",
+  "tags": [
+    "kenney",
+    "particle-pack",
+    "window-blinds"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "7447d67f33d2c86f2ac4e8863ad7896993eba0966dbe18533935329bb38ae92e",
+  "file_size": 13561,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "native_filename": "window_01.png",
+  "dimensions": null
+}

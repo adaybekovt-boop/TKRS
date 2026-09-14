@@ -1,0 +1,50 @@
+{
+  "id": "shape-kenney-lm-window-b",
+  "name": "Kenney Light Mask window b",
+  "description": "Window projection cookie 'window_b' from Kenney Light Masks 1.0. 512px white-on-black cookie. Noise/streaks/blur filenames are optically distinct.",
+  "category": "lighting",
+  "subcategory": "window-blinds",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "window",
+    "interior"
+  ],
+  "style": [
+    "stylized",
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks 1.0",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "30a5a1ae773e0d9c12b2bf68b26523300cd474f126f8c6e145542508aac5ff50",
+  "file_size": 1072,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "mask",
+  "intended_usage": "light cookie / projector pattern",
+  "source_variant": "Default",
+  "native_filename": "window_b.png",
+  "dimensions": null
+}

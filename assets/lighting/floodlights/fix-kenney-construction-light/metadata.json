@@ -1,0 +1,32 @@
+{
+  "id": "fix-kenney-construction-light",
+  "name": "Construction Light",
+  "description": "Construction Light from Kenney City Kit (Roads). Low-poly game-ready fixture for Roblox environment dressing.",
+  "category": "lighting",
+  "subcategory": "floodlights",
+  "tags": [
+    "fixture",
+    "kenney",
+    "floodlights",
+    "low-poly"
+  ],
+  "style": [
+    "stylized",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney City Kit (Roads)",
+  "author": "Kenney Vleugels (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/city-kit-roads",
+  "attribution": "Credit Kenney.nl (not mandatory)",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "29e427c06c235475af3ff0c3f7045e89bbb8a6d1d6df93261e3922ca4d1b1bcc",
+  "file_size": 10516,
+  "dimensions": null
+}

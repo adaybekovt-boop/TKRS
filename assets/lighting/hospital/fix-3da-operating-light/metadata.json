@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-operating-light",
+  "name": "Operating Light",
+  "description": "A floor standing operating light: a weighted base and post carrying a jointed arm and a wide reflector head on its yoke, with sterilisable handles under the lens.",
+  "category": "lighting",
+  "subcategory": "hospital",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "hospital"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/dental-practice-and-surgery-operating-light-e636b996",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "f7906ba732c9b7ece0fff6907e5567aff77a2e4f6f58395f7245ce997fd89cfd",
+  "file_size": 31948,
+  "dimensions": null
+}

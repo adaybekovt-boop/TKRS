@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-fog-dirt-specks",
+  "name": "Fog Dirt Specks",
+  "description": "Dirt-in-light mask (specks).",
+  "category": "lighting",
+  "subcategory": "fog-dirt-masks",
+  "tags": [
+    "dirt",
+    "fog",
+    "mask",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "64c95232a61df2a6c6d046b87185eba987660a0710364a4451e67df49c3f87fb",
+  "file_size": 175369,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

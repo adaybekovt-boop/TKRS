@@ -1,0 +1,45 @@
+{
+  "id": "shape-orig-soft-ies-k4",
+  "name": "IES-like cosine falloff k=4.0",
+  "description": "Cosine-power disc mask k=4.0. Shape only; no invented candela data.",
+  "category": "lighting",
+  "subcategory": "soft-masks",
+  "tags": [
+    "soft",
+    "ies-like",
+    "falloff"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "026494154e30f114de72b1140c433cc26e923d0dd242796ae75c9d59a862c8ac",
+  "file_size": 19905,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

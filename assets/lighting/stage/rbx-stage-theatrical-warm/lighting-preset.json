@@ -1,0 +1,59 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.95,
+    "Ambient": {
+      "r": 0.0627,
+      "g": 0.0549,
+      "b": 0.0706
+    },
+    "OutdoorAmbient": {
+      "r": 0.0314,
+      "g": 0.0314,
+      "b": 0.0392
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.7843,
+      "b": 0.549
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0784,
+      "g": 0.0941,
+      "b": 0.1569
+    },
+    "EnvironmentDiffuseScale": 0.08,
+    "EnvironmentSpecularScale": 0.35,
+    "ClockTime": 20.0,
+    "ExposureCompensation": -0.05,
+    "ShadowSoftness": 0.2,
+    "FogStart": 12,
+    "FogEnd": 70,
+    "FogColor": {
+      "r": 0.0941,
+      "g": 0.0784,
+      "b": 0.0863
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.45,
+    "Size": 22,
+    "Threshold": 0.75
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": 0.0,
+    "Contrast": 0.16,
+    "Saturation": 0.04,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.9255,
+      "b": 0.8627
+    }
+  },
+  "art_notes": "Front 3200K, back/rim cooler. Keep audience dark."
+}

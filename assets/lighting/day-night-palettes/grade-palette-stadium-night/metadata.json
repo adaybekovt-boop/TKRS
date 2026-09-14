@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-stadium-night",
+  "name": "Stadium Night",
+  "description": "Floodlit arena",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "stadium",
+    "night",
+    "flood",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "f44f307c69b3dec72ca22b175c81b61a7b5f5692e77fa4c41c7fadf709308cdd",
+  "file_size": 778,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Floodlit arena",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

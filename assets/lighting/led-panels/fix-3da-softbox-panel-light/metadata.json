@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-softbox-panel-light",
+  "name": "Softbox Panel Light",
+  "description": "A 900 by 620 mm softbox on a hook clamp: a tapered fabric box on an alloy frame with a double layer of diffusion across its face, dark skirt panels round the sides and a yoke with tilt locks. It hangs 1.06 m from the clamp jaw to the bottom",
+  "category": "lighting",
+  "subcategory": "led-panels",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "led-panels"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/tv-studio-and-broadcast-gallery-softbox-panel-d57bc9f3",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "70f21b2c728f41718258bb0330b9bd44077c553ce564dd9e7a72a383133b18e9",
+  "file_size": 44100,
+  "dimensions": null
+}

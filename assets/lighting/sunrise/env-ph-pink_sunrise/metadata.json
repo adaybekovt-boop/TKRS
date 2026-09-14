@@ -1,0 +1,61 @@
+{
+  "id": "env-ph-pink_sunrise",
+  "name": "Pink Sunrise",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "sunrise",
+  "tags": [
+    "road",
+    "hill",
+    "bush",
+    "view",
+    "ocean",
+    "backplates",
+    "hdri",
+    "environment",
+    "1k",
+    "sunrise",
+    "partly_cloudy",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal, Rico Cilliers",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/pink_sunrise",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "aa551a80fd12406c1c37614bc9c8f976f5f709dc496cafe031e3b7ba4a82d61b",
+  "file_size": 1640678,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5400,
+  "evs_cap": 12,
+  "attributes": {
+    "time_of_day": "sunrise",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "medium",
+    "backplates": true,
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

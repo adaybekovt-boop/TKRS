@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-cafeteria",
+  "name": "Cafeteria",
+  "description": "Institutional warm-white lunch hall",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "school",
+    "cafeteria",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "liminal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "2fe44998bbf7340c1901df782f35c836095da930a71ac14464662be2550cdcb9",
+  "file_size": 804,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Institutional warm-white lunch hall",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

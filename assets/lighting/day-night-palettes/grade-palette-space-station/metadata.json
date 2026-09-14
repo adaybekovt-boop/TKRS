@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-space-station",
+  "name": "Space Station",
+  "description": "Cool artificial interior no sun",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "space",
+    "station",
+    "scifi",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "sci-fi"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "73aec061257e1b1b1ab2389863e4e9dfcf041fa5372d34c931dab0f85bf7ed8b",
+  "file_size": 794,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Cool artificial interior no sun",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

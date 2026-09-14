@@ -1,0 +1,56 @@
+{
+  "id": "env-ph-spiaggia_di_mondello",
+  "name": "Spiaggia di Mondello",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "day",
+  "tags": [
+    "tree",
+    "sun",
+    "beach",
+    "sand",
+    "hdri",
+    "environment",
+    "1k"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Andreas Mischok",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/spiaggia_di_mondello",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "7fe3227764fd224629bb92b794917493aaf16bbd9eb610d1fb12a1a52f43603c",
+  "file_size": 1533242,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 25,
+  "attributes": {
+    "time_of_day": "afternoon",
+    "weather": "clear",
+    "light_type": "natural",
+    "contrast": "high",
+    "season": "summer",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

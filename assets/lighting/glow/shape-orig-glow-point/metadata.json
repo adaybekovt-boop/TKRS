@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-glow-point",
+  "name": "Glow Point",
+  "description": "Emissive glow kernel (point).",
+  "category": "lighting",
+  "subcategory": "glow",
+  "tags": [
+    "glow",
+    "emissive",
+    "kernel",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "00295bbc7955bd88993e04648b920190d048bb909aa1467aa611bdd8c23d8a93",
+  "file_size": 6010,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Aircraft Hangar",
+  "intended_usage": "Huge volume cool skylight + sodium",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 90,
+      "g": 95,
+      "b": 85
+    },
+    "key": {
+      "r": 200,
+      "g": 210,
+      "b": 190
+    },
+    "fill": {
+      "r": 70,
+      "g": 60,
+      "b": 40
+    },
+    "fog": {
+      "r": 100,
+      "g": 100,
+      "b": 90
+    },
+    "suggested_clocktime": 11.0,
+    "suggested_brightness": 1.6,
+    "colorcorrection": {
+      "Brightness": -0.02,
+      "Contrast": 0.08,
+      "Saturation": -0.18,
+      "TintColor": [
+        210,
+        215,
+        190
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

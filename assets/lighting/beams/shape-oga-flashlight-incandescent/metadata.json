@@ -1,0 +1,43 @@
+{
+  "id": "shape-oga-flashlight-incandescent",
+  "name": "Incandescent flashlight pattern",
+  "description": "Incandescent flashlight pattern. CC0 light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "beams",
+  "tags": [
+    "opengameart",
+    "beams"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "OpenGameArt — Flashlight pattern, incandescent",
+  "author": "w.forster.1@gmail.com",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/flashlight-pattern-incandescent",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "ed4a74b1fb2c433ff9407b63222b3654d4bed04a25c813e9dc5a1be01e0fa3d2",
+  "file_size": 564047,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    2048,
+    2048
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "dimensions": null
+}

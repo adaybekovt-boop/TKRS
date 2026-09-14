@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-suburban-evening",
+  "name": "Suburban Evening",
+  "description": "Residential street dusk porch lights",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "suburban",
+    "evening",
+    "residential",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "3f32595ccc83f5ab6eb6ede506890f75d32352fe7bf67ef8d0b75479ecad3461",
+  "file_size": 804,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Residential street dusk porch lights",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

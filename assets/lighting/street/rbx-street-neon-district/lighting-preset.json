@@ -1,0 +1,59 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 1.0,
+    "Ambient": {
+      "r": 0.1176,
+      "g": 0.0627,
+      "b": 0.1412
+    },
+    "OutdoorAmbient": {
+      "r": 0.1098,
+      "g": 0.0706,
+      "b": 0.1569
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.3137,
+      "b": 0.6275
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0784,
+      "g": 0.0941,
+      "b": 0.1961
+    },
+    "EnvironmentDiffuseScale": 0.25,
+    "EnvironmentSpecularScale": 0.6,
+    "ClockTime": 22.2,
+    "ExposureCompensation": -0.05,
+    "ShadowSoftness": 0.14,
+    "FogStart": 18,
+    "FogEnd": 120,
+    "FogColor": {
+      "r": 0.1569,
+      "g": 0.0784,
+      "b": 0.1882
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.95,
+    "Size": 40,
+    "Threshold": 0.4
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": 0.0,
+    "Contrast": 0.18,
+    "Saturation": 0.2,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.902,
+      "b": 0.9647
+    }
+  },
+  "art_notes": "Signs carry the color. Street LEDs stay neutral so neon pops."
+}

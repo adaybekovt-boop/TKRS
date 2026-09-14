@@ -1,0 +1,45 @@
+{
+  "id": "rbx-scifi-neon-alley",
+  "name": "Sci-Fi Neon Alley",
+  "description": "Wet alley, magenta/cyan signage, no sun, high bloom on neon.",
+  "category": "lighting",
+  "subcategory": "scifi",
+  "tags": [
+    "scifi",
+    "neon",
+    "alley",
+    "night",
+    "cyberpunk",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "stylized",
+    "scifi",
+    "cyberpunk"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Cyberpunk street canyon at night.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1363,
+  "sha256": "872d9b8c4048023e10aa5f5f2d58567a6a0e3aa3efb1868dcf6e5445f909c6f2",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

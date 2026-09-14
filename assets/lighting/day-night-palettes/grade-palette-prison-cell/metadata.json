@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-prison-cell",
+  "name": "Prison Cell",
+  "description": "Small cell bare overhead",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "prison",
+    "cell",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "babc4c2ed20f8b1a9a6134ba0163070de3240abef1d8457080613cc46071eac8",
+  "file_size": 785,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Small cell bare overhead",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

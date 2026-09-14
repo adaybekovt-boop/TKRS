@@ -1,0 +1,66 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.75,
+    "Ambient": {
+      "r": 0.1255,
+      "g": 0.1176,
+      "b": 0.1412
+    },
+    "OutdoorAmbient": {
+      "r": 0.0941,
+      "g": 0.0941,
+      "b": 0.1176
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.7843,
+      "b": 0.549
+    },
+    "ColorShift_Bottom": {
+      "r": 0.1098,
+      "g": 0.102,
+      "b": 0.1333
+    },
+    "EnvironmentDiffuseScale": 0.2,
+    "EnvironmentSpecularScale": 0.45,
+    "ClockTime": 23.5,
+    "ExposureCompensation": -0.25,
+    "ShadowSoftness": 0.22,
+    "FogStart": 20,
+    "FogEnd": 140,
+    "FogColor": {
+      "r": 0.1569,
+      "g": 0.149,
+      "b": 0.1804
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.6,
+    "Size": 34,
+    "Threshold": 0.6
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.08,
+    "Contrast": 0.16,
+    "Saturation": -0.14,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.902,
+      "b": 0.8235
+    }
+  },
+  "DepthOfFieldEffect": {
+    "Enabled": true,
+    "FarIntensity": 0.2,
+    "FocusDistance": 30,
+    "InFocusRadius": 20,
+    "NearIntensity": 0.05
+  },
+  "art_notes": "Store interiors mostly dark. Concourse fixtures sparse."
+}

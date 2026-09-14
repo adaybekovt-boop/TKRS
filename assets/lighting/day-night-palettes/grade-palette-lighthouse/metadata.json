@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-lighthouse",
+  "name": "Lighthouse Night",
+  "description": "Sweeping cool beam + warm interior",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "lighthouse",
+    "night",
+    "coast",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "8c2a0850cb3bd227aabba494adaff034a5dcd8e182c4736796adbad1850b160a",
+  "file_size": 803,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Sweeping cool beam + warm interior",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

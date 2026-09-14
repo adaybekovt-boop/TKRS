@@ -1,0 +1,41 @@
+{
+  "name": "Classroom Day",
+  "intended_usage": "School classroom window + fluorescent",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 180,
+      "g": 185,
+      "b": 175
+    },
+    "key": {
+      "r": 240,
+      "g": 235,
+      "b": 210
+    },
+    "fill": {
+      "r": 160,
+      "g": 165,
+      "b": 160
+    },
+    "fog": {
+      "r": 190,
+      "g": 192,
+      "b": 185
+    },
+    "suggested_clocktime": 10.5,
+    "suggested_brightness": 1.7,
+    "colorcorrection": {
+      "Brightness": 0.04,
+      "Contrast": 0.02,
+      "Saturation": -0.1,
+      "TintColor": [
+        240,
+        235,
+        210
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

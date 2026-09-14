@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-floor-lamp-with-drum-shade",
+  "name": "Floor lamp with drum shade",
+  "description": "A 1.56 m floor lamp: a weighted disc base, a slim stem, a fabric drum shade with accent trims and an inline switch.",
+  "category": "lighting",
+  "subcategory": "hotel",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "hotel"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/hotel-and-resort-operations-floor-lamp-dab3f623",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "35ebaf6faab12ce107e63a3ae39f8f9246dfa8a2af6a3fda12ce131398553ccf",
+  "file_size": 34424,
+  "dimensions": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "rbx-abandoned-hospital",
+  "name": "Abandoned Hospital",
+  "description": "Peeling ward: weak daylight, mold green, dirty windows as the only key.",
+  "category": "lighting",
+  "subcategory": "abandoned",
+  "tags": [
+    "abandoned",
+    "hospital",
+    "day",
+    "interior",
+    "decay",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "cinematic",
+    "abandoned",
+    "horror"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Derelict hospital ward daytime.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1397,
+  "sha256": "b3f3cd9f346fb7eabee5941fe6f179cc3a5488a46f7471aaae3cea61767655e2",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

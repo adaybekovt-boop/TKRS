@@ -1,0 +1,43 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "ShadowMap",
+    "Brightness": 2.0,
+    "Ambient": {
+      "r": 0.502,
+      "g": 0.502,
+      "b": 0.502
+    },
+    "OutdoorAmbient": {
+      "r": 0.502,
+      "g": 0.502,
+      "b": 0.502
+    },
+    "ColorShift_Top": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "EnvironmentDiffuseScale": 1.0,
+    "EnvironmentSpecularScale": 1.0,
+    "ClockTime": 14.0,
+    "GeographicLatitude": 41.7,
+    "ExposureCompensation": 0.0,
+    "ShadowSoftness": 0.2,
+    "FogStart": 0,
+    "FogEnd": 100000,
+    "FogColor": {
+      "r": 0.7529,
+      "g": 0.7529,
+      "b": 0.7529
+    }
+  }
+}

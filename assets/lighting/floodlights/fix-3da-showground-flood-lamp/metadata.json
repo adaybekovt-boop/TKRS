@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-showground-flood-lamp",
+  "name": "Showground Flood Lamp",
+  "description": "A 3.3 m flood lamp on a braced tripod mast: a twin steel head with a gold lens face on a yoke. The head is one node on the yoke pin and tilts; the lamp casts no light of its own, since the file carries no light sources.",
+  "category": "lighting",
+  "subcategory": "floodlights",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "floodlights"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/travelling-circus-and-big-top-flood-lamp-dcf12d19",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "e086ec83ec866be6b099e20075ebb9ef71a1970fb49918330076bd3192eae3c1",
+  "file_size": 12020,
+  "dimensions": null
+}

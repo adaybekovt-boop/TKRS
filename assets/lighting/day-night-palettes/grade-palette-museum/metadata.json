@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-museum",
+  "name": "Museum Gallery",
+  "description": "Even cool gallery lighting",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "museum",
+    "gallery",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "ede341e9d4855e03fd376cc82b5c154d23473f5cf76c39fb428d5f54b94e95fc",
+  "file_size": 801,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Even cool gallery lighting",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

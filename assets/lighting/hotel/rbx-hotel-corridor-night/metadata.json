@@ -1,0 +1,44 @@
+{
+  "id": "rbx-hotel-corridor-night",
+  "name": "Hotel Corridor Night",
+  "description": "Long carpeted hall, wall sconces only, warm falloff, slightly cinematic.",
+  "category": "lighting",
+  "subcategory": "hotel",
+  "tags": [
+    "hotel",
+    "corridor",
+    "night",
+    "interior",
+    "sconce",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "cinematic",
+    "hospitality"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Hotel guest-floor corridor at night.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1278,
+  "sha256": "2002d55b7bd6a7c8fd942a7a3f41142d2cd63da81182dabc794340002abed4d5",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

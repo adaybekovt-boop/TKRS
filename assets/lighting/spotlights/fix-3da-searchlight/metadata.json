@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-searchlight",
+  "name": "Searchlight",
+  "description": "Original wheeled searchlight with a large parabolic head on a yoke.",
+  "category": "lighting",
+  "subcategory": "spotlights",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "spotlights"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/armoured-column-and-field-camp-searchlight-95382254",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "8161265cead35e6e6576b4b3344059e4fe02203cf894b5d566792855ae7fd603",
+  "file_size": 34160,
+  "dimensions": null
+}

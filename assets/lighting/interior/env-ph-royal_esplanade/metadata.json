@@ -1,0 +1,55 @@
+{
+  "id": "env-ph-royal_esplanade",
+  "name": "Royal Esplanade",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "interior",
+  "tags": [
+    "mall",
+    "cruise",
+    "screen",
+    "balcony",
+    "stair",
+    "tile",
+    "hdri",
+    "environment",
+    "1k",
+    "indoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/royal_esplanade",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "fec2166383a45eca3700f9abd020bc0ba490741c7ae22f91b5c2fa420a98e4d1",
+  "file_size": 1676014,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 3700,
+  "evs_cap": 15,
+  "attributes": {
+    "light_type": "artificial",
+    "contrast": "high",
+    "environment": "indoor"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

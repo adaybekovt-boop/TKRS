@@ -1,0 +1,32 @@
+{
+  "id": "fix-kenney-street-light-square-cross",
+  "name": "Street Light Square Cross",
+  "description": "Street Light Square Cross from Kenney City Kit (Roads). Low-poly game-ready fixture for Roblox environment dressing.",
+  "category": "lighting",
+  "subcategory": "street",
+  "tags": [
+    "fixture",
+    "kenney",
+    "street",
+    "low-poly"
+  ],
+  "style": [
+    "stylized",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney City Kit (Roads)",
+  "author": "Kenney Vleugels (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/city-kit-roads",
+  "attribution": "Credit Kenney.nl (not mandatory)",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "a8c72ab33c9bceaf612d4027d535813deb1951b61313a2c30985eced33dd010d",
+  "file_size": 13516,
+  "dimensions": null
+}

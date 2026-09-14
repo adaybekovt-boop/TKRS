@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-caustics-layered-1",
+  "name": "Caustics Layered 1",
+  "description": "Layered interference caustic.",
+  "category": "lighting",
+  "subcategory": "caustics",
+  "tags": [
+    "caustics",
+    "interference",
+    "projector",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "dacc66fa1d8d20b7c9572500b3b771b10b58d73209f216c57f1361b8f2fa8666",
+  "file_size": 107053,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

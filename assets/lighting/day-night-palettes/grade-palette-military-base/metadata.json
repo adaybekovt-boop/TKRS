@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-military-base",
+  "name": "Military Base",
+  "description": "Olive drab daylight base",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "military",
+    "base",
+    "day",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "d3aa1badba74161c5bf57421e0dc8f1d9f09a84edb8fa54959a65d55c0d0fb6f",
+  "file_size": 794,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Olive drab daylight base",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

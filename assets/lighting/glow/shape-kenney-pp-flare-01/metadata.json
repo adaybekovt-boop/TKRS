@@ -1,0 +1,45 @@
+{
+  "id": "shape-kenney-pp-flare-01",
+  "name": "Kenney Particle flare 01",
+  "description": "flare_01 from Kenney Particle Pack used as a glow light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "glow",
+  "tags": [
+    "kenney",
+    "particle-pack",
+    "glow"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "9e280d7729af8a8d1e4eced8a1d02463e0eb7dbcd0760710643fa6a903a480ae",
+  "file_size": 14027,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "native_filename": "flare_01.png",
+  "dimensions": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": "env-ph-studio_garden",
+  "name": "Studio Garden",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "day",
+  "tags": [
+    "tree",
+    "warehouse",
+    "garden",
+    "grass",
+    "bench",
+    "path",
+    "chair",
+    "arch",
+    "backplates",
+    "hdri",
+    "environment",
+    "1k",
+    "midday",
+    "clear",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Sergej Majboroda",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/studio_garden",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "98a54e535dcae3f4a4859b151432ae17eacfd0f14412439717acdabf86fa0f8b",
+  "file_size": 1852715,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5150,
+  "evs_cap": 26,
+  "attributes": {
+    "time_of_day": "midday",
+    "weather": "clear",
+    "light_type": "natural",
+    "contrast": "high",
+    "backplates": true,
+    "environment": "outdoor",
+    "sky_view": "obstructed"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

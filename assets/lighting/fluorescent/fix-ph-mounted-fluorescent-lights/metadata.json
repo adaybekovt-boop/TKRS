@@ -1,0 +1,45 @@
+{
+  "id": "fix-ph-mounted-fluorescent-lights",
+  "name": "Mounted Fluorescent Lights",
+  "description": "Mounted Fluorescent Lights — CC0 lighting fixture from Poly Haven (1K). Placeable reference for Roblox lighting/art direction.",
+  "category": "lighting",
+  "subcategory": "fluorescent",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "1k"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "txt",
+    "gltf",
+    "jpg",
+    "bin"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Poly Haven contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/mounted_fluorescent_lights",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "7a56f167fe7074f4e4d4f314f72c5aa8b01c191394ee5ecb0b3461a240441b4a",
+  "file_size": 21071,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "LICENSE.txt",
+    "mounted_fluorescent_lights.bin",
+    "mounted_fluorescent_lights_1k.gltf",
+    "mounted_fluorescent_lights_arm_1k.jpg",
+    "mounted_fluorescent_lights_diff_1k.jpg",
+    "mounted_fluorescent_lights_emission_1k.jpg",
+    "mounted_fluorescent_lights_nor_gl_1k.jpg"
+  ],
+  "dimensions": null
+}

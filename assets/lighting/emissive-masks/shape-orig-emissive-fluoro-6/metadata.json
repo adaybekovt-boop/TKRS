@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-emissive-fluoro-6",
+  "name": "Fluorescent tubes x6",
+  "description": "Emissive mask of 6 fluorescent tube(s). Office/hospital/liminal.",
+  "category": "lighting",
+  "subcategory": "emissive-masks",
+  "tags": [
+    "emissive",
+    "fluorescent",
+    "office",
+    "liminal"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "35a2aad987c1db21c264b8428c6cef43e16e68ff2b3d68118d483c08c95747b3",
+  "file_size": 16098,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

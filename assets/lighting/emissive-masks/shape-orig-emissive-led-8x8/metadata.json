@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-emissive-led-8x8",
+  "name": "LED panel grid 8x8",
+  "description": "Emissive LED panel mask 8x8.",
+  "category": "lighting",
+  "subcategory": "emissive-masks",
+  "tags": [
+    "emissive",
+    "led",
+    "panel",
+    "sci-fi"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "f5abc16abd20d2ce30d9afc63e7daa4c0cde29875ae6c146f71838c1a9d7ca15",
+  "file_size": 985,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "grade-palette-classroom",
+  "name": "Classroom Day",
+  "description": "School classroom window + fluorescent",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "school",
+    "classroom",
+    "day",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal",
+    "liminal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "bf39937326a9308f5bf3df3f89f3757569fdd9767b3d35dd245b83f13678a70d",
+  "file_size": 810,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "School classroom window + fluorescent",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

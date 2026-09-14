@@ -1,0 +1,41 @@
+{
+  "name": "Prison Yard Overcast",
+  "intended_usage": "Institutional outdoor overcast",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 150,
+      "g": 155,
+      "b": 150
+    },
+    "key": {
+      "r": 200,
+      "g": 205,
+      "b": 195
+    },
+    "fill": {
+      "r": 130,
+      "g": 135,
+      "b": 130
+    },
+    "fog": {
+      "r": 160,
+      "g": 165,
+      "b": 160
+    },
+    "suggested_clocktime": 11.0,
+    "suggested_brightness": 1.6,
+    "colorcorrection": {
+      "Brightness": -0.02,
+      "Contrast": 0.06,
+      "Saturation": -0.25,
+      "TintColor": [
+        200,
+        205,
+        190
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

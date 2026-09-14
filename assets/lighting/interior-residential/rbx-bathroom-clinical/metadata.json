@@ -1,0 +1,43 @@
+{
+  "id": "rbx-bathroom-clinical",
+  "name": "Bathroom Clinical",
+  "description": "Bright vanity, cool tiles, high spec, slightly green-white.",
+  "category": "lighting",
+  "subcategory": "interior-residential",
+  "tags": [
+    "bathroom",
+    "vanity",
+    "cool",
+    "interior",
+    "residential",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "realistic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Modern bathroom / restroom.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1042,
+  "sha256": "9df3c3affd2f83a171355c876e76b0d6654bfd71053ed0d4a392681cb2f442ca",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

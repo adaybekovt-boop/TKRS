@@ -1,0 +1,39 @@
+{
+  "id": "grade-palette-train-station",
+  "name": "Train Station",
+  "description": "Concourse daylight + platform fluorescents",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "train",
+    "station",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal",
+    "liminal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "9d54bbabfd1f7d23be16e4863fbede903d6343de45eb60f7d4220d28cc1304b8",
+  "file_size": 816,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Concourse daylight + platform fluorescents",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

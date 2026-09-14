@@ -1,0 +1,44 @@
+{
+  "id": "rbx-exterior-golden-hour",
+  "name": "Exterior Golden Hour",
+  "description": "Low warm sun, long shadows, peach sky influence, lifted warmth in bounce.",
+  "category": "lighting",
+  "subcategory": "exterior",
+  "tags": [
+    "exterior",
+    "golden-hour",
+    "sunset",
+    "warm",
+    "cinematic",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "cinematic",
+    "outdoor"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Late-day exterior, 30-60 minutes before sunset.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1504,
+  "sha256": "1b153091dc2370cde38b4ffa9bae60c3503aba5e363f67944ca290b958afa5e8",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

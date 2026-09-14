@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-doors-horror",
+  "name": "Doors Horror Hotel",
+  "description": "Hotel horror dim warm practicals",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "horror",
+    "hotel",
+    "doors",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "horror"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "0216183a3be330af4fba1d121d2e0513febd7b9f5a23b3f0124bd4aaa0e9fb50",
+  "file_size": 801,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Hotel horror dim warm practicals",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

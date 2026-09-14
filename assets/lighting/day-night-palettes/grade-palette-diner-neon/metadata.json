@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-diner-neon",
+  "name": "Diner Neon",
+  "description": "Warm interior + neon sign bleed",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "diner",
+    "neon",
+    "night",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "82aca8b4d874d0f1e49218e0a789b4323867f08862764b084fa7f94007387591",
+  "file_size": 791,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Warm interior + neon sign bleed",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

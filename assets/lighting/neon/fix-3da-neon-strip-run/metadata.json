@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-neon-strip-run",
+  "name": "Neon Strip Run",
+  "description": "A 1.2 m neon raceway on two brackets: a dark channel with a steel reflector, a magenta tube on its end caps and a transformer box behind. Its neon-left and neon-right ports butt run to run, so a whole facade or corridor lights in one line.",
+  "category": "lighting",
+  "subcategory": "neon",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "neon"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/cyberpunk-apartment-and-neon-block-neon-strip-run-863a00d1",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "f3bd3e4aa6f28bb27d5687656d9f942b576c9b066660c528161408b739ffd14d",
+  "file_size": 23592,
+  "dimensions": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "grade-church-stained-warm",
+  "name": "Church Stained Warm",
+  "description": "interior sacred space warm dust motes feel Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "church",
+    "warm",
+    "interior",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "e019e7980c2259b44450ce639029418f5ac7aca3a6ebcfd8a281394dc7156d55",
+  "file_size": 132859,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "interior sacred space warm dust motes feel",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "color_temperature_k": 3400,
+  "color_temperature_note": "creative target temperature used in generation; not measured photometric data",
+  "dimensions": null
+}

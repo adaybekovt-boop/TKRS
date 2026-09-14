@@ -1,0 +1,63 @@
+{
+  "id": "env-ph-cape_hill",
+  "name": "Cape Hill",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "sunrise",
+  "tags": [
+    "rock",
+    "shrub",
+    "view",
+    "ocean",
+    "hill",
+    "hilltop",
+    "sun",
+    "backplates",
+    "hdri",
+    "environment",
+    "1k",
+    "sunrise",
+    "partly_cloudy",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal, Rico Cilliers",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/cape_hill",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "3a7afde2f8f54d05d45cbe4338f0f04a23f0596d848c5272bc838935f25f866c",
+  "file_size": 1642586,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 22,
+  "attributes": {
+    "time_of_day": "sunrise",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "high",
+    "backplates": true,
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

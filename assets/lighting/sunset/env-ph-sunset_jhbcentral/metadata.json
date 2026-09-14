@@ -1,0 +1,62 @@
+{
+  "id": "env-ph-sunset_jhbcentral",
+  "name": "Joburg Central Sunset",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "sunset",
+  "tags": [
+    "city",
+    "roof",
+    "skyline",
+    "building",
+    "architecture",
+    "industrial",
+    "pink",
+    "twilight",
+    "hdri",
+    "environment",
+    "1k",
+    "dusk",
+    "partly_cloudy",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal, Dimitrios Savva",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/sunset_jhbcentral",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "39a9c6b391e9bda935501eb5abbe200c38959f054902050ca198d82e9f20b65b",
+  "file_size": 1573705,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5319,
+  "evs_cap": 12,
+  "attributes": {
+    "time_of_day": "dusk",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "env-ph-kiara_1_dawn",
+  "name": "Kiara 1 Dawn",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "sunrise",
+  "tags": [
+    "mountain",
+    "valley",
+    "rock",
+    "backplates",
+    "hdri",
+    "environment",
+    "1k",
+    "sunrise",
+    "partly_cloudy",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/kiara_1_dawn",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "ee70fb8c8fb3e34566802191d83b299e179ecc392b97639e6c750f66e161c8e2",
+  "file_size": 1475077,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 10,
+  "attributes": {
+    "time_of_day": "sunrise",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "medium",
+    "backplates": true,
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

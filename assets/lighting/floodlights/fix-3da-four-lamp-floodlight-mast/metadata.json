@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-four-lamp-floodlight-mast",
+  "name": "Four lamp floodlight mast",
+  "description": "12.3 m floodlight mast with four individually framed lamp heads; non-emissive materials.",
+  "category": "lighting",
+  "subcategory": "floodlights",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "floodlights"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/football-soccer-club-grounds-floodlight-mast-282b2db3",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "d4dc0aefafc1f23370d48429202334d27cf52a44af018dced698bcff4de4eb11",
+  "file_size": 10544,
+  "dimensions": null
+}

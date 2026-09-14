@@ -1,0 +1,45 @@
+{
+  "id": "shape-oga-caustics-atlas-leeor",
+  "name": "Water caustics atlas (16-frame)",
+  "description": "16-frame water caustics atlas counted as one asset.",
+  "category": "lighting",
+  "subcategory": "caustics",
+  "tags": [
+    "opengameart",
+    "caustics",
+    "atlas"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "OpenGameArt — Water Caustics Effect (Small)",
+  "author": "leeor_net",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/water-caustics-effect-small",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "64751a6ca087484fea59e9e4462c0558dafa71c95da3e232aec49f8927a7275a",
+  "file_size": 1247003,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    1024,
+    1024
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "frame_count": 16,
+  "dimensions": null
+}

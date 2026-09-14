@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-mall-food-court",
+  "name": "Mall Food Court",
+  "description": "Bright retail mixed practicals",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "mall",
+    "retail",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "liminal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "b8c5d6b1dbd05518593a8ac07154c04a0cf326e1486f9a7478fe13508d0d887a",
+  "file_size": 805,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Bright retail mixed practicals",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

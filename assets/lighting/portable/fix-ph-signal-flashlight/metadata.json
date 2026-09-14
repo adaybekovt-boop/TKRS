@@ -1,0 +1,36 @@
+{
+  "id": "fix-ph-signal-flashlight",
+  "name": "Signal Flashlight",
+  "description": "vintage signal flashlight. PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "portable",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "portable"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "gltf",
+    "bin",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Jiří Ptáček",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/signal_flashlight",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "c2b4b978659d4dcd9d45ccf15bd8d32ea2d4363b999ab6897ee550918cc405d2",
+  "file_size": 2037204,
+  "dimensions": null
+}

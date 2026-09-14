@@ -1,0 +1,33 @@
+{
+  "id": "fix-khronos-lantern",
+  "name": "Khronos Sample Lantern",
+  "description": "Old wooden street light. Official Khronos glTF sample asset, CC0.",
+  "category": "lighting",
+  "subcategory": "street",
+  "tags": [
+    "fixture",
+    "lantern",
+    "street",
+    "khronos",
+    "gltf-sample"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Khronos glTF-Sample-Assets",
+  "author": "sbtron / Microsoft",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Lantern",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable wooden street lantern fixture",
+  "sha256": "a79458c4b02d695187a952f23a63b8bf278e7bc3d316a3c2a314f2d6974181f1",
+  "file_size": 9564264,
+  "dimensions": null
+}

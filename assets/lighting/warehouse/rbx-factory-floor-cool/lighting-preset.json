@@ -1,0 +1,75 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 2.0,
+    "Ambient": {
+      "r": 0.3765,
+      "g": 0.4235,
+      "b": 0.4078
+    },
+    "OutdoorAmbient": {
+      "r": 0.549,
+      "g": 0.5804,
+      "b": 0.5882
+    },
+    "ColorShift_Top": {
+      "r": 0.902,
+      "g": 0.9412,
+      "b": 1.0
+    },
+    "ColorShift_Bottom": {
+      "r": 0.3529,
+      "g": 0.3922,
+      "b": 0.3765
+    },
+    "EnvironmentDiffuseScale": 0.35,
+    "EnvironmentSpecularScale": 0.65,
+    "ClockTime": 10.0,
+    "ExposureCompensation": 0.0,
+    "ShadowSoftness": 0.22,
+    "FogStart": 50,
+    "FogEnd": 360,
+    "FogColor": {
+      "r": 0.5882,
+      "g": 0.6118,
+      "b": 0.5882
+    }
+  },
+  "Atmosphere": {
+    "Density": 0.3,
+    "Offset": 0.15,
+    "Color": {
+      "r": 0.6667,
+      "g": 0.698,
+      "b": 0.6824
+    },
+    "Decay": {
+      "r": 0.4314,
+      "g": 0.4627,
+      "b": 0.4392
+    },
+    "Glare": 0.12,
+    "Haze": 1.7
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.4,
+    "Size": 20,
+    "Threshold": 0.85
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.02,
+    "Contrast": 0.14,
+    "Saturation": -0.1,
+    "TintColor": {
+      "r": 0.902,
+      "g": 0.9412,
+      "b": 0.9255
+    }
+  },
+  "art_notes": "Highlight brushed metal with EnvironmentSpecularScale. Add local task lights on machines."
+}

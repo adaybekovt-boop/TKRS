@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-fog-dirt-smudge",
+  "name": "Fog Dirt Smudge",
+  "description": "Dirt-in-light mask (smudge).",
+  "category": "lighting",
+  "subcategory": "fog-dirt-masks",
+  "tags": [
+    "dirt",
+    "fog",
+    "mask",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "ddfdc1e0f1c01e623b7ff3be2062bb90523082dbe4c8587c8cfd51f43eb4d0cf",
+  "file_size": 176771,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

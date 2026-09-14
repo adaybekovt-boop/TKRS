@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-lighting-bar-with-par-cans",
+  "name": "Lighting Bar with PAR Cans",
+  "description": "A 2 m lighting bar with four PAR cans on it: hook clamps at both ends, alternating tilts down the bar and a coloured gel frame on the front of every can, in magenta, amber, blue and green.",
+  "category": "lighting",
+  "subcategory": "stage",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "stage"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/live-music-venue-and-festival-stage-lighting-bar-with--9d1b9fb6",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "85aa80a8692ddc19a0719ce01e92bb47cdd13a885afe4f42e45409b4463bb42b",
+  "file_size": 95980,
+  "dimensions": null
+}

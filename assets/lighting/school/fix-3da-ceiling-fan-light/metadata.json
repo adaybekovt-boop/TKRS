@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-ceiling-fan-light",
+  "name": "Ceiling Fan Light",
+  "description": "Four blade ceiling fan with an opal light bowl on a 320 mm drop rod, hung from a 3.0 m classroom ceiling; the blade set is one node turning about the rod.",
+  "category": "lighting",
+  "subcategory": "school",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "school"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/japanese-school-and-city-street-ceiling-fan-light-241e2d97",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "5153e6aa1e6d0ef759e6e02bed4678c8f5e1e0be325a31a687e992fe88cea734",
+  "file_size": 54392,
+  "dimensions": null
+}

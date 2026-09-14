@@ -1,0 +1,44 @@
+{
+  "id": "rbx-scifi-bridge-night",
+  "name": "Sci-Fi Bridge Night",
+  "description": "Command deck: dim cool wash, screen glow as fill, starfield windows.",
+  "category": "lighting",
+  "subcategory": "scifi",
+  "tags": [
+    "scifi",
+    "bridge",
+    "night",
+    "interior",
+    "screens",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "stylized",
+    "scifi"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Ship bridge on night watch.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1113,
+  "sha256": "9f4b30d0f76ea0e186946866e580954548389ff1fc97724d7fadbbdbf870550f",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

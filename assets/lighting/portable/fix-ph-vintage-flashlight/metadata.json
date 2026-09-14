@@ -1,0 +1,36 @@
+{
+  "id": "fix-ph-vintage-flashlight",
+  "name": "Vintage Flashlight",
+  "description": "vintage metal flashlight. PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "portable",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "portable"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "gltf",
+    "bin",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Omar M. El-Safy",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/vintage_flashlight",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "47549746566f8ee37b35cd5c4be947239d65e7e9c4dea7ba5e29810df96b406e",
+  "file_size": 1835236,
+  "dimensions": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fix-kenney-street-light-square-double",
+  "name": "Street Light Square Double",
+  "description": "Street Light Square Double from Kenney City Kit (Roads). Low-poly game-ready fixture for Roblox environment dressing.",
+  "category": "lighting",
+  "subcategory": "street",
+  "tags": [
+    "fixture",
+    "kenney",
+    "street",
+    "low-poly"
+  ],
+  "style": [
+    "stylized",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney City Kit (Roads)",
+  "author": "Kenney Vleugels (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/city-kit-roads",
+  "attribution": "Credit Kenney.nl (not mandatory)",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "ad55001503635f40d996a65a3d8bc1926c40f5f17c3eeb300088d05a7ae11174",
+  "file_size": 9216,
+  "dimensions": null
+}

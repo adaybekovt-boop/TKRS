@@ -1,0 +1,41 @@
+{
+  "name": "Arcade",
+  "intended_usage": "Dark room RGB cabinet glow",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 15,
+      "g": 15,
+      "b": 25
+    },
+    "key": {
+      "r": 80,
+      "g": 220,
+      "b": 255
+    },
+    "fill": {
+      "r": 180,
+      "g": 40,
+      "b": 200
+    },
+    "fog": {
+      "r": 20,
+      "g": 15,
+      "b": 30
+    },
+    "suggested_clocktime": 20.0,
+    "suggested_brightness": 1.0,
+    "colorcorrection": {
+      "Brightness": -0.1,
+      "Contrast": 0.16,
+      "Saturation": 0.3,
+      "TintColor": [
+        120,
+        200,
+        255
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

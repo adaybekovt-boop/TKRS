@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-obby-sunny",
+  "name": "Obby Sunny",
+  "description": "High-visibility colorful obstacle course",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "obby",
+    "sunny",
+    "game",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "853796ee6fc92ffc00293279604fd05a3d43607ba6a6346c620f87dcedb2848b",
+  "file_size": 808,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "High-visibility colorful obstacle course",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,58 @@
+{
+  "id": "env-ph-cayley_interior",
+  "name": "Cayley Interior",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "interior",
+  "tags": [
+    "lamp",
+    "table",
+    "window",
+    "glass",
+    "balcony",
+    "view",
+    "log",
+    "hdri",
+    "environment",
+    "1k",
+    "clear",
+    "indoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/cayley_interior",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "3567e630f4ee862596e2b044640258eee580597504a5ee4cb2fcfbcfbe52c271",
+  "file_size": 1709967,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 14,
+  "attributes": {
+    "weather": "clear",
+    "light_type": "mixed",
+    "contrast": "high",
+    "environment": "indoor"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

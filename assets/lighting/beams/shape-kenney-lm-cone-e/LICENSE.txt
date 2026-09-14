@@ -1,0 +1,8 @@
+Asset: Kenney Light Mask cone e
+Author: Kenney (Kenney.nl)
+Source: Kenney Light Masks 1.0
+License: CC0-1.0
+URL: https://kenney.nl/assets/light-masks
+
+Creative Commons Zero 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/

@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-searchlight-plinth",
+  "name": "Searchlight Plinth",
+  "description": "Searchlight Plinth: 0.6 × 1.4 × 0.6 m nominal survival machine assembly.",
+  "category": "lighting",
+  "subcategory": "spotlights",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "spotlights"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/fortified-compound-expansion-searchlight-plinth-a37970b3",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "ac3704ab7af88bb1596aecf11528f383c7a0ebece64799e192179ec5065444fa",
+  "file_size": 9676,
+  "dimensions": null
+}

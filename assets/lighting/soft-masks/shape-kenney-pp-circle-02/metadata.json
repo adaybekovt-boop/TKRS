@@ -1,0 +1,45 @@
+{
+  "id": "shape-kenney-pp-circle-02",
+  "name": "Kenney Particle circle 02",
+  "description": "circle_02 from Kenney Particle Pack used as a soft-masks light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "soft-masks",
+  "tags": [
+    "kenney",
+    "particle-pack",
+    "soft-masks"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "bc701166d24ed016b82a15872576bcaf48ce662b8da260dcb1d95f296fe37838",
+  "file_size": 26730,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "native_filename": "circle_02.png",
+  "dimensions": null
+}

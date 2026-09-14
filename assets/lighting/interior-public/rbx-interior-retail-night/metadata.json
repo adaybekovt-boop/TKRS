@@ -1,0 +1,44 @@
+{
+  "id": "rbx-interior-retail-night",
+  "name": "Interior Retail Night",
+  "description": "Closed store: security lighting only, long aisles, exit glow.",
+  "category": "lighting",
+  "subcategory": "interior-public",
+  "tags": [
+    "retail",
+    "night",
+    "security",
+    "interior",
+    "liminal",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "liminal",
+    "realistic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Store after close.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1039,
+  "sha256": "676e5d6be079f70a1d96ea9a03df58328e72889eb35e04d0697169931a1dc4cc",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

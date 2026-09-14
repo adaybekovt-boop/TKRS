@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-vol-shaft-01",
+  "name": "Volumetric shaft spread=0.1",
+  "description": "Volumetric light-shaft density mask for dust/god-ray use.",
+  "category": "lighting",
+  "subcategory": "volumetric-masks",
+  "tags": [
+    "volumetric",
+    "shaft",
+    "godray",
+    "atmosphere"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "90ba5b873242c7ac178c5c385d467c4350eb9f7259460e36bd568a325ac9d0f6",
+  "file_size": 17824,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

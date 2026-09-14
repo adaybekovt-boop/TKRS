@@ -1,0 +1,42 @@
+{
+  "id": "grade-high-key-commercial",
+  "name": "High Key Commercial",
+  "description": "bright clean product / lobby look Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "commercial",
+    "high-key",
+    "clean",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "2ea6d4021d2bd597f9c206e8dfa638d105e813dab7ae7dc4aefd6e83ae18d358",
+  "file_size": 132850,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "bright clean product / lobby look",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

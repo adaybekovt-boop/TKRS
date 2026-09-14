@@ -1,0 +1,43 @@
+{
+  "id": "grade-night-vision-green",
+  "name": "Night Vision Green",
+  "description": "NVG phosphor green reference Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "nvg",
+    "night",
+    "green",
+    "military",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "91e25dd6ee0e77f7da215cb081bfcbaa2eab425524d032aba1359b08b3df7498",
+  "file_size": 132844,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "NVG phosphor green reference",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

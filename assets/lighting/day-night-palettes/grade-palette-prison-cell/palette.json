@@ -1,0 +1,41 @@
+{
+  "name": "Prison Cell",
+  "intended_usage": "Small cell bare overhead",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 40,
+      "g": 42,
+      "b": 40
+    },
+    "key": {
+      "r": 220,
+      "g": 220,
+      "b": 200
+    },
+    "fill": {
+      "r": 30,
+      "g": 32,
+      "b": 30
+    },
+    "fog": {
+      "r": 45,
+      "g": 45,
+      "b": 42
+    },
+    "suggested_clocktime": 0.0,
+    "suggested_brightness": 0.8,
+    "colorcorrection": {
+      "Brightness": -0.12,
+      "Contrast": 0.1,
+      "Saturation": -0.3,
+      "TintColor": [
+        220,
+        220,
+        200
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

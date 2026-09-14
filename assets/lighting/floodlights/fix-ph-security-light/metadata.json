@@ -1,0 +1,36 @@
+{
+  "id": "fix-ph-security-light",
+  "name": "Security Light",
+  "description": "outdoor security flood light. PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "floodlights",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "floodlights"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "gltf",
+    "bin",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Maximilian Schuster",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/security_light",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "d82d2191df1e30a75c2f2ce07a8abefcd52b0e8eabc819e2ac854da0f16fba18",
+  "file_size": 2390412,
+  "dimensions": null
+}

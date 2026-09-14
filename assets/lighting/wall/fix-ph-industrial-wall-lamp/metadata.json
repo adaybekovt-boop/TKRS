@@ -1,0 +1,38 @@
+{
+  "id": "fix-ph-industrial-wall-lamp",
+  "name": "Industrial Wall Lamp",
+  "description": "industrial metal wall lamp with glass. Photogrammetry/authored PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "wall",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "wall"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "bin",
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Kuutti Siitonen",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/industrial_wall_lamp",
+  "attribution": "Not required (CC0). Credit Poly Haven / author appreciated.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "color_space": "sRGB+linear PBR",
+  "HDR_LDR": "LDR",
+  "intended_usage": "placeable lighting fixture model with PBR maps",
+  "sha256": "5a2c0d8bdb52fe168727f4200818ac0c2adbded32f0b9dc09cfe224249f9e266",
+  "file_size": 3778230,
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Penthouse Sunset",
+  "intended_usage": "High-rise warm sunset interiors",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 120,
+      "g": 80,
+      "b": 60
+    },
+    "key": {
+      "r": 255,
+      "g": 160,
+      "b": 80
+    },
+    "fill": {
+      "r": 70,
+      "g": 50,
+      "b": 50
+    },
+    "fog": {
+      "r": 140,
+      "g": 90,
+      "b": 70
+    },
+    "suggested_clocktime": 18.0,
+    "suggested_brightness": 1.8,
+    "colorcorrection": {
+      "Brightness": 0.02,
+      "Contrast": 0.1,
+      "Saturation": 0.08,
+      "TintColor": [
+        255,
+        170,
+        100
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

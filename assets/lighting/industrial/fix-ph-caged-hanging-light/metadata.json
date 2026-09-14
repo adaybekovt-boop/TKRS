@@ -1,0 +1,38 @@
+{
+  "id": "fix-ph-caged-hanging-light",
+  "name": "Caged Hanging Light",
+  "description": "industrial caged hanging warehouse light. Photogrammetry/authored PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "industrial",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "industrial"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "bin",
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Ulan Cabanilla",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/caged_hanging_light",
+  "attribution": "Not required (CC0). Credit Poly Haven / author appreciated.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "color_space": "sRGB+linear PBR",
+  "HDR_LDR": "LDR",
+  "intended_usage": "placeable lighting fixture model with PBR maps",
+  "sha256": "4d809194606f0862a08147df6408f2124ed7a5dbc90e4090c82a332efb3aa50d",
+  "file_size": 3066504,
+  "dimensions": null
+}

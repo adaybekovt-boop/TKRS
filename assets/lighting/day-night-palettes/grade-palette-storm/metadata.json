@@ -1,0 +1,37 @@
+{
+  "id": "grade-palette-storm",
+  "name": "Storm Palette",
+  "description": "Stormy outdoor sickly palette",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "storm",
+    "green",
+    "palette"
+  ],
+  "style": [
+    "cinematic",
+    "horror"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "b94e868762f07f5aa0d8965c9e1dc9d3ecce215b4c69efa00c0c2b3ffd240e35",
+  "file_size": 808,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Stormy outdoor sickly palette",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

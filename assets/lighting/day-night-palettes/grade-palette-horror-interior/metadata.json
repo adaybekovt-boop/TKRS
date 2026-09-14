@@ -1,0 +1,36 @@
+{
+  "id": "grade-palette-horror-interior",
+  "name": "Horror Interior Palette",
+  "description": "Sick green-yellow horror interior palette",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "horror",
+    "interior",
+    "palette"
+  ],
+  "style": [
+    "horror"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "17d289567054cc55bc530d0349975f819c1da71990dc0dfee195db28c9d1a4f3",
+  "file_size": 829,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Sick green-yellow horror interior palette",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-caustics-fine",
+  "name": "Caustics Fine",
+  "description": "Procedural water caustic pattern (fine).",
+  "category": "lighting",
+  "subcategory": "caustics",
+  "tags": [
+    "caustics",
+    "water",
+    "projector",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "f1703bad36ac16907217130d2ed5bec80c908c8f85e5605b7a5a052bd52073ed",
+  "file_size": 163248,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "env-ph-tiergarten",
+  "name": "Tiergarten",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "overcast",
+  "tags": [
+    "tree",
+    "grass",
+    "autumn",
+    "leaves",
+    "field",
+    "park",
+    "hdri",
+    "environment",
+    "1k",
+    "midday",
+    "overcast",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/tiergarten",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "f33f26a6bca937248848f73f83c95771fc3da209de8a97566116e34a7300a164",
+  "file_size": 1677230,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 6,
+  "attributes": {
+    "time_of_day": "midday",
+    "weather": "overcast",
+    "light_type": "natural",
+    "contrast": "low",
+    "season": "autumn",
+    "environment": "outdoor",
+    "sky_view": "obstructed"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

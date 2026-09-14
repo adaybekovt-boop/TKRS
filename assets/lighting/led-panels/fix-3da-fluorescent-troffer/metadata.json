@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-fluorescent-troffer",
+  "name": "Fluorescent troffer",
+  "description": "Deep metal light housing with a framed diffuser and cross braces.",
+  "category": "lighting",
+  "subcategory": "led-panels",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "led-panels"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/liminal-spaces-kit-fluorescent-troffer-3bc45981",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "4df46dcd3d502808730313ad3cb539c4a5db923b4a46b2bcba8e4c8d7787124d",
+  "file_size": 59368,
+  "dimensions": null
+}

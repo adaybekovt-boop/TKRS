@@ -1,0 +1,45 @@
+{
+  "id": "grade-golden-hour",
+  "name": "Golden Hour",
+  "description": "late sun warm grade for sunset/sunrise exteriors Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "sunset",
+    "sunrise",
+    "warm",
+    "golden",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "2626b47e8e831fab0eb068c79c2b5f7f6dd1282f0020071579bc96957d15c96d",
+  "file_size": 132857,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "late sun warm grade for sunset/sunrise exteriors",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "color_temperature_k": 3500,
+  "color_temperature_note": "creative target temperature used in generation; not measured photometric data",
+  "dimensions": null
+}

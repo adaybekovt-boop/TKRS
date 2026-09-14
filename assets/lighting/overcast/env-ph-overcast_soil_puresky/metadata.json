@@ -1,0 +1,55 @@
+{
+  "id": "env-ph-overcast_soil_puresky",
+  "name": "Overcast Soil (Pure Sky)",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "overcast",
+  "tags": [
+    "pure skies",
+    "hdri",
+    "environment",
+    "1k",
+    "afternoon",
+    "overcast",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Jarod Guest, Sergej Majboroda",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/overcast_soil_puresky",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "2dbbbbb1323a8e8989db2e8306bd13099b215539e5adba41b85738a250a7904e",
+  "file_size": 1195816,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 6900,
+  "evs_cap": 12,
+  "attributes": {
+    "time_of_day": "afternoon",
+    "weather": "overcast",
+    "light_type": "natural",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

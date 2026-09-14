@@ -1,0 +1,59 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "ShadowMap",
+    "Brightness": 2.5,
+    "Ambient": {
+      "r": 0.6902,
+      "g": 0.7216,
+      "b": 0.7373
+    },
+    "OutdoorAmbient": {
+      "r": 0.7451,
+      "g": 0.7765,
+      "b": 0.8
+    },
+    "ColorShift_Top": {
+      "r": 0.9412,
+      "g": 0.9725,
+      "b": 1.0
+    },
+    "ColorShift_Bottom": {
+      "r": 0.7843,
+      "g": 0.8078,
+      "b": 0.8235
+    },
+    "EnvironmentDiffuseScale": 0.7,
+    "EnvironmentSpecularScale": 0.45,
+    "ClockTime": 11.5,
+    "ExposureCompensation": 0.3,
+    "ShadowSoftness": 0.45,
+    "FogStart": 180,
+    "FogEnd": 900,
+    "FogColor": {
+      "r": 0.8627,
+      "g": 0.8863,
+      "b": 0.902
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.22,
+    "Size": 16,
+    "Threshold": 1.1
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": 0.08,
+    "Contrast": 0.02,
+    "Saturation": -0.2,
+    "TintColor": {
+      "r": 0.9255,
+      "g": 0.9569,
+      "b": 0.9725
+    }
+  },
+  "art_notes": "Glossy floor should pick up fixture streaks. Keep greens only on exit/wayfinding."
+}

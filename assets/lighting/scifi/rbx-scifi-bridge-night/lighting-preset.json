@@ -1,0 +1,59 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.7,
+    "Ambient": {
+      "r": 0.0471,
+      "g": 0.0706,
+      "b": 0.1255
+    },
+    "OutdoorAmbient": {
+      "r": 0.0235,
+      "g": 0.0314,
+      "b": 0.0627
+    },
+    "ColorShift_Top": {
+      "r": 0.4706,
+      "g": 0.6667,
+      "b": 1.0
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0392,
+      "g": 0.0549,
+      "b": 0.0941
+    },
+    "EnvironmentDiffuseScale": 0.1,
+    "EnvironmentSpecularScale": 0.6,
+    "ClockTime": 0.0,
+    "ExposureCompensation": -0.25,
+    "ShadowSoftness": 0.18,
+    "FogStart": 20,
+    "FogEnd": 100,
+    "FogColor": {
+      "r": 0.0471,
+      "g": 0.0706,
+      "b": 0.1255
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.7,
+    "Size": 26,
+    "Threshold": 0.5
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.06,
+    "Contrast": 0.16,
+    "Saturation": -0.06,
+    "TintColor": {
+      "r": 0.7843,
+      "g": 0.8627,
+      "b": 1.0
+    }
+  },
+  "art_notes": "Console screens provide local fill. Keep ceiling dark."
+}

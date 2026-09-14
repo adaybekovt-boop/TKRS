@@ -1,0 +1,75 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.4,
+    "Ambient": {
+      "r": 0.0314,
+      "g": 0.0314,
+      "b": 0.0471
+    },
+    "OutdoorAmbient": {
+      "r": 0.0235,
+      "g": 0.0235,
+      "b": 0.0314
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.1569,
+      "b": 0.3529
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0392,
+      "g": 0.0314,
+      "b": 0.0784
+    },
+    "EnvironmentDiffuseScale": 0.05,
+    "EnvironmentSpecularScale": 0.4,
+    "ClockTime": 20.0,
+    "ExposureCompensation": -0.2,
+    "ShadowSoftness": 0.1,
+    "FogStart": 8,
+    "FogEnd": 50,
+    "FogColor": {
+      "r": 0.0784,
+      "g": 0.0392,
+      "b": 0.0627
+    }
+  },
+  "Atmosphere": {
+    "Density": 0.42,
+    "Offset": 0.15,
+    "Color": {
+      "r": 0.1569,
+      "g": 0.0627,
+      "b": 0.1098
+    },
+    "Decay": {
+      "r": 1.0,
+      "g": 0.1569,
+      "b": 0.3137
+    },
+    "Glare": 0.2,
+    "Haze": 2.6
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 1.2,
+    "Size": 48,
+    "Threshold": 0.3
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.04,
+    "Contrast": 0.22,
+    "Saturation": 0.25,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.8627,
+      "b": 0.902
+    }
+  },
+  "art_notes": "Stage fixtures are the only keys. House stays near black. Change ColorShift_Top to restage color."
+}

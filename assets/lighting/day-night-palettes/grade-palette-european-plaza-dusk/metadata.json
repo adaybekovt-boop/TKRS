@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-european-plaza-dusk",
+  "name": "European Plaza Dusk",
+  "description": "Warm stone plaza blue hour",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "plaza",
+    "dusk",
+    "urban",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "511fb9c92baf97877db1d750b31a1b198602cf909a7de22acab0e6bb75ed8929",
+  "file_size": 799,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Warm stone plaza blue hour",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

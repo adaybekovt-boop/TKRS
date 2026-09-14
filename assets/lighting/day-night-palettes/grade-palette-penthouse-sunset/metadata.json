@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-penthouse-sunset",
+  "name": "Penthouse Sunset",
+  "description": "High-rise warm sunset interiors",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "penthouse",
+    "sunset",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "88828b3da19350b1b817bef3eb1f255cd22282520eb282787738e35b0acc9d41",
+  "file_size": 798,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "High-rise warm sunset interiors",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

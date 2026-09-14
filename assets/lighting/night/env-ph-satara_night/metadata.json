@@ -1,0 +1,60 @@
+{
+  "id": "env-ph-satara_night",
+  "name": "Satara Night",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "night",
+  "tags": [
+    "stars",
+    "tree",
+    "lamp",
+    "milky way",
+    "galaxy",
+    "hut",
+    "hdri",
+    "environment",
+    "1k",
+    "night",
+    "clear",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/satara_night",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "a9d162774e33b07b5af2079f8a1b35f08b689591b59af86ea6e3959072d7ae78",
+  "file_size": 1873456,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 20,
+  "attributes": {
+    "time_of_day": "night",
+    "weather": "clear",
+    "light_type": "mixed",
+    "contrast": "high",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

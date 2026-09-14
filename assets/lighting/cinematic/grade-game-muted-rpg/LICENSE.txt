@@ -1,0 +1,6 @@
+Creative Commons CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+This LUT / grading preset was authored for the TKRS lighting batch.
+The author dedicated the work to the public domain under CC0 1.0.
+No attribution is legally required.

@@ -1,0 +1,41 @@
+{
+  "name": "Teal Orange Cinema Palette",
+  "intended_usage": "Teal-orange cinematic grade palette",
+  "color_space": "sRGB 0-255 for palette swatches; Roblox ColorCorrection uses -1..1 sliders",
+  "palette": {
+    "ambient": {
+      "r": 40,
+      "g": 80,
+      "b": 95
+    },
+    "key": {
+      "r": 255,
+      "g": 170,
+      "b": 90
+    },
+    "fill": {
+      "r": 30,
+      "g": 70,
+      "b": 90
+    },
+    "fog": {
+      "r": 50,
+      "g": 70,
+      "b": 80
+    },
+    "suggested_clocktime": 17.5,
+    "suggested_brightness": 2.2,
+    "colorcorrection": {
+      "Brightness": 0.0,
+      "Contrast": 0.15,
+      "Saturation": 0.05,
+      "TintColor": {
+        "r": 255,
+        "g": 200,
+        "b": 160
+      }
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

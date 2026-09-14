@@ -1,0 +1,52 @@
+{
+  "id": "shape-kenney-lm-circle-rings-a",
+  "name": "Kenney Light Mask circle rings a",
+  "description": "Ring gobo / cookie 'circle_rings_a' from Kenney Light Masks 1.0. 512px white-on-black light cookie for projector/spot lighting in Roblox. Variants marked in filename (noise/streaks/blur) are optically distinct cookies.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "projector",
+    "rings",
+    "gobo"
+  ],
+  "style": [
+    "stylized",
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks 1.0",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "4228640c215817a6b4d29f7a1510dbe33379789f84fa969611b4455b4cb5ef4b",
+  "file_size": 38946,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "asset_type": "mask",
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "intended_usage": "light cookie / projector pattern / gobo",
+  "source_format": "png",
+  "source_variant": "Default/white-on-black",
+  "native_filename": "circle_rings_a.png",
+  "dimensions": null
+}

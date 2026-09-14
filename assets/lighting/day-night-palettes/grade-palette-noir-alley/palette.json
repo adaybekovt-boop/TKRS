@@ -1,0 +1,41 @@
+{
+  "name": "Noir Alley",
+  "intended_usage": "Hard practical slash of light",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 8,
+      "g": 10,
+      "b": 14
+    },
+    "key": {
+      "r": 220,
+      "g": 220,
+      "b": 230
+    },
+    "fill": {
+      "r": 5,
+      "g": 6,
+      "b": 8
+    },
+    "fog": {
+      "r": 12,
+      "g": 14,
+      "b": 18
+    },
+    "suggested_clocktime": 0.0,
+    "suggested_brightness": 0.5,
+    "colorcorrection": {
+      "Brightness": -0.22,
+      "Contrast": 0.28,
+      "Saturation": -0.4,
+      "TintColor": [
+        210,
+        215,
+        230
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

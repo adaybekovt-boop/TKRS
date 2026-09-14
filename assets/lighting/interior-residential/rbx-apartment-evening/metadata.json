@@ -1,0 +1,44 @@
+{
+  "id": "rbx-apartment-evening",
+  "name": "Apartment Evening",
+  "description": "Lived-in evening: lamps, TV optional, city leak, warm 2700K.",
+  "category": "lighting",
+  "subcategory": "interior-residential",
+  "tags": [
+    "apartment",
+    "evening",
+    "interior",
+    "residential",
+    "practicals",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "realistic",
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Small apartment after sunset.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1112,
+  "sha256": "4e8aabcb3a15303a84c7803d5d8190dc783fa57b6aeafefed6878fcd6b27fc4a",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "rbx-street-neon-district",
+  "name": "Street Neon District",
+  "description": "Mixed neon signage over cool street LEDs. Dense chroma.",
+  "category": "lighting",
+  "subcategory": "street",
+  "tags": [
+    "street",
+    "neon",
+    "night",
+    "urban",
+    "signage",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "stylized",
+    "outdoor",
+    "cyberpunk"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Entertainment district night street.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1118,
+  "sha256": "ed76cf0f82d2e2f78c6799804e9adbd3e7422e168a1947f6760abb6962d7deff",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

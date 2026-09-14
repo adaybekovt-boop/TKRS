@@ -1,0 +1,44 @@
+{
+  "id": "rbx-parking-garage",
+  "name": "Parking Garage",
+  "description": "Low concrete decks, cool fluorescent/LED, harsh columns, yellow-line bounce.",
+  "category": "lighting",
+  "subcategory": "interior-public",
+  "tags": [
+    "parking",
+    "garage",
+    "interior",
+    "fluorescent",
+    "concrete",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "realistic",
+    "institutional"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Multi-storey parking garage.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1134,
+  "sha256": "f236e9a52daa438089d49b60ba4317a65d79edc04fefc86e721a120ce7634aa4",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

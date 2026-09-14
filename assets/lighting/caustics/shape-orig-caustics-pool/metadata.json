@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-caustics-pool",
+  "name": "Caustics Pool",
+  "description": "Procedural water caustic pattern (pool).",
+  "category": "lighting",
+  "subcategory": "caustics",
+  "tags": [
+    "caustics",
+    "water",
+    "projector",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "f8f0b507f3c394e84c57f767f62f118405e4cfbebde72867238d6495323f5434",
+  "file_size": 93658,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "env-ph-golf_course_sunrise",
+  "name": "Golf Course Sunrise",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "storms",
+  "tags": [
+    "lake",
+    "dam",
+    "grass",
+    "tree",
+    "power line",
+    "mist",
+    "hdri",
+    "environment",
+    "1k",
+    "sunrise",
+    "fog",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Dimitrios Savva, Jarod Guest",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/golf_course_sunrise",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "0658c2cb581f7928a3b8b9d9f883f59df1f11722b23c416c51221ec735e2d39e",
+  "file_size": 1519947,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5305,
+  "evs_cap": 12,
+  "attributes": {
+    "time_of_day": "sunrise",
+    "weather": "fog",
+    "light_type": "natural",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

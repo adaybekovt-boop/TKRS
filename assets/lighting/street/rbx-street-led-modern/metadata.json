@@ -1,0 +1,44 @@
+{
+  "id": "rbx-street-led-modern",
+  "name": "Street LED Modern",
+  "description": "Cool 4000-5000K cobra-head LEDs, cleaner night, less romance.",
+  "category": "lighting",
+  "subcategory": "street",
+  "tags": [
+    "street",
+    "led",
+    "night",
+    "urban",
+    "cool",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "realistic",
+    "outdoor"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Modern municipal street lighting.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1134,
+  "sha256": "6aa416c9a3b0a9c3ac3c357f7b2fa5d367785582d81e584994e9b37863bbd14f",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

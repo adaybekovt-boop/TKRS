@@ -1,0 +1,53 @@
+{
+  "id": "shape-kenney-lm-cone-b",
+  "name": "Kenney Light Mask cone b",
+  "description": "Conical beam / spot cookie 'cone_b' from Kenney Light Masks 1.0. 512px white-on-black light cookie for projector/spot lighting in Roblox. Variants marked in filename (noise/streaks/blur) are optically distinct cookies.",
+  "category": "lighting",
+  "subcategory": "beams",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "projector",
+    "cone",
+    "beam",
+    "spot"
+  ],
+  "style": [
+    "stylized",
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks 1.0",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "70e4553e7141e88365badb56d62611581ff55da7b93d398387b30a96433931dc",
+  "file_size": 1170,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "asset_type": "mask",
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "intended_usage": "light cookie / projector pattern / gobo",
+  "source_format": "png",
+  "source_variant": "Default/white-on-black",
+  "native_filename": "cone_b.png",
+  "dimensions": null
+}

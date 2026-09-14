@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-arcade",
+  "name": "Arcade",
+  "description": "Dark room RGB cabinet glow",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "arcade",
+    "neon",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "30ffdc3d7702a5eec738b6474777254605f03fc29b3c4362244ad73273f09382",
+  "file_size": 783,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Dark room RGB cabinet glow",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

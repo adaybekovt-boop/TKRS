@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-hangar",
+  "name": "Aircraft Hangar",
+  "description": "Huge volume cool skylight + sodium",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "hangar",
+    "warehouse",
+    "industrial",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "industrial"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "9d8b27c5315f9da02c76afc1bbcc3c6e1cc8098722753eed9050edeefedb5094",
+  "file_size": 804,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Huge volume cool skylight + sodium",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

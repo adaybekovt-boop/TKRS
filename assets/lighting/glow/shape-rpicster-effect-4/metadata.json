@@ -1,0 +1,45 @@
+{
+  "id": "shape-rpicster-effect-4",
+  "name": "RPicster effect 4",
+  "description": "effect_4 1024px light/lens texture from RPicster CC0 VFX pack.",
+  "category": "lighting",
+  "subcategory": "glow",
+  "tags": [
+    "rpicster",
+    "vfx",
+    "glow"
+  ],
+  "style": [
+    "realistic",
+    "vfx"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Godot particle and VFX textures (RPicster)",
+  "author": "RPicster",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/RPicster/Godot-particle-and-vfx-textures",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "e11150ce0d0a930eadf945fdc651199b9a1dd03d2e50f2f89ac81c370f32e80f",
+  "file_size": 205509,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    1024,
+    1024
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "native_filename": "effect_4.png",
+  "dimensions": null
+}

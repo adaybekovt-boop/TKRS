@@ -1,0 +1,47 @@
+{
+  "id": "grade-candle-1800k",
+  "name": "Candlelight 1800K",
+  "description": "interior candle / firelight warmth Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "candle",
+    "fire",
+    "warm",
+    "interior",
+    "night",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "photoreal",
+    "cinematic"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "a357d8acc4181b938fb96101e74289757aff91bceadab3678dd9e284629e20bf",
+  "file_size": 132849,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "interior candle / firelight warmth",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "color_temperature_k": 1800,
+  "color_temperature_note": "creative target temperature used in generation; not measured photometric data",
+  "dimensions": null
+}

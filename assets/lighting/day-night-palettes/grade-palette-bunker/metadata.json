@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-bunker",
+  "name": "Bunker",
+  "description": "Concrete emergency lighting",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "bunker",
+    "emergency",
+    "industrial",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "industrial"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "3f4d5910f2928df89a1410ea1582baa0f2806dc713adff73820afe9d07d009d7",
+  "file_size": 782,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Concrete emergency lighting",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

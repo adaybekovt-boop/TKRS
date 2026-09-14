@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-beam-down-medium",
+  "name": "Beam Down Medium",
+  "description": "Downward volumetric beam mask (medium spread).",
+  "category": "lighting",
+  "subcategory": "beams",
+  "tags": [
+    "beam",
+    "volumetric",
+    "mask",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "7e075bb52ef9f0efacad2787474fb8d53df729d12d682cb54c9302c8f1a1275f",
+  "file_size": 12291,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

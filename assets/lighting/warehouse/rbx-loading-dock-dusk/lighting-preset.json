@@ -1,0 +1,80 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 1.35,
+    "Ambient": {
+      "r": 0.2431,
+      "g": 0.2118,
+      "b": 0.2745
+    },
+    "OutdoorAmbient": {
+      "r": 0.3451,
+      "g": 0.3608,
+      "b": 0.502
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.6588,
+      "b": 0.3765
+    },
+    "ColorShift_Bottom": {
+      "r": 0.1882,
+      "g": 0.1569,
+      "b": 0.251
+    },
+    "EnvironmentDiffuseScale": 0.4,
+    "EnvironmentSpecularScale": 0.4,
+    "ClockTime": 19.4,
+    "ExposureCompensation": -0.1,
+    "ShadowSoftness": 0.18,
+    "FogStart": 40,
+    "FogEnd": 300,
+    "FogColor": {
+      "r": 0.3608,
+      "g": 0.3373,
+      "b": 0.4314
+    }
+  },
+  "Atmosphere": {
+    "Density": 0.34,
+    "Offset": 0.1,
+    "Color": {
+      "r": 0.4706,
+      "g": 0.4314,
+      "b": 0.5882
+    },
+    "Decay": {
+      "r": 1.0,
+      "g": 0.5882,
+      "b": 0.3137
+    },
+    "Glare": 0.28,
+    "Haze": 2.0
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.5,
+    "Size": 30,
+    "Threshold": 0.7
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.02,
+    "Contrast": 0.12,
+    "Saturation": 0.06,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.902,
+      "b": 0.8392
+    }
+  },
+  "SunRaysEffect": {
+    "Enabled": true,
+    "Intensity": 0.12,
+    "Spread": 0.55
+  },
+  "art_notes": "Keep interior warmer than the blue exterior. Door frames are the contrast edge."
+}

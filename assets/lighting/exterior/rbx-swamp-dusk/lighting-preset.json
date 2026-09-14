@@ -1,0 +1,74 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.8,
+    "Ambient": {
+      "r": 0.1569,
+      "g": 0.1725,
+      "b": 0.1098
+    },
+    "OutdoorAmbient": {
+      "r": 0.2353,
+      "g": 0.2118,
+      "b": 0.1412
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.6667,
+      "b": 0.3137
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0941,
+      "g": 0.1176,
+      "b": 0.0706
+    },
+    "EnvironmentDiffuseScale": 0.35,
+    "EnvironmentSpecularScale": 0.25,
+    "ClockTime": 18.8,
+    "ExposureCompensation": -0.2,
+    "ShadowSoftness": 0.4,
+    "FogStart": 8,
+    "FogEnd": 55,
+    "FogColor": {
+      "r": 0.1961,
+      "g": 0.2196,
+      "b": 0.1255
+    }
+  },
+  "Atmosphere": {
+    "Density": 0.55,
+    "Offset": 0.35,
+    "Color": {
+      "r": 0.3137,
+      "g": 0.3373,
+      "b": 0.1961
+    },
+    "Decay": {
+      "r": 1.0,
+      "g": 0.5882,
+      "b": 0.2353
+    },
+    "Glare": 0.15,
+    "Haze": 3.4
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.4,
+    "Size": 28,
+    "Threshold": 0.7
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.08,
+    "Contrast": 0.1,
+    "Saturation": -0.06,
+    "TintColor": {
+      "r": 0.8627,
+      "g": 0.902,
+      "b": 0.7059
+    }
+  }
+}

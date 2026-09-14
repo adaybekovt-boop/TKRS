@@ -1,0 +1,50 @@
+{
+  "id": "shape-kenney-lm-shape-f",
+  "name": "Kenney Light Mask shape f",
+  "description": "Geometric shape gobo 'shape_f' from Kenney Light Masks 1.0. 512px white-on-black cookie. Noise/streaks/blur filenames are optically distinct.",
+  "category": "lighting",
+  "subcategory": "gobos",
+  "tags": [
+    "kenney",
+    "light-mask",
+    "cookie",
+    "shape",
+    "gobo"
+  ],
+  "style": [
+    "stylized",
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Light Masks 1.0",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/light-masks",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "e38278d2d845d037316ebca74891fb4f7a704a6f8d49b35c10a682e830722756",
+  "file_size": 19300,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "mask",
+  "intended_usage": "light cookie / projector pattern",
+  "source_variant": "Default",
+  "native_filename": "shape_f.png",
+  "dimensions": null
+}

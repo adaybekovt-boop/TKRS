@@ -1,0 +1,46 @@
+{
+  "id": "grade-liminal-fluorescent",
+  "name": "Liminal Fluorescent",
+  "description": "backrooms / liminal yellow-green fluorescent Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "liminal",
+    "backrooms",
+    "fluorescent",
+    "interior",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "liminal",
+    "horror"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "559605ffa842e5e11638da17ccb6f8ba4d63d898a1406f5d5ea4149045423717",
+  "file_size": 132861,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "backrooms / liminal yellow-green fluorescent",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "color_temperature_k": 4000,
+  "color_temperature_note": "creative target temperature used in generation; not measured photometric data",
+  "dimensions": null
+}

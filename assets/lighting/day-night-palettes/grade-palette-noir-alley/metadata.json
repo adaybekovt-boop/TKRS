@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-noir-alley",
+  "name": "Noir Alley",
+  "description": "Hard practical slash of light",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "noir",
+    "alley",
+    "night",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "f7b01e3d7cebed0fbedb07de47e5bba9c0875e690d325236c6c49f47718625e4",
+  "file_size": 786,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Hard practical slash of light",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

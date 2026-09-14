@@ -1,0 +1,46 @@
+{
+  "id": "fix-ph-lightbulb-01",
+  "name": "Lightbulb 01",
+  "description": "Lightbulb 01 — CC0 photoscanned/hand-authored lighting fixture from Poly Haven, 1K textures. Placeable reference fixture for Roblox environment art direction.",
+  "category": "lighting",
+  "subcategory": "portable",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "fixture",
+    "1k"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Poly Haven contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/lightbulb_01",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "6b17f2a316b0562fc5eeaa9a7dd64855c0f76499b64e9ad45081ed7243116826",
+  "file_size": 5721,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "LICENSE.txt",
+    "lightbulb_01.bin",
+    "lightbulb_01_1k.gltf",
+    "lightbulb_01_arm_1k.jpg",
+    "lightbulb_01_diff_1k.jpg",
+    "lightbulb_01_emissive_1k.jpg",
+    "lightbulb_01_nor_gl_1k.jpg",
+    "preview.png"
+  ],
+  "dimensions": null
+}

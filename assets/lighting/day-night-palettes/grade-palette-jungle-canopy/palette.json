@@ -1,0 +1,41 @@
+{
+  "name": "Jungle Canopy",
+  "intended_usage": "Green filtered daylight under trees",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 60,
+      "g": 90,
+      "b": 50
+    },
+    "key": {
+      "r": 180,
+      "g": 210,
+      "b": 90
+    },
+    "fill": {
+      "r": 40,
+      "g": 70,
+      "b": 40
+    },
+    "fog": {
+      "r": 70,
+      "g": 90,
+      "b": 55
+    },
+    "suggested_clocktime": 13.0,
+    "suggested_brightness": 1.5,
+    "colorcorrection": {
+      "Brightness": -0.05,
+      "Contrast": 0.08,
+      "Saturation": 0.05,
+      "TintColor": [
+        160,
+        210,
+        100
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

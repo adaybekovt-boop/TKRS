@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-theatre-light-column",
+  "name": "Theatre Light Column",
+  "description": "Ceiling service pendant for a theatre: a mounting plate, a rigid drop column, a horizontal boom with an underside light strip, and a service head with gas outlets, sockets and a small readout.",
+  "category": "lighting",
+  "subcategory": "hospital",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "hospital"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/hospital-wards-and-clinic-operations-theatre-light-col-c0495ec7",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "2f18daf808b654fe44314946b2866710f6f23e9907cf62f0cfdc5619b8d5729c",
+  "file_size": 32828,
+  "dimensions": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "fix-ph-industrial-wall-sconce",
+  "name": "Industrial Wall Sconce",
+  "description": "rustic industrial wall sconce. Photogrammetry/authored PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "wall",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "wall"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "bin",
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Ulan Cabanilla",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/industrial_wall_sconce",
+  "attribution": "Not required (CC0). Credit Poly Haven / author appreciated.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "color_space": "sRGB+linear PBR",
+  "HDR_LDR": "LDR",
+  "intended_usage": "placeable lighting fixture model with PBR maps",
+  "sha256": "d36361a9163c9543546f17de223de27db53423ea6aa905b75609142f45af2893",
+  "file_size": 1841451,
+  "dimensions": null
+}

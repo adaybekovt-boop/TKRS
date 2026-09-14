@@ -1,0 +1,55 @@
+{
+  "id": "env-ph-kloofendal_43d_clear_puresky",
+  "name": "Kloofendal 43d Clear (Pure Sky)",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "day",
+  "tags": [
+    "pure skies",
+    "hdri",
+    "environment",
+    "1k",
+    "midday",
+    "clear",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/kloofendal_43d_clear_puresky",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "de7ba9d0b070470dbb70d0144294c8708068df353537b26ab59c394707e84377",
+  "file_size": 1184531,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5313,
+  "evs_cap": 22,
+  "attributes": {
+    "time_of_day": "midday",
+    "weather": "clear",
+    "light_type": "natural",
+    "contrast": "high",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-floodlight-mast",
+  "name": "Floodlight Mast",
+  "description": "Tripod floodlight mast with a telescopic column, twin lamp heads on a tilting yoke and a supply lead coiled at the foot.",
+  "category": "lighting",
+  "subcategory": "emergency",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "emergency"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/fire-and-emergency-services-floodlight-mast-0184947c",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "d9de90bc7c7d48def164568d9b1d058d39063630d03fc0bdd48e68280a04f9ea",
+  "file_size": 76648,
+  "dimensions": null
+}

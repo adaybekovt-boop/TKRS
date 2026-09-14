@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-desert-obby",
+  "name": "Desert Obby",
+  "description": "Hot high-key sand",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "desert",
+    "obby",
+    "hot",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "ea53d0c2aacedff01daa537365359c25f11d84c362338164da06246bd50ca0ba",
+  "file_size": 787,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Hot high-key sand",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

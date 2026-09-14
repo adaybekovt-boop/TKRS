@@ -1,0 +1,59 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "ShadowMap",
+    "Brightness": 1.4,
+    "Ambient": {
+      "r": 0.3529,
+      "g": 0.3608,
+      "b": 0.3373
+    },
+    "OutdoorAmbient": {
+      "r": 0.2745,
+      "g": 0.2824,
+      "b": 0.2745
+    },
+    "ColorShift_Top": {
+      "r": 0.9412,
+      "g": 0.9255,
+      "b": 0.8235
+    },
+    "ColorShift_Bottom": {
+      "r": 0.3137,
+      "g": 0.3216,
+      "b": 0.2902
+    },
+    "EnvironmentDiffuseScale": 0.3,
+    "EnvironmentSpecularScale": 0.35,
+    "ClockTime": 12.0,
+    "ExposureCompensation": -0.05,
+    "ShadowSoftness": 0.28,
+    "FogStart": 25,
+    "FogEnd": 120,
+    "FogColor": {
+      "r": 0.4706,
+      "g": 0.4784,
+      "b": 0.4471
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.35,
+    "Size": 20,
+    "Threshold": 0.88
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.02,
+    "Contrast": 0.1,
+    "Saturation": -0.14,
+    "TintColor": {
+      "r": 0.9255,
+      "g": 0.9255,
+      "b": 0.8627
+    }
+  },
+  "art_notes": "Repeat fixture rhythm down the drive lane. Corners stay darker."
+}

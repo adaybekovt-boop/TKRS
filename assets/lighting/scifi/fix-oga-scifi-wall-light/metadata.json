@@ -1,0 +1,32 @@
+{
+  "id": "fix-oga-scifi-wall-light",
+  "name": "Sci-Fi Wall Light",
+  "description": "Low-poly untextured sci-fi wall light with named submeshes. Game-ready FBX.",
+  "category": "lighting",
+  "subcategory": "scifi",
+  "tags": [
+    "fixture",
+    "scifi",
+    "wall",
+    "oga"
+  ],
+  "style": [
+    "sci-fi",
+    "low-poly"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "OpenGameArt",
+  "author": "Eponasoft",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/sci-fi-wall-light",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "fbx",
+  "intended_usage": "placeable sci-fi wall lighting fixture",
+  "sha256": "295cdc8d0ec0682ea0248cf5c1c9f29ddf15497a2bc4e596bb851e616d7c938a",
+  "file_size": 47232,
+  "dimensions": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-soft-mask-spot-core",
+  "name": "Soft Mask Spot Core",
+  "description": "Radial soft light mask (core).",
+  "category": "lighting",
+  "subcategory": "soft-masks",
+  "tags": [
+    "soft-mask",
+    "spot",
+    "falloff",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "9cf60e58e3c614a925a9c094b94f54788cc7fe6a04f245cec9c730f23b5d86cf",
+  "file_size": 9519,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,8 @@
+Asset: Tileable caustics with color split
+Author: mads
+Source: OpenGameArt — Caustics with color split
+License: CC0-1.0
+URL: https://opengameart.org/content/caustics-with-color-split
+
+Creative Commons Zero 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/

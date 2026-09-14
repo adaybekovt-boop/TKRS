@@ -1,0 +1,47 @@
+{
+  "id": "env-sbs-planet-hazy",
+  "name": "Planet Surface Skybox — Hazy",
+  "description": "CC0 512px packed cubemap skybox of a hazy planet surface by Screaming Brain Studios. LDR sky reference for sci-fi / alien Roblox environments.",
+  "category": "lighting",
+  "subcategory": "skyboxes",
+  "tags": [
+    "skybox",
+    "cubemap",
+    "planet",
+    "hazy",
+    "sci-fi",
+    "ldr",
+    "screaming-brain"
+  ],
+  "style": [
+    "stylized",
+    "sci-fi"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Planet Surface Skyboxes (Screaming Brain Studios)",
+  "source_site": "https://opengameart.org/content/planet-surface-skyboxes",
+  "author": "Screaming Brain Studios",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/planet-surface-skyboxes",
+  "original_filename": "Cubemap_Hazy_01-512x512.png",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "58df139d40b32d3819fbea9c3d721a1d316800b58ef8e6615df7dc0b002aa729",
+  "file_size": 1339383,
+  "asset_type": "skybox",
+  "source_format": "png",
+  "resolution": "512",
+  "hdr": false,
+  "color_space": "sRGB LDR",
+  "cubemap_layout": "packed-cubemap-png",
+  "intended_usage": "Roblox Sky / sci-fi environment backdrop",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "skybox_cubemap.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

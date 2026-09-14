@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-leak-color-08",
+  "name": "Cinematic color light leak 08",
+  "description": "Analog-style colored light leak overlay (screen/add) for grade and atmosphere.",
+  "category": "lighting",
+  "subcategory": "light-leaks",
+  "tags": [
+    "leak",
+    "cinematic",
+    "overlay",
+    "film"
+  ],
+  "style": [
+    "procedural",
+    "cinematic"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "eb91e5449e6ba7e148675b60ba9930eba88b29e92854494929adb56d1b2f9ad7",
+  "file_size": 46735,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGB",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "texture",
+  "dimensions": null
+}

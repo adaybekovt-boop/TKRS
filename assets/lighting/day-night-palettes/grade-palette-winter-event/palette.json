@@ -1,0 +1,41 @@
+{
+  "name": "Winter Event",
+  "intended_usage": "Snow festival cool high-key",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 180,
+      "g": 200,
+      "b": 220
+    },
+    "key": {
+      "r": 240,
+      "g": 245,
+      "b": 255
+    },
+    "fill": {
+      "r": 160,
+      "g": 180,
+      "b": 200
+    },
+    "fog": {
+      "r": 200,
+      "g": 215,
+      "b": 230
+    },
+    "suggested_clocktime": 12.0,
+    "suggested_brightness": 2.2,
+    "colorcorrection": {
+      "Brightness": 0.12,
+      "Contrast": -0.05,
+      "Saturation": -0.15,
+      "TintColor": [
+        220,
+        235,
+        255
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

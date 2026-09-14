@@ -1,0 +1,67 @@
+{
+  "id": "env-ph-potsdamer_platz",
+  "name": "Potsdamer Platz",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "overcast",
+  "tags": [
+    "europe",
+    "architecture",
+    "road",
+    "building",
+    "bench",
+    "street",
+    "city",
+    "skyscraper",
+    "pavement",
+    "intersection",
+    "metropolis",
+    "berlin",
+    "germany",
+    "hdri",
+    "environment",
+    "1k",
+    "morning",
+    "overcast",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/potsdamer_platz",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "7afe4c2f9700ee78c7477c53fa355463d7dda1fdede401432d6b5f9ff0a95696",
+  "file_size": 1540678,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 6,
+  "attributes": {
+    "time_of_day": "morning",
+    "weather": "overcast",
+    "light_type": "natural",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "obstructed"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

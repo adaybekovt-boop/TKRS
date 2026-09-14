@@ -1,0 +1,45 @@
+{
+  "id": "shape-kenney-pp-dirt-02",
+  "name": "Kenney Particle dirt 02",
+  "description": "dirt_02 from Kenney Particle Pack used as a lens-dirt light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "lens-dirt",
+  "tags": [
+    "kenney",
+    "particle-pack",
+    "lens-dirt"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "4b96dc325f326933992e017ed1397ce004b72504f0ea8cfb905044b775bdfd7e",
+  "file_size": 47147,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "native_filename": "dirt_02.png",
+  "dimensions": null
+}

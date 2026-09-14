@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-attic",
+  "name": "Attic Dusty",
+  "description": "Small dirty window high-contrast",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "attic",
+    "dusty",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "7647709480a1b0fdbd0e2c74ba04b24eb53244348286a3049fdf591903b8f677",
+  "file_size": 795,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Small dirty window high-contrast",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

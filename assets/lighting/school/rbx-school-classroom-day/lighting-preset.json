@@ -1,0 +1,64 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "ShadowMap",
+    "Brightness": 2.15,
+    "Ambient": {
+      "r": 0.6118,
+      "g": 0.5804,
+      "b": 0.5176
+    },
+    "OutdoorAmbient": {
+      "r": 0.7294,
+      "g": 0.7529,
+      "b": 0.8
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.9569,
+      "b": 0.8627
+    },
+    "ColorShift_Bottom": {
+      "r": 0.6667,
+      "g": 0.6275,
+      "b": 0.549
+    },
+    "EnvironmentDiffuseScale": 0.6,
+    "EnvironmentSpecularScale": 0.3,
+    "ClockTime": 10.5,
+    "ExposureCompensation": 0.12,
+    "ShadowSoftness": 0.38,
+    "FogStart": 220,
+    "FogEnd": 1100,
+    "FogColor": {
+      "r": 0.8235,
+      "g": 0.8078,
+      "b": 0.7686
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.2,
+    "Size": 16,
+    "Threshold": 1.08
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": 0.03,
+    "Contrast": 0.04,
+    "Saturation": 0.02,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.9725,
+      "b": 0.9255
+    }
+  },
+  "SunRaysEffect": {
+    "Enabled": true,
+    "Intensity": 0.06,
+    "Spread": 0.35
+  },
+  "art_notes": "Windows are the key. Fluorescents fill; don't let them overpower the window wall."
+}

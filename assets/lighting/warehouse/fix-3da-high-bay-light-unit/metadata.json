@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-high-bay-light-unit",
+  "name": "High bay light unit",
+  "description": "Linear high bay light 1.6 m long: a charcoal extrusion with a lit diffuser, a steel reflector wing each side and two drop rods to the roof steel, for lighting a sorting hall from above.",
+  "category": "lighting",
+  "subcategory": "warehouse",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "warehouse"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/parcel-depot-and-sorting-hall-parcel-depot-and-sorting-8674e42f",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "a9baf704bb0177976b8b1a682a87ead1b729a13cada8d13b2db96c42ee616670",
+  "file_size": 8912,
+  "dimensions": null
+}

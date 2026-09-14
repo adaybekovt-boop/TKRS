@@ -1,0 +1,36 @@
+{
+  "id": "grade-palette-sci-fi-lab",
+  "name": "Sci-Fi Lab Palette",
+  "description": "Cool cyan lab / spaceship palette",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "scifi",
+    "lab",
+    "palette"
+  ],
+  "style": [
+    "sci-fi"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "20cb3bd4910db88685139946b75a60626e87e02823c0db7ecae76b474bc85d73",
+  "file_size": 815,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Cool cyan lab / spaceship palette",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

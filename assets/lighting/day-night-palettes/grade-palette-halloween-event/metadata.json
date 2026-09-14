@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-halloween-event",
+  "name": "Halloween Event",
+  "description": "Orange-purple holiday night",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "halloween",
+    "night",
+    "event",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "bebbf67b3e312d16eb0742ad3c70759d4d7f32817febab5eafbfcf823483df5b",
+  "file_size": 792,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Orange-purple holiday night",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

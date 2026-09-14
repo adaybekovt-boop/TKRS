@@ -1,0 +1,38 @@
+{
+  "id": "fix-ph-desk-lamp-arm-01",
+  "name": "Desk Lamp Arm 01",
+  "description": "articulated industrial desk lamp. Photogrammetry/authored PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "office",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "office"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "bin",
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Yann Kervran, Kuutti Siitonen",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/desk_lamp_arm_01",
+  "attribution": "Not required (CC0). Credit Poly Haven / author appreciated.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "color_space": "sRGB+linear PBR",
+  "HDR_LDR": "LDR",
+  "intended_usage": "placeable lighting fixture model with PBR maps",
+  "sha256": "2ac8389afc1519449a9cfdf7efd9fa36780a2177bb47ab58f7a7dda7d247dc8c",
+  "file_size": 2875984,
+  "dimensions": null
+}

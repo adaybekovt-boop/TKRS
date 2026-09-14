@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-jungle-canopy",
+  "name": "Jungle Canopy",
+  "description": "Green filtered daylight under trees",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "jungle",
+    "forest",
+    "canopy",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "2c8fe4d3aeba4aff2d880a214fa000915b24ef9d0098ffb607b68e7ba1139775",
+  "file_size": 799,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Green filtered daylight under trees",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

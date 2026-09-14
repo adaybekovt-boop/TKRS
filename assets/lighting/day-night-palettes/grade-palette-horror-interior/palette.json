@@ -1,0 +1,41 @@
+{
+  "name": "Horror Interior Palette",
+  "intended_usage": "Sick green-yellow horror interior palette",
+  "color_space": "sRGB 0-255 for palette swatches; Roblox ColorCorrection uses -1..1 sliders",
+  "palette": {
+    "ambient": {
+      "r": 40,
+      "g": 55,
+      "b": 30
+    },
+    "key": {
+      "r": 180,
+      "g": 200,
+      "b": 90
+    },
+    "fill": {
+      "r": 30,
+      "g": 40,
+      "b": 25
+    },
+    "fog": {
+      "r": 50,
+      "g": 60,
+      "b": 35
+    },
+    "suggested_clocktime": 20.0,
+    "suggested_brightness": 0.8,
+    "colorcorrection": {
+      "Brightness": -0.12,
+      "Contrast": 0.15,
+      "Saturation": -0.1,
+      "TintColor": {
+        "r": 180,
+        "g": 220,
+        "b": 120
+      }
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

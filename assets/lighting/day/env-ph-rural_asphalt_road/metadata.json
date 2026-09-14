@@ -1,0 +1,57 @@
+{
+  "id": "env-ph-rural_asphalt_road",
+  "name": "Rural Asphalt Road",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "day",
+  "tags": [
+    "sun",
+    "grass",
+    "field",
+    "tree",
+    "asphalt",
+    "road",
+    "hdri",
+    "environment",
+    "1k"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Alexander Scholten",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/rural_asphalt_road",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "fe0d56709df60ac5c6bda1b5dac35ec0a381060b49d38b82e3ac8802609d1afd",
+  "file_size": 1482793,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5600,
+  "evs_cap": 23,
+  "attributes": {
+    "time_of_day": "midday",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "high",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

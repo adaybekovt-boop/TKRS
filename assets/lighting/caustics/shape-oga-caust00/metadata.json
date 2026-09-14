@@ -1,0 +1,43 @@
+{
+  "id": "shape-oga-caust00",
+  "name": "Seamless caustics frame caust00",
+  "description": "Seamless caustics frame caust00. CC0 light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "caustics",
+  "tags": [
+    "opengameart",
+    "caustics"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "OpenGameArt — Caustic textures",
+  "author": "Calinou",
+  "license": "CC0-1.0",
+  "original_url": "https://lpc.opengameart.org/node/36560",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "c82c4e42653e03a6c9d3e7166cd626f566e24f6ebca55333622479ba83d0db5f",
+  "file_size": 24876,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    256,
+    256
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "dimensions": null
+}

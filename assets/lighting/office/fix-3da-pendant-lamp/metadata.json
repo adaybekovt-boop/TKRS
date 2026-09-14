@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-pendant-lamp",
+  "name": "Pendant Lamp",
+  "description": "Coral pendant lamp on a charcoal cord and ceiling canopy, 800 mm overall, glowing on its underside.",
+  "category": "lighting",
+  "subcategory": "office",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "office"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/pixel-modern-office-pendant-lamp-916e0630",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "97e7137a609fe7377ae29859bcbfbd06b7d3394e6b04165069bcce67371d9a42",
+  "file_size": 6332,
+  "dimensions": null
+}

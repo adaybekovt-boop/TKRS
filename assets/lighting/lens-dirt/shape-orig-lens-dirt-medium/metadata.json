@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-lens-dirt-medium",
+  "name": "Lens Dirt Medium",
+  "description": "Lens dirt / dust bokeh mask (medium).",
+  "category": "lighting",
+  "subcategory": "lens-dirt",
+  "tags": [
+    "lens-dirt",
+    "bokeh",
+    "mask",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "fe1e3db022bb69ff71ab53a036a54f702b13f003296b90ba56cef3ec1dccc306",
+  "file_size": 34141,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

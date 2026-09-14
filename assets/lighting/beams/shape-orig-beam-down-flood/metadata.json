@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-beam-down-flood",
+  "name": "Beam Down Flood",
+  "description": "Downward volumetric beam mask (flood spread).",
+  "category": "lighting",
+  "subcategory": "beams",
+  "tags": [
+    "beam",
+    "volumetric",
+    "mask",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "5260c36dff6fa6d7edd423858e935be42aeafc9995105ce1ef23a9bf28ae055e",
+  "file_size": 15740,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

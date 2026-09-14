@@ -1,0 +1,36 @@
+{
+  "id": "fix-ph-wooden-lantern-01",
+  "name": "Wooden Lantern 01",
+  "description": "wooden colonial lantern. PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "lanterns",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "lanterns"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "gltf",
+    "bin",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "James Ray Cock",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/wooden_lantern_01",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "2380275a5c90bf3442c426f3363e826e6b1ceff12a7e65f83b03cc8fac70a099",
+  "file_size": 3768780,
+  "dimensions": null
+}

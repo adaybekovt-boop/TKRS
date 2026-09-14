@@ -1,0 +1,8 @@
+Asset: RPicster spotlight 2
+Author: RPicster
+Source: Godot particle and VFX textures (RPicster)
+License: CC0-1.0
+URL: https://github.com/RPicster/Godot-particle-and-vfx-textures
+
+Creative Commons Zero 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/

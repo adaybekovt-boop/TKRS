@@ -1,0 +1,44 @@
+{
+  "id": "rbx-studio-softbox",
+  "name": "Studio Softbox",
+  "description": "Photo-studio intent: high fill, controlled key, no atmosphere.",
+  "category": "lighting",
+  "subcategory": "reference",
+  "tags": [
+    "studio",
+    "softbox",
+    "product",
+    "reference",
+    "interior",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "reference",
+    "realistic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Product / character lookdev studio.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 752,
+  "sha256": "67a284fcc925a2c107738a2e9d34f5ff565619c8b7a9d05d45fd46314278cd3d",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

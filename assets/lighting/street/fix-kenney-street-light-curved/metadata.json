@@ -1,0 +1,32 @@
+{
+  "id": "fix-kenney-street-light-curved",
+  "name": "Street Light Curved",
+  "description": "Street Light Curved from Kenney City Kit (Roads). Low-poly game-ready fixture for Roblox environment dressing.",
+  "category": "lighting",
+  "subcategory": "street",
+  "tags": [
+    "fixture",
+    "kenney",
+    "street",
+    "low-poly"
+  ],
+  "style": [
+    "stylized",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney City Kit (Roads)",
+  "author": "Kenney Vleugels (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/city-kit-roads",
+  "attribution": "Credit Kenney.nl (not mandatory)",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "e9ff06ead9d9b14eddd7bf40fa20e31b898fde2d59ade940eebe60685d335f6d",
+  "file_size": 9496,
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Sewer",
+  "intended_usage": "Wet green-brown underground",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 30,
+      "g": 40,
+      "b": 28
+    },
+    "key": {
+      "r": 120,
+      "g": 160,
+      "b": 80
+    },
+    "fill": {
+      "r": 20,
+      "g": 25,
+      "b": 18
+    },
+    "fog": {
+      "r": 35,
+      "g": 45,
+      "b": 30
+    },
+    "suggested_clocktime": 0.0,
+    "suggested_brightness": 0.6,
+    "colorcorrection": {
+      "Brightness": -0.16,
+      "Contrast": 0.1,
+      "Saturation": -0.15,
+      "TintColor": [
+        140,
+        180,
+        90
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

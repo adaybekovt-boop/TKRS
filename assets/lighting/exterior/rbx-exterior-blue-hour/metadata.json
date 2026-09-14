@@ -1,0 +1,44 @@
+{
+  "id": "rbx-exterior-blue-hour",
+  "name": "Exterior Blue Hour",
+  "description": "Sun down, residual blue sky, first practicals coming on. Quiet and cold.",
+  "category": "lighting",
+  "subcategory": "exterior",
+  "tags": [
+    "exterior",
+    "blue-hour",
+    "dusk",
+    "cool",
+    "cinematic",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "cinematic",
+    "outdoor"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Civil twilight exterior.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1474,
+  "sha256": "bdf69767d04a6f5e6ab61b5e0c8d88708c0c57f2c987a34d7a6dde5b95a07549",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-leak-left-edge",
+  "name": "Light Leak Left Edge",
+  "description": "Edge light leak from the left.",
+  "category": "lighting",
+  "subcategory": "light-leaks",
+  "tags": [
+    "light-leak",
+    "edge",
+    "grade",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "6d8ee732e6f41b341de90d58079904eee0e1d1cae0fd1d699898d617f65e8917",
+  "file_size": 956,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

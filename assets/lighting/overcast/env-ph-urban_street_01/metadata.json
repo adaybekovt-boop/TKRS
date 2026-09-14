@@ -1,0 +1,63 @@
+{
+  "id": "env-ph-urban_street_01",
+  "name": "Urban Street 01",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "overcast",
+  "tags": [
+    "europe",
+    "london",
+    "tree",
+    "road",
+    "asphalt",
+    "car",
+    "street",
+    "building",
+    "city",
+    "hdri",
+    "environment",
+    "1k",
+    "morning",
+    "overcast",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Andreas Mischok",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/urban_street_01",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "4608de4584ad25b20c87944659841ac5d93162d26bbaa5146e379ad36d6227e0",
+  "file_size": 1840705,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 12,
+  "attributes": {
+    "time_of_day": "morning",
+    "weather": "overcast",
+    "light_type": "natural",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "obstructed"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

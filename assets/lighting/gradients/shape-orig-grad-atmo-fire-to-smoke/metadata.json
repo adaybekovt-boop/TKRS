@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-grad-atmo-fire-to-smoke",
+  "name": "Atmosphere gradient fire-to-smoke",
+  "description": "Vertical atmosphere gradient (fire-to-smoke) for backdrop/fog colorization.",
+  "category": "lighting",
+  "subcategory": "gradients",
+  "tags": [
+    "gradient",
+    "atmosphere",
+    "fire-to-smoke"
+  ],
+  "style": [
+    "procedural",
+    "cinematic"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "2653c14b0f66df5d8e92bd75ce9d44a8dfb3270d13a48b08ec6d727981e9c158",
+  "file_size": 2122,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGB",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "texture",
+  "note": "artistic reference, not measured photometry",
+  "dimensions": null
+}

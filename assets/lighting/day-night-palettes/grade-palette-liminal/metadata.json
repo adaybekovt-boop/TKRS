@@ -1,0 +1,36 @@
+{
+  "id": "grade-palette-liminal",
+  "name": "Liminal Fluorescent Palette",
+  "description": "Backrooms-like yellow fluorescent palette",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "liminal",
+    "fluorescent",
+    "palette"
+  ],
+  "style": [
+    "liminal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "f3724e0feff3c628a8d8850e4aa16997967d9b8a19abefa42cb12895e7537351",
+  "file_size": 843,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Backrooms-like yellow fluorescent palette",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

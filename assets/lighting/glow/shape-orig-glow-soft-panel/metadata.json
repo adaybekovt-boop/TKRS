@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-glow-soft-panel",
+  "name": "Glow Soft Panel",
+  "description": "Emissive glow kernel (soft-panel).",
+  "category": "lighting",
+  "subcategory": "glow",
+  "tags": [
+    "glow",
+    "emissive",
+    "kernel",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "e3bb9d245c98f9dbf829482152750ca2b39bbc77cd2b85b51642fb3ecfe77679",
+  "file_size": 15461,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

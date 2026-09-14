@@ -1,0 +1,41 @@
+{
+  "name": "Liminal Fluorescent Palette",
+  "intended_usage": "Backrooms-like yellow fluorescent palette",
+  "color_space": "sRGB 0-255 for palette swatches; Roblox ColorCorrection uses -1..1 sliders",
+  "palette": {
+    "ambient": {
+      "r": 200,
+      "g": 195,
+      "b": 140
+    },
+    "key": {
+      "r": 255,
+      "g": 245,
+      "b": 170
+    },
+    "fill": {
+      "r": 170,
+      "g": 165,
+      "b": 120
+    },
+    "fog": {
+      "r": 210,
+      "g": 205,
+      "b": 150
+    },
+    "suggested_clocktime": 14.0,
+    "suggested_brightness": 1.4,
+    "colorcorrection": {
+      "Brightness": 0.06,
+      "Contrast": -0.05,
+      "Saturation": -0.2,
+      "TintColor": {
+        "r": 255,
+        "g": 240,
+        "b": 170
+      }
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

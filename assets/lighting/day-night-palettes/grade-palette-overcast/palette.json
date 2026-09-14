@@ -1,0 +1,41 @@
+{
+  "name": "Overcast Day Palette",
+  "intended_usage": "Soft overcast daylight palette",
+  "color_space": "sRGB 0-255 for palette swatches; Roblox ColorCorrection uses -1..1 sliders",
+  "palette": {
+    "ambient": {
+      "r": 170,
+      "g": 185,
+      "b": 200
+    },
+    "key": {
+      "r": 210,
+      "g": 220,
+      "b": 230
+    },
+    "fill": {
+      "r": 150,
+      "g": 160,
+      "b": 175
+    },
+    "fog": {
+      "r": 180,
+      "g": 190,
+      "b": 200
+    },
+    "suggested_clocktime": 13.0,
+    "suggested_brightness": 1.8,
+    "colorcorrection": {
+      "Brightness": 0.0,
+      "Contrast": -0.08,
+      "Saturation": -0.18,
+      "TintColor": {
+        "r": 200,
+        "g": 215,
+        "b": 230
+      }
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

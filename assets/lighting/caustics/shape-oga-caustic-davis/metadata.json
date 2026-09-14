@@ -1,0 +1,43 @@
+{
+  "id": "shape-oga-caustic-davis",
+  "name": "Underwater caustic lighting texture",
+  "description": "Underwater caustic lighting texture. CC0 light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "caustics",
+  "tags": [
+    "opengameart",
+    "caustics"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "OpenGameArt — Caustic Lighting",
+  "author": "Davis3D",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/caustic-lighting",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "6efce9d76f871bd9bc33a36cd5a0d83d15340c9033a5d2a45a16b3abc2a21d09",
+  "file_size": 203923,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGB",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "dimensions": null
+}

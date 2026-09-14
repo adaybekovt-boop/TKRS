@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-stage-spotlight",
+  "name": "Stage Spotlight",
+  "description": "Thick hollow spotlight barrel with recessed lens, cooling hoops and attached side yoke; static lamp.",
+  "category": "lighting",
+  "subcategory": "abandoned",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "abandoned"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/abandoned-puppet-theatre-and-prop-vault-stage-spotligh-998dc62f",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "5239277e8b93fbddf59a50e7681d2ef376b0979a4d37124f2aa808180cb9e221",
+  "file_size": 65620,
+  "dimensions": null
+}

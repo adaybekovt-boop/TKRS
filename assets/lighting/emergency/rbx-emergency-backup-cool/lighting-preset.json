@@ -1,0 +1,59 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.5,
+    "Ambient": {
+      "r": 0.0627,
+      "g": 0.0784,
+      "b": 0.1098
+    },
+    "OutdoorAmbient": {
+      "r": 0.0392,
+      "g": 0.0471,
+      "b": 0.0627
+    },
+    "ColorShift_Top": {
+      "r": 0.7059,
+      "g": 0.8235,
+      "b": 1.0
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0471,
+      "g": 0.0549,
+      "b": 0.0706
+    },
+    "EnvironmentDiffuseScale": 0.08,
+    "EnvironmentSpecularScale": 0.25,
+    "ClockTime": 2.0,
+    "ExposureCompensation": -0.4,
+    "ShadowSoftness": 0.12,
+    "FogStart": 15,
+    "FogEnd": 90,
+    "FogColor": {
+      "r": 0.0627,
+      "g": 0.0784,
+      "b": 0.1098
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.55,
+    "Size": 26,
+    "Threshold": 0.6
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.1,
+    "Contrast": 0.14,
+    "Saturation": -0.16,
+    "TintColor": {
+      "r": 0.8235,
+      "g": 0.8784,
+      "b": 1.0
+    }
+  },
+  "art_notes": "Only emergency fixtures on. Exit signs stay green."
+}

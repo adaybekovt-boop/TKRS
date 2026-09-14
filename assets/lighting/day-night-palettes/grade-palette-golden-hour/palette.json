@@ -1,0 +1,41 @@
+{
+  "name": "Golden Hour Palette",
+  "intended_usage": "Sunset/golden-hour exterior palette",
+  "color_space": "sRGB 0-255 for palette swatches; Roblox ColorCorrection uses -1..1 sliders",
+  "palette": {
+    "ambient": {
+      "r": 255,
+      "g": 170,
+      "b": 90
+    },
+    "key": {
+      "r": 255,
+      "g": 200,
+      "b": 120
+    },
+    "fill": {
+      "r": 180,
+      "g": 110,
+      "b": 80
+    },
+    "fog": {
+      "r": 255,
+      "g": 160,
+      "b": 100
+    },
+    "suggested_clocktime": 17.8,
+    "suggested_brightness": 2.0,
+    "colorcorrection": {
+      "Brightness": 0.04,
+      "Contrast": 0.08,
+      "Saturation": 0.1,
+      "TintColor": {
+        "r": 255,
+        "g": 180,
+        "b": 110
+      }
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

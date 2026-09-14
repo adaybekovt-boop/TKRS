@@ -1,0 +1,36 @@
+{
+  "id": "fix-ph-small-plastic-torch",
+  "name": "Small Plastic Torch",
+  "description": "small handheld plastic flashlight. PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "portable",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "portable"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "gltf",
+    "bin",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Abiyyu Panggalih",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/small_plastic_torch",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "f6fe489ca6af4b083895f856e745f6d1519858c8254cac6d46a94e8d430a0871",
+  "file_size": 750144,
+  "dimensions": null
+}

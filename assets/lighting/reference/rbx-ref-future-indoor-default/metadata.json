@@ -1,0 +1,42 @@
+{
+  "id": "rbx-ref-future-indoor-default",
+  "name": "Reference Future Indoor Default",
+  "description": "Sensible Future-lighting indoor start: moderate GI, no grade.",
+  "category": "lighting",
+  "subcategory": "reference",
+  "tags": [
+    "reference",
+    "future",
+    "indoor",
+    "technical",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "reference"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Default indoor Future lighting before art direction.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 746,
+  "sha256": "4eb565019f11e811e096f431019e57775eea3a4c74b2da6dadb7b492cfbecbb8",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

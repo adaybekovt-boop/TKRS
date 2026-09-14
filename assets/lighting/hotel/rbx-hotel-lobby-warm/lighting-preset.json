@@ -1,0 +1,82 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 1.55,
+    "Ambient": {
+      "r": 0.3608,
+      "g": 0.2902,
+      "b": 0.2196
+    },
+    "OutdoorAmbient": {
+      "r": 0.2745,
+      "g": 0.251,
+      "b": 0.3137
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.8392,
+      "b": 0.6667
+    },
+    "ColorShift_Bottom": {
+      "r": 0.2745,
+      "g": 0.2039,
+      "b": 0.1569
+    },
+    "EnvironmentDiffuseScale": 0.35,
+    "EnvironmentSpecularScale": 0.6,
+    "ClockTime": 19.8,
+    "ExposureCompensation": 0.05,
+    "ShadowSoftness": 0.42,
+    "FogStart": 70,
+    "FogEnd": 400,
+    "FogColor": {
+      "r": 0.4706,
+      "g": 0.3922,
+      "b": 0.3137
+    }
+  },
+  "Atmosphere": {
+    "Density": 0.2,
+    "Offset": 0.06,
+    "Color": {
+      "r": 0.7059,
+      "g": 0.5882,
+      "b": 0.4706
+    },
+    "Decay": {
+      "r": 0.3529,
+      "g": 0.2745,
+      "b": 0.1961
+    },
+    "Glare": 0.14,
+    "Haze": 1.1
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.55,
+    "Size": 34,
+    "Threshold": 0.68
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": 0.04,
+    "Contrast": 0.1,
+    "Saturation": 0.08,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.9255,
+      "b": 0.8392
+    }
+  },
+  "DepthOfFieldEffect": {
+    "Enabled": true,
+    "FarIntensity": 0.12,
+    "FocusDistance": 24,
+    "InFocusRadius": 18,
+    "NearIntensity": 0.05
+  },
+  "art_notes": "Pendants and table lamps do the work. Ceiling wash stays dimmer than the seating."
+}

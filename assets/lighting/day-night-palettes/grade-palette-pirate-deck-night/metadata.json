@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-pirate-deck-night",
+  "name": "Pirate Deck Night",
+  "description": "Ship deck moonlight + lanterns",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "pirate",
+    "night",
+    "ship",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "9cadde9441d6819477561fcba9361d7ce03a0d4f8b954b8bed232b8ce01e730b",
+  "file_size": 797,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Ship deck moonlight + lanterns",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

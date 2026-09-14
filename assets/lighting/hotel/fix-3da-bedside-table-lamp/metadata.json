@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-bedside-table-lamp",
+  "name": "Bedside table lamp",
+  "description": "Small brass lamp has a hollow tapered cloth shade and warm bulb.",
+  "category": "lighting",
+  "subcategory": "hotel",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "hotel"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/paranormal-investigation-house-table-lamp-10e6d613",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "2f7c1d9b4030645d6b4b174e95c5b43eea3d0c38dde5d7b4baea25ae7c2d5732",
+  "file_size": 27016,
+  "dimensions": null
+}

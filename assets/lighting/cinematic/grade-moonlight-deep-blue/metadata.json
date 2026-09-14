@@ -1,0 +1,46 @@
+{
+  "id": "grade-moonlight-deep-blue",
+  "name": "Deep Blue Moonlight",
+  "description": "stylized night, strong blue lift in shadows Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "night",
+    "moon",
+    "stylized",
+    "blue",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "stylized",
+    "horror"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "fafd342e5db6900563a3401a6fc0c583db1d7224ef3f4de9633448897a5be8e1",
+  "file_size": 132860,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "stylized night, strong blue lift in shadows",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "color_temperature_k": 12000,
+  "color_temperature_note": "creative target temperature used in generation; not measured photometric data",
+  "dimensions": null
+}

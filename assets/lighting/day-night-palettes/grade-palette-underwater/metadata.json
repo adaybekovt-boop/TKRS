@@ -1,0 +1,37 @@
+{
+  "id": "grade-palette-underwater",
+  "name": "Underwater",
+  "description": "Cyan-green attenuation underwater",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "underwater",
+    "cyan",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "13df781827adeaaa338b696c02fd361c104ba335b3eabc8dddaec217eca7d318",
+  "file_size": 792,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Cyan-green attenuation underwater",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

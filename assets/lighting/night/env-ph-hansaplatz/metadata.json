@@ -1,0 +1,60 @@
+{
+  "id": "env-ph-hansaplatz",
+  "name": "Hansaplatz",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "night",
+  "tags": [
+    "tree",
+    "shop",
+    "building",
+    "city",
+    "police",
+    "district",
+    "hdri",
+    "environment",
+    "1k",
+    "night",
+    "clear",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/hansaplatz",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "a32efd8c13e535378fc2c1568d4066a04aa7a98baa1932f460dec51c6b15820b",
+  "file_size": 1728448,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 19,
+  "attributes": {
+    "time_of_day": "night",
+    "weather": "clear",
+    "light_type": "artificial",
+    "contrast": "high",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

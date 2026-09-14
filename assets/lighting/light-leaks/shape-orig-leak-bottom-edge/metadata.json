@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-leak-bottom-edge",
+  "name": "Light Leak Bottom Edge",
+  "description": "Edge light leak from the bottom.",
+  "category": "lighting",
+  "subcategory": "light-leaks",
+  "tags": [
+    "light-leak",
+    "edge",
+    "grade",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "c218f43ed74a9918f67c45134f3627d63eeeb225a1c84ffe97a8a8845b51e0eb",
+  "file_size": 539,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

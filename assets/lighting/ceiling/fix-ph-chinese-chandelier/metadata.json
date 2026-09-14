@@ -1,0 +1,38 @@
+{
+  "id": "fix-ph-chinese-chandelier",
+  "name": "Chinese Chandelier",
+  "description": "traditional wooden Asian chandelier. Photogrammetry/authored PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "ceiling",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "ceiling"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "bin",
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Kirill Sannikov",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/chinese_chandelier",
+  "attribution": "Not required (CC0). Credit Poly Haven / author appreciated.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "color_space": "sRGB+linear PBR",
+  "HDR_LDR": "LDR",
+  "intended_usage": "placeable lighting fixture model with PBR maps",
+  "sha256": "0300d412628b0faffccf05e8ac7caad0e3e9b3b15bbbb0c14ce6f5c9e4e4eff8",
+  "file_size": 2159286,
+  "dimensions": null
+}

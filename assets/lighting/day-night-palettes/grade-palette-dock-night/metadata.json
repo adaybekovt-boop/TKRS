@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-dock-night",
+  "name": "Dock Night",
+  "description": "Harbor sodium + water bounce",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "dock",
+    "harbor",
+    "night",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "d57b8fff98028930043ab4ee984042f5fe4d51fb9eb341f3f01bc62ef9ce116a",
+  "file_size": 788,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Harbor sodium + water bounce",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

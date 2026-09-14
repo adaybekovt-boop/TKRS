@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-ceiling-light-panel",
+  "name": "Ceiling Light Panel",
+  "description": "A 1.18 m by 320 mm recessed ceiling light panel with a diffuser and a surface mounting channel.",
+  "category": "lighting",
+  "subcategory": "school",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "school"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/nursery-and-primary-classroom-ceiling-light-panel-832cde73",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "bec2f61e80353df1df06498bc835e9dbe57b00e77e1f1ee22a48c950a7e5f15d",
+  "file_size": 15380,
+  "dimensions": null
+}

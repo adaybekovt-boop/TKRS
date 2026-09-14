@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-leak-warm-offset",
+  "name": "Light Leak Warm Offset",
+  "description": "Corner/offset light leak (warm-offset).",
+  "category": "lighting",
+  "subcategory": "light-leaks",
+  "tags": [
+    "light-leak",
+    "corner",
+    "grade",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "19d453995b9a5639c3eb6edfabf67fd68afdead7cd09c9b27ad23cac7f97ad3f",
+  "file_size": 17884,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

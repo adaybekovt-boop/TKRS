@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-graveyard-moon",
+  "name": "Graveyard Moonlight",
+  "description": "Foggy cemetery moonlight",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "graveyard",
+    "moon",
+    "horror",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "horror"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "331175081292017866d85acf901b604d5ecacb6732777c722e7cb489d9aa5fe4",
+  "file_size": 794,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Foggy cemetery moonlight",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Graveyard Moonlight",
+  "intended_usage": "Foggy cemetery moonlight",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 30,
+      "g": 40,
+      "b": 55
+    },
+    "key": {
+      "r": 160,
+      "g": 180,
+      "b": 220
+    },
+    "fill": {
+      "r": 20,
+      "g": 25,
+      "b": 35
+    },
+    "fog": {
+      "r": 40,
+      "g": 45,
+      "b": 55
+    },
+    "suggested_clocktime": 0.5,
+    "suggested_brightness": 0.7,
+    "colorcorrection": {
+      "Brightness": -0.14,
+      "Contrast": 0.1,
+      "Saturation": -0.25,
+      "TintColor": [
+        160,
+        190,
+        230
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

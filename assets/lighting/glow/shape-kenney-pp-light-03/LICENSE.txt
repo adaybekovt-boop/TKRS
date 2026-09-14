@@ -1,0 +1,8 @@
+Asset: Kenney Particle light 03
+Author: Kenney (Kenney.nl)
+Source: Kenney Particle Pack
+License: CC0-1.0
+URL: https://kenney.nl/assets/particle-pack
+
+Creative Commons Zero 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/

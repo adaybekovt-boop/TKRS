@@ -1,0 +1,56 @@
+{
+  "id": "env-ph-empty_warehouse_01",
+  "name": "Empty Warehouse 01",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "interior",
+  "tags": [
+    "warehouse",
+    "derelict",
+    "fluorescent",
+    "concrete",
+    "industrial",
+    "backplates",
+    "hdri",
+    "environment",
+    "1k",
+    "indoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Sergej Majboroda",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/empty_warehouse_01",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "9b3d611cadc32c3a0c7e084ce5611c0650293881c4a041e7fa13748fe0dc6451",
+  "file_size": 1672140,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5900,
+  "evs_cap": 16,
+  "attributes": {
+    "light_type": "mixed",
+    "contrast": "medium",
+    "backplates": true,
+    "environment": "indoor"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

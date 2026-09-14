@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-foggy-forest",
+  "name": "Foggy Forest",
+  "description": "Low-contrast misty woods",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "forest",
+    "fog",
+    "mist",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "b0595c055d337be1393c4d1dd39b7f2bd5e1fec6731ed8de90356b649367bfa8",
+  "file_size": 790,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Low-contrast misty woods",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

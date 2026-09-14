@@ -1,0 +1,58 @@
+{
+  "id": "env-ph-paul_lobe_haus",
+  "name": "Paul Lobe Haus",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "interior",
+  "tags": [
+    "architecture",
+    "berlin",
+    "germany",
+    "autumn",
+    "glass",
+    "skylight",
+    "hdri",
+    "environment",
+    "1k",
+    "overcast",
+    "indoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/paul_lobe_haus",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "d933e4b75c0c7197e06facbfebaba6b99022c001815e4ebeeec0c89b43458d9b",
+  "file_size": 1665540,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 6,
+  "attributes": {
+    "weather": "overcast",
+    "light_type": "natural",
+    "contrast": "medium",
+    "season": "autumn",
+    "environment": "indoor"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

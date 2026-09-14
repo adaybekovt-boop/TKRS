@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-emergency-light",
+  "name": "Emergency Light",
+  "description": "Twin-head emergency lighting unit with independent lamp brackets.",
+  "category": "lighting",
+  "subcategory": "emergency",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "emergency"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/abandoned-cinema-and-projection-booth-abandoned-cinema-c514c4b4",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "753f5f95f3befea582eb6b14bb974c96617b1066603246f0bb8412f5a7ced96f",
+  "file_size": 15952,
+  "dimensions": null
+}

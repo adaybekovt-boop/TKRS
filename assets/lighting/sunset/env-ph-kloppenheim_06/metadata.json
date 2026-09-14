@@ -1,0 +1,59 @@
+{
+  "id": "env-ph-kloppenheim_06",
+  "name": "Kloppenheim 06",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "sunset",
+  "tags": [
+    "sun",
+    "rays",
+    "hill",
+    "rock",
+    "view",
+    "hdri",
+    "environment",
+    "1k",
+    "sunset",
+    "partly_cloudy",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/kloppenheim_06",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "e3f27189b1e8fdeeaa7aa1f4dc4aad54a4c4294870dc89ad23479d563e3a0f70",
+  "file_size": 1485234,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5319,
+  "evs_cap": 12,
+  "attributes": {
+    "time_of_day": "sunset",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "low",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

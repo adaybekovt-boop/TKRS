@@ -1,0 +1,45 @@
+{
+  "id": "shape-kenney-pp-light-03",
+  "name": "Kenney Particle light 03",
+  "description": "light_03 from Kenney Particle Pack used as a glow light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "glow",
+  "tags": [
+    "kenney",
+    "particle-pack",
+    "glow"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "Kenney Particle Pack",
+  "author": "Kenney (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/particle-pack",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "c0a31f34b298f3d0115738faede82f0d093cc5dde9ee14c0e4145c01b2e117a4",
+  "file_size": 62686,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "native_filename": "light_03.png",
+  "dimensions": null
+}

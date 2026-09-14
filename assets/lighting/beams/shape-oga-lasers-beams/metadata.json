@@ -1,0 +1,43 @@
+{
+  "id": "shape-oga-lasers-beams",
+  "name": "Lasers and beams sheet",
+  "description": "Lasers and beams sheet. CC0 light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "beams",
+  "tags": [
+    "opengameart",
+    "beams"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "OpenGameArt — Lasers and beams",
+  "author": "Rawdanitsu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/lasers-and-beams",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "9dd38dd5e3cce59e249d265a033cece104bcf93dd634d3852dc130fa7f0d018a",
+  "file_size": 57641,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    490,
+    446
+  ],
+  "color_space": "sRGB",
+  "channels": "RGBA",
+  "hdr": false,
+  "has_alpha": true,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "dimensions": null
+}

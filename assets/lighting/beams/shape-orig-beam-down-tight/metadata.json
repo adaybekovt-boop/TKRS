@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-beam-down-tight",
+  "name": "Beam Down Tight",
+  "description": "Downward volumetric beam mask (tight spread).",
+  "category": "lighting",
+  "subcategory": "beams",
+  "tags": [
+    "beam",
+    "volumetric",
+    "mask",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "2490dcfab6005d822363e113e479b563a3fa47849a705ab3374e05a8b284b672",
+  "file_size": 5481,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

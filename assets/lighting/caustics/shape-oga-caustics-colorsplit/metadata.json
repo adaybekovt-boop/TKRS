@@ -1,0 +1,43 @@
+{
+  "id": "shape-oga-caustics-colorsplit",
+  "name": "Tileable caustics with color split",
+  "description": "Tileable caustics with color split. CC0 light-shaping texture.",
+  "category": "lighting",
+  "subcategory": "caustics",
+  "tags": [
+    "opengameart",
+    "caustics"
+  ],
+  "style": [
+    "practical",
+    "game-ready"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "OpenGameArt — Caustics with color split",
+  "author": "mads",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/caustics-with-color-split",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "edc8e2273ac7c114ad50ae3e1476a965ba3bd2d112fdca699f849c38280a96aa",
+  "file_size": 662038,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    1024,
+    1024
+  ],
+  "color_space": "sRGB",
+  "channels": "RGB",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "asset_type": "texture",
+  "dimensions": null
+}

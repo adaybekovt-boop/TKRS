@@ -1,0 +1,36 @@
+{
+  "id": "fix-ph-vintage-oil-lamp",
+  "name": "Vintage Oil Lamp",
+  "description": "victorian oil lamp with glass chimney. PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "lanterns",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "lanterns"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "gltf",
+    "bin",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Monsta3D",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/vintage_oil_lamp",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "ae570b98ea30b0337f62d8e7f551c03a05de00b238f3fac8f1ca5a1f1dbd1add",
+  "file_size": 2070002,
+  "dimensions": null
+}

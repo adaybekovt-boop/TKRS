@@ -1,0 +1,38 @@
+{
+  "id": "fix-ph-modern-ceiling-lamp-01",
+  "name": "Modern Ceiling Lamp 01",
+  "description": "modern glass hanging ceiling lamp. Photogrammetry/authored PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "ceiling",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "ceiling"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "bin",
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "James Ray Cock",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/modern_ceiling_lamp_01",
+  "attribution": "Not required (CC0). Credit Poly Haven / author appreciated.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "color_space": "sRGB+linear PBR",
+  "HDR_LDR": "LDR",
+  "intended_usage": "placeable lighting fixture model with PBR maps",
+  "sha256": "f88b5d0a81fa813457a77474e7e4e812f97ad5fac2109ba03ddb183274be3f8c",
+  "file_size": 436065,
+  "dimensions": null
+}

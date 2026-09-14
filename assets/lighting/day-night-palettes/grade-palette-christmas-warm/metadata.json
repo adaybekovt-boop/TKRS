@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-christmas-warm",
+  "name": "Christmas Warm Interior",
+  "description": "Cozy interior string-light warmth",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "christmas",
+    "warm",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "79c55363372e8de86a3cfdcaee692eb2c7693921f6e7eb9c2ceb747529082343",
+  "file_size": 806,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Cozy interior string-light warmth",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

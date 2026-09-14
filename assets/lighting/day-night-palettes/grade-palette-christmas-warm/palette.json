@@ -1,0 +1,41 @@
+{
+  "name": "Christmas Warm Interior",
+  "intended_usage": "Cozy interior string-light warmth",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 80,
+      "g": 50,
+      "b": 30
+    },
+    "key": {
+      "r": 255,
+      "g": 190,
+      "b": 100
+    },
+    "fill": {
+      "r": 60,
+      "g": 35,
+      "b": 25
+    },
+    "fog": {
+      "r": 90,
+      "g": 55,
+      "b": 35
+    },
+    "suggested_clocktime": 19.0,
+    "suggested_brightness": 1.3,
+    "colorcorrection": {
+      "Brightness": 0.02,
+      "Contrast": 0.06,
+      "Saturation": 0.1,
+      "TintColor": [
+        255,
+        190,
+        120
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

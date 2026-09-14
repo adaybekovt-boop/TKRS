@@ -1,0 +1,58 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.7,
+    "Ambient": {
+      "r": 0.0784,
+      "g": 0.1098,
+      "b": 0.102
+    },
+    "OutdoorAmbient": {
+      "r": 0.0392,
+      "g": 0.0471,
+      "b": 0.0471
+    },
+    "ColorShift_Top": {
+      "r": 0.7843,
+      "g": 0.902,
+      "b": 0.8627
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0627,
+      "g": 0.0863,
+      "b": 0.0784
+    },
+    "EnvironmentDiffuseScale": 0.1,
+    "EnvironmentSpecularScale": 0.45,
+    "ClockTime": 2.0,
+    "ExposureCompensation": -0.25,
+    "ShadowSoftness": 0.12,
+    "FogStart": 6,
+    "FogEnd": 28,
+    "FogColor": {
+      "r": 0.0941,
+      "g": 0.1255,
+      "b": 0.1176
+    }
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.45,
+    "Size": 26,
+    "Threshold": 0.7
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.06,
+    "Contrast": 0.12,
+    "Saturation": -0.1,
+    "TintColor": {
+      "r": 0.902,
+      "g": 0.902,
+      "b": 0.8627
+    }
+  }
+}

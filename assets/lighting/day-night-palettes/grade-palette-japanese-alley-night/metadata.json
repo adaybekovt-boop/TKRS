@@ -1,0 +1,39 @@
+{
+  "id": "grade-palette-japanese-alley-night",
+  "name": "Japanese Alley Night",
+  "description": "Norain-like neon alley wet",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "japan",
+    "alley",
+    "neon",
+    "night",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "48ba9ac8b48e287101a933fcf20d5f33493e65e262b910b2f2c90967cee36a9b",
+  "file_size": 797,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Norain-like neon alley wet",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

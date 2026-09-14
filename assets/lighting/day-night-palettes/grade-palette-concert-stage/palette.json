@@ -1,0 +1,41 @@
+{
+  "name": "Concert Stage",
+  "intended_usage": "Magenta-cyan concert wash",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 40,
+      "g": 15,
+      "b": 50
+    },
+    "key": {
+      "r": 255,
+      "g": 60,
+      "b": 180
+    },
+    "fill": {
+      "r": 20,
+      "g": 40,
+      "b": 80
+    },
+    "fog": {
+      "r": 30,
+      "g": 10,
+      "b": 40
+    },
+    "suggested_clocktime": 21.0,
+    "suggested_brightness": 1.6,
+    "colorcorrection": {
+      "Brightness": -0.05,
+      "Contrast": 0.18,
+      "Saturation": 0.25,
+      "TintColor": [
+        255,
+        80,
+        200
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

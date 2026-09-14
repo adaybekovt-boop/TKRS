@@ -1,0 +1,41 @@
+{
+  "name": "Desert Obby",
+  "intended_usage": "Hot high-key sand",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 210,
+      "g": 180,
+      "b": 120
+    },
+    "key": {
+      "r": 255,
+      "g": 230,
+      "b": 160
+    },
+    "fill": {
+      "r": 180,
+      "g": 150,
+      "b": 100
+    },
+    "fog": {
+      "r": 220,
+      "g": 190,
+      "b": 140
+    },
+    "suggested_clocktime": 15.0,
+    "suggested_brightness": 2.6,
+    "colorcorrection": {
+      "Brightness": 0.08,
+      "Contrast": 0.1,
+      "Saturation": 0.08,
+      "TintColor": [
+        255,
+        220,
+        150
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

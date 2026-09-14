@@ -1,0 +1,56 @@
+{
+  "id": "env-ph-autoshop_01",
+  "name": "Autoshop 01",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "interior",
+  "tags": [
+    "garage",
+    "warehouse",
+    "industrial",
+    "car",
+    "workshop",
+    "hdri",
+    "environment",
+    "1k",
+    "overcast",
+    "indoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Oliksiy Yakovlyev",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/autoshop_01",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "234578c4ab8efd6611c17f0ba8b2ed6554045a175f6b9f5b716f4c9740a05903",
+  "file_size": 1622432,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 5050,
+  "evs_cap": 8,
+  "attributes": {
+    "light_type": "artificial",
+    "contrast": "low",
+    "environment": "indoor",
+    "weather": "overcast"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

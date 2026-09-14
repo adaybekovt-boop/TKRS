@@ -1,0 +1,8 @@
+Asset: Underwater caustic lighting texture
+Author: Davis3D
+Source: OpenGameArt — Caustic Lighting
+License: CC0-1.0
+URL: https://opengameart.org/content/caustic-lighting
+
+Creative Commons Zero 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/

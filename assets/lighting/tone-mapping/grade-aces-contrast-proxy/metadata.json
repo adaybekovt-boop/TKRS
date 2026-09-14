@@ -1,0 +1,44 @@
+{
+  "id": "grade-aces-contrast-proxy",
+  "name": "ACES-like Contrast Proxy",
+  "description": "filmic S-curve contrast proxy (not a real ACES RRT) Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "tone-mapping",
+  "tags": [
+    "filmic",
+    "aces",
+    "contrast",
+    "tone-map",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "cinematic",
+    "technical"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "9b476a1d0ed878fcfb1796f818ef8f7d190a19b44974cc4eeb998e507b3228e8",
+  "file_size": 132873,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "filmic S-curve contrast proxy (not a real ACES RRT)",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

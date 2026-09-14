@@ -1,0 +1,42 @@
+{
+  "id": "grade-exposure-plus-2",
+  "name": "Exposure Reference +2 EV",
+  "description": "technical overexposure reference Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "exposure-references",
+  "tags": [
+    "exposure",
+    "technical",
+    "reference",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "technical"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "35e8e7ab792c04de3ce6783ccab9e87f58ba5bf0d450e94dbd2118b6c3ac3ba7",
+  "file_size": 132854,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "technical overexposure reference",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

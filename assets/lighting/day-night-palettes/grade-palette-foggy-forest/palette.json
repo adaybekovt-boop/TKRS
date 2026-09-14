@@ -1,0 +1,41 @@
+{
+  "name": "Foggy Forest",
+  "intended_usage": "Low-contrast misty woods",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 90,
+      "g": 100,
+      "b": 90
+    },
+    "key": {
+      "r": 160,
+      "g": 170,
+      "b": 150
+    },
+    "fill": {
+      "r": 70,
+      "g": 80,
+      "b": 70
+    },
+    "fog": {
+      "r": 120,
+      "g": 130,
+      "b": 120
+    },
+    "suggested_clocktime": 9.0,
+    "suggested_brightness": 1.0,
+    "colorcorrection": {
+      "Brightness": 0.0,
+      "Contrast": -0.15,
+      "Saturation": -0.2,
+      "TintColor": [
+        170,
+        185,
+        160
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

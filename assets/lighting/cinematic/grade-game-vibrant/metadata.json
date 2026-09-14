@@ -1,0 +1,42 @@
+{
+  "id": "grade-game-vibrant",
+  "name": "Game Vibrant",
+  "description": "stylized saturated game look Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "game",
+    "vibrant",
+    "stylized",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "f4b358e68cd0c25c2a74a3f0a6e3b2da4f5f8a1469539643844752f5b9fec6ad",
+  "file_size": 132838,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "stylized saturated game look",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

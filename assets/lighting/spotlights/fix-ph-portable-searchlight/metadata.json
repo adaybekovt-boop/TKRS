@@ -1,0 +1,36 @@
+{
+  "id": "fix-ph-portable-searchlight",
+  "name": "Portable Searchlight",
+  "description": "portable handheld searchlight. PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "spotlights",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "spotlights"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "gltf",
+    "bin",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Elijah Cragg",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/portable_searchlight",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "8c38799e55ce0c1627e0e82e99cb25ccf24feea2ac7db7681d38042ea8a1ac96",
+  "file_size": 1925133,
+  "dimensions": null
+}

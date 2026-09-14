@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-office-fluorescent",
+  "name": "Office Fluorescent Palette",
+  "description": "Roblox ColorCorrection / Lighting color references for office interiors",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "office",
+    "fluorescent",
+    "palette",
+    "interior"
+  ],
+  "style": [
+    "photoreal",
+    "liminal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "cfc33694c9194259978ae94203720a19a96282ea7c3957d1b63b50dbd2d84a05",
+  "file_size": 872,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Roblox ColorCorrection / Lighting color references for office interiors",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

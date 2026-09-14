@@ -1,0 +1,57 @@
+{
+  "id": "env-ph-noon_grass",
+  "name": "Noon Grass",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "day",
+  "tags": [
+    "tree",
+    "sun",
+    "grass",
+    "hdri",
+    "environment",
+    "1k",
+    "midday",
+    "clear",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/noon_grass",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "63413e8b3d8b4c394396d05ab9c7c590a8d70e2cf45187054d198d42f0209939",
+  "file_size": 1557132,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 24,
+  "attributes": {
+    "time_of_day": "midday",
+    "weather": "clear",
+    "light_type": "natural",
+    "contrast": "high",
+    "environment": "outdoor",
+    "sky_view": "open"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "grade-palette-sewer",
+  "name": "Sewer",
+  "description": "Wet green-brown underground",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "sewer",
+    "underground",
+    "horror",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "horror",
+    "industrial"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "a2060417c459c88c96e47ccf40070abe641f34587910fff09d204a87beedc213",
+  "file_size": 781,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Wet green-brown underground",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

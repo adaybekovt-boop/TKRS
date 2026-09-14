@@ -1,0 +1,41 @@
+{
+  "name": "Diner Neon",
+  "intended_usage": "Warm interior + neon sign bleed",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 50,
+      "g": 30,
+      "b": 35
+    },
+    "key": {
+      "r": 255,
+      "g": 180,
+      "b": 90
+    },
+    "fill": {
+      "r": 80,
+      "g": 30,
+      "b": 50
+    },
+    "fog": {
+      "r": 55,
+      "g": 30,
+      "b": 35
+    },
+    "suggested_clocktime": 21.5,
+    "suggested_brightness": 1.2,
+    "colorcorrection": {
+      "Brightness": -0.04,
+      "Contrast": 0.1,
+      "Saturation": 0.12,
+      "TintColor": [
+        255,
+        160,
+        100
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

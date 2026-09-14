@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-winter-event",
+  "name": "Winter Event",
+  "description": "Snow festival cool high-key",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "winter",
+    "snow",
+    "event",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "e63f90a0eb912fdaef5004bb064f586ae89c509a3ff8b1df37c5b42429c8b7c6",
+  "file_size": 801,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Snow festival cool high-key",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

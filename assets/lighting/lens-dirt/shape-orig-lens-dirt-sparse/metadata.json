@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-lens-dirt-sparse",
+  "name": "Lens Dirt Sparse",
+  "description": "Lens dirt / dust bokeh mask (sparse).",
+  "category": "lighting",
+  "subcategory": "lens-dirt",
+  "tags": [
+    "lens-dirt",
+    "bokeh",
+    "mask",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "53d3c9a2019882b7ffde4ac659d008c4d9081a40bcd59236222f948141f8358d",
+  "file_size": 21563,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

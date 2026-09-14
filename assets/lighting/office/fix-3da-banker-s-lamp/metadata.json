@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-banker-s-lamp",
+  "name": "Banker's lamp",
+  "description": "A 320 mm banker's desk lamp: a weighted chrome base, a stem, a half-cylinder glass shade on two arms, a pull chain and a lead stub.",
+  "category": "lighting",
+  "subcategory": "office",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "office"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/police-station-and-detective-office-bankers-lamp-fb4ee0bf",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "2d40fa7fb0e747a682e0f210625008ab2ab4902afb44910587d60a38a0d20d0a",
+  "file_size": 25576,
+  "dimensions": null
+}

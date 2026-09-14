@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-greenhouse",
+  "name": "Greenhouse",
+  "description": "Plant-green filtered sun",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "greenhouse",
+    "plants",
+    "day",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "f4c24760c44d669fda5236f2a7624e46bc4a2d660fa91e7f9747754c35b45e49",
+  "file_size": 793,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Plant-green filtered sun",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

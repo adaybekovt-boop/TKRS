@@ -1,0 +1,44 @@
+{
+  "id": "rbx-exterior-moonlight",
+  "name": "Exterior Moonlight",
+  "description": "Clear night, strong moon key, blue-silver, visible stars.",
+  "category": "lighting",
+  "subcategory": "exterior",
+  "tags": [
+    "exterior",
+    "night",
+    "moon",
+    "clear",
+    "cool",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "cinematic",
+    "outdoor"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Moonlit outdoor night with little urban spill.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1541,
+  "sha256": "0f399c8e0bc4e3bea6d432cd05248d2390e3996285678b22a1b979fa87a975b7",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

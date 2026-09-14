@@ -1,0 +1,36 @@
+{
+  "id": "fix-ph-pull-chain-light-socket",
+  "name": "Pull Chain Light Socket",
+  "description": "bare bulb ceiling socket with pull chain. PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "ceiling",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "ceiling"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "gltf",
+    "bin",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Josh Dean",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/pull_chain_light_socket",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "093c38e382efeaf605be0133bec7a93a8b2c935c40a5d0f311468053681d8258",
+  "file_size": 2048497,
+  "dimensions": null
+}

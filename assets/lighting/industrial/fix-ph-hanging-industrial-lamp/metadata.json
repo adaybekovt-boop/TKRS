@@ -1,0 +1,38 @@
+{
+  "id": "fix-ph-hanging-industrial-lamp",
+  "name": "Hanging Industrial Lamp",
+  "description": "warehouse hanging industrial lamp with glass. Photogrammetry/authored PBR model from Poly Haven, 1k textures.",
+  "category": "lighting",
+  "subcategory": "industrial",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "pbr",
+    "1k",
+    "industrial"
+  ],
+  "style": [
+    "realistic",
+    "pbr"
+  ],
+  "formats": [
+    "bin",
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "author": "Kuutti Siitonen",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/hanging_industrial_lamp",
+  "attribution": "Not required (CC0). Credit Poly Haven / author appreciated.",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "color_space": "sRGB+linear PBR",
+  "HDR_LDR": "LDR",
+  "intended_usage": "placeable lighting fixture model with PBR maps",
+  "sha256": "97e31aac7c350bc40294e78f39f66d5aa998ac2703be1d09b5dab9ae7027876f",
+  "file_size": 3243654,
+  "dimensions": null
+}

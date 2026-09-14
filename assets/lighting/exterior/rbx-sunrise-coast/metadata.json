@@ -1,0 +1,44 @@
+{
+  "id": "rbx-sunrise-coast",
+  "name": "Sunrise Coast",
+  "description": "Low sun over water, long glitter, cool shadows, warm key.",
+  "category": "lighting",
+  "subcategory": "exterior",
+  "tags": [
+    "sunrise",
+    "coast",
+    "water",
+    "exterior",
+    "warm",
+    "roblox",
+    "lighting-preset",
+    "config"
+  ],
+  "style": [
+    "cinematic",
+    "outdoor"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS original",
+  "source_site": null,
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "preset",
+  "intended_usage": "Coastal sunrise.",
+  "engine": "Roblox",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lighting-preset.json"
+  ],
+  "file_size": 1406,
+  "sha256": "9da94eeda1693ce7f25550171f41c235ad8339b6fb9a98f7ab84621ce3488b14",
+  "color_space": "Roblox Color3 0-1",
+  "hdr": false,
+  "dimensions": null
+}

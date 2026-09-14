@@ -1,0 +1,46 @@
+{
+  "id": "shape-orig-emissive-led-6x6",
+  "name": "LED panel grid 6x6",
+  "description": "Emissive LED panel mask 6x6.",
+  "category": "lighting",
+  "subcategory": "emissive-masks",
+  "tags": [
+    "emissive",
+    "led",
+    "panel",
+    "sci-fi"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "1ec815e8de0ecb048b5bd6af2d8e9a18b5ce02fee82c0ca31fc161310838cbb3",
+  "file_size": 1629,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

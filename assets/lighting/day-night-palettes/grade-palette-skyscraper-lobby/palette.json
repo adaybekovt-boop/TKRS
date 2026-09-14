@@ -1,0 +1,41 @@
+{
+  "name": "Skyscraper Lobby",
+  "intended_usage": "Glass atrium daylight",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 180,
+      "g": 190,
+      "b": 200
+    },
+    "key": {
+      "r": 255,
+      "g": 250,
+      "b": 240
+    },
+    "fill": {
+      "r": 160,
+      "g": 170,
+      "b": 185
+    },
+    "fog": {
+      "r": 190,
+      "g": 200,
+      "b": 210
+    },
+    "suggested_clocktime": 11.5,
+    "suggested_brightness": 2.3,
+    "colorcorrection": {
+      "Brightness": 0.06,
+      "Contrast": 0.04,
+      "Saturation": -0.08,
+      "TintColor": [
+        240,
+        245,
+        255
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

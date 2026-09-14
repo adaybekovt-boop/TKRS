@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-skyscraper-lobby",
+  "name": "Skyscraper Lobby",
+  "description": "Glass atrium daylight",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "lobby",
+    "skyscraper",
+    "day",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "971dfc12653b8bb5462378dca5a482276dd1a2242b71fa69872b9399d241f150",
+  "file_size": 798,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Glass atrium daylight",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

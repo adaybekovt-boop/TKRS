@@ -1,0 +1,43 @@
+{
+  "id": "shape-orig-soft-mask-spot-broad",
+  "name": "Soft Mask Spot Broad",
+  "description": "Radial soft light mask (broad).",
+  "category": "lighting",
+  "subcategory": "soft-masks",
+  "tags": [
+    "soft-mask",
+    "spot",
+    "falloff",
+    "light-shaping",
+    "texture",
+    "512"
+  ],
+  "style": [
+    "procedural",
+    "utility"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original",
+  "author": "TKRS lighting-batch-001",
+  "license": "CC0-1.0",
+  "original_url": null,
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "mask",
+  "resolution": "512x512",
+  "color_space": "sRGB",
+  "alpha": false,
+  "hdr": false,
+  "intended_usage": "light cookie / projector / mask in Roblox or DCC",
+  "sha256": "fc872c09cb463562eedc1370794bd51088b3ad957148621cf680f35ae21ad936",
+  "file_size": 21871,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

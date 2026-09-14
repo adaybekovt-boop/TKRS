@@ -1,0 +1,61 @@
+{
+  "id": "env-ph-sunny_vondelpark",
+  "name": "Sunny Vondelpark",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "sunrise",
+  "tags": [
+    "tree",
+    "grass",
+    "sun",
+    "leaves",
+    "autumn",
+    "path",
+    "sunrise",
+    "hdri",
+    "environment",
+    "1k",
+    "partly_cloudy",
+    "outdoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/sunny_vondelpark",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "99aca099caa3e09b312f4831c038e5f2837f0045ded910022ae730b112e499e6",
+  "file_size": 1945475,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": null,
+  "evs_cap": 24,
+  "attributes": {
+    "time_of_day": "sunrise",
+    "weather": "partly_cloudy",
+    "light_type": "natural",
+    "contrast": "high",
+    "season": "autumn",
+    "environment": "outdoor",
+    "sky_view": "obstructed"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "grade-bleach-bypass",
+  "name": "Bleach Bypass",
+  "description": "harsh desat high-contrast war/industrial look Original 17^3 .cube LUT authored for TKRS lighting-batch-001. Not a camera-log conversion; intended as a Rec.709-ish creative/technical grade reference for Roblox ColorCorrection and post looks.",
+  "category": "lighting",
+  "subcategory": "cinematic",
+  "tags": [
+    "bleach-bypass",
+    "desat",
+    "contrast",
+    "gritty",
+    "lut",
+    "color-grade",
+    "cube"
+  ],
+  "style": [
+    "cinematic",
+    "industrial"
+  ],
+  "formats": [
+    "cube"
+  ],
+  "source": "TKRS lighting-batch-001 original LUTs",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "8452a629628a1be20d392a9137bae54db513d63c191865c192b150e53c5e5e11",
+  "file_size": 132856,
+  "asset_type": "LUT",
+  "source_format": "cube",
+  "lut_size": 17,
+  "color_space": "Rec.709-like (domain 0-1)",
+  "hdr": false,
+  "intended_usage": "harsh desat high-contrast war/industrial look",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lut.cube",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

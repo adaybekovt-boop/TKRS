@@ -1,0 +1,60 @@
+{
+  "id": "env-ph-metro_noord",
+  "name": "Metro: Noord",
+  "description": "Compact 1K HDRI from Poly Haven for environment lighting and sky-mood reference in Roblox scenes.",
+  "category": "lighting",
+  "subcategory": "interior",
+  "tags": [
+    "train",
+    "metro",
+    "station",
+    "modern",
+    "bench",
+    "glass",
+    "architecture",
+    "empty",
+    "platform",
+    "europe",
+    "amsterdam",
+    "hdri",
+    "environment",
+    "1k",
+    "indoor"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "hdr"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Greg Zaal",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/metro_noord",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "c752d74f5ad49538f335018935d03bbd6fbc754e1bbdafdd7cb575b13ba3cb65",
+  "file_size": 1745415,
+  "asset_type": "skybox",
+  "source_format": "hdr",
+  "resolution": "1k",
+  "hdr": true,
+  "color_space": "linear HDR",
+  "cubemap_layout": "equirectangular",
+  "intended_usage": "environment lighting / IBL reference / sky mood",
+  "whitebalance": 3400,
+  "evs_cap": 12,
+  "attributes": {
+    "light_type": "artificial",
+    "contrast": "medium",
+    "environment": "indoor"
+  },
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "environment.hdr",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

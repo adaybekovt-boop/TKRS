@@ -1,0 +1,32 @@
+{
+  "id": "fix-kenney-street-light-curved-cross",
+  "name": "Street Light Curved Cross",
+  "description": "Street Light Curved Cross from Kenney City Kit (Roads). Low-poly game-ready fixture for Roblox environment dressing.",
+  "category": "lighting",
+  "subcategory": "street",
+  "tags": [
+    "fixture",
+    "kenney",
+    "street",
+    "low-poly"
+  ],
+  "style": [
+    "stylized",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney City Kit (Roads)",
+  "author": "Kenney Vleugels (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/city-kit-roads",
+  "attribution": "Credit Kenney.nl (not mandatory)",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "811f6e8ed725ec9fb77ca8ba6cf2125b7268fececa750ef0a5948c233ba47da9",
+  "file_size": 24916,
+  "dimensions": null
+}

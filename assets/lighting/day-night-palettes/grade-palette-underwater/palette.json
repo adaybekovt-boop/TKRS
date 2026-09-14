@@ -1,0 +1,41 @@
+{
+  "name": "Underwater",
+  "intended_usage": "Cyan-green attenuation underwater",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 20,
+      "g": 60,
+      "b": 80
+    },
+    "key": {
+      "r": 40,
+      "g": 160,
+      "b": 180
+    },
+    "fill": {
+      "r": 10,
+      "g": 40,
+      "b": 60
+    },
+    "fog": {
+      "r": 15,
+      "g": 70,
+      "b": 90
+    },
+    "suggested_clocktime": 12.0,
+    "suggested_brightness": 0.8,
+    "colorcorrection": {
+      "Brightness": -0.1,
+      "Contrast": -0.05,
+      "Saturation": 0.1,
+      "TintColor": [
+        40,
+        180,
+        200
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

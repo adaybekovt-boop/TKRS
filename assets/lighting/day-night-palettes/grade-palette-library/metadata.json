@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-library",
+  "name": "Library Warm",
+  "description": "Reading-room tungsten + window",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "library",
+    "warm",
+    "interior",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "cinematic"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "d75e3c20012ecb72b6d09cfc038a616f2497db0581e676331fdbd92e10415f67",
+  "file_size": 797,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Reading-room tungsten + window",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

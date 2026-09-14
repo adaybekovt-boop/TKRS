@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-basement",
+  "name": "Basement Bare Bulb",
+  "description": "Single bare bulb basement",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "basement",
+    "bulb",
+    "horror",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "horror"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "35bd9a4a4d2334fda7ff4f5a916cc3b4e01563fea0a9cc060d27608a57bb0d7a",
+  "file_size": 792,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Single bare bulb basement",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

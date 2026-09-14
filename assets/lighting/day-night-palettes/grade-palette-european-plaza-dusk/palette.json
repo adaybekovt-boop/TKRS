@@ -1,0 +1,41 @@
+{
+  "name": "European Plaza Dusk",
+  "intended_usage": "Warm stone plaza blue hour",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 70,
+      "g": 75,
+      "b": 110
+    },
+    "key": {
+      "r": 255,
+      "g": 170,
+      "b": 100
+    },
+    "fill": {
+      "r": 50,
+      "g": 55,
+      "b": 90
+    },
+    "fog": {
+      "r": 80,
+      "g": 80,
+      "b": 110
+    },
+    "suggested_clocktime": 19.2,
+    "suggested_brightness": 1.5,
+    "colorcorrection": {
+      "Brightness": -0.02,
+      "Contrast": 0.08,
+      "Saturation": 0.04,
+      "TintColor": [
+        255,
+        180,
+        120
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

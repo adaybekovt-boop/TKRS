@@ -1,0 +1,41 @@
+{
+  "name": "Sci-Fi Lab Palette",
+  "intended_usage": "Cool cyan lab / spaceship palette",
+  "color_space": "sRGB 0-255 for palette swatches; Roblox ColorCorrection uses -1..1 sliders",
+  "palette": {
+    "ambient": {
+      "r": 40,
+      "g": 70,
+      "b": 95
+    },
+    "key": {
+      "r": 140,
+      "g": 210,
+      "b": 255
+    },
+    "fill": {
+      "r": 30,
+      "g": 50,
+      "b": 80
+    },
+    "fog": {
+      "r": 20,
+      "g": 40,
+      "b": 60
+    },
+    "suggested_clocktime": 12.0,
+    "suggested_brightness": 1.6,
+    "colorcorrection": {
+      "Brightness": 0.0,
+      "Contrast": 0.1,
+      "Saturation": -0.05,
+      "TintColor": {
+        "r": 140,
+        "g": 210,
+        "b": 255
+      }
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

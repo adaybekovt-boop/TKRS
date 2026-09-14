@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-greybox-ceiling-tile-with-recessed-light-well",
+  "name": "Greybox ceiling tile with recessed light well",
+  "description": "A 4 m ceiling tile with a 1.5 m recessed light well: stepped reveal, pale diffuser panel and a steel plenum box standing 0.16 m above the tile.",
+  "category": "lighting",
+  "subcategory": "recessed",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "recessed"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/modular-greybox-architecture-kit-ceiling-light-well-fac57af4",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "3c910260d3badfbbf96f5ac42f2ad5913dc732d1088313c265ffb806bcdb9a23",
+  "file_size": 15788,
+  "dimensions": null
+}

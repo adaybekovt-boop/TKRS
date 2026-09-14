@@ -1,0 +1,44 @@
+{
+  "id": "fix-ph-lightbulb-led",
+  "name": "Lightbulb Led",
+  "description": "Lightbulb Led — CC0 photoscanned/hand-authored lighting fixture from Poly Haven, 1K textures. Placeable reference fixture for Roblox environment art direction.",
+  "category": "lighting",
+  "subcategory": "led-panels",
+  "tags": [
+    "fixture",
+    "polyhaven",
+    "fixture",
+    "1k"
+  ],
+  "style": [
+    "photoreal"
+  ],
+  "formats": [
+    "gltf",
+    "jpg"
+  ],
+  "source": "Poly Haven",
+  "source_site": "https://polyhaven.com",
+  "author": "Poly Haven contributors",
+  "license": "CC0-1.0",
+  "original_url": "https://polyhaven.com/a/lightbulb_led",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "gltf",
+  "resolution": "1k",
+  "intended_usage": "placeable lighting fixture model",
+  "sha256": "ae23f72de657c1c25d4558d86a9e8b593c608360933f9748a91c3124d600ddb3",
+  "file_size": 2779,
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "lightbulb_led.bin",
+    "lightbulb_led_1k.gltf",
+    "lightbulb_led_arm_1k.jpg",
+    "lightbulb_led_diff_1k.jpg",
+    "lightbulb_led_nor_gl_1k.jpg",
+    "preview.png"
+  ],
+  "dimensions": null
+}

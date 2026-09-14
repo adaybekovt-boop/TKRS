@@ -1,0 +1,45 @@
+{
+  "id": "shape-orig-glow-radial-02",
+  "name": "Radial glow kernel s=0.09",
+  "description": "Radial glow/bloom kernel sigma=0.09.",
+  "category": "lighting",
+  "subcategory": "glow",
+  "tags": [
+    "glow",
+    "bloom",
+    "kernel"
+  ],
+  "style": [
+    "procedural",
+    "production"
+  ],
+  "formats": [
+    "png"
+  ],
+  "source": "TKRS original procedural",
+  "author": "TKRS lighting-batch-001 (Harper)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "35b4e01dc0b66b70e3bf283a85bb77bbf92cb5a3353dbfb8125e7045f423aa04",
+  "file_size": 11603,
+  "files": [
+    "texture.png",
+    "LICENSE.txt"
+  ],
+  "resolution": [
+    512,
+    512
+  ],
+  "color_space": "sRGB",
+  "channels": "L",
+  "hdr": false,
+  "has_alpha": false,
+  "collected_in": "lighting-batch-001",
+  "collector": "Harper",
+  "procedural": true,
+  "asset_type": "mask",
+  "dimensions": null
+}

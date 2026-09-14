@@ -1,0 +1,85 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 2.2,
+    "Ambient": {
+      "r": 0.5882,
+      "g": 0.4314,
+      "b": 0.3137
+    },
+    "OutdoorAmbient": {
+      "r": 0.7059,
+      "g": 0.5098,
+      "b": 0.3529
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.6902,
+      "b": 0.3765
+    },
+    "ColorShift_Bottom": {
+      "r": 0.3137,
+      "g": 0.1961,
+      "b": 0.1569
+    },
+    "EnvironmentDiffuseScale": 0.85,
+    "EnvironmentSpecularScale": 0.8,
+    "ClockTime": 17.85,
+    "GeographicLatitude": 40.0,
+    "ExposureCompensation": 0.05,
+    "ShadowSoftness": 0.22,
+    "FogStart": 180,
+    "FogEnd": 1400,
+    "FogColor": {
+      "r": 0.8627,
+      "g": 0.6275,
+      "b": 0.4314
+    }
+  },
+  "Atmosphere": {
+    "Density": 0.38,
+    "Offset": 0.2,
+    "Color": {
+      "r": 1.0,
+      "g": 0.6667,
+      "b": 0.4314
+    },
+    "Decay": {
+      "r": 1.0,
+      "g": 0.4706,
+      "b": 0.1961
+    },
+    "Glare": 0.4,
+    "Haze": 2.2
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.45,
+    "Size": 28,
+    "Threshold": 0.8
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": 0.04,
+    "Contrast": 0.1,
+    "Saturation": 0.12,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.902,
+      "b": 0.7843
+    }
+  },
+  "SunRaysEffect": {
+    "Enabled": true,
+    "Intensity": 0.28,
+    "Spread": 0.65
+  },
+  "Sky": {
+    "CelestialBodiesShown": true,
+    "SunAngularSize": 18,
+    "StarCount": 0
+  }
+}

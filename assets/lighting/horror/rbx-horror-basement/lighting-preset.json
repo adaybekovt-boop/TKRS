@@ -1,0 +1,82 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.45,
+    "Ambient": {
+      "r": 0.0471,
+      "g": 0.0549,
+      "b": 0.0392
+    },
+    "OutdoorAmbient": {
+      "r": 0.0314,
+      "g": 0.0392,
+      "b": 0.0314
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.8392,
+      "b": 0.549
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0706,
+      "g": 0.0863,
+      "b": 0.0549
+    },
+    "EnvironmentDiffuseScale": 0.08,
+    "EnvironmentSpecularScale": 0.2,
+    "ClockTime": 0.5,
+    "ExposureCompensation": -0.45,
+    "ShadowSoftness": 0.08,
+    "FogColor": {
+      "r": 0.0863,
+      "g": 0.1098,
+      "b": 0.0706
+    },
+    "FogStart": 8,
+    "FogEnd": 42
+  },
+  "Atmosphere": {
+    "Density": 0.45,
+    "Offset": 0.25,
+    "Color": {
+      "r": 0.1569,
+      "g": 0.1882,
+      "b": 0.1255
+    },
+    "Decay": {
+      "r": 0.0627,
+      "g": 0.0784,
+      "b": 0.0471
+    },
+    "Glare": 0.06,
+    "Haze": 2.8
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.8,
+    "Size": 40,
+    "Threshold": 0.42
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.12,
+    "Contrast": 0.22,
+    "Saturation": -0.16,
+    "TintColor": {
+      "r": 0.8235,
+      "g": 0.8627,
+      "b": 0.7451
+    }
+  },
+  "DepthOfFieldEffect": {
+    "Enabled": true,
+    "FarIntensity": 0.28,
+    "FocusDistance": 10,
+    "InFocusRadius": 8,
+    "NearIntensity": 0.1
+  },
+  "art_notes": "One practical hanging bulb 2400K. Leave 2/3 of the room unlit."
+}

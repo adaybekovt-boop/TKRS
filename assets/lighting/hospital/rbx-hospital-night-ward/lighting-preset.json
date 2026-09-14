@@ -1,0 +1,75 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.7,
+    "Ambient": {
+      "r": 0.0941,
+      "g": 0.1176,
+      "b": 0.1647
+    },
+    "OutdoorAmbient": {
+      "r": 0.1569,
+      "g": 0.2039,
+      "b": 0.3059
+    },
+    "ColorShift_Top": {
+      "r": 0.4706,
+      "g": 0.5882,
+      "b": 0.8235
+    },
+    "ColorShift_Bottom": {
+      "r": 0.1412,
+      "g": 0.1098,
+      "b": 0.0863
+    },
+    "EnvironmentDiffuseScale": 0.25,
+    "EnvironmentSpecularScale": 0.35,
+    "ClockTime": 2.5,
+    "ExposureCompensation": -0.25,
+    "ShadowSoftness": 0.3,
+    "FogStart": 25,
+    "FogEnd": 180,
+    "FogColor": {
+      "r": 0.1098,
+      "g": 0.1333,
+      "b": 0.1961
+    }
+  },
+  "Atmosphere": {
+    "Density": 0.26,
+    "Offset": 0.04,
+    "Color": {
+      "r": 0.1961,
+      "g": 0.251,
+      "b": 0.3765
+    },
+    "Decay": {
+      "r": 0.0784,
+      "g": 0.0941,
+      "b": 0.1569
+    },
+    "Glare": 0.05,
+    "Haze": 1.4
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.6,
+    "Size": 32,
+    "Threshold": 0.55
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.08,
+    "Contrast": 0.1,
+    "Saturation": -0.12,
+    "TintColor": {
+      "r": 0.8235,
+      "g": 0.8627,
+      "b": 1.0
+    }
+  },
+  "art_notes": "Practicals: 2200K bed lamps, dim cool hall spill under the door."
+}

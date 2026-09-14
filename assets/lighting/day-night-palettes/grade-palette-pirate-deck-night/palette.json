@@ -1,0 +1,41 @@
+{
+  "name": "Pirate Deck Night",
+  "intended_usage": "Ship deck moonlight + lanterns",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 20,
+      "g": 30,
+      "b": 50
+    },
+    "key": {
+      "r": 255,
+      "g": 170,
+      "b": 70
+    },
+    "fill": {
+      "r": 15,
+      "g": 20,
+      "b": 40
+    },
+    "fog": {
+      "r": 25,
+      "g": 30,
+      "b": 45
+    },
+    "suggested_clocktime": 1.0,
+    "suggested_brightness": 0.9,
+    "colorcorrection": {
+      "Brightness": -0.12,
+      "Contrast": 0.14,
+      "Saturation": -0.05,
+      "TintColor": [
+        255,
+        180,
+        90
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

@@ -1,0 +1,8 @@
+Asset: Incandescent flashlight pattern
+Author: w.forster.1@gmail.com
+Source: OpenGameArt — Flashlight pattern, incandescent
+License: CC0-1.0
+URL: https://opengameart.org/content/flashlight-pattern-incandescent
+
+Creative Commons Zero 1.0 Universal (CC0-1.0)
+https://creativecommons.org/publicdomain/zero/1.0/

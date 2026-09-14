@@ -1,0 +1,75 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 0.9,
+    "Ambient": {
+      "r": 0.1098,
+      "g": 0.0784,
+      "b": 0.0471
+    },
+    "OutdoorAmbient": {
+      "r": 0.1255,
+      "g": 0.0941,
+      "b": 0.0549
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.6667,
+      "b": 0.2353
+    },
+    "ColorShift_Bottom": {
+      "r": 0.0941,
+      "g": 0.0627,
+      "b": 0.0392
+    },
+    "EnvironmentDiffuseScale": 0.2,
+    "EnvironmentSpecularScale": 0.65,
+    "ClockTime": 21.8,
+    "ExposureCompensation": -0.15,
+    "ShadowSoftness": 0.12,
+    "FogStart": 20,
+    "FogEnd": 160,
+    "FogColor": {
+      "r": 0.1961,
+      "g": 0.1333,
+      "b": 0.0627
+    }
+  },
+  "Atmosphere": {
+    "Density": 0.36,
+    "Offset": 0.1,
+    "Color": {
+      "r": 0.3137,
+      "g": 0.1961,
+      "b": 0.0784
+    },
+    "Decay": {
+      "r": 0.1569,
+      "g": 0.0941,
+      "b": 0.0392
+    },
+    "Glare": 0.16,
+    "Haze": 2.0
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.7,
+    "Size": 34,
+    "Threshold": 0.55
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.04,
+    "Contrast": 0.16,
+    "Saturation": 0.1,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.8627,
+      "b": 0.7059
+    }
+  },
+  "art_notes": "Street lamps 2200K. Wet asphalt is required."
+}

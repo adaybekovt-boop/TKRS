@@ -1,0 +1,34 @@
+{
+  "id": "fix-kenney-lamp-square-table",
+  "name": "Square Table Lamp",
+  "description": "Square Table Lamp from Kenney Furniture Kit. Low-poly interior lighting fixture.",
+  "category": "lighting",
+  "subcategory": "office",
+  "tags": [
+    "fixture",
+    "kenney",
+    "furniture",
+    "interior",
+    "office"
+  ],
+  "style": [
+    "stylized",
+    "low-poly"
+  ],
+  "formats": [
+    "obj",
+    "fbx"
+  ],
+  "source": "Kenney Furniture Kit",
+  "author": "Kenney Vleugels (Kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://kenney.nl/assets/furniture-kit",
+  "attribution": "Credit Kenney.nl (not mandatory)",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "obj",
+  "intended_usage": "placeable interior lighting fixture",
+  "sha256": "10af72c09d7e63f914c2a1398e3f3c069ec988f5e6e7beb8e0d6d96e2a388bb8",
+  "file_size": 3167,
+  "dimensions": null
+}

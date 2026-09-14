@@ -1,0 +1,38 @@
+{
+  "id": "grade-palette-carnival-night",
+  "name": "Carnival Night",
+  "description": "Fairground saturated practicals",
+  "category": "lighting",
+  "subcategory": "day-night-palettes",
+  "tags": [
+    "carnival",
+    "night",
+    "fair",
+    "palette",
+    "roblox"
+  ],
+  "style": [
+    "stylized"
+  ],
+  "formats": [
+    "json"
+  ],
+  "source": "TKRS lighting-batch-001 original palettes",
+  "author": "TKRS lighting batch authors",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/adaybekovt-boop/TKRS",
+  "attribution": false,
+  "attribution_required": false,
+  "has_scripts": false,
+  "sha256": "a990824ed273d850620410bb6817bfe6f04e084ebb00496c0c8d914c266b4053",
+  "file_size": 795,
+  "asset_type": "palette",
+  "source_format": "json",
+  "intended_usage": "Fairground saturated practicals",
+  "collected_in": "lighting-batch-001",
+  "files": [
+    "palette.json",
+    "LICENSE.txt"
+  ],
+  "dimensions": null
+}

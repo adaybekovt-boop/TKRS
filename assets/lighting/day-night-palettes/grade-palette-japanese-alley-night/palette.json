@@ -1,0 +1,41 @@
+{
+  "name": "Japanese Alley Night",
+  "intended_usage": "Norain-like neon alley wet",
+  "color_space": "sRGB 0-255 swatches; Roblox ColorCorrection sliders are approximately -1..1",
+  "palette": {
+    "ambient": {
+      "r": 20,
+      "g": 25,
+      "b": 40
+    },
+    "key": {
+      "r": 255,
+      "g": 90,
+      "b": 120
+    },
+    "fill": {
+      "r": 20,
+      "g": 60,
+      "b": 80
+    },
+    "fog": {
+      "r": 25,
+      "g": 30,
+      "b": 45
+    },
+    "suggested_clocktime": 22.0,
+    "suggested_brightness": 1.1,
+    "colorcorrection": {
+      "Brightness": -0.08,
+      "Contrast": 0.14,
+      "Saturation": 0.15,
+      "TintColor": [
+        255,
+        120,
+        150
+      ]
+    }
+  },
+  "license": "CC0-1.0",
+  "note": "Suggested values only. Not measured photometric data."
+}

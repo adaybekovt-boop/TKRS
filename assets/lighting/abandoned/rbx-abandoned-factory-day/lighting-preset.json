@@ -1,0 +1,80 @@
+{
+  "engine": "Roblox",
+  "applies_to": [
+    "Lighting"
+  ],
+  "Lighting": {
+    "Technology": "Future",
+    "Brightness": 1.4,
+    "Ambient": {
+      "r": 0.2745,
+      "g": 0.2667,
+      "b": 0.2353
+    },
+    "OutdoorAmbient": {
+      "r": 0.5882,
+      "g": 0.6118,
+      "b": 0.6431
+    },
+    "ColorShift_Top": {
+      "r": 1.0,
+      "g": 0.9255,
+      "b": 0.7843
+    },
+    "ColorShift_Bottom": {
+      "r": 0.2745,
+      "g": 0.251,
+      "b": 0.2039
+    },
+    "EnvironmentDiffuseScale": 0.35,
+    "EnvironmentSpecularScale": 0.3,
+    "ClockTime": 15.2,
+    "ExposureCompensation": -0.05,
+    "ShadowSoftness": 0.2,
+    "FogStart": 20,
+    "FogEnd": 160,
+    "FogColor": {
+      "r": 0.5098,
+      "g": 0.4863,
+      "b": 0.4235
+    }
+  },
+  "Atmosphere": {
+    "Density": 0.42,
+    "Offset": 0.22,
+    "Color": {
+      "r": 0.6667,
+      "g": 0.6353,
+      "b": 0.549
+    },
+    "Decay": {
+      "r": 1.0,
+      "g": 0.8235,
+      "b": 0.5882
+    },
+    "Glare": 0.35,
+    "Haze": 2.6
+  },
+  "BloomEffect": {
+    "Enabled": true,
+    "Intensity": 0.55,
+    "Size": 32,
+    "Threshold": 0.72
+  },
+  "ColorCorrectionEffect": {
+    "Brightness": -0.04,
+    "Contrast": 0.14,
+    "Saturation": -0.08,
+    "TintColor": {
+      "r": 1.0,
+      "g": 0.9569,
+      "b": 0.8627
+    }
+  },
+  "SunRaysEffect": {
+    "Enabled": true,
+    "Intensity": 0.22,
+    "Spread": 0.7
+  },
+  "art_notes": "Cut holes in the roof/windows. Volume haze is mandatory for the look."
+}

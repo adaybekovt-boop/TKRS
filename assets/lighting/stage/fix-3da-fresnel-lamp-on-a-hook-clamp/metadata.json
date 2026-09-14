@@ -1,0 +1,32 @@
+{
+  "id": "fix-3da-fresnel-lamp-on-a-hook-clamp",
+  "name": "Fresnel Lamp on a Hook Clamp",
+  "description": "A 320 mm studio fresnel on a hook clamp: a finned lamp house on a yoke with tilt locks, a stepped fresnel lens in its front ring, two barn door leaves with amber edge trim, a cable gland and a safety bond. It hangs 690 mm from the clamp jaw",
+  "category": "lighting",
+  "subcategory": "stage",
+  "tags": [
+    "fixture",
+    "3dassets",
+    "stage"
+  ],
+  "style": [
+    "game-ready",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "3DAssets.dev",
+  "author": "3D Assets",
+  "license": "CC0-1.0",
+  "original_url": "https://3dassets.dev/assets/tv-studio-and-broadcast-gallery-fresnel-lamp-on-hook-c-8c8d3271",
+  "attribution": "Not required (CC0).",
+  "has_scripts": false,
+  "asset_type": "fixture",
+  "source_format": "glb",
+  "intended_usage": "placeable lighting fixture model",
+  "ai_generated": true,
+  "sha256": "be7debf71c0d57b98306bd0437ee99ad53e8cb97a1f6031a1b4bde4cbc090db6",
+  "file_size": 62808,
+  "dimensions": null
+}
