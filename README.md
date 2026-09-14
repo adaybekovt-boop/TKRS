@@ -1,20 +1,40 @@
 # TKRS
 
-TKRS is a searchable asset library for Roblox Studio agents. The goal is to let AI agents find and reuse ready-made assets instead of generating everything from scratch.
+TKRS is a searchable asset library for Roblox Studio agents. It lets AI coding agents find and reuse ready-made assets instead of generating every environment piece from scratch.
+
+## Current state
+
+- 410 architecture assets in the first catalog
+- searchable `index/index.json`
+- dependency-free natural-language search CLI
+- filters for subcategory, style, format, source, and license
+- English search plus basic Russian aliases
+- per-asset dimensions, source, license, path, format, and SHA-256 metadata
+
+## Search
+
+```bash
+python tools/search_assets.py "industrial wall" --limit 5
+```
+
+```bash
+python tools/search_assets.py "средневековая дверь" --limit 5
+```
+
+The command returns compact agent-friendly asset records without loading the 3D model files. See `docs/SEARCH.md` for the search contract and filters.
 
 ## Repository layout
 
-- `assets/` — asset packs grouped by category
-- `index/` — searchable asset index
+- `assets/` — ready-made assets grouped by category/subcategory
+- `textures/` — shared deduplicated textures
+- `index/` — searchable catalog and checksums
 - `schemas/` — metadata schemas
-- `tools/` — future indexing/import/validation tools
+- `tools/` — search, materialization, and validation tooling
 - `docs/` — project documentation
-- `examples/` — example asset records
+- `tests/` — automated checks
 
-## Status
+## Agent rule
 
-Early scaffold only. Real assets, search, MCP integration, and import tooling will be added later.
+Agents should search the catalog first and inspect/import only selected candidates. They should not recursively scan the entire `assets/` tree to discover models.
 
-## Asset rule
-
-Every imported asset should eventually include source, author, license, original URL, tags, category, and technical metadata. Do not add assets without clear redistribution/use rights.
+Every imported asset must retain clear source and license information. Assets with unclear redistribution/use rights must not be added.
