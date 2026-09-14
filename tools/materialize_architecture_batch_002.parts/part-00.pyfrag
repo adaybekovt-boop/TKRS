@@ -26,6 +26,8 @@ CHECKSUMS_PATH = REPO / "index" / "checksums.sha256"
 USER_AGENT = "TKRS/2.0 (+https://github.com/adaybekovt-boop/TKRS)"
 
 DOWNLOAD_OVERRIDES = {
+    "https://opengameart.org/sites/default/files/lowpoly-house-construction-site-by-majadroid.zip":
+        "https://opengameart.org/sites/default/files/lowpoly-house-construction-site-by-majadroid_2.zip",
     "https://opengameart.org/content/unfinished-buildings":
         "https://opengameart.org/sites/default/files/unfinishedbuildings_fbx_gltf_textures.zip",
     "https://opengameart.org/content/indoor-bundle":
