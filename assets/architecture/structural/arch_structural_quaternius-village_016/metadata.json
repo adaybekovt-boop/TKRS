@@ -1,0 +1,60 @@
+{
+  "id": "arch_structural_quaternius-village_016",
+  "name": "Overhang Unevenbrick Corner",
+  "description": "Overhang Unevenbrick Corner — reusable structural piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "corner",
+    "low-poly",
+    "medieval",
+    "modular",
+    "overhang",
+    "structural",
+    "unevenbrick"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "Overhang_UnevenBrick_Corner.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/Overhang_UnevenBrick_Corner.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2,
+      0,
+      -1.100798
+    ],
+    "max": [
+      1.100797,
+      3.116765,
+      2
+    ],
+    "size": [
+      3.100797,
+      3.116765,
+      3.100798
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

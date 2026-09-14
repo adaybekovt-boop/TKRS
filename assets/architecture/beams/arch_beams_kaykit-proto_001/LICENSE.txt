@@ -1,0 +1,6 @@
+KayKit Prototype Bits
+Author: Kay Lousberg (KayKit)
+License: CC0-1.0
+Official page: https://kaylousberg.itch.io/
+Original download: https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0/archive/refs/heads/main.zip
+Attribution required: no

@@ -1,0 +1,59 @@
+{
+  "id": "arch_structural_quaternius-village_018",
+  "name": "Prop Support",
+  "description": "Prop Support — reusable structural piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "medieval",
+    "modular",
+    "prop",
+    "structural",
+    "support"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "Prop_Support.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/Prop_Support.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.099302,
+      1.211389,
+      -0.118123
+    ],
+    "max": [
+      0.099302,
+      2.920026,
+      1.91815
+    ],
+    "size": [
+      0.198604,
+      1.708637,
+      2.036273
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

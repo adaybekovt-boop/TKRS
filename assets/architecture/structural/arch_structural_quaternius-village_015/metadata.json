@@ -1,0 +1,61 @@
+{
+  "id": "arch_structural_quaternius-village_015",
+  "name": "Overhang Plaster Corner Front",
+  "description": "Overhang Plaster Corner Front — reusable structural piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "corner",
+    "front",
+    "low-poly",
+    "medieval",
+    "modular",
+    "overhang",
+    "plaster",
+    "structural"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "Overhang_Plaster_Corner_Front.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/Overhang_Plaster_Corner_Front.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2,
+      -0.023046,
+      -1.11757
+    ],
+    "max": [
+      1.117569,
+      3.116765,
+      2.000001
+    ],
+    "size": [
+      3.117569,
+      3.13981,
+      3.117571
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

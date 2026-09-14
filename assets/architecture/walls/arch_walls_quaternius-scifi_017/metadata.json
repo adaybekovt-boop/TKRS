@@ -1,0 +1,61 @@
+{
+  "id": "arch_walls_quaternius-scifi_017",
+  "name": "Shortwall Metalplates Corner Outer",
+  "description": "Shortwall Metalplates Corner Outer — reusable walls piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "corner",
+    "low-poly",
+    "metalplates",
+    "modular",
+    "outer",
+    "scifi",
+    "shortwall",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "ShortWall_MetalPlates_Corner_Outer.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/ShortWall_MetalPlates_Corner_Outer.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.0,
+      0.001852,
+      -4.000001
+    ],
+    "max": [
+      -1.6e-05,
+      1.000002,
+      -1e-06
+    ],
+    "size": [
+      3.999984,
+      0.99815,
+      4.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

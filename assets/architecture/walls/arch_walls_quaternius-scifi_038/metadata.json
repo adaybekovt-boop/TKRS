@@ -1,0 +1,60 @@
+{
+  "id": "arch_walls_quaternius-scifi_038",
+  "name": "Wallastra Straight Flat",
+  "description": "Wallastra Straight Flat — reusable walls piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "flat",
+    "low-poly",
+    "modular",
+    "scifi",
+    "straight",
+    "wallastra",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "WallAstra_Straight_Flat.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/WallAstra_Straight_Flat.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.1,
+      -0.0,
+      -2.0
+    ],
+    "max": [
+      -2,
+      3,
+      2.0
+    ],
+    "size": [
+      0.1,
+      3.0,
+      4.000001
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

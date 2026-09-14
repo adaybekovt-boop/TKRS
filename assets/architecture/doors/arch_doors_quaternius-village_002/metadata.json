@@ -1,0 +1,60 @@
+{
+  "id": "arch_doors_quaternius-village_002",
+  "name": "Doorframe Flat Wooddark",
+  "description": "Doorframe Flat Wooddark — reusable doors piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "doorframe",
+    "doors",
+    "flat",
+    "low-poly",
+    "medieval",
+    "modular",
+    "wooddark"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "DoorFrame_Flat_WoodDark.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/DoorFrame_Flat_WoodDark.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.78621,
+      -0.008545,
+      -0.24329
+    ],
+    "max": [
+      0.787783,
+      2.303715,
+      0.145162
+    ],
+    "size": [
+      1.573992,
+      2.312259,
+      0.388452
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

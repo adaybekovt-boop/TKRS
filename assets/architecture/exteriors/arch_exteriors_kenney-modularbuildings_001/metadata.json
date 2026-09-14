@@ -1,0 +1,60 @@
+{
+  "id": "arch_exteriors_kenney-modularbuildings_001",
+  "name": "Building Block",
+  "description": "Building Block — reusable exteriors piece from Kenney Modular Buildings. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "block",
+    "building",
+    "city",
+    "exteriors",
+    "low-poly",
+    "modern",
+    "modular"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "modern",
+    "city"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Buildings",
+  "source_site": "https://kenney.nl/assets/modular-buildings",
+  "source_repository": "https://opengameart.org/content/modular-buildings",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-buildings.zip",
+  "original_filename": "building-block.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/building-block.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "size": [
+      2.0,
+      2.0,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

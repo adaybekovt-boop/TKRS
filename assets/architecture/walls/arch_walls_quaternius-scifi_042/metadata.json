@@ -1,0 +1,61 @@
+{
+  "id": "arch_walls_quaternius-scifi_042",
+  "name": "Wallband Corner Square Outer",
+  "description": "Wallband Corner Square Outer — reusable walls piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "corner",
+    "low-poly",
+    "modular",
+    "outer",
+    "scifi",
+    "square",
+    "wallband",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "WallBand_Corner_Square_Outer.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/WallBand_Corner_Square_Outer.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.007501,
+      0,
+      -4.007501
+    ],
+    "max": [
+      0.0,
+      3,
+      1e-06
+    ],
+    "size": [
+      4.007501,
+      3,
+      4.007501
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

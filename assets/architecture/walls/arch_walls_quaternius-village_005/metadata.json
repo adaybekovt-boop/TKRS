@@ -1,0 +1,60 @@
+{
+  "id": "arch_walls_quaternius-village_005",
+  "name": "Wall Plaster Straight R",
+  "description": "Wall Plaster Straight R — reusable walls piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "medieval",
+    "modular",
+    "plaster",
+    "straight",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "Wall_Plaster_Straight_R.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/Wall_Plaster_Straight_R.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.001778,
+      0,
+      -0.314035
+    ],
+    "max": [
+      1,
+      3.122689,
+      0.092447
+    ],
+    "size": [
+      2.001778,
+      3.122689,
+      0.406482
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

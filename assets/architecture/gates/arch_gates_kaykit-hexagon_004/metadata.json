@@ -1,0 +1,61 @@
+{
+  "id": "arch_gates_kaykit-hexagon_004",
+  "name": "Wall Straight Gate",
+  "description": "Wall Straight Gate — reusable gates piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "gates",
+  "tags": [
+    "architecture",
+    "gate",
+    "gates",
+    "low-poly",
+    "medieval",
+    "modular",
+    "straight",
+    "stylized",
+    "wall"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "wall_straight_gate.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/neutral/wall_straight_gate.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1,
+      -0.05,
+      -0.4
+    ],
+    "max": [
+      1,
+      1.364029,
+      0.495624
+    ],
+    "size": [
+      2,
+      1.414029,
+      0.895624
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

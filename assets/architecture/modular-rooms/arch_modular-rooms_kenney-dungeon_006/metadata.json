@@ -1,0 +1,59 @@
+{
+  "id": "arch_modular-rooms_kenney-dungeon_006",
+  "name": "Corridor Wide Corner",
+  "description": "Corridor Wide Corner — reusable modular rooms piece from Kenney Modular Dungeon Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "corner",
+    "corridor",
+    "dungeon",
+    "low-poly",
+    "modular",
+    "modular rooms",
+    "wide"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Dungeon Kit",
+  "source_site": "https://kenney.nl/assets/modular-dungeon-kit",
+  "source_repository": "https://opengameart.org/content/modular-dungeon-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-dungeon-kit_2.0.zip",
+  "original_filename": "corridor-wide-corner.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/corridor-wide-corner.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.0,
+      -1.0,
+      -4.0
+    ],
+    "max": [
+      4.0,
+      4.233286,
+      4.0
+    ],
+    "size": [
+      8.0,
+      5.233286,
+      8.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

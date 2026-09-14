@@ -1,0 +1,58 @@
+{
+  "id": "arch_walls_kenney-buildingkit_005",
+  "name": "Wall Low",
+  "description": "Wall Low — reusable walls piece from Kenney Building Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "industrial",
+    "low",
+    "low-poly",
+    "modular",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Building Kit",
+  "source_site": "https://kenney.nl/assets/building-kit",
+  "source_repository": "https://opengameart.org/content/building-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_building-kit.zip",
+  "original_filename": "wall-low.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/wall-low.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      0.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.2,
+      1.0
+    ],
+    "size": [
+      2.0,
+      1.2,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

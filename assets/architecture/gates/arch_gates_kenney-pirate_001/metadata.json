@@ -1,0 +1,59 @@
+{
+  "id": "arch_gates_kenney-pirate_001",
+  "name": "Castle Gate",
+  "description": "Castle Gate — reusable gates piece from Kenney Pirate Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "gates",
+  "tags": [
+    "architecture",
+    "castle",
+    "gate",
+    "gates",
+    "low-poly",
+    "medieval",
+    "modular",
+    "pirate"
+  ],
+  "style": [
+    "low-poly",
+    "pirate",
+    "medieval"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Pirate Kit",
+  "source_site": "https://kenney.nl/assets/pirate-kit",
+  "source_repository": "https://opengameart.org/content/pirate-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_pirate-kit_2.1.zip",
+  "original_filename": "castle-gate.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/castle-gate.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.0,
+      -1.0,
+      -1.8
+    ],
+    "max": [
+      2.0,
+      4.4,
+      1.8
+    ],
+    "size": [
+      4.0,
+      5.4,
+      3.6
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

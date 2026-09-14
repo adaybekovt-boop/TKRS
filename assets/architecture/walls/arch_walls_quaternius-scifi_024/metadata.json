@@ -1,0 +1,60 @@
+{
+  "id": "arch_walls_quaternius-scifi_024",
+  "name": "Shortwall Simple2 Straight",
+  "description": "Shortwall Simple2 Straight — reusable walls piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "modular",
+    "scifi",
+    "shortwall",
+    "simple2",
+    "straight",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "ShortWall_Simple2_Straight.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/ShortWall_Simple2_Straight.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.0,
+      -0.0,
+      -2.0
+    ],
+    "max": [
+      -1.999999,
+      1.0,
+      2.0
+    ],
+    "size": [
+      0.0,
+      1.0,
+      4.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

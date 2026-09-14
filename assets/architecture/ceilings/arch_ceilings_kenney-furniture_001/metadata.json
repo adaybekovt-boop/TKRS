@@ -1,0 +1,57 @@
+{
+  "id": "arch_ceilings_kenney-furniture_001",
+  "name": "Ceilingfan",
+  "description": "Ceilingfan — reusable ceilings piece from Kenney Furniture Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "ceilings",
+  "tags": [
+    "architecture",
+    "ceilingfan",
+    "ceilings",
+    "interior",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "interior"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Kenney Furniture Kit",
+  "source_site": "https://kenney.nl/assets/furniture-kit",
+  "source_repository": "https://opengameart.org/content/furniture-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_furniturePack.zip",
+  "original_filename": "ceilingFan.obj",
+  "original_format": "obj",
+  "original_zip_path": "Models/ceilingFan.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.828291,
+      -1.33718,
+      -2.613474
+    ],
+    "max": [
+      1.719066,
+      0.0,
+      2.637362
+    ],
+    "size": [
+      4.547357,
+      1.33718,
+      5.250836
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.mtl",
+    "model.obj"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

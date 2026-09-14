@@ -1,0 +1,58 @@
+{
+  "id": "arch_gates_kenney-dungeon_001",
+  "name": "Gate Door",
+  "description": "Gate Door — reusable gates piece from Kenney Modular Dungeon Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "gates",
+  "tags": [
+    "architecture",
+    "door",
+    "dungeon",
+    "gate",
+    "gates",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Dungeon Kit",
+  "source_site": "https://kenney.nl/assets/modular-dungeon-kit",
+  "source_repository": "https://opengameart.org/content/modular-dungeon-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-dungeon-kit_2.0.zip",
+  "original_filename": "gate-door.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/gate-door.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -3.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      2.2,
+      4.4,
+      1.0
+    ],
+    "size": [
+      5.2,
+      5.4,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

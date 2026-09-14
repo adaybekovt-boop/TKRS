@@ -1,0 +1,59 @@
+{
+  "id": "arch_columns_quaternius-scifi_001",
+  "name": "Column Astra",
+  "description": "Column Astra — reusable columns piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "columns",
+  "tags": [
+    "architecture",
+    "astra",
+    "column",
+    "columns",
+    "low-poly",
+    "modular",
+    "scifi"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Column_Astra.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Columns/Column_Astra.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.163885,
+      -0.006465,
+      -0.839862
+    ],
+    "max": [
+      0.163885,
+      3.021496,
+      0.369407
+    ],
+    "size": [
+      0.327771,
+      3.027961,
+      1.209269
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

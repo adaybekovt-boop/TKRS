@@ -1,0 +1,59 @@
+{
+  "id": "arch_modular-rooms_kenney-space_009",
+  "name": "Corridor Wide Junction",
+  "description": "Corridor Wide Junction — reusable modular rooms piece from Kenney Modular Space Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "corridor",
+    "junction",
+    "low-poly",
+    "modular",
+    "modular rooms",
+    "scifi",
+    "wide"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Space Kit",
+  "source_site": "https://kenney.nl/assets/modular-space-kit",
+  "source_repository": "https://opengameart.org/content/modular-space-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-space-kit_1.0.zip",
+  "original_filename": "corridor-wide-junction.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/corridor-wide-junction.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.0,
+      -1.0,
+      -4.000001
+    ],
+    "max": [
+      4.0,
+      4.25,
+      4.000001
+    ],
+    "size": [
+      8.0,
+      5.25,
+      8.000002
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

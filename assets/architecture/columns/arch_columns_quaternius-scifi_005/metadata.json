@@ -1,0 +1,60 @@
+{
+  "id": "arch_columns_quaternius-scifi_005",
+  "name": "Column Metalsupport Curve",
+  "description": "Column Metalsupport Curve — reusable columns piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "columns",
+  "tags": [
+    "architecture",
+    "column",
+    "columns",
+    "curve",
+    "low-poly",
+    "metalsupport",
+    "modular",
+    "scifi"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Column_MetalSupport_Curve.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Columns/Column_MetalSupport_Curve.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.47094,
+      -0.021999,
+      -4.470939
+    ],
+    "max": [
+      1e-06,
+      0.02201,
+      1.6e-05
+    ],
+    "size": [
+      4.470941,
+      0.044009,
+      4.470954
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arch_railings_quaternius-scifi_012",
+  "name": "Prop Rail Round Big",
+  "description": "Prop Rail Round Big — reusable railings piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "railings",
+  "tags": [
+    "architecture",
+    "big",
+    "low-poly",
+    "modular",
+    "prop",
+    "rail",
+    "railings",
+    "round",
+    "scifi"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Prop_Rail_Round_Big.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Props/Prop_Rail_Round_Big.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      0.037051,
+      0.0,
+      -4.02965
+    ],
+    "max": [
+      4.033444,
+      0.862368,
+      0.019243
+    ],
+    "size": [
+      3.996393,
+      0.862368,
+      4.048893
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

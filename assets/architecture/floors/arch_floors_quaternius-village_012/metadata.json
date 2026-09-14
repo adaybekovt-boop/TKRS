@@ -1,0 +1,60 @@
+{
+  "id": "arch_floors_quaternius-village_012",
+  "name": "Floor Woodlight Overhangcorner2",
+  "description": "Floor Woodlight Overhangcorner2 — reusable floors piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "floor",
+    "floors",
+    "low-poly",
+    "medieval",
+    "modular",
+    "overhangcorner2",
+    "woodlight"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "Floor_WoodLight_OverhangCorner2.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/Floor_WoodLight_OverhangCorner2.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1,
+      -0.01,
+      -0.75
+    ],
+    "max": [
+      -0.043352,
+      0.01,
+      1
+    ],
+    "size": [
+      0.956648,
+      0.02,
+      1.75
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

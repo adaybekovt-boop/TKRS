@@ -1,0 +1,60 @@
+{
+  "id": "arch_floors_quaternius-scifi_001",
+  "name": "Prop Light Floor",
+  "description": "Prop Light Floor — reusable floors piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "floor",
+    "floors",
+    "light",
+    "low-poly",
+    "modular",
+    "prop",
+    "scifi"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Prop_Light_Floor.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Props/Prop_Light_Floor.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.666552,
+      -0.001287,
+      -0.262288
+    ],
+    "max": [
+      0.666552,
+      0.207701,
+      0.262288
+    ],
+    "size": [
+      1.333104,
+      0.208988,
+      0.524576
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

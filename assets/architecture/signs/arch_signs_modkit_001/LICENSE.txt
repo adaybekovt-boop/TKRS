@@ -1,0 +1,6 @@
+ModKit Modular Building Kit
+Author: JaronKBragg7337
+License: CC0-1.0
+Official page: https://github.com/JaronKBragg7337/asset-pack-ue-threejs-blender-unity
+Original download: https://github.com/JaronKBragg7337/asset-pack-ue-threejs-blender-unity/archive/refs/heads/main.zip
+Attribution required: no

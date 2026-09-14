@@ -1,0 +1,60 @@
+{
+  "id": "arch_floors_quaternius-village_005",
+  "name": "Floor Wooddark Half1",
+  "description": "Floor Wooddark Half1 — reusable floors piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "floor",
+    "floors",
+    "half1",
+    "low-poly",
+    "medieval",
+    "modular",
+    "wooddark"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "Floor_WoodDark_Half1.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/Floor_WoodDark_Half1.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1,
+      -0.01,
+      -1
+    ],
+    "max": [
+      0,
+      0.01,
+      1
+    ],
+    "size": [
+      1,
+      0.02,
+      2
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

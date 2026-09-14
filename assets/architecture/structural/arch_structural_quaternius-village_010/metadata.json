@@ -1,0 +1,60 @@
+{
+  "id": "arch_structural_quaternius-village_010",
+  "name": "Corner Interior Small",
+  "description": "Corner Interior Small — reusable structural piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "corner",
+    "interior",
+    "low-poly",
+    "medieval",
+    "modular",
+    "small",
+    "structural"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "Corner_Interior_Small.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/Corner_Interior_Small.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      0.194913,
+      -0.0,
+      -0.41982
+    ],
+    "max": [
+      0.405087,
+      3.0,
+      -0.18018
+    ],
+    "size": [
+      0.210174,
+      3.0,
+      0.23964
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

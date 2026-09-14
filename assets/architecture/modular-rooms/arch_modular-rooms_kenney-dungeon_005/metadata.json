@@ -1,0 +1,58 @@
+{
+  "id": "arch_modular-rooms_kenney-dungeon_005",
+  "name": "Corridor Transition",
+  "description": "Corridor Transition — reusable modular rooms piece from Kenney Modular Dungeon Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "corridor",
+    "dungeon",
+    "low-poly",
+    "modular",
+    "modular rooms",
+    "transition"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Dungeon Kit",
+  "source_site": "https://kenney.nl/assets/modular-dungeon-kit",
+  "source_repository": "https://opengameart.org/content/modular-dungeon-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-dungeon-kit_2.0.zip",
+  "original_filename": "corridor-transition.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/corridor-transition.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -6.0,
+      -1.0,
+      -4.0
+    ],
+    "max": [
+      2.0,
+      4.05,
+      4.0
+    ],
+    "size": [
+      8.0,
+      5.05,
+      8.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

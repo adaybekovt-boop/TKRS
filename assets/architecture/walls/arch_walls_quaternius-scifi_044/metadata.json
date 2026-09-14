@@ -1,0 +1,60 @@
+{
+  "id": "arch_walls_quaternius-scifi_044",
+  "name": "Wallband Straight Broken",
+  "description": "Wallband Straight Broken — reusable walls piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "broken",
+    "low-poly",
+    "modular",
+    "scifi",
+    "straight",
+    "wallband",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "WallBand_Straight_Broken.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/WallBand_Straight_Broken.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.2,
+      -0.011731,
+      -2.823317
+    ],
+    "max": [
+      -1.521038,
+      3,
+      2.0
+    ],
+    "size": [
+      0.678962,
+      3.011731,
+      4.823318
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "arch_floors_kenney-space_003",
+  "name": "Template Floor Layer Hole",
+  "description": "Template Floor Layer Hole — reusable floors piece from Kenney Modular Space Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "floor",
+    "floors",
+    "hole",
+    "layer",
+    "low-poly",
+    "modular",
+    "scifi",
+    "template"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Space Kit",
+  "source_site": "https://kenney.nl/assets/modular-space-kit",
+  "source_repository": "https://opengameart.org/content/modular-space-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-space-kit_1.0.zip",
+  "original_filename": "template-floor-layer-hole.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/template-floor-layer-hole.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.1,
+      -1.0,
+      -2.1
+    ],
+    "max": [
+      2.1,
+      3.4,
+      2.1
+    ],
+    "size": [
+      4.2,
+      4.4,
+      4.2
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

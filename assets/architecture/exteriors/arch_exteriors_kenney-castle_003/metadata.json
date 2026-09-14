@@ -1,0 +1,59 @@
+{
+  "id": "arch_exteriors_kenney-castle_003",
+  "name": "Tower Hexagon Base",
+  "description": "Tower Hexagon Base — reusable exteriors piece from Kenney Castle Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "base",
+    "exteriors",
+    "hexagon",
+    "low-poly",
+    "medieval",
+    "modular",
+    "tower"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Castle Kit",
+  "source_site": "https://kenney.nl/assets/castle-kit",
+  "source_repository": "https://opengameart.org/content/castle-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_castle-kit.zip",
+  "original_filename": "tower-hexagon-base.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/tower-hexagon-base.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.31,
+      1.0
+    ],
+    "size": [
+      2.0,
+      2.31,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

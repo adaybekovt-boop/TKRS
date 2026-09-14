@@ -1,0 +1,59 @@
+{
+  "id": "arch_columns_quaternius-scifi_008",
+  "name": "Column Simple",
+  "description": "Column Simple — reusable columns piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "columns",
+  "tags": [
+    "architecture",
+    "column",
+    "columns",
+    "low-poly",
+    "modular",
+    "scifi",
+    "simple"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Column_Simple.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Columns/Column_Simple.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.253425,
+      0,
+      -0.506219
+    ],
+    "max": [
+      0.253425,
+      5.0,
+      0.46866
+    ],
+    "size": [
+      0.506849,
+      5.0,
+      0.974879
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

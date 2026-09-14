@@ -1,0 +1,58 @@
+{
+  "id": "arch_walls_kenney-space_005",
+  "name": "Template Wall",
+  "description": "Template Wall — reusable walls piece from Kenney Modular Space Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "modular",
+    "scifi",
+    "template",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Space Kit",
+  "source_site": "https://kenney.nl/assets/modular-space-kit",
+  "source_repository": "https://opengameart.org/content/modular-space-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-space-kit_1.0.zip",
+  "original_filename": "template-wall.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/template-wall.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.0,
+      -1.0,
+      -1.000998
+    ],
+    "max": [
+      2.0,
+      4.25,
+      1.0
+    ],
+    "size": [
+      4.0,
+      5.25,
+      2.000998
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

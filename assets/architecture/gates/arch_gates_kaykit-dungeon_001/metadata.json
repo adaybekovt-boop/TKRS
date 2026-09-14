@@ -1,0 +1,60 @@
+{
+  "id": "arch_gates_kaykit-dungeon_001",
+  "name": "Wall Corner Gated.Gltf",
+  "description": "Wall Corner Gated.Gltf — reusable gates piece from KayKit Dungeon Remastered. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "gates",
+  "tags": [
+    "architecture",
+    "corner",
+    "dungeon",
+    "gated.gltf",
+    "gates",
+    "low-poly",
+    "modular",
+    "stylized",
+    "wall"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon",
+    "stylized"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "KayKit Dungeon Remastered",
+  "source_site": "https://kaylousberg.itch.io/kaykit-dungeon-pack",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/archive/refs/heads/main.zip",
+  "original_filename": "wall_corner_gated.gltf.glb",
+  "original_format": "glb",
+  "original_zip_path": "KayKit-Dungeon-Remastered-1.0-main/addons/kaykit_dungeon_remastered/Assets/gltf/wall_corner_gated.gltf.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2,
+      0,
+      -0.5
+    ],
+    "max": [
+      0.500015,
+      4,
+      2.000061
+    ],
+    "size": [
+      2.500015,
+      4,
+      2.500061
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

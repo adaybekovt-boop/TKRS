@@ -1,0 +1,59 @@
+{
+  "id": "arch_structural_quaternius-village_011",
+  "name": "Holecover 90Half",
+  "description": "Holecover 90Half — reusable structural piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "90half",
+    "architecture",
+    "holecover",
+    "low-poly",
+    "medieval",
+    "modular",
+    "structural"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "HoleCover_90Half.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/HoleCover_90Half.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.0,
+      -0.105087,
+      -1.11982
+    ],
+    "max": [
+      1.11982,
+      0.105088,
+      0.0
+    ],
+    "size": [
+      1.119821,
+      0.210174,
+      1.119821
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

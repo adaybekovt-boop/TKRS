@@ -1,0 +1,60 @@
+{
+  "id": "arch_structural_kaykit-proto_002",
+  "name": "Primitive Slope Half",
+  "description": "Primitive Slope Half — reusable structural piece from KayKit Prototype Bits. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "half",
+    "low-poly",
+    "modular",
+    "primitive",
+    "prototype",
+    "slope",
+    "structural"
+  ],
+  "style": [
+    "low-poly",
+    "prototype",
+    "modular"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Prototype Bits",
+  "source_site": "https://kaylousberg.itch.io/",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0/archive/refs/heads/main.zip",
+  "original_filename": "Primitive_Slope_Half.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Prototype-Bits-1.0-main/addons/kaykit_prototype_bits/Assets/gltf/Primitive_Slope_Half.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2,
+      0.0,
+      -2
+    ],
+    "max": [
+      2,
+      4.0,
+      2
+    ],
+    "size": [
+      4,
+      4.0,
+      4
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

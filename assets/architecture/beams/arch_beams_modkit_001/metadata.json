@@ -1,0 +1,57 @@
+{
+  "id": "arch_beams_modkit_001",
+  "name": "Sm Beam 4M",
+  "description": "Sm Beam 4M — reusable beams piece from ModKit Modular Building Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "beams",
+  "tags": [
+    "architecture",
+    "beam",
+    "beams",
+    "industrial",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "modular",
+    "industrial",
+    "low-poly"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "ModKit Modular Building Kit",
+  "source_site": "https://github.com/JaronKBragg7337/asset-pack-ue-threejs-blender-unity",
+  "source_repository": "https://github.com/JaronKBragg7337/asset-pack-ue-threejs-blender-unity",
+  "author": "JaronKBragg7337",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/JaronKBragg7337/asset-pack-ue-threejs-blender-unity/archive/refs/heads/main.zip",
+  "original_filename": "SM_Beam_4m.glb",
+  "original_format": "glb",
+  "original_zip_path": "asset-pack-ue-threejs-blender-unity-main/exports/GLTF/SM_Beam_4m.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      0,
+      -0.32,
+      -0.1025
+    ],
+    "max": [
+      4,
+      0.02,
+      0.1025
+    ],
+    "size": [
+      4,
+      0.34,
+      0.205
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

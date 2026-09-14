@@ -1,0 +1,60 @@
+{
+  "id": "arch_structural_quaternius-scifi_017",
+  "name": "Topplastic Corner Outer",
+  "description": "Topplastic Corner Outer — reusable structural piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "corner",
+    "low-poly",
+    "modular",
+    "outer",
+    "scifi",
+    "structural",
+    "topplastic"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "TopPlastic_Corner_Outer.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/TopPlastic_Corner_Outer.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.570481,
+      3.5,
+      -4.57048
+    ],
+    "max": [
+      -4.0,
+      5,
+      -3.999999
+    ],
+    "size": [
+      0.570481,
+      1.5,
+      0.570481
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

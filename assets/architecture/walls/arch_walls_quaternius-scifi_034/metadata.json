@@ -1,0 +1,61 @@
+{
+  "id": "arch_walls_quaternius-scifi_034",
+  "name": "Wallastra Corner Square Outer",
+  "description": "Wallastra Corner Square Outer — reusable walls piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "corner",
+    "low-poly",
+    "modular",
+    "outer",
+    "scifi",
+    "square",
+    "wallastra",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "WallAstra_Corner_Square_Outer.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/WallAstra_Corner_Square_Outer.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.43527,
+      -0.006465,
+      -4.435272
+    ],
+    "max": [
+      2e-06,
+      3.021496,
+      -1e-06
+    ],
+    "size": [
+      4.435272,
+      3.027961,
+      4.43527
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

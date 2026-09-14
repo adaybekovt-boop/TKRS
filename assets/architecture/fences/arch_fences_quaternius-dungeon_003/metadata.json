@@ -1,0 +1,59 @@
+{
+  "id": "arch_fences_quaternius-dungeon_003",
+  "name": "Fence Straight Modular",
+  "description": "Fence Straight Modular — reusable fences piece from Quaternius Modular Dungeon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "fences",
+  "tags": [
+    "architecture",
+    "dungeon",
+    "fence",
+    "fences",
+    "low-poly",
+    "modular",
+    "straight"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Dungeon Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "original_filename": "Fence_Straight_Modular.obj",
+  "original_format": "obj",
+  "original_zip_path": ".Updated Modular Dungeon - May 2019/OBJ/Fence_Straight_Modular.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -0.999089,
+      -0.390598
+    ],
+    "max": [
+      1.0,
+      0.29484,
+      0.390598
+    ],
+    "size": [
+      2.0,
+      1.293929,
+      0.781196
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.mtl",
+    "model.obj"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

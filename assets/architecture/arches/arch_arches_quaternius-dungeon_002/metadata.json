@@ -1,0 +1,59 @@
+{
+  "id": "arch_arches_quaternius-dungeon_002",
+  "name": "Arch Bars",
+  "description": "Arch Bars — reusable arches piece from Quaternius Modular Dungeon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "arches",
+  "tags": [
+    "arch",
+    "arches",
+    "architecture",
+    "bars",
+    "dungeon",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Dungeon Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "original_filename": "Arch_bars.obj",
+  "original_format": "obj",
+  "original_zip_path": ".Updated Modular Dungeon - May 2019/OBJ/Arch_bars.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.237746,
+      -0.025182,
+      -0.015165
+    ],
+    "max": [
+      1.240509,
+      3.362965,
+      0.015165
+    ],
+    "size": [
+      2.478255,
+      3.388147,
+      0.03033
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.mtl",
+    "model.obj"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

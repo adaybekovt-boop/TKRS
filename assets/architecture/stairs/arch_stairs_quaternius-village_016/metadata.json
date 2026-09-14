@@ -1,0 +1,59 @@
+{
+  "id": "arch_stairs_quaternius-village_016",
+  "name": "Stairs Exterior Straight R",
+  "description": "Stairs Exterior Straight R — reusable stairs piece from Quaternius Medieval Village MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "stairs",
+  "tags": [
+    "architecture",
+    "exterior",
+    "low-poly",
+    "medieval",
+    "modular",
+    "stairs",
+    "straight"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Medieval Village MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/medievalvillagemegakit.html",
+  "source_repository": "https://opengameart.org/content/medieval-village-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "original_filename": "Stairs_Exterior_Straight_R.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "glTF/Stairs_Exterior_Straight_R.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -0.203688,
+      -1.077246
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.000671
+    ],
+    "size": [
+      2.0,
+      1.203688,
+      2.077917
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

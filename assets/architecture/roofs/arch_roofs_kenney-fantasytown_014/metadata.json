@@ -1,0 +1,62 @@
+{
+  "id": "arch_roofs_kenney-fantasytown_014",
+  "name": "Roof High Gable End",
+  "description": "Roof High Gable End — reusable roofs piece from Kenney Fantasy Town Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "roofs",
+  "tags": [
+    "architecture",
+    "end",
+    "fantasy",
+    "gable",
+    "high",
+    "low-poly",
+    "medieval",
+    "modular",
+    "roof",
+    "roofs"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "fantasy",
+    "medieval"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Fantasy Town Kit",
+  "source_site": "https://kenney.nl/assets/fantasy-town-kit",
+  "source_repository": "https://opengameart.org/content/fantasy-town-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_fantasy-town-kit_2.0.zip",
+  "original_filename": "roof-high-gable-end.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/roof-high-gable-end.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.894295,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.111803,
+      1.0
+    ],
+    "size": [
+      1.894295,
+      2.111803,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

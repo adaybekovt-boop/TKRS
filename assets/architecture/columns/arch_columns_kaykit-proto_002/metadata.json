@@ -1,0 +1,59 @@
+{
+  "id": "arch_columns_kaykit-proto_002",
+  "name": "Primitive Pillar",
+  "description": "Primitive Pillar — reusable columns piece from KayKit Prototype Bits. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "columns",
+  "tags": [
+    "architecture",
+    "columns",
+    "low-poly",
+    "modular",
+    "pillar",
+    "primitive",
+    "prototype"
+  ],
+  "style": [
+    "low-poly",
+    "prototype",
+    "modular"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Prototype Bits",
+  "source_site": "https://kaylousberg.itch.io/",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0/archive/refs/heads/main.zip",
+  "original_filename": "Primitive_Pillar.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Prototype-Bits-1.0-main/addons/kaykit_prototype_bits/Assets/gltf/Primitive_Pillar.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.5,
+      0.0,
+      -0.5
+    ],
+    "max": [
+      0.5,
+      4.0,
+      0.5
+    ],
+    "size": [
+      1.0,
+      4.0,
+      1.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.bin",
+    "model.gltf"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

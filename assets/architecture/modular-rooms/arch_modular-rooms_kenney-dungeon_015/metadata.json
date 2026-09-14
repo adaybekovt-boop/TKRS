@@ -1,0 +1,59 @@
+{
+  "id": "arch_modular-rooms_kenney-dungeon_015",
+  "name": "Room Small Variation",
+  "description": "Room Small Variation — reusable modular rooms piece from Kenney Modular Dungeon Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "dungeon",
+    "low-poly",
+    "modular",
+    "modular rooms",
+    "room",
+    "small",
+    "variation"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Dungeon Kit",
+  "source_site": "https://kenney.nl/assets/modular-dungeon-kit",
+  "source_repository": "https://opengameart.org/content/modular-dungeon-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-dungeon-kit_2.0.zip",
+  "original_filename": "room-small-variation.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/room-small-variation.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -6.0,
+      -1.0,
+      -6.0
+    ],
+    "max": [
+      6.0,
+      4.233286,
+      6.000001
+    ],
+    "size": [
+      12.0,
+      5.233286,
+      12.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-001",
+  "files": [
+    "model.glb"
+  ],
+  "repaired_in": "architecture-batch-001-final"
+}

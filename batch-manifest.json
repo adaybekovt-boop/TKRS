@@ -1,0 +1,35 @@
+{
+  "batch": "architecture-batch-001-final",
+  "asset_count": 410,
+  "formats": {
+    "glb": 299,
+    "obj": 6,
+    "gltf": 105
+  },
+  "sources": {
+    "KayKit Dungeon Remastered": 9,
+    "Kenney Castle Kit": 24,
+    "Quaternius Modular Dungeon Pack": 5,
+    "KayKit Prototype Bits": 8,
+    "ModKit Modular Building Kit": 6,
+    "Kenney Furniture Kit": 1,
+    "Kenney Building Kit": 69,
+    "Kenney Fantasy Town Kit": 48,
+    "Quaternius Modular Sci-Fi MegaKit (Standard)": 48,
+    "Kenney Modular Buildings": 37,
+    "Quaternius Medieval Village MegaKit (Standard)": 48,
+    "Kenney City Kit (Commercial)": 11,
+    "Kenney City Kit (Industrial)": 10,
+    "Kenney City Kit (Suburban)": 11,
+    "Kenney Graveyard Kit": 9,
+    "Kenney Modular Dungeon Kit": 32,
+    "Kenney Modular Space Kit": 32,
+    "KayKit Medieval Hexagon Pack": 1,
+    "Kenney Pirate Kit": 1
+  },
+  "validation": {
+    "unique_ids": true,
+    "missing_external_dependencies": 0,
+    "null_dimensions": 0
+  }
+}
