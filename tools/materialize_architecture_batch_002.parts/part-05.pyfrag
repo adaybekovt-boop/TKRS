@@ -1,0 +1,54 @@
+y paths: normalized during materialization
+- no substitute textures were fabricated
+
+This is the repository-materialized form of the audited Batch 002 package.
+"""
+    (BATCH_DIR/"REPORT.md").write_text(text,encoding="utf-8")
+
+
+def main() -> None:
+    manifest=decode_manifest(); assets=manifest["assets"]
+    ASSET_ROOT.mkdir(parents=True,exist_ok=True); TEXTURE_ROOT.mkdir(parents=True,exist_ok=True); CACHE_ROOT.mkdir(parents=True,exist_ok=True)
+
+    # Never overwrite Batch 001 or any existing catalog asset.
+    collisions=[a["_target_dir"] for a in assets if (REPO/a["_target_dir"]).exists()]
+    if collisions:
+        raise RuntimeError(f"Batch 002 target path collisions with existing catalog: {collisions[:20]} (total {len(collisions)})")
+
+    urls=sorted({a["original_url"] for a in assets})
+    prepared={}
+    for i,original_url in enumerate(urls,1):
+        url=DOWNLOAD_OVERRIDES.get(original_url,original_url)
+        key=hashlib.sha256(url.encode()).hexdigest()[:16]
+        archive=CACHE_ROOT/f"{key}.zip"; srcroot=CACHE_ROOT/f"{key}-src"
+        print(f"[{i}/{len(urls)}] Preparing {original_url}",flush=True)
+        download(url,archive); safe_extract_zip(archive,srcroot)
+        prepared[original_url]=(srcroot,file_index(srcroot))
+
+    for i,raw in enumerate(assets,1):
+        metadata=dict(raw); target_rel=metadata.pop("_target_dir")
+        out_dir=REPO/target_rel; out_dir.mkdir(parents=True,exist_ok=False)
+        srcroot,index=prepared[metadata["original_url"]]
+        src=locate(srcroot,index,metadata["original_zip_path"])
+        fmt=metadata["original_format"].lower()
+        print(f"[{i}/{len(assets)}] {metadata['id']} ({fmt})",flush=True)
+        if fmt=="glb": materialize_glb(src,out_dir)
+        elif fmt=="fbx": materialize_fbx(src,out_dir)
+        elif fmt=="gltf": materialize_gltf(src,srcroot,index,metadata,out_dir)
+        elif fmt=="obj": materialize_obj(src,srcroot,index,out_dir)
+        else: raise RuntimeError(f"Unsupported format {fmt}: {metadata['id']}")
+        copy_declared_sidecars(metadata,srcroot,index,out_dir)
+        write_license(metadata,out_dir)
+        (out_dir/"metadata.json").write_text(json.dumps(metadata,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+        validate_asset(out_dir,metadata)
+
+    # Batch-level invariant before touching the combined index.
+    materialized=list((REPO/"assets/architecture").glob("**/metadata.json"))
+    if len(materialized) < 410 + len(assets):
+        raise RuntimeError(f"Catalog unexpectedly small after Batch 002: {len(materialized)}")
+    build_catalog()
+    write_batch_report(len(assets),len({a['source'] for a in assets}))
+    print(f"Batch 002 materialized successfully: {len(assets)} assets",flush=True)
+
+if __name__=="__main__":
+    main()
