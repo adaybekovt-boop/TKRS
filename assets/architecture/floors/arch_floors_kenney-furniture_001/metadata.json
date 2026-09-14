@@ -1,0 +1,57 @@
+{
+  "id": "arch_floors_kenney-furniture_001",
+  "name": "Floorcorner",
+  "description": "Floorcorner — reusable floors piece from Kenney Furniture Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "floorcorner",
+    "floors",
+    "kenney-furniture",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "interior"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Kenney Furniture Kit",
+  "source_site": "https://kenney.nl/assets/furniture-kit",
+  "source_repository": "https://opengameart.org/content/furniture-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_furniturePack.zip",
+  "original_filename": "floorCorner.obj",
+  "original_format": "obj",
+  "original_zip_path": "Models/floorCorner.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -5.5,
+      -5.639933e-17,
+      0.0
+    ],
+    "max": [
+      0.0,
+      0.5,
+      5.5
+    ],
+    "size": [
+      5.5,
+      0.5000000000000001,
+      5.5
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

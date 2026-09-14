@@ -1,0 +1,49 @@
+{
+  "id": "arch_stairs_majadroid-apocalyptic_001",
+  "name": "Fire Stairs",
+  "description": "Fire Stairs — reusable stairs piece from Majadroid Apocalyptic Buildings. Modular architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "stairs",
+  "tags": [
+    "stairs",
+    "architecture",
+    "modular",
+    "low-poly"
+  ],
+  "style": [
+    "low-poly",
+    "abandoned",
+    "brutalist"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Majadroid Apocalyptic Buildings",
+  "source_site": "https://opengameart.org/content/3d-apocalyptic-building-city-cc0",
+  "source_repository": "https://opengameart.org/content/3d-apocalyptic-building-city-cc0",
+  "author": "Majadroid",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/lowpoly-apocalyptic-buildings-by-majadroid.zip",
+  "original_filename": "fire-stairs.fbx",
+  "original_format": "fbx",
+  "original_zip_path": "majadroid-apocalyptic/fire-stairs.fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.fbx",
+    "Concrete026_1K_Color.jpg",
+    "Concrete031_1K_Color.jpg",
+    "Facade001_1K_Color.jpg",
+    "Rocks007_1K_Color.jpg",
+    "Rust006_1K_Color.jpg",
+    "billboards-texture-1024.png"
+  ],
+  "attribution": null
+}

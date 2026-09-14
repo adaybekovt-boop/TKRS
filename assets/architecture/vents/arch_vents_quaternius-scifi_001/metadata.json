@@ -1,0 +1,60 @@
+{
+  "id": "arch_vents_quaternius-scifi_001",
+  "name": "Prop Vent Big",
+  "description": "Prop Vent Big — reusable vents piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "vents",
+  "tags": [
+    "architecture",
+    "big",
+    "low-poly",
+    "modular",
+    "prop",
+    "quaternius-scifi",
+    "vent",
+    "vents"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Prop_Vent_Big.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Props/Prop_Vent_Big.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0001873970031738,
+      -0.06878673285245895,
+      -0.49516916275024414
+    ],
+    "max": [
+      1.0001873970031738,
+      0,
+      0.4812404215335846
+    ],
+    "size": [
+      2.0003747940063477,
+      0.06878673285245895,
+      0.9764095842838287
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Prop_Vent_Big.bin"
+  ],
+  "attribution": null
+}

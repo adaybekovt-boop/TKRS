@@ -1,0 +1,82 @@
+# Blender MTL File: 'None'
+# Material Count: 20
+
+newmtl None
+
+map_Kd medicsubsta_backdoor.png
+
+newmtl None_medicsubsta_creteborder.png
+
+map_Kd medicsubsta_creteborder.png
+
+newmtl None_medicsubsta_cretetails.png
+
+map_Kd medicsubsta_cretetails.png
+
+newmtl None_medicsubsta_cretewalls.png
+
+map_Kd medicsubsta_cretewalls.png
+
+newmtl None_medicsubsta_enterdoor.png
+
+map_Kd medicsubsta_enterdoor.png
+
+newmtl None_medicsubsta_frontwall.png
+
+map_Kd medicsubsta_frontwall.png
+
+newmtl None_medicsubsta_fundament.png
+
+map_Kd medicsubsta_fundament.png
+
+newmtl None_medicsubsta_fundamentt2.png
+
+map_Kd medicsubsta_fundamentt2.png
+
+newmtl None_medicsubsta_grgewall.png
+
+map_Kd medicsubsta_grgewall.png
+
+newmtl None_medicsubsta_krest.png
+
+map_Kd medicsubsta_krest.png
+
+newmtl None_medicsubsta_lights.png
+
+map_Kd medicsubsta_lights.png
+
+newmtl None_medicsubsta_name_flush.png
+
+map_Kd medicsubsta_name_flush.png
+
+newmtl None_medicsubsta_podezdupper.png
+
+map_Kd medicsubsta_podezdupper.png
+
+newmtl None_medicsubsta_profwall.png
+
+map_Kd medicsubsta_profwall.png
+
+newmtl None_medicsubsta_roof.png
+
+map_Kd medicsubsta_roof.png
+
+newmtl None_medicsubsta_stonewall.png
+
+map_Kd medicsubsta_stonewall.png
+
+newmtl None_medicsubsta_vorota.png
+
+map_Kd medicsubsta_vorota.png
+
+newmtl None_medicsubsta_wall2.png
+
+map_Kd medicsubsta_wall2.png
+
+newmtl None_medicsubsta_zaborclear.png
+
+map_Kd medicsubsta_zaborclear.png
+
+newmtl None_medicsubsta_zaborpainted.png
+
+map_Kd medicsubsta_zaborpainted.png

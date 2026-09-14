@@ -1,0 +1,58 @@
+{
+  "id": "arch_stairs_kaykit-dungeon_005",
+  "name": "Stairs Wide",
+  "description": "Stairs Wide — reusable stairs piece from KayKit Dungeon Remastered. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "stairs",
+  "tags": [
+    "architecture",
+    "gltf",
+    "kaykit-dungeon",
+    "low-poly",
+    "modular",
+    "stairs",
+    "wide"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon",
+    "stylized"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "KayKit Dungeon Remastered",
+  "source_site": "https://kaylousberg.itch.io/kaykit-dungeon-pack",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/archive/refs/heads/main.zip",
+  "original_filename": "stairs_wide.gltf.glb",
+  "original_format": "glb",
+  "original_zip_path": "KayKit-Dungeon-Remastered-1.0-main/addons/kaykit_dungeon_remastered/Assets/gltf/stairs_wide.gltf.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -3.500000238418579,
+      0,
+      -1.092784742695585e-07
+    ],
+    "max": [
+      3.5,
+      5.099999904632568,
+      4
+    ],
+    "size": [
+      7.000000238418579,
+      5.099999904632568,
+      4.000000109278474
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

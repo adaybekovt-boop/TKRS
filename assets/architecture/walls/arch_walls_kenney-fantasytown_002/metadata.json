@@ -1,0 +1,60 @@
+{
+  "id": "arch_walls_kenney-fantasytown_002",
+  "name": "Wall Block Half",
+  "description": "Wall Block Half — reusable walls piece from Kenney Fantasy Town Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "block",
+    "half",
+    "kenney-fantasytown",
+    "low-poly",
+    "modular",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "fantasy",
+    "medieval"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Fantasy Town Kit",
+  "source_site": "https://kenney.nl/assets/fantasy-town-kit",
+  "source_repository": "https://opengameart.org/content/fantasy-town-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_fantasy-town-kit_2.0.zip",
+  "original_filename": "wall-block-half.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/wall-block-half.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0000001192092896,
+      -1.0,
+      -1.0000001192092896
+    ],
+    "max": [
+      1.0000001192092896,
+      1.0,
+      1.0000001192092896
+    ],
+    "size": [
+      2.000000238418579,
+      2.0,
+      2.000000238418579
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

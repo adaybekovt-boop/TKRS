@@ -1,0 +1,59 @@
+{
+  "id": "arch_doors_kenney-factory_001",
+  "name": "Door Wide Closed",
+  "description": "Door Wide Closed — reusable doors piece from Kenney Factory Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "closed",
+    "door",
+    "doors",
+    "kenney-factory",
+    "low-poly",
+    "modular",
+    "wide"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Factory Kit",
+  "source_site": "https://kenney.nl/assets/factory-kit",
+  "source_repository": "https://opengameart.org/content/factory-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_factory-kit_3.0.zip",
+  "original_filename": "door-wide-closed.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/door-wide-closed.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.8999999761581421,
+      -1.1920928955078125e-07,
+      -1.0000001192092896
+    ],
+    "max": [
+      0.8999999761581421,
+      1.600000023841858,
+      0.4000000059604645
+    ],
+    "size": [
+      1.7999999523162842,
+      1.6000001430511475,
+      1.400000125169754
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

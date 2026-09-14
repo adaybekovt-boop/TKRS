@@ -1,0 +1,63 @@
+{
+  "id": "arch_exteriors_mixazzz-hospital_001",
+  "name": "Medzlujba",
+  "description": "Medzlujba — reusable exteriors piece from Hospital from Moscow. Modular architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "exteriors",
+    "architecture",
+    "modular",
+    "low-poly"
+  ],
+  "style": [
+    "low-poly",
+    "civic"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Hospital from Moscow",
+  "source_site": "https://opengameart.org/content/hospital-medical-center-from-moscow",
+  "source_repository": "https://opengameart.org/content/hospital-medical-center-from-moscow",
+  "author": "Mixazzz (M. Khludeev)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/hospital-medical-center-from-moscow.zip",
+  "original_filename": "medzlujba.obj",
+  "original_format": "obj",
+  "original_zip_path": "mixazzz-hospital/medzlujba.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl",
+    "medicsubsta_backdoor.png",
+    "medicsubsta_creteborder.png",
+    "medicsubsta_cretetails.png",
+    "medicsubsta_cretewalls.png",
+    "medicsubsta_enterdoor.png",
+    "medicsubsta_frontwall.png",
+    "medicsubsta_fundament.png",
+    "medicsubsta_fundamentt2.png",
+    "medicsubsta_grgewall.png",
+    "medicsubsta_krest.png",
+    "medicsubsta_lights.png",
+    "medicsubsta_name_flush.png",
+    "medicsubsta_podezdupper.png",
+    "medicsubsta_profwall.png",
+    "medicsubsta_roof.png",
+    "medicsubsta_stonewall.png",
+    "medicsubsta_vorota.png",
+    "medicsubsta_wall2.png",
+    "medicsubsta_zaborclear.png",
+    "medicsubsta_zaborpainted.png"
+  ],
+  "attribution": null
+}

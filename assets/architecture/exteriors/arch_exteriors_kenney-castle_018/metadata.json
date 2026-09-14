@@ -1,0 +1,57 @@
+{
+  "id": "arch_exteriors_kenney-castle_018",
+  "name": "Bridge Draw",
+  "description": "Bridge Draw — reusable exteriors piece from Kenney Castle Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "bridge",
+    "draw",
+    "exteriors",
+    "kenney-castle",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Castle Kit",
+  "source_site": "https://kenney.nl/assets/castle-kit",
+  "source_repository": "https://opengameart.org/content/castle-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_castle-kit.zip",
+  "original_filename": "bridge-draw.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/bridge-draw.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0020725727081299,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "size": [
+      2.00207257270813,
+      2.0,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

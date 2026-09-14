@@ -1,0 +1,61 @@
+{
+  "id": "arch_walls_kaykit-proto_008",
+  "name": "Target Wall Small",
+  "description": "Target Wall Small — reusable walls piece from KayKit Prototype Bits. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "kaykit-proto",
+    "low-poly",
+    "modular",
+    "small",
+    "target",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "low-poly",
+    "prototype",
+    "modular"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Prototype Bits",
+  "source_site": "https://kaylousberg.itch.io/",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0/archive/refs/heads/main.zip",
+  "original_filename": "target_wall_small.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Prototype-Bits-1.0-main/addons/kaykit_prototype_bits/Assets/gltf/target_wall_small.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.5897185206413269,
+      -0.5889667868614197,
+      0.0046858228743076324
+    ],
+    "max": [
+      0.590375542640686,
+      0.5548734068870544,
+      0.33045414090156555
+    ],
+    "size": [
+      1.180094063282013,
+      1.1438401937484741,
+      0.3257683180272579
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "target_wall_small.bin",
+    "prototypebits_texture.png"
+  ],
+  "attribution": null
+}

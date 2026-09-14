@@ -1,0 +1,61 @@
+{
+  "id": "arch_floors_kaykit-dungeon_006",
+  "name": "Floor Dirt Small Corner",
+  "description": "Floor Dirt Small Corner — reusable floors piece from KayKit Dungeon Remastered. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "corner",
+    "dirt",
+    "floor",
+    "floors",
+    "gltf",
+    "kaykit-dungeon",
+    "low-poly",
+    "modular",
+    "small"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon",
+    "stylized"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "KayKit Dungeon Remastered",
+  "source_site": "https://kaylousberg.itch.io/kaykit-dungeon-pack",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/archive/refs/heads/main.zip",
+  "original_filename": "floor_dirt_small_corner.gltf.glb",
+  "original_format": "glb",
+  "original_zip_path": "KayKit-Dungeon-Remastered-1.0-main/addons/kaykit_dungeon_remastered/Assets/gltf/floor_dirt_small_corner.gltf.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0000123977661133,
+      -0.10000000894069672,
+      -1.000000238418579
+    ],
+    "max": [
+      1,
+      0.05379105731844902,
+      1
+    ],
+    "size": [
+      2.0000123977661133,
+      0.15379106625914574,
+      2.000000238418579
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

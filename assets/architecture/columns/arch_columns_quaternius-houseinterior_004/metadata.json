@@ -1,0 +1,58 @@
+{
+  "id": "arch_columns_quaternius-houseinterior_004",
+  "name": "Column Squarebig",
+  "description": "Column Squarebig — reusable columns piece from Quaternius Ultimate House Interior Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "columns",
+  "tags": [
+    "architecture",
+    "column",
+    "columns",
+    "low-poly",
+    "modular",
+    "quaternius-houseinterior",
+    "squarebig"
+  ],
+  "style": [
+    "low-poly",
+    "interior"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Ultimate House Interior Pack",
+  "source_site": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-house-interior-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/ultimate_house_interior_pack_-_june_2020.zip",
+  "original_filename": "Column_SquareBig.obj",
+  "original_format": "obj",
+  "original_zip_path": "Ultimate House Interior Pack - June 2020/OBJ/Column_SquareBig.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.453634,
+      0.0,
+      -0.453634
+    ],
+    "max": [
+      0.453635,
+      4.158595,
+      0.453634
+    ],
+    "size": [
+      0.907269,
+      4.158595,
+      0.907268
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

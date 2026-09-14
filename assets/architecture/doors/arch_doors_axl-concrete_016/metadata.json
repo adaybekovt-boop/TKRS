@@ -1,0 +1,47 @@
+{
+  "id": "arch_doors_axl-concrete_016",
+  "name": "WallDoorway",
+  "description": "WallDoorway — reusable architecture piece from Modular Concrete Interior 3D.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "doors",
+    "batch-002",
+    "low-poly",
+    "brutalist",
+    "liminal",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "brutalist",
+    "liminal",
+    "modular"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Modular Concrete Interior 3D",
+  "source_site": "https://opengameart.org/content/modular-concrete-interior-3d",
+  "source_repository": "https://opengameart.org/content/modular-concrete-interior-3d",
+  "author": "AXLplosion",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_concrete_interior.zip",
+  "original_filename": "WallDoorway.fbx",
+  "original_format": "fbx",
+  "original_zip_path": "WallDoorway.fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.fbx"
+  ],
+  "attribution": null
+}

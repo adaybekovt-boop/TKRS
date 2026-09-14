@@ -1,0 +1,59 @@
+{
+  "id": "arch_structural_kenney-roads_007",
+  "name": "Light Square Double",
+  "description": "Light Square Double — reusable structural piece from Kenney City Kit (Roads). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "double",
+    "kenney-roads",
+    "light",
+    "low-poly",
+    "modular",
+    "square",
+    "structural"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "city"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney City Kit (Roads)",
+  "source_site": "https://kenney.nl/assets/city-kit-roads",
+  "source_repository": "https://opengameart.org/content/city-kit-roads",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_city-kit-roads.zip",
+  "original_filename": "light-square-double.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/light-square-double.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "size": [
+      2.0,
+      2.0,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

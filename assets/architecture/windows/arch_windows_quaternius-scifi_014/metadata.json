@@ -1,0 +1,59 @@
+{
+  "id": "arch_windows_quaternius-scifi_014",
+  "name": "Wallwindow Straight",
+  "description": "Wallwindow Straight — reusable windows piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "modular",
+    "quaternius-scifi",
+    "straight",
+    "wallwindow",
+    "windows"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "WallWindow_Straight.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/WallWindow_Straight.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.200000286102295,
+      -3.2584125619905535e-07,
+      -2.000000238418579
+    ],
+    "max": [
+      -1.8799241781234741,
+      3.186552047729492,
+      2.0000007152557373
+    ],
+    "size": [
+      0.3200761079788208,
+      3.1865523735707484,
+      4.000000953674316
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "WallWindow_Straight.bin"
+  ],
+  "attribution": null
+}

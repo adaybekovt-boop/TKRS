@@ -1,0 +1,61 @@
+{
+  "id": "arch_doors_kaykit-dungeon_006",
+  "name": "Wall Doorway Scaffold Door",
+  "description": "Wall Doorway Scaffold Door — reusable doors piece from KayKit Dungeon Remastered. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "door",
+    "doors",
+    "doorway",
+    "kaykit-dungeon",
+    "low-poly",
+    "modular",
+    "scaffold",
+    "wall"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon",
+    "stylized"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "KayKit Dungeon Remastered",
+  "source_site": "https://kaylousberg.itch.io/kaykit-dungeon-pack",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/archive/refs/heads/main.zip",
+  "original_filename": "wall_doorway_scaffold_door.obj",
+  "original_format": "obj",
+  "original_zip_path": "KayKit-Dungeon-Remastered-1.0-main/addons/kaykit_dungeon_remastered/Assets/obj/wall_doorway_scaffold_door.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      0.0,
+      -0.386773
+    ],
+    "max": [
+      1.0,
+      2.75,
+      0.386773
+    ],
+    "size": [
+      2.0,
+      2.75,
+      0.773546
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

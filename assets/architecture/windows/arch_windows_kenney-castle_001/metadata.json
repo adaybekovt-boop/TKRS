@@ -1,0 +1,58 @@
+{
+  "id": "arch_windows_kenney-castle_001",
+  "name": "Tower Square Mid Windows",
+  "description": "Tower Square Mid Windows — reusable windows piece from Kenney Castle Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "kenney-castle",
+    "low-poly",
+    "mid",
+    "modular",
+    "square",
+    "tower",
+    "windows"
+  ],
+  "style": [
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Castle Kit",
+  "source_site": "https://kenney.nl/assets/castle-kit",
+  "source_repository": "https://opengameart.org/content/castle-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_castle-kit.zip",
+  "original_filename": "tower-square-mid-windows.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/tower-square-mid-windows.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0099999904632568,
+      1.0
+    ],
+    "size": [
+      2.0,
+      2.009999990463257,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

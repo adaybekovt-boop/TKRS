@@ -1,0 +1,61 @@
+{
+  "id": "arch_windows_quaternius-scifi_006",
+  "name": "Wallastra Straight Flat Window",
+  "description": "Wallastra Straight Flat Window — reusable windows piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "flat",
+    "low-poly",
+    "modular",
+    "quaternius-scifi",
+    "straight",
+    "wallastra",
+    "window",
+    "windows"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "WallAstra_Straight_Flat_Window.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/WallAstra_Straight_Flat_Window.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.5014517307281494,
+      -2.5648702717262495e-07,
+      -2.000000476837158
+    ],
+    "max": [
+      -2,
+      3,
+      2.000000476837158
+    ],
+    "size": [
+      0.5014517307281494,
+      3.000000256487027,
+      4.000000953674316
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "WallAstra_Straight_Flat_Window.bin"
+  ],
+  "attribution": null
+}

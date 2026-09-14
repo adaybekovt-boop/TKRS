@@ -1,0 +1,47 @@
+{
+  "id": "arch_stairs_axl-concrete_008",
+  "name": "Stairs Landing",
+  "description": "Stairs_Landing — reusable architecture piece from Modular Concrete Interior 3D.",
+  "category": "architecture",
+  "subcategory": "stairs",
+  "tags": [
+    "architecture",
+    "stairs",
+    "batch-002",
+    "low-poly",
+    "brutalist",
+    "liminal",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "brutalist",
+    "liminal",
+    "modular"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Modular Concrete Interior 3D",
+  "source_site": "https://opengameart.org/content/modular-concrete-interior-3d",
+  "source_repository": "https://opengameart.org/content/modular-concrete-interior-3d",
+  "author": "AXLplosion",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_concrete_interior.zip",
+  "original_filename": "Stairs_Landing.fbx",
+  "original_format": "fbx",
+  "original_zip_path": "Stairs_Landing.fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.fbx"
+  ],
+  "attribution": null
+}

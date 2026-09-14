@@ -1,0 +1,5 @@
+ks_gameassets Indoor Bundle
+Author: ks_gameassets
+License: CC0-1.0
+Official page: https://opengameart.org/content/indoor-bundle
+Attribution required: no

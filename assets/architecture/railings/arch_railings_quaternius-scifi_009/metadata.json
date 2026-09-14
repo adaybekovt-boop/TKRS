@@ -1,0 +1,62 @@
+{
+  "id": "arch_railings_quaternius-scifi_009",
+  "name": "Prop Rail Incline Long R",
+  "description": "Prop Rail Incline Long R — reusable railings piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "railings",
+  "tags": [
+    "architecture",
+    "incline",
+    "long",
+    "low-poly",
+    "modular",
+    "prop",
+    "quaternius-scifi",
+    "r",
+    "rail",
+    "railings"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Prop_Rail_Incline_Long_R.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Props/Prop_Rail_Incline_Long_R.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.031191760674118996,
+      0.002967238426208496,
+      0.09897005558013916
+    ],
+    "max": [
+      0.2233477383852005,
+      2.7197914123535156,
+      3.9015612602233887
+    ],
+    "size": [
+      0.2545394990593195,
+      2.716824173927307,
+      3.8025912046432495
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Prop_Rail_Incline_Long_R.bin"
+  ],
+  "attribution": null
+}

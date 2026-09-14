@@ -1,0 +1,60 @@
+{
+  "id": "arch_structural_kenney-platformer_010",
+  "name": "Block Grass Large Slope Narrow",
+  "description": "Block Grass Large Slope Narrow — reusable structural piece from Kenney Platformer Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "block",
+    "grass",
+    "kenney-platformer",
+    "large",
+    "low-poly",
+    "modular",
+    "narrow",
+    "slope",
+    "structural"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Platformer Kit",
+  "source_site": "https://kenney.nl/assets/platformer-kit",
+  "source_repository": "https://opengameart.org/content/platformer-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_platformer-kit.zip",
+  "original_filename": "block-grass-large-slope-narrow.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/block-grass-large-slope-narrow.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.9902617335319519,
+      -1.0,
+      -1.0055891275405884
+    ],
+    "max": [
+      0.979556143283844,
+      0.9659258723258972,
+      1.0055891275405884
+    ],
+    "size": [
+      1.969817876815796,
+      1.9659258723258972,
+      2.0111782550811768
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

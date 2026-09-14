@@ -1,0 +1,60 @@
+{
+  "id": "arch_modular-rooms_fertilesoil-house_003",
+  "name": "Prop Bathroom Toilet",
+  "description": "Prop Bathroom Toilet — reusable modular-rooms piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "bathroom",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "modular-rooms",
+    "prop",
+    "toilet"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Prop_Bathroom_Toilet.obj",
+  "original_format": "obj",
+  "original_zip_path": "Prop_Bathroom_Toilet.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.29292149,
+      0.0,
+      -0.47326908
+    ],
+    "max": [
+      0.29292149,
+      1.02697167,
+      0.41921758
+    ],
+    "size": [
+      0.58584298,
+      1.02697167,
+      0.89248666
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

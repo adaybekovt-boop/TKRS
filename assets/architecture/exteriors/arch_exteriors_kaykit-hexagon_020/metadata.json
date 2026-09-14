@@ -1,0 +1,60 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_020",
+  "name": "Building Lumbermill Yellow Building Lumbermill Top Yellow",
+  "description": "Building Lumbermill Yellow Building Lumbermill Top Yellow — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "building",
+    "exteriors",
+    "kaykit-hexagon",
+    "low-poly",
+    "lumbermill",
+    "modular",
+    "yellow"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_lumbermill_yellow_building_lumbermill_top_yellow.obj",
+  "original_format": "obj",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/obj/buildings/yellow/building_lumbermill_yellow_building_lumbermill_top_yellow.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.455008,
+      1.05,
+      -0.454999
+    ],
+    "max": [
+      0.255497,
+      1.704322,
+      0.729961
+    ],
+    "size": [
+      0.7105049999999999,
+      0.6543219999999998,
+      1.18496
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

@@ -1,0 +1,82 @@
+# Blender MTL File: 'None'
+# Material Count: 20
+
+newmtl None
+
+map_Kd metall.png
+
+newmtl None_b_metall.png
+
+map_Kd b_metall.png
+
+newmtl None_balkons1.png
+
+map_Kd balkons1.png
+
+newmtl None_balkons2.png
+
+map_Kd balkons2.png
+
+newmtl None_balkons3.png
+
+map_Kd balkons3.png
+
+newmtl None_balkons4.png
+
+map_Kd balkons4.png
+
+newmtl None_blackplitka.png
+
+map_Kd blackplitka.png
+
+newmtl None_dombokwall.png
+
+map_Kd dombokwall.png
+
+newmtl None_door_damofon.png
+
+map_Kd door_damofon.png
+
+newmtl None_krisha.png
+
+map_Kd krisha.png
+
+newmtl None_my16wins1.png
+
+map_Kd my16wins1.png
+
+newmtl None_my16wins2.png
+
+map_Kd my16wins2.png
+
+newmtl None_my16wins3.png
+
+map_Kd my16wins3.png
+
+newmtl None_my16wins4.png
+
+map_Kd my16wins4.png
+
+newmtl None_my16wins5.png
+
+map_Kd my16wins5.png
+
+newmtl None_my16wins6.png
+
+map_Kd my16wins6.png
+
+newmtl None_my16wins7.png
+
+map_Kd my16wins7.png
+
+newmtl None_mysorndoor.png
+
+map_Kd mysorndoor.png
+
+newmtl None_podezdwall.png
+
+map_Kd podezdwall.png
+
+newmtl None_whiteplitka.png
+
+map_Kd whiteplitka.png

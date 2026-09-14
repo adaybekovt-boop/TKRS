@@ -1,0 +1,59 @@
+{
+  "id": "arch_walls_kaykit-dungeon_008",
+  "name": "Wall Half",
+  "description": "Wall Half — reusable walls piece from KayKit Dungeon Remastered. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "gltf",
+    "half",
+    "kaykit-dungeon",
+    "low-poly",
+    "modular",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon",
+    "stylized"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "KayKit Dungeon Remastered",
+  "source_site": "https://kaylousberg.itch.io/kaykit-dungeon-pack",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/archive/refs/heads/main.zip",
+  "original_filename": "wall_half.gltf.glb",
+  "original_format": "glb",
+  "original_zip_path": "KayKit-Dungeon-Remastered-1.0-main/addons/kaykit_dungeon_remastered/Assets/gltf/wall_half.gltf.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.6292068494294654e-07,
+      0,
+      -0.5000006556510925
+    ],
+    "max": [
+      2.000000238418579,
+      4,
+      0.5
+    ],
+    "size": [
+      2.000000401339264,
+      4,
+      1.0000006556510925
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

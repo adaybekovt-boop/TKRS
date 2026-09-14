@@ -1,0 +1,58 @@
+{
+  "id": "arch_walls_kenney-factory_001",
+  "name": "Structure Wall",
+  "description": "Structure Wall — reusable walls piece from Kenney Factory Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "kenney-factory",
+    "low-poly",
+    "modular",
+    "structure",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Factory Kit",
+  "source_site": "https://kenney.nl/assets/factory-kit",
+  "source_repository": "https://opengameart.org/content/factory-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_factory-kit_3.0.zip",
+  "original_filename": "structure-wall.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/structure-wall.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.5,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      0.5,
+      3.0,
+      1.5
+    ],
+    "size": [
+      1.0,
+      4.0,
+      2.5
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

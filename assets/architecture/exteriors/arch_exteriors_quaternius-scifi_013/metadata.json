@@ -1,0 +1,60 @@
+{
+  "id": "arch_exteriors_quaternius-scifi_013",
+  "name": "Platform Simple Curve",
+  "description": "Platform Simple Curve — reusable exteriors piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "curve",
+    "exteriors",
+    "low-poly",
+    "modular",
+    "platform",
+    "quaternius-scifi",
+    "simple"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Platform_Simple_Curve.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Platforms/Platform_Simple_Curve.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2,
+      0,
+      -2.0000052452087402
+    ],
+    "max": [
+      2.000002384185791,
+      0,
+      2
+    ],
+    "size": [
+      4.000002384185791,
+      0,
+      4.00000524520874
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Platform_Simple_Curve.bin"
+  ],
+  "attribution": null
+}

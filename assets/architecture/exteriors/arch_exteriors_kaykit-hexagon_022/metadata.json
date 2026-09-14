@@ -1,0 +1,61 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_022",
+  "name": "Building Mine Blue",
+  "description": "Building Mine Blue — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "blue",
+    "building",
+    "exteriors",
+    "kaykit-hexagon",
+    "low-poly",
+    "mine",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_mine_blue.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_mine_blue.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.8167374730110168,
+      -0.00012449533096514642,
+      -1.0197482109069824
+    ],
+    "max": [
+      0.7888157367706299,
+      1.1365101337432861,
+      0.9002118110656738
+    ],
+    "size": [
+      1.6055532097816467,
+      1.1366346290742513,
+      1.9199600219726562
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_mine_blue.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

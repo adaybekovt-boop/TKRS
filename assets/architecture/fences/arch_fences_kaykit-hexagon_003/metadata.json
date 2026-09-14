@@ -1,0 +1,62 @@
+{
+  "id": "arch_fences_kaykit-hexagon_003",
+  "name": "Fence Stone Straight Gate",
+  "description": "Fence Stone Straight Gate — reusable fences piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "fences",
+  "tags": [
+    "architecture",
+    "fence",
+    "fences",
+    "gate",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular",
+    "stone",
+    "straight"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "fence_stone_straight_gate.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/neutral/fence_stone_straight_gate.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.1000001430511475,
+      -0.04999999329447746,
+      -0.577350378036499
+    ],
+    "max": [
+      0.06244158744812012,
+      0.2962718605995178,
+      0.5773496031761169
+    ],
+    "size": [
+      1.1624417304992676,
+      0.3462718538939953,
+      1.154699981212616
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "fence_stone_straight_gate.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

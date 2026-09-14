@@ -1,0 +1,6 @@
+Kenney Factory Kit
+Author: Kenney (www.kenney.nl)
+License: CC0-1.0
+Official page: https://kenney.nl/assets/factory-kit
+Original download: https://opengameart.org/sites/default/files/kenney_factory-kit_3.0.zip
+Attribution required: no

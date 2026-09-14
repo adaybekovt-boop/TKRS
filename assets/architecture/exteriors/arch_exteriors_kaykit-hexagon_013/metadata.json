@@ -1,0 +1,60 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_013",
+  "name": "Building Lumbermill Blue Building Lumbermill Saw Blue",
+  "description": "Building Lumbermill Blue Building Lumbermill Saw Blue — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "blue",
+    "building",
+    "exteriors",
+    "kaykit-hexagon",
+    "low-poly",
+    "lumbermill",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_lumbermill_blue_building_lumbermill_saw_blue.obj",
+  "original_format": "obj",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/obj/buildings/blue/building_lumbermill_blue_building_lumbermill_saw_blue.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      0.139996,
+      0.035001,
+      -0.244999
+    ],
+    "max": [
+      0.419996,
+      0.525001,
+      0.245001
+    ],
+    "size": [
+      0.27999999999999997,
+      0.49000000000000005,
+      0.49
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

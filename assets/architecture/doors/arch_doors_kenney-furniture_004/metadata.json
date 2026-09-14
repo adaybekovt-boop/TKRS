@@ -1,0 +1,57 @@
+{
+  "id": "arch_doors_kenney-furniture_004",
+  "name": "Cabinettelevisiondoors",
+  "description": "Cabinettelevisiondoors — reusable doors piece from Kenney Furniture Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "cabinettelevisiondoors",
+    "doors",
+    "kenney-furniture",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "interior"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Kenney Furniture Kit",
+  "source_site": "https://kenney.nl/assets/furniture-kit",
+  "source_repository": "https://opengameart.org/content/furniture-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_furniturePack.zip",
+  "original_filename": "cabinetTelevisionDoors.obj",
+  "original_format": "obj",
+  "original_zip_path": "Models/cabinetTelevisionDoors.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -8.0,
+      0.0,
+      -0.1
+    ],
+    "max": [
+      0.0,
+      3.1,
+      2.5
+    ],
+    "size": [
+      8.0,
+      3.1,
+      2.6
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

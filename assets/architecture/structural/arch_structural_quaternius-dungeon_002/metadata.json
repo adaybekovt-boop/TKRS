@@ -1,0 +1,57 @@
+{
+  "id": "arch_structural_quaternius-dungeon_002",
+  "name": "Brick",
+  "description": "Brick — reusable structural piece from Quaternius Modular Dungeon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "brick",
+    "low-poly",
+    "modular",
+    "quaternius-dungeon",
+    "structural"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Dungeon Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "original_filename": "Brick.obj",
+  "original_format": "obj",
+  "original_zip_path": ".Updated Modular Dungeon - May 2019/OBJ/Brick.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.35743,
+      -0.008454,
+      -0.198583
+    ],
+    "max": [
+      0.35743,
+      0.17805,
+      0.198583
+    ],
+    "size": [
+      0.71486,
+      0.186504,
+      0.397166
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

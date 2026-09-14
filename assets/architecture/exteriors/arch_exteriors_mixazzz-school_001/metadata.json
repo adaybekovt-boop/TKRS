@@ -1,0 +1,62 @@
+{
+  "id": "arch_exteriors_mixazzz-school_001",
+  "name": "School 1195",
+  "description": "School 1195 — reusable exteriors piece from School from Moscow. Modular architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "exteriors",
+    "architecture",
+    "modular",
+    "low-poly"
+  ],
+  "style": [
+    "low-poly",
+    "civic"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "School from Moscow",
+  "source_site": "https://opengameart.org/content/school-from-moscow-lowpoly-building",
+  "source_repository": "https://opengameart.org/content/school-from-moscow-lowpoly-building",
+  "author": "Mixazzz (M. Khludeev)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/school-from-moscow-lowpoly-building.zip",
+  "original_filename": "school_1195.obj",
+  "original_format": "obj",
+  "original_zip_path": "mixazzz-school/school_1195.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl",
+    "1195_allwin.png",
+    "1195_clearwall.png",
+    "1195_extdoor.png",
+    "1195_extdoor2.png",
+    "1195_floor.png",
+    "1195_hallsmallwin.png",
+    "1195_hallwin.png",
+    "1195_logo_flush.png",
+    "1195_rooffloor.png",
+    "1195_roofmetall.png",
+    "1195_sportwall.png",
+    "1195_sportwallback.png",
+    "1195_sportwin.png",
+    "1195_steps.png",
+    "1195_subroofmetall.png",
+    "1195_wallbig.png",
+    "1195_wallbigclear.png",
+    "1195_walldown.png",
+    "1195_wallyellow.png"
+  ],
+  "attribution": null
+}

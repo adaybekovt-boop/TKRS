@@ -1,0 +1,59 @@
+{
+  "id": "arch_structural_kaykit-dungeon_002",
+  "name": "Rubble Half",
+  "description": "Rubble Half — reusable structural piece from KayKit Dungeon Remastered. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "gltf",
+    "half",
+    "kaykit-dungeon",
+    "low-poly",
+    "modular",
+    "rubble",
+    "structural"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon",
+    "stylized"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "KayKit Dungeon Remastered",
+  "source_site": "https://kaylousberg.itch.io/kaykit-dungeon-pack",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/archive/refs/heads/main.zip",
+  "original_filename": "rubble_half.gltf.glb",
+  "original_format": "glb",
+  "original_zip_path": "KayKit-Dungeon-Remastered-1.0-main/addons/kaykit_dungeon_remastered/Assets/gltf/rubble_half.gltf.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.1812772982011666e-12,
+      -6.056272372489957e-09,
+      -1.5163036584854126
+    ],
+    "max": [
+      3.9996535778045654,
+      3.5,
+      1.483696460723877
+    ],
+    "size": [
+      3.9996535778057467,
+      3.5000000060562724,
+      3.0000001192092896
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

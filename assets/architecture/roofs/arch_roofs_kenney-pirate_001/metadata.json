@@ -1,0 +1,57 @@
+{
+  "id": "arch_roofs_kenney-pirate_001",
+  "name": "Tower Roof",
+  "description": "Tower Roof — reusable roofs piece from Kenney Pirate Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "roofs",
+  "tags": [
+    "architecture",
+    "kenney-pirate",
+    "low-poly",
+    "modular",
+    "roof",
+    "roofs",
+    "tower"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Pirate Kit",
+  "source_site": "https://kenney.nl/assets/pirate-kit",
+  "source_repository": "https://opengameart.org/content/pirate-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_pirate-kit_2.1.zip",
+  "original_filename": "tower-roof.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/tower-roof.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.814037561416626,
+      -1.0,
+      -1.814037561416626
+    ],
+    "max": [
+      1.814037561416626,
+      3.440000057220459,
+      1.814037561416626
+    ],
+    "size": [
+      3.628075122833252,
+      4.440000057220459,
+      3.628075122833252
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

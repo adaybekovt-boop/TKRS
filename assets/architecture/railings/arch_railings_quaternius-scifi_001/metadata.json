@@ -1,0 +1,60 @@
+{
+  "id": "arch_railings_quaternius-scifi_001",
+  "name": "Platform Rails 2",
+  "description": "Platform Rails 2 — reusable railings piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "railings",
+  "tags": [
+    "2",
+    "architecture",
+    "low-poly",
+    "modular",
+    "platform",
+    "quaternius-scifi",
+    "railings",
+    "rails"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Platform_Rails_2.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Platforms/Platform_Rails_2.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.1792110204696655,
+      0.0029671788215637207,
+      0.04379671812057495
+    ],
+    "max": [
+      1.1792110204696655,
+      1.7013636827468872,
+      1.9347995519638062
+    ],
+    "size": [
+      2.358422040939331,
+      1.6983965039253235,
+      1.8910028338432312
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Platform_Rails_2.bin"
+  ],
+  "attribution": null
+}

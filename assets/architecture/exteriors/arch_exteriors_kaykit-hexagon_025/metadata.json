@@ -1,0 +1,61 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_025",
+  "name": "Building Stage B",
+  "description": "Building Stage B — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "b",
+    "building",
+    "exteriors",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular",
+    "stage"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_stage_B.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/neutral/building_stage_B.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.4962664842605591,
+      -0.005895562469959259,
+      -0.5751025080680847
+    ],
+    "max": [
+      0.5242391228675842,
+      0.6299967765808105,
+      0.5554741621017456
+    ],
+    "size": [
+      1.0205056071281433,
+      0.6358923390507698,
+      1.1305766701698303
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_stage_B.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

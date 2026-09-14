@@ -1,0 +1,59 @@
+{
+  "id": "arch_exteriors_quaternius-scifi_001",
+  "name": "Platform Metal",
+  "description": "Platform Metal — reusable exteriors piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "exteriors",
+    "low-poly",
+    "metal",
+    "modular",
+    "platform",
+    "quaternius-scifi"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Platform_Metal.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Platforms/Platform_Metal.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2,
+      0,
+      -2
+    ],
+    "max": [
+      2,
+      0,
+      2
+    ],
+    "size": [
+      4,
+      0,
+      4
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Platform_Metal.bin"
+  ],
+  "attribution": null
+}

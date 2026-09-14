@@ -1,0 +1,56 @@
+{
+  "id": "arch_exteriors_32kda-warehouse_001",
+  "name": "Warehouse02",
+  "description": "Warehouse02 — reusable exteriors piece from Warehouse building, low poly. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "32kda-warehouse",
+    "architecture",
+    "exteriors",
+    "low-poly",
+    "modular",
+    "warehouse02"
+  ],
+  "style": [
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Warehouse building, low poly",
+  "source_site": "https://opengameart.org/content/warehouse-building-low-poly",
+  "source_repository": "https://opengameart.org/content/warehouse-building-low-poly",
+  "author": "32kda",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/warehouse02.zip",
+  "original_filename": "warehouse02.glb",
+  "original_format": "glb",
+  "original_zip_path": "warehouse02.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -11.889606475830078,
+      -1,
+      -51.000003814697266
+    ],
+    "max": [
+      11.889591217041016,
+      7.199999809265137,
+      1.0000038146972656
+    ],
+    "size": [
+      23.779197692871094,
+      8.199999809265137,
+      52.00000762939453
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "arch_doors_fertilesoil-house_004",
+  "name": "Structure Exterior Doorway",
+  "description": "Structure Exterior Doorway — reusable doors piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "doors",
+    "doorway",
+    "exterior",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "structure"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Structure_Exterior_Doorway.obj",
+  "original_format": "obj",
+  "original_zip_path": "Structure_Exterior_Doorway.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.5,
+      0.0,
+      -0.6
+    ],
+    "max": [
+      0.5,
+      2.0,
+      -0.3
+    ],
+    "size": [
+      1.0,
+      2.0,
+      0.3
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

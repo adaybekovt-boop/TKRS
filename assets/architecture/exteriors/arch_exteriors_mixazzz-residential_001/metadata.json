@@ -1,0 +1,65 @@
+{
+  "id": "arch_exteriors_mixazzz-residential_001",
+  "name": "My Panel16 14",
+  "description": "My Panel16 14 — reusable exteriors piece from Residential from Moscow. Modular architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "exteriors",
+    "architecture",
+    "modular",
+    "low-poly"
+  ],
+  "style": [
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Residential from Moscow",
+  "source_site": "https://opengameart.org/content/residential-building-lowpoly-apartment-block",
+  "source_repository": "https://opengameart.org/content/residential-building-lowpoly-apartment-block",
+  "author": "Mixazzz (M. Khludeev)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/residential-building-lowpoly-apartment-block",
+  "original_filename": "my_panel16_14.obj",
+  "original_format": "obj",
+  "original_zip_path": "mixazzz-residential/my_panel16_14.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "b_metall.png",
+    "balkons1.png",
+    "balkons2.png",
+    "balkons3.png",
+    "model.mtl",
+    "model.obj",
+    "balkons4.png",
+    "blackplitka.png",
+    "dombokwall.png",
+    "door_damofon.png",
+    "krisha.png",
+    "metall.png",
+    "my16wins1.png",
+    "my16wins2.png",
+    "my16wins3.png",
+    "my16wins4.png",
+    "my16wins5.png",
+    "my16wins6.png",
+    "my16wins7.png",
+    "my16wins8.png",
+    "mysorndoor.png",
+    "podezdwall.png",
+    "podezdwall2.png",
+    "whiteplitka.png"
+  ],
+  "attribution": null
+}

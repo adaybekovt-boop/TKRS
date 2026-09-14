@@ -1,0 +1,59 @@
+{
+  "id": "arch_doors_kenney-spacestation_012",
+  "name": "Wall Door Wide",
+  "description": "Wall Door Wide — reusable doors piece from Kenney Space Station Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "door",
+    "doors",
+    "kenney-spacestation",
+    "low-poly",
+    "modular",
+    "wall",
+    "wide"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Space Station Kit",
+  "source_site": "https://kenney.nl/assets/space-station-kit",
+  "source_repository": "https://opengameart.org/content/space-station-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_space-station-kit.zip",
+  "original_filename": "wall-door-wide.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/wall-door-wide.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "size": [
+      2.0,
+      2.0,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

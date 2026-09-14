@@ -1,0 +1,60 @@
+{
+  "id": "arch_railings_quaternius-scifi_007",
+  "name": "Prop Rail 4",
+  "description": "Prop Rail 4 — reusable railings piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "railings",
+  "tags": [
+    "4",
+    "architecture",
+    "low-poly",
+    "modular",
+    "prop",
+    "quaternius-scifi",
+    "rail",
+    "railings"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Prop_Rail_4.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Props/Prop_Rail_4.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.03228938952088356,
+      5.960464477539063e-08,
+      -3.9628489017486572
+    ],
+    "max": [
+      0.034311532974243164,
+      0.8623678088188171,
+      -0.03715109825134277
+    ],
+    "size": [
+      0.06660092249512672,
+      0.8623677492141724,
+      3.9256978034973145
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Prop_Rail_4.bin"
+  ],
+  "attribution": null
+}

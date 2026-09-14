@@ -1,0 +1,61 @@
+{
+  "id": "arch_walls_kaykit-proto_003",
+  "name": "Primitive Wall Opencorner",
+  "description": "Primitive Wall Opencorner — reusable walls piece from KayKit Prototype Bits. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "kaykit-proto",
+    "low-poly",
+    "modular",
+    "opencorner",
+    "primitive",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "low-poly",
+    "prototype",
+    "modular"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Prototype Bits",
+  "source_site": "https://kaylousberg.itch.io/",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0/archive/refs/heads/main.zip",
+  "original_filename": "Primitive_Wall_OpenCorner.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Prototype-Bits-1.0-main/addons/kaykit_prototype_bits/Assets/gltf/Primitive_Wall_OpenCorner.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2,
+      1.4901161193847656e-07,
+      -0.5000000596046448
+    ],
+    "max": [
+      2,
+      4.000000476837158,
+      0.5000000596046448
+    ],
+    "size": [
+      4,
+      4.000000327825546,
+      1.0000001192092896
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Primitive_Wall_OpenCorner.bin",
+    "prototypebits_texture.png"
+  ],
+  "attribution": null
+}

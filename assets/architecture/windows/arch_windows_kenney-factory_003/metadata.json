@@ -1,0 +1,59 @@
+{
+  "id": "arch_windows_kenney-factory_003",
+  "name": "Structure Window Wide",
+  "description": "Structure Window Wide — reusable windows piece from Kenney Factory Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "kenney-factory",
+    "low-poly",
+    "modular",
+    "structure",
+    "wide",
+    "window",
+    "windows"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Factory Kit",
+  "source_site": "https://kenney.nl/assets/factory-kit",
+  "source_repository": "https://opengameart.org/content/factory-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_factory-kit_3.0.zip",
+  "original_filename": "structure-window-wide.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/structure-window-wide.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0000001192092896
+    ],
+    "max": [
+      1.0,
+      3.0,
+      1.5
+    ],
+    "size": [
+      2.0,
+      4.0,
+      2.5000001192092896
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

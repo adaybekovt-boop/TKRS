@@ -1,0 +1,61 @@
+{
+  "id": "arch_walls_quaternius-scifi_005",
+  "name": "Shortwall Band2 Corner Outer",
+  "description": "Shortwall Band2 Corner Outer — reusable walls piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "band2",
+    "corner",
+    "low-poly",
+    "modular",
+    "outer",
+    "quaternius-scifi",
+    "shortwall",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "ShortWall_Band2_Corner_Outer.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/ShortWall_Band2_Corner_Outer.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.000000476837158,
+      0.00185164634604007,
+      -4.004332542419434
+    ],
+    "max": [
+      -1.6466672605019994e-05,
+      2.0000011920928955,
+      -1.1285200116617489e-06
+    ],
+    "size": [
+      3.999984010164553,
+      1.9981495457468554,
+      4.004331413899422
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "ShortWall_Band2_Corner_Outer.bin"
+  ],
+  "attribution": null
+}

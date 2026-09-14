@@ -1,0 +1,57 @@
+{
+  "id": "arch_doors_kenney-furniture_007",
+  "name": "Doorwayopen",
+  "description": "Doorwayopen — reusable doors piece from Kenney Furniture Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "doors",
+    "doorwayopen",
+    "kenney-furniture",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "interior"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Kenney Furniture Kit",
+  "source_site": "https://kenney.nl/assets/furniture-kit",
+  "source_repository": "https://opengameart.org/content/furniture-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_furniturePack.zip",
+  "original_filename": "doorwayOpen.obj",
+  "original_format": "obj",
+  "original_zip_path": "Models/doorwayOpen.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.86,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.0,
+      10.09532,
+      0.891
+    ],
+    "size": [
+      4.86,
+      10.09532,
+      0.891
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

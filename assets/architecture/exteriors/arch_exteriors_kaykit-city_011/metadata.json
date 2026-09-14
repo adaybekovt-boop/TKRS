@@ -1,0 +1,60 @@
+{
+  "id": "arch_exteriors_kaykit-city_011",
+  "name": "Building F",
+  "description": "Building F — reusable exteriors piece from KayKit City Builder Bits. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "building",
+    "exteriors",
+    "f",
+    "kaykit-city",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "city",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit City Builder Bits",
+  "source_site": "https://kaylousberg.itch.io/city-builder-bits",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_F.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-City-Builder-Bits-1.0-main/addons/kaykit_city_builder_bits/Assets/gltf/building_F.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0033698081970215,
+      0,
+      -1
+    ],
+    "max": [
+      1.0033698081970215,
+      2.3499999046325684,
+      1
+    ],
+    "size": [
+      2.006739616394043,
+      2.3499999046325684,
+      2
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_F.bin",
+    "citybits_texture.png"
+  ],
+  "attribution": null
+}

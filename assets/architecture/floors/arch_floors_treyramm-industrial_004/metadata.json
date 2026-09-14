@@ -1,0 +1,45 @@
+{
+  "id": "arch_floors_treyramm-industrial_004",
+  "name": "Indfloorgreyplatform45",
+  "description": "Indfloorgreyplatform45 — reusable floors piece from Modular Industrial Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "floors",
+    "indfloorgreyplatform45",
+    "low-poly",
+    "modular",
+    "treyramm-industrial"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Modular Industrial Kit",
+  "source_site": "https://opengameart.org/content/modular-industrial-kit",
+  "source_repository": "https://opengameart.org/content/modular-industrial-kit",
+  "author": "Trey Ramm",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_industrial_pieces.zip",
+  "original_filename": "IndFloorGreyPlatform45.fbx",
+  "original_format": "fbx",
+  "original_zip_path": "Modular Industrial Pieces/Meshes/Architecture/Industrial/Floors/IndFloorGreyPlatform45.fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.fbx"
+  ],
+  "attribution": null
+}

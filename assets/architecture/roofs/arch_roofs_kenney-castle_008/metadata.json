@@ -1,0 +1,59 @@
+{
+  "id": "arch_roofs_kenney-castle_008",
+  "name": "Tower Square Top Roof",
+  "description": "Tower Square Top Roof — reusable roofs piece from Kenney Castle Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "roofs",
+  "tags": [
+    "architecture",
+    "kenney-castle",
+    "low-poly",
+    "modular",
+    "roof",
+    "roofs",
+    "square",
+    "top",
+    "tower"
+  ],
+  "style": [
+    "low-poly",
+    "medieval"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Castle Kit",
+  "source_site": "https://kenney.nl/assets/castle-kit",
+  "source_repository": "https://opengameart.org/content/castle-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_castle-kit.zip",
+  "original_filename": "tower-square-top-roof.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/tower-square-top-roof.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "size": [
+      2.0,
+      2.0,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

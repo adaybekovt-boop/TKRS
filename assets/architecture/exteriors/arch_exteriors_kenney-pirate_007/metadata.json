@@ -1,0 +1,58 @@
+{
+  "id": "arch_exteriors_kenney-pirate_007",
+  "name": "Tower Complete Large",
+  "description": "Tower Complete Large — reusable exteriors piece from Kenney Pirate Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "complete",
+    "exteriors",
+    "kenney-pirate",
+    "large",
+    "low-poly",
+    "modular",
+    "tower"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Pirate Kit",
+  "source_site": "https://kenney.nl/assets/pirate-kit",
+  "source_repository": "https://opengameart.org/content/pirate-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_pirate-kit_2.1.zip",
+  "original_filename": "tower-complete-large.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/tower-complete-large.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.814037561416626,
+      -1.0,
+      -1.814037561416626
+    ],
+    "max": [
+      1.814037561416626,
+      10.22499942779541,
+      1.814037561416626
+    ],
+    "size": [
+      3.628075122833252,
+      11.22499942779541,
+      3.628075122833252
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

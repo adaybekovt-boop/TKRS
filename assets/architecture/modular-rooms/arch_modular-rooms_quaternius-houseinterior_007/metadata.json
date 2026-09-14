@@ -1,0 +1,58 @@
+{
+  "id": "arch_modular-rooms_quaternius-houseinterior_007",
+  "name": "Bathroom Toilet2",
+  "description": "Bathroom Toilet2 — reusable modular-rooms piece from Quaternius Ultimate House Interior Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "bathroom",
+    "low-poly",
+    "modular",
+    "modular-rooms",
+    "quaternius-houseinterior",
+    "toilet2"
+  ],
+  "style": [
+    "low-poly",
+    "interior"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Ultimate House Interior Pack",
+  "source_site": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-house-interior-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/ultimate_house_interior_pack_-_june_2020.zip",
+  "original_filename": "Bathroom_Toilet2.obj",
+  "original_format": "obj",
+  "original_zip_path": "Ultimate House Interior Pack - June 2020/OBJ/Bathroom_Toilet2.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.55557,
+      -0.013109,
+      -0.747942
+    ],
+    "max": [
+      0.55557,
+      0.994658,
+      0.791879
+    ],
+    "size": [
+      1.11114,
+      1.007767,
+      1.5398209999999999
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

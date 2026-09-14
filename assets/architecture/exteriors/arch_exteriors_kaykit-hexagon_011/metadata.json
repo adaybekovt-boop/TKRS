@@ -1,0 +1,62 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_011",
+  "name": "Building Home B Blue",
+  "description": "Building Home B Blue — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "b",
+    "blue",
+    "building",
+    "exteriors",
+    "home",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_home_B_blue.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_home_B_blue.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.43875277042388916,
+      -2.086162709247219e-08,
+      -0.5386515855789185
+    ],
+    "max": [
+      0.43617546558380127,
+      1.2800002098083496,
+      0.559999942779541
+    ],
+    "size": [
+      0.8749282360076904,
+      1.2800002306699767,
+      1.0986515283584595
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_home_B_blue.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "arch_exteriors_kenney-factory_007",
+  "name": "Conveyor Junction T",
+  "description": "Conveyor Junction T — reusable exteriors piece from Kenney Factory Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "conveyor",
+    "exteriors",
+    "junction",
+    "kenney-factory",
+    "low-poly",
+    "modular",
+    "t"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Factory Kit",
+  "source_site": "https://kenney.nl/assets/factory-kit",
+  "source_repository": "https://opengameart.org/content/factory-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_factory-kit_3.0.zip",
+  "original_filename": "conveyor-junction-t.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/conveyor-junction-t.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.9807854890823364,
+      -0.9807852506637573,
+      -1.000000238418579
+    ],
+    "max": [
+      0.9807854890823364,
+      0.9807852506637573,
+      0.687110960483551
+    ],
+    "size": [
+      1.9615709781646729,
+      1.9615705013275146,
+      1.6871111989021301
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

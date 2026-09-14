@@ -1,0 +1,61 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_029",
+  "name": "Building Tower A Blue Building Tower A Top Blue",
+  "description": "Building Tower A Blue Building Tower A Top Blue — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "a",
+    "architecture",
+    "blue",
+    "building",
+    "exteriors",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular",
+    "tower"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_tower_A_blue_building_tower_A_top_blue.obj",
+  "original_format": "obj",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/obj/buildings/blue/building_tower_A_blue_building_tower_A_top_blue.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.496636,
+      1.277924,
+      -0.573466
+    ],
+    "max": [
+      0.496636,
+      2.191735,
+      0.573466
+    ],
+    "size": [
+      0.993272,
+      0.9138109999999999,
+      1.146932
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

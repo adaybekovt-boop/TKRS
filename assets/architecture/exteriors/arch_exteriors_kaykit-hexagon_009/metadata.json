@@ -1,0 +1,60 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_009",
+  "name": "Building Grain",
+  "description": "Building Grain — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "building",
+    "exteriors",
+    "grain",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_grain.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/neutral/building_grain.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.9369929432868958,
+      0,
+      -1.0467989444732666
+    ],
+    "max": [
+      0.9366974234580994,
+      0.3937956392765045,
+      1.0467989444732666
+    ],
+    "size": [
+      1.8736903667449951,
+      0.3937956392765045,
+      2.093597888946533
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_grain.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

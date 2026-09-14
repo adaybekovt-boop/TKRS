@@ -1,0 +1,59 @@
+{
+  "id": "arch_walls_kenney-spacestation_001",
+  "name": "Display Wall Wide",
+  "description": "Display Wall Wide — reusable walls piece from Kenney Space Station Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "display",
+    "kenney-spacestation",
+    "low-poly",
+    "modular",
+    "wall",
+    "walls",
+    "wide"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Space Station Kit",
+  "source_site": "https://kenney.nl/assets/space-station-kit",
+  "source_repository": "https://opengameart.org/content/space-station-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_space-station-kit.zip",
+  "original_filename": "display-wall-wide.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/display-wall-wide.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      0.9805806875228882
+    ],
+    "size": [
+      2.0,
+      2.0,
+      1.9805806875228882
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

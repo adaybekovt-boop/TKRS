@@ -1,0 +1,61 @@
+{
+  "id": "arch_roofs_fertilesoil-house_001",
+  "name": "Structure Roof Center Eave",
+  "description": "Structure Roof Center Eave — reusable roofs piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "roofs",
+  "tags": [
+    "architecture",
+    "center",
+    "eave",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "roof",
+    "roofs",
+    "structure"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Structure_Roof_Center_Eave.obj",
+  "original_format": "obj",
+  "original_zip_path": "Structure_Roof_Center_Eave.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.8181966,
+      -0.0240983,
+      -0.5
+    ],
+    "max": [
+      0.5,
+      0.675,
+      0.5
+    ],
+    "size": [
+      1.3181966,
+      0.6990983000000001,
+      1.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

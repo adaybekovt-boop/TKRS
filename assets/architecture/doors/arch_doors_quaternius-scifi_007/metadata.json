@@ -1,0 +1,59 @@
+{
+  "id": "arch_doors_quaternius-scifi_007",
+  "name": "Door Simple",
+  "description": "Door Simple — reusable doors piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "door",
+    "doors",
+    "low-poly",
+    "modular",
+    "quaternius-scifi",
+    "simple"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Door_Simple.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Platforms/Door_Simple.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.1057209968566895,
+      0,
+      0
+    ],
+    "max": [
+      0,
+      4.0489020347595215,
+      0.1363188922405243
+    ],
+    "size": [
+      2.1057209968566895,
+      4.0489020347595215,
+      0.1363188922405243
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Door_Simple.bin"
+  ],
+  "attribution": null
+}

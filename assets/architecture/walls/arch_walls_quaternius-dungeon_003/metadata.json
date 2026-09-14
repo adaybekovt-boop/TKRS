@@ -1,0 +1,57 @@
+{
+  "id": "arch_walls_quaternius-dungeon_003",
+  "name": "Wallcover Modular",
+  "description": "Wallcover Modular — reusable walls piece from Quaternius Modular Dungeon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "modular",
+    "quaternius-dungeon",
+    "wallcover",
+    "walls"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Dungeon Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "original_filename": "WallCover_Modular.obj",
+  "original_format": "obj",
+  "original_zip_path": ".Updated Modular Dungeon - May 2019/OBJ/WallCover_Modular.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.004349,
+      -1.009776,
+      -0.254594
+    ],
+    "max": [
+      1.005811,
+      -0.578127,
+      0.254594
+    ],
+    "size": [
+      2.01016,
+      0.43164900000000006,
+      0.509188
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

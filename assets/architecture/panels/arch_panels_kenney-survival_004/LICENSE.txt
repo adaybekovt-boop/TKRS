@@ -1,0 +1,6 @@
+Kenney Survival Kit
+Author: Kenney (www.kenney.nl)
+License: CC0-1.0
+Official page: https://kenney.nl/assets/survival-kit
+Original download: https://opengameart.org/sites/default/files/kenney_survival-kit.zip
+Attribution required: no

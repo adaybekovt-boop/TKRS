@@ -1,0 +1,58 @@
+{
+  "id": "arch_exteriors_kenney-commercial_013",
+  "name": "Building M",
+  "description": "Building M — reusable exteriors piece from Kenney City Kit (Commercial). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "building",
+    "exteriors",
+    "kenney-commercial",
+    "low-poly",
+    "m",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "commercial",
+    "city"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney City Kit (Commercial)",
+  "source_site": "https://kenney.nl/assets/city-kit-commercial",
+  "source_repository": "https://opengameart.org/content/city-kit-commercial",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_city-kit-commercial_2.1.zip",
+  "original_filename": "building-m.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/building-m.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0000001192092896,
+      -1.0,
+      -1.0000001192092896
+    ],
+    "max": [
+      1.0000001192092896,
+      3.1500000953674316,
+      1.0000001192092896
+    ],
+    "size": [
+      2.000000238418579,
+      4.150000095367432,
+      2.000000238418579
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "arch_doors_kaykit-proto_001",
+  "name": "Door A",
+  "description": "Door A — reusable doors piece from KayKit Prototype Bits. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "a",
+    "architecture",
+    "door",
+    "doors",
+    "kaykit-proto",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "prototype",
+    "modular"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Prototype Bits",
+  "source_site": "https://kaylousberg.itch.io/",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0/archive/refs/heads/main.zip",
+  "original_filename": "Door_A.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Prototype-Bits-1.0-main/addons/kaykit_prototype_bits/Assets/gltf/Door_A.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -3.5762786865234375e-07,
+      0,
+      -0.27303093671798706
+    ],
+    "max": [
+      1.6000001430511475,
+      2.8000001907348633,
+      0.2730309069156647
+    ],
+    "size": [
+      1.6000005006790161,
+      2.8000001907348633,
+      0.5460618436336517
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Door_A.bin",
+    "prototypebits_texture.png"
+  ],
+  "attribution": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arch_windows_quaternius-scifi_011",
+  "name": "Wallwindow Corner Round Outer",
+  "description": "Wallwindow Corner Round Outer — reusable windows piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "corner",
+    "low-poly",
+    "modular",
+    "outer",
+    "quaternius-scifi",
+    "round",
+    "wallwindow",
+    "windows"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "WallWindow_Corner_Round_Outer.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/WallWindow_Corner_Round_Outer.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.00827693939209,
+      -3.258412846207648e-07,
+      -4.008275508880615
+    ],
+    "max": [
+      1.7327683963230811e-06,
+      3.161181688308716,
+      -1.9968001652159728e-05
+    ],
+    "size": [
+      4.008278672160486,
+      3.1611820141500004,
+      4.008255540878963
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "WallWindow_Corner_Round_Outer.bin"
+  ],
+  "attribution": null
+}

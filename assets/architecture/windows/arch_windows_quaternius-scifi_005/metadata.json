@@ -1,0 +1,59 @@
+{
+  "id": "arch_windows_quaternius-scifi_005",
+  "name": "Topwindow Straight",
+  "description": "Topwindow Straight — reusable windows piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "modular",
+    "quaternius-scifi",
+    "straight",
+    "topwindow",
+    "windows"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "TopWindow_Straight.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/TopWindow_Straight.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.0987656116485596,
+      2.997406244277954,
+      -2.000000238418579
+    ],
+    "max": [
+      -1.4294804334640503,
+      5.017746925354004,
+      2.000000476837158
+    ],
+    "size": [
+      0.6692851781845093,
+      2.02034068107605,
+      4.000000715255737
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "TopWindow_Straight.bin"
+  ],
+  "attribution": null
+}

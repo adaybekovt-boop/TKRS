@@ -1,0 +1,61 @@
+{
+  "id": "arch_walls_fertilesoil-house_001",
+  "name": "Structure Exterior Wall Corner",
+  "description": "Structure Exterior Wall Corner — reusable walls piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "corner",
+    "exterior",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "structure",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Structure_Exterior_Wall_Corner.obj",
+  "original_format": "obj",
+  "original_zip_path": "Structure_Exterior_Wall_Corner.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      0.3375,
+      0.0,
+      -0.5
+    ],
+    "max": [
+      0.5,
+      1.0,
+      -0.3375
+    ],
+    "size": [
+      0.16249999999999998,
+      1.0,
+      0.16249999999999998
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

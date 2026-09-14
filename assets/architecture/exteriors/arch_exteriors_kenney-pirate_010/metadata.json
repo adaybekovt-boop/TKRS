@@ -1,0 +1,57 @@
+{
+  "id": "arch_exteriors_kenney-pirate_010",
+  "name": "Tower Watch",
+  "description": "Tower Watch — reusable exteriors piece from Kenney Pirate Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "exteriors",
+    "kenney-pirate",
+    "low-poly",
+    "modular",
+    "tower",
+    "watch"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Pirate Kit",
+  "source_site": "https://kenney.nl/assets/pirate-kit",
+  "source_repository": "https://opengameart.org/content/pirate-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_pirate-kit_2.1.zip",
+  "original_filename": "tower-watch.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/tower-watch.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.5244011878967285,
+      -1.0,
+      -1.5244011878967285
+    ],
+    "max": [
+      1.5244011878967285,
+      2.7850000858306885,
+      1.5244011878967285
+    ],
+    "size": [
+      3.048802375793457,
+      3.7850000858306885,
+      3.048802375793457
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

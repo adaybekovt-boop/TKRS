@@ -1,0 +1,57 @@
+{
+  "id": "arch_modular-rooms_kenney-furniture_003",
+  "name": "Bathroomsink",
+  "description": "Bathroomsink — reusable modular-rooms piece from Kenney Furniture Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "bathroomsink",
+    "kenney-furniture",
+    "low-poly",
+    "modular",
+    "modular-rooms"
+  ],
+  "style": [
+    "low-poly",
+    "interior"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Kenney Furniture Kit",
+  "source_site": "https://kenney.nl/assets/furniture-kit",
+  "source_repository": "https://opengameart.org/content/furniture-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_furniturePack.zip",
+  "original_filename": "bathroomSink.obj",
+  "original_format": "obj",
+  "original_zip_path": "Models/bathroomSink.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -3.4,
+      -4.0,
+      0.0
+    ],
+    "max": [
+      0.0,
+      1.6,
+      2.9
+    ],
+    "size": [
+      3.4,
+      5.6,
+      2.9
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

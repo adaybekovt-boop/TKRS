@@ -1,0 +1,61 @@
+{
+  "id": "arch_windows_fertilesoil-house_002",
+  "name": "Structure Exterior Window Single",
+  "description": "Structure Exterior Window Single — reusable windows piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "exterior",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "single",
+    "structure",
+    "window",
+    "windows"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Structure_Exterior_Window_Single.obj",
+  "original_format": "obj",
+  "original_zip_path": "Structure_Exterior_Window_Single.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.5,
+      0.0,
+      -0.6
+    ],
+    "max": [
+      0.5,
+      2.0,
+      -0.3
+    ],
+    "size": [
+      1.0,
+      2.0,
+      0.3
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

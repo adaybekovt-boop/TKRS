@@ -1,0 +1,59 @@
+{
+  "id": "arch_arches_quaternius-dungeon_004",
+  "name": "Arch Door Bottompivot",
+  "description": "Arch Door Bottompivot — reusable arches piece from Quaternius Modular Dungeon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "arches",
+  "tags": [
+    "arch",
+    "arches",
+    "architecture",
+    "bottompivot",
+    "door",
+    "low-poly",
+    "modular",
+    "quaternius-dungeon"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Dungeon Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "original_filename": "Arch_Door_bottompivot.obj",
+  "original_format": "obj",
+  "original_zip_path": ".Updated Modular Dungeon - May 2019/OBJ/Arch_Door_bottompivot.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.210556,
+      -0.000854,
+      -0.16481
+    ],
+    "max": [
+      1.210556,
+      3.189192,
+      0.16481
+    ],
+    "size": [
+      2.421112,
+      3.1900459999999997,
+      0.32962
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

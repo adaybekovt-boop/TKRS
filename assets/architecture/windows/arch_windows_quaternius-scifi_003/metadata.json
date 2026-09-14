@@ -1,0 +1,61 @@
+{
+  "id": "arch_windows_quaternius-scifi_003",
+  "name": "Topwindow Corner Curve Inner",
+  "description": "Topwindow Corner Curve Inner — reusable windows piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "corner",
+    "curve",
+    "inner",
+    "low-poly",
+    "modular",
+    "quaternius-scifi",
+    "topwindow",
+    "windows"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "TopWindow_Corner_Curve_Inner.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/TopWindow_Corner_Curve_Inner.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.098765850067139,
+      2.997406244277954,
+      -4.0987653732299805
+    ],
+    "max": [
+      1.779192871254054e-06,
+      5.01774787902832,
+      -1.7717364244163036e-05
+    ],
+    "size": [
+      4.09876762926001,
+      2.020341634750366,
+      4.098747655865736
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "TopWindow_Corner_Curve_Inner.bin"
+  ],
+  "attribution": null
+}

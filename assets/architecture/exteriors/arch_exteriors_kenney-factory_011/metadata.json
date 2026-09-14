@@ -1,0 +1,59 @@
+{
+  "id": "arch_exteriors_kenney-factory_011",
+  "name": "Conveyor Sides Cross",
+  "description": "Conveyor Sides Cross — reusable exteriors piece from Kenney Factory Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "conveyor",
+    "cross",
+    "exteriors",
+    "kenney-factory",
+    "low-poly",
+    "modular",
+    "sides"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Factory Kit",
+  "source_site": "https://kenney.nl/assets/factory-kit",
+  "source_repository": "https://opengameart.org/content/factory-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_factory-kit_3.0.zip",
+  "original_filename": "conveyor-sides-cross.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/conveyor-sides-cross.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.6871107220649719,
+      -0.9778061509132385,
+      -0.6871107220649719
+    ],
+    "max": [
+      0.6871107220649719,
+      0.9778061509132385,
+      0.6871107220649719
+    ],
+    "size": [
+      1.3742214441299438,
+      1.955612301826477,
+      1.3742214441299438
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

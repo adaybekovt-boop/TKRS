@@ -1,0 +1,61 @@
+{
+  "id": "arch_windows_quaternius-scifi_012",
+  "name": "Wallwindow Corner Square Inner",
+  "description": "Wallwindow Corner Square Inner — reusable windows piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "corner",
+    "inner",
+    "low-poly",
+    "modular",
+    "quaternius-scifi",
+    "square",
+    "wallwindow",
+    "windows"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "WallWindow_Corner_Square_Inner.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Walls/WallWindow_Corner_Square_Inner.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -4.200000286102295,
+      -3.2584125619905535e-07,
+      -4.200000286102295
+    ],
+    "max": [
+      2.384185791015625e-07,
+      3.186552047729492,
+      7.152557373046875e-07
+    ],
+    "size": [
+      4.200000524520874,
+      3.1865523735707484,
+      4.200001001358032
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "WallWindow_Corner_Square_Inner.bin"
+  ],
+  "attribution": null
+}

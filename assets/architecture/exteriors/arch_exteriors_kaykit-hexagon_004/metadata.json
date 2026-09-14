@@ -1,0 +1,61 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_004",
+  "name": "Building Blacksmith Blue",
+  "description": "Building Blacksmith Blue — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "blacksmith",
+    "blue",
+    "building",
+    "exteriors",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_blacksmith_blue.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_blacksmith_blue.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.6300048232078552,
+      -0.005102336406707764,
+      -0.5599995255470276
+    ],
+    "max": [
+      0.6575961709022522,
+      0.9800021648406982,
+      0.6851505041122437
+    ],
+    "size": [
+      1.2876009941101074,
+      0.985104501247406,
+      1.2451500296592712
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_blacksmith_blue.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

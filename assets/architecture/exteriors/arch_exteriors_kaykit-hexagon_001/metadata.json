@@ -1,0 +1,61 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_001",
+  "name": "Building Bridge A",
+  "description": "Building Bridge A — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "a",
+    "architecture",
+    "bridge",
+    "building",
+    "exteriors",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_bridge_A.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/neutral/building_bridge_A.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.6666644811630249,
+      -1,
+      -0.9622503519058228
+    ],
+    "max": [
+      0.6666667461395264,
+      0.25,
+      0.9622492790222168
+    ],
+    "size": [
+      1.3333312273025513,
+      1.25,
+      1.9244996309280396
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_bridge_A.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

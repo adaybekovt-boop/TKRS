@@ -1,0 +1,61 @@
+{
+  "id": "arch_modular-rooms_fertilesoil-house_009",
+  "name": "Prop Bedroom Dresser Single",
+  "description": "Prop Bedroom Dresser Single — reusable modular-rooms piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "bedroom",
+    "dresser",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "modular-rooms",
+    "prop",
+    "single"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Prop_Bedroom_Dresser_Single.obj",
+  "original_format": "obj",
+  "original_zip_path": "Prop_Bedroom_Dresser_Single.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.5,
+      0.0,
+      -0.45
+    ],
+    "max": [
+      0.5,
+      0.95,
+      0.515625
+    ],
+    "size": [
+      1.0,
+      0.95,
+      0.965625
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

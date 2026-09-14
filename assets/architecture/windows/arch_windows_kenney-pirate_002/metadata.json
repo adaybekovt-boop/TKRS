@@ -1,0 +1,57 @@
+{
+  "id": "arch_windows_kenney-pirate_002",
+  "name": "Tower Middle Windows",
+  "description": "Tower Middle Windows — reusable windows piece from Kenney Pirate Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "windows",
+  "tags": [
+    "architecture",
+    "kenney-pirate",
+    "low-poly",
+    "middle",
+    "modular",
+    "tower",
+    "windows"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Pirate Kit",
+  "source_site": "https://kenney.nl/assets/pirate-kit",
+  "source_repository": "https://opengameart.org/content/pirate-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_pirate-kit_2.1.zip",
+  "original_filename": "tower-middle-windows.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/tower-middle-windows.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.3858193159103394,
+      -1.0,
+      -1.5358192920684814
+    ],
+    "max": [
+      1.4478193521499634,
+      2.0,
+      1.5358192920684814
+    ],
+    "size": [
+      2.8336386680603027,
+      3.0,
+      3.071638584136963
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

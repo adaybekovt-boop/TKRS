@@ -1,0 +1,59 @@
+{
+  "id": "arch_floors_kenney-factory_002",
+  "name": "Button Floor Square",
+  "description": "Button Floor Square — reusable floors piece from Kenney Factory Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "button",
+    "floor",
+    "floors",
+    "kenney-factory",
+    "low-poly",
+    "modular",
+    "square"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Factory Kit",
+  "source_site": "https://kenney.nl/assets/factory-kit",
+  "source_repository": "https://opengameart.org/content/factory-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_factory-kit_3.0.zip",
+  "original_filename": "button-floor-square.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/button-floor-square.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.9238795042037964,
+      -1.0,
+      -0.9238795042037964
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "size": [
+      1.9238795042037964,
+      2.0,
+      1.9238795042037964
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

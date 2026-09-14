@@ -1,0 +1,57 @@
+{
+  "id": "arch_stairs_quaternius-dungeon_003",
+  "name": "Stairs Sidecoverwall",
+  "description": "Stairs Sidecoverwall — reusable stairs piece from Quaternius Modular Dungeon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "stairs",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "modular",
+    "quaternius-dungeon",
+    "sidecoverwall",
+    "stairs"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Dungeon Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "original_filename": "Stairs_SideCoverWall.obj",
+  "original_format": "obj",
+  "original_zip_path": ".Updated Modular Dungeon - May 2019/OBJ/Stairs_SideCoverWall.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      0.815515,
+      -1.012913,
+      -3.008794
+    ],
+    "max": [
+      1.258225,
+      1.019764,
+      -0.980031
+    ],
+    "size": [
+      0.44270999999999994,
+      2.0326769999999996,
+      2.028763
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

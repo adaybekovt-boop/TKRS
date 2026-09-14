@@ -1,0 +1,58 @@
+{
+  "id": "arch_exteriors_kenney-industrial_006",
+  "name": "Building T",
+  "description": "Building T — reusable exteriors piece from Kenney City Kit (Industrial). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "building",
+    "exteriors",
+    "kenney-industrial",
+    "low-poly",
+    "modular",
+    "t"
+  ],
+  "style": [
+    "low-poly",
+    "industrial",
+    "city"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney City Kit (Industrial)",
+  "source_site": "https://kenney.nl/assets/city-kit-industrial",
+  "source_repository": "https://opengameart.org/content/city-kit-industrial",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_city-kit-industrial_2.0.zip",
+  "original_filename": "building-t.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/building-t.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0000003576278687,
+      -1.0,
+      -1.0000003576278687
+    ],
+    "max": [
+      1.0000003576278687,
+      1.014552116394043,
+      1.0000003576278687
+    ],
+    "size": [
+      2.0000007152557373,
+      2.014552116394043,
+      2.0000007152557373
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

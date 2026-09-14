@@ -1,0 +1,61 @@
+{
+  "id": "arch_exteriors_kaykit-city_002",
+  "name": "Building A Withoutbase",
+  "description": "Building A Withoutbase — reusable exteriors piece from KayKit City Builder Bits. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "a",
+    "architecture",
+    "building",
+    "exteriors",
+    "kaykit-city",
+    "low-poly",
+    "modular",
+    "withoutbase"
+  ],
+  "style": [
+    "low-poly",
+    "city",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit City Builder Bits",
+  "source_site": "https://kaylousberg.itch.io/city-builder-bits",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_A_withoutBase.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-City-Builder-Bits-1.0-main/addons/kaykit_city_builder_bits/Assets/gltf/building_A_withoutBase.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.6033698320388794,
+      0.09993039071559906,
+      -0.6499999761581421
+    ],
+    "max": [
+      0.6033698320388794,
+      1.6499998569488525,
+      0.8000000715255737
+    ],
+    "size": [
+      1.2067396640777588,
+      1.5500694662332535,
+      1.4500000476837158
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_A_withoutBase.bin",
+    "citybits_texture.png"
+  ],
+  "attribution": null
+}

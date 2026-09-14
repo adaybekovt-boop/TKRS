@@ -1,0 +1,6 @@
+KayKit Dungeon Remastered
+Author: Kay Lousberg (KayKit)
+License: CC0-1.0
+Official page: https://kaylousberg.itch.io/kaykit-dungeon-pack
+Original download: https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/archive/refs/heads/main.zip
+Attribution required: no

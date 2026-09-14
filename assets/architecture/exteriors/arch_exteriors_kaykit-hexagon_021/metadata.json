@@ -1,0 +1,61 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_021",
+  "name": "Building Market Blue",
+  "description": "Building Market Blue — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "blue",
+    "building",
+    "exteriors",
+    "kaykit-hexagon",
+    "low-poly",
+    "market",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_market_blue.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/blue/building_market_blue.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.9013807773590088,
+      -0.005638472735881805,
+      -0.7149999737739563
+    ],
+    "max": [
+      0.8980000615119934,
+      0.9760011434555054,
+      0.6006025075912476
+    ],
+    "size": [
+      1.7993808388710022,
+      0.9816396161913872,
+      1.3156024813652039
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_market_blue.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

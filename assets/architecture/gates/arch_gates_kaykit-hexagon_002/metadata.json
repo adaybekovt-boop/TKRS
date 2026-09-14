@@ -1,0 +1,62 @@
+{
+  "id": "arch_gates_kaykit-hexagon_002",
+  "name": "Wall Corner A Gate Door Right",
+  "description": "Wall Corner A Gate Door Right — reusable gates piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "gates",
+  "tags": [
+    "a",
+    "architecture",
+    "corner",
+    "door",
+    "gate",
+    "gates",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular",
+    "wall"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "wall_corner_A_gate_door_right.obj",
+  "original_format": "obj",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/obj/buildings/neutral/wall_corner_A_gate_door_right.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.564703,
+      0.02,
+      -0.300977
+    ],
+    "max": [
+      -0.129992,
+      0.811472,
+      0.011351
+    ],
+    "size": [
+      0.43471099999999996,
+      0.791472,
+      0.312328
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

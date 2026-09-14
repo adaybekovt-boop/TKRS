@@ -1,0 +1,62 @@
+{
+  "id": "arch_gates_kaykit-hexagon_006",
+  "name": "Wall Corner A Gate",
+  "description": "Wall Corner A Gate — reusable gates piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "gates",
+  "tags": [
+    "a",
+    "architecture",
+    "corner",
+    "gate",
+    "gates",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular",
+    "wall"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "wall_corner_A_gate.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/neutral/wall_corner_A_gate.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.000001072883606,
+      -0.049999967217445374,
+      -1.0660254955291748
+    ],
+    "max": [
+      0.7597974538803101,
+      1.3651083707809448,
+      0.4664950966835022
+    ],
+    "size": [
+      1.759798526763916,
+      1.4151083379983902,
+      1.532520592212677
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "wall_corner_A_gate.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

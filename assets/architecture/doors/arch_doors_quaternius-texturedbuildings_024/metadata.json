@@ -1,0 +1,40 @@
+{
+  "id": "arch_doors_quaternius-texturedbuildings_024",
+  "name": "4Story Wide 2Doors",
+  "description": "4Story_Wide_2Doors — reusable architecture piece from Quaternius Ultimate Textured Building Pack.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "doors",
+    "batch-002",
+    "low-poly",
+    "city",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "city",
+    "modular"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Quaternius Ultimate Textured Building Pack",
+  "source_site": "https://opengameart.org/content/lowpoly-buildings-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/ultimate_textured_building_pack_by_quaternius.zip",
+  "original_filename": "4Story_Wide_2Doors.fbx",
+  "original_format": "fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": null,
+  "collected_in": "architecture-batch-002",
+  "staged_path": "/home/workdir/artifacts/tkrs-work/staging/lucas/quaternius-textured-buildings/4Story_Wide_2Doors.fbx",
+  "id_slug": "quaternius-texturedbuildings",
+  "files": [
+    "model.fbx"
+  ],
+  "attribution": null
+}

@@ -1,0 +1,6 @@
+Kenney Platformer Kit
+Author: Kenney (www.kenney.nl)
+License: CC0-1.0
+Official page: https://kenney.nl/assets/platformer-kit
+Original download: https://opengameart.org/sites/default/files/kenney_platformer-kit.zip
+Attribution required: no

@@ -1,0 +1,58 @@
+{
+  "id": "arch_structural_quaternius-dungeon_001",
+  "name": "Banner Wall",
+  "description": "Banner Wall — reusable structural piece from Quaternius Modular Dungeon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "banner",
+    "low-poly",
+    "modular",
+    "quaternius-dungeon",
+    "structural",
+    "wall"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Dungeon Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "original_filename": "Banner_wall.obj",
+  "original_format": "obj",
+  "original_zip_path": ".Updated Modular Dungeon - May 2019/OBJ/Banner_wall.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.793076,
+      -2.793281,
+      -0.503859
+    ],
+    "max": [
+      0.847185,
+      0.053581,
+      0.089198
+    ],
+    "size": [
+      1.640261,
+      2.846862,
+      0.593057
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

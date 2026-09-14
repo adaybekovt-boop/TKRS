@@ -1,0 +1,61 @@
+{
+  "id": "arch_doors_fertilesoil-house_005",
+  "name": "Structure Exterior Doorway Sidelight",
+  "description": "Structure Exterior Doorway Sidelight — reusable doors piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "doors",
+    "doorway",
+    "exterior",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "sidelight",
+    "structure"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Structure_Exterior_Doorway_Sidelight.obj",
+  "original_format": "obj",
+  "original_zip_path": "Structure_Exterior_Doorway_Sidelight.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.0,
+      0.0,
+      -0.55
+    ],
+    "max": [
+      0.5,
+      2.0,
+      -0.35
+    ],
+    "size": [
+      0.5,
+      2.0,
+      0.20000000000000007
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

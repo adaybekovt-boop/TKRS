@@ -1,0 +1,57 @@
+{
+  "id": "arch_exteriors_kenney-pirate_001",
+  "name": "Platform Planks",
+  "description": "Platform Planks — reusable exteriors piece from Kenney Pirate Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "exteriors",
+    "kenney-pirate",
+    "low-poly",
+    "modular",
+    "planks",
+    "platform"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Pirate Kit",
+  "source_site": "https://kenney.nl/assets/pirate-kit",
+  "source_repository": "https://opengameart.org/content/pirate-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_pirate-kit_2.1.zip",
+  "original_filename": "platform-planks.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/platform-planks.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.3511857986450195
+    ],
+    "max": [
+      1.0,
+      0.7399401068687439,
+      1.35118567943573
+    ],
+    "size": [
+      2.0,
+      1.739940106868744,
+      2.7023714780807495
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

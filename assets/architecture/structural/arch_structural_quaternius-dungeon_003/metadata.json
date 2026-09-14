@@ -1,0 +1,58 @@
+{
+  "id": "arch_structural_quaternius-dungeon_003",
+  "name": "Sword Wallmount",
+  "description": "Sword Wallmount — reusable structural piece from Quaternius Modular Dungeon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "modular",
+    "quaternius-dungeon",
+    "structural",
+    "sword",
+    "wallmount"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Dungeon Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "original_filename": "Sword_WallMount.obj",
+  "original_format": "obj",
+  "original_zip_path": ".Updated Modular Dungeon - May 2019/OBJ/Sword_WallMount.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.457801,
+      -0.40133,
+      -0.000945
+    ],
+    "max": [
+      0.608016,
+      0.445812,
+      0.21078
+    ],
+    "size": [
+      1.065817,
+      0.8471420000000001,
+      0.211725
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

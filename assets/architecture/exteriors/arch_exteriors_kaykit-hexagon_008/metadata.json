@@ -1,0 +1,60 @@
+{
+  "id": "arch_exteriors_kaykit-hexagon_008",
+  "name": "Building Dirt",
+  "description": "Building Dirt — reusable exteriors piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "building",
+    "dirt",
+    "exteriors",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "building_dirt.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/gltf/buildings/neutral/building_dirt.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.8974091410636902,
+      -0.020000021904706955,
+      -1.0034037828445435
+    ],
+    "max": [
+      0.8974091410636902,
+      0.06659442186355591,
+      1.0034037828445435
+    ],
+    "size": [
+      1.7948182821273804,
+      0.08659444376826286,
+      2.006807565689087
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "building_dirt.bin",
+    "hexagons_medieval.png"
+  ],
+  "attribution": null
+}

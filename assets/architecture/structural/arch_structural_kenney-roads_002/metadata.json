@@ -1,0 +1,58 @@
+{
+  "id": "arch_structural_kenney-roads_002",
+  "name": "Construction Light",
+  "description": "Construction Light — reusable structural piece from Kenney City Kit (Roads). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "construction",
+    "kenney-roads",
+    "light",
+    "low-poly",
+    "modular",
+    "structural"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "city"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney City Kit (Roads)",
+  "source_site": "https://kenney.nl/assets/city-kit-roads",
+  "source_repository": "https://opengameart.org/content/city-kit-roads",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_city-kit-roads.zip",
+  "original_filename": "construction-light.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/construction-light.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "size": [
+      2.0,
+      2.0,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

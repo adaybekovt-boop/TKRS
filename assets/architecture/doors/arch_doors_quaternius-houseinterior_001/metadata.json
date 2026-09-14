@@ -1,0 +1,58 @@
+{
+  "id": "arch_doors_quaternius-houseinterior_001",
+  "name": "Door 1",
+  "description": "Door 1 — reusable doors piece from Quaternius Ultimate House Interior Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "1",
+    "architecture",
+    "door",
+    "doors",
+    "low-poly",
+    "modular",
+    "quaternius-houseinterior"
+  ],
+  "style": [
+    "low-poly",
+    "interior"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Ultimate House Interior Pack",
+  "source_site": "https://quaternius.com/packs/ultimatehomeinterior.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-house-interior-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/ultimate_house_interior_pack_-_june_2020.zip",
+  "original_filename": "Door_1.obj",
+  "original_format": "obj",
+  "original_zip_path": "Ultimate House Interior Pack - June 2020/OBJ/Door_1.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.735772,
+      -0.0,
+      -0.210065
+    ],
+    "max": [
+      0.0,
+      4.187836,
+      0.210066
+    ],
+    "size": [
+      1.735772,
+      4.187836,
+      0.42013100000000003
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

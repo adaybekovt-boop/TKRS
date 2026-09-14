@@ -1,0 +1,58 @@
+{
+  "id": "arch_pipes_yanbu-pipes_007",
+  "name": "Pipe5",
+  "description": "Pipe5 — reusable pipes piece from Modular Low-Poly Pipes. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "pipes",
+  "tags": [
+    "architecture",
+    "low-poly",
+    "modular",
+    "pipe5",
+    "pipes",
+    "yanbu-pipes"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular Low-Poly Pipes",
+  "source_site": "https://opengameart.org/content/modular-low-poly-pipes",
+  "source_repository": "https://opengameart.org/content/modular-low-poly-pipes",
+  "author": "Yanbu",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modularlowpolypipes.zip",
+  "original_filename": "Pipe5.obj",
+  "original_format": "obj",
+  "original_zip_path": "ModularLowPolyrPipes/Pipes5/Pipe5.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -5.0,
+      -1.5,
+      -5.0
+    ],
+    "max": [
+      5.0,
+      5.0,
+      5.0
+    ],
+    "size": [
+      10.0,
+      6.5,
+      10.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

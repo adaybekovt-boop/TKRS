@@ -1,0 +1,59 @@
+{
+  "id": "arch_stairs_quaternius-scifi_002",
+  "name": "Platform Stairs 4",
+  "description": "Platform Stairs 4 — reusable stairs piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "stairs",
+  "tags": [
+    "4",
+    "architecture",
+    "low-poly",
+    "modular",
+    "platform",
+    "quaternius-scifi",
+    "stairs"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Platform_Stairs_4.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Platforms/Platform_Stairs_4.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0000739097595215,
+      -0.008157849311828613,
+      0
+    ],
+    "max": [
+      1.0000739097595215,
+      2,
+      4.082711696624756
+    ],
+    "size": [
+      2.000147819519043,
+      2.0081578493118286,
+      4.082711696624756
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Platform_Stairs_4.bin"
+  ],
+  "attribution": null
+}

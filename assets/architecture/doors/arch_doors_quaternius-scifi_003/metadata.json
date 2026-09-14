@@ -1,0 +1,60 @@
+{
+  "id": "arch_doors_quaternius-scifi_003",
+  "name": "Door Frame Square",
+  "description": "Door Frame Square — reusable doors piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "door",
+    "doors",
+    "frame",
+    "low-poly",
+    "modular",
+    "quaternius-scifi",
+    "square"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Door_Frame_Square.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Platforms/Door_Frame_Square.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.426724910736084,
+      -0.013425212353467941,
+      -0.25342464447021484
+    ],
+    "max": [
+      2.426724910736084,
+      5,
+      0.25342464447021484
+    ],
+    "size": [
+      4.853449821472168,
+      5.013425212353468,
+      0.5068492889404297
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Door_Frame_Square.bin"
+  ],
+  "attribution": null
+}

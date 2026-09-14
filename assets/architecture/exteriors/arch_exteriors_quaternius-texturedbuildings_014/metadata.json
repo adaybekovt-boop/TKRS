@@ -1,0 +1,45 @@
+{
+  "id": "arch_exteriors_quaternius-texturedbuildings_014",
+  "name": "2Story Sign",
+  "description": "2Story_Sign — reusable architecture piece from Quaternius Ultimate Textured Building Pack.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "exteriors",
+    "batch-002",
+    "low-poly",
+    "city",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "city",
+    "modular"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Quaternius Ultimate Textured Building Pack",
+  "source_site": "https://opengameart.org/content/lowpoly-buildings-pack",
+  "source_repository": "https://opengameart.org/content/lowpoly-buildings-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/ultimate_textured_building_pack_by_quaternius.zip",
+  "original_filename": "2Story_Sign.fbx",
+  "original_format": "fbx",
+  "original_zip_path": "2Story_Sign.fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.fbx"
+  ],
+  "attribution": null
+}

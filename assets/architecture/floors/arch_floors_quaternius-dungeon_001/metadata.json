@@ -1,0 +1,58 @@
+{
+  "id": "arch_floors_quaternius-dungeon_001",
+  "name": "Floor Bricksseparate",
+  "description": "Floor Bricksseparate — reusable floors piece from Quaternius Modular Dungeon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "bricksseparate",
+    "floor",
+    "floors",
+    "low-poly",
+    "modular",
+    "quaternius-dungeon"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Dungeon Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "original_filename": "Floor_BricksSeparate.obj",
+  "original_format": "obj",
+  "original_zip_path": ".Updated Modular Dungeon - May 2019/OBJ/Floor_BricksSeparate.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.452475,
+      -0.02419,
+      -0.725523
+    ],
+    "max": [
+      0.498415,
+      0.231895,
+      0.474322
+    ],
+    "size": [
+      0.95089,
+      0.256085,
+      1.199845
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

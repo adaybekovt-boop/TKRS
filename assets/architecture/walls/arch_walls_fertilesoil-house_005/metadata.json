@@ -1,0 +1,62 @@
+{
+  "id": "arch_walls_fertilesoil-house_005",
+  "name": "Structure Kitchen Cabinet Wall Half",
+  "description": "Structure Kitchen Cabinet Wall Half — reusable walls piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "cabinet",
+    "fertilesoil-house",
+    "half",
+    "kitchen",
+    "low-poly",
+    "modular",
+    "structure",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Structure_Kitchen_Cabinet_Wall_Half.obj",
+  "original_format": "obj",
+  "original_zip_path": "Structure_Kitchen_Cabinet_Wall_Half.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      0.0,
+      1.55,
+      -0.5
+    ],
+    "max": [
+      0.5,
+      2.65,
+      0.053125
+    ],
+    "size": [
+      0.5,
+      1.0999999999999999,
+      0.553125
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

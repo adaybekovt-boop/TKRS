@@ -1,0 +1,62 @@
+{
+  "id": "arch_modular-rooms_fertilesoil-house_006",
+  "name": "Prop Bathroom Towel Rack Stocked",
+  "description": "Prop Bathroom Towel Rack Stocked — reusable modular-rooms piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "bathroom",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "modular-rooms",
+    "prop",
+    "rack",
+    "stocked",
+    "towel"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Prop_Bathroom_Towel_Rack_Stocked.obj",
+  "original_format": "obj",
+  "original_zip_path": "Prop_Bathroom_Towel_Rack_Stocked.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.35625,
+      0.075,
+      -0.45
+    ],
+    "max": [
+      0.35625,
+      0.65,
+      -0.31875
+    ],
+    "size": [
+      0.7125,
+      0.5750000000000001,
+      0.13125000000000003
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

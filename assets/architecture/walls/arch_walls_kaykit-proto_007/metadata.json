@@ -1,0 +1,62 @@
+{
+  "id": "arch_walls_kaykit-proto_007",
+  "name": "Target Wall Large B",
+  "description": "Target Wall Large B — reusable walls piece from KayKit Prototype Bits. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "walls",
+  "tags": [
+    "architecture",
+    "b",
+    "kaykit-proto",
+    "large",
+    "low-poly",
+    "modular",
+    "target",
+    "wall",
+    "walls"
+  ],
+  "style": [
+    "low-poly",
+    "prototype",
+    "modular"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit Prototype Bits",
+  "source_site": "https://kaylousberg.itch.io/",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0/archive/refs/heads/main.zip",
+  "original_filename": "target_wall_large_B.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-Prototype-Bits-1.0-main/addons/kaykit_prototype_bits/Assets/gltf/target_wall_large_B.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1,
+      -1,
+      -0.10000000149011612
+    ],
+    "max": [
+      1,
+      1,
+      0.09999996423721313
+    ],
+    "size": [
+      2,
+      2,
+      0.19999996572732925
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "target_wall_large_B.bin",
+    "prototypebits_texture.png"
+  ],
+  "attribution": null
+}

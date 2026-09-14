@@ -1,0 +1,59 @@
+{
+  "id": "arch_fences_kenney-graveyard_007",
+  "name": "Iron Fence Border Gate",
+  "description": "Iron Fence Border Gate — reusable fences piece from Kenney Graveyard Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "fences",
+  "tags": [
+    "architecture",
+    "border",
+    "fence",
+    "fences",
+    "gate",
+    "iron",
+    "kenney-graveyard",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "gothic"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Graveyard Kit",
+  "source_site": "https://kenney.nl/assets/graveyard-kit",
+  "source_repository": "https://opengameart.org/content/graveyard-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_graveyard-kit.zip",
+  "original_filename": "iron-fence-border-gate.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/iron-fence-border-gate.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "size": [
+      2.0,
+      2.0,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

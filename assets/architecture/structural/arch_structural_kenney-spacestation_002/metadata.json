@@ -1,0 +1,57 @@
+{
+  "id": "arch_structural_kenney-spacestation_002",
+  "name": "Structure",
+  "description": "Structure — reusable structural piece from Kenney Space Station Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "kenney-spacestation",
+    "low-poly",
+    "modular",
+    "structural",
+    "structure"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Space Station Kit",
+  "source_site": "https://kenney.nl/assets/space-station-kit",
+  "source_repository": "https://opengameart.org/content/space-station-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_space-station-kit.zip",
+  "original_filename": "structure.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/structure.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "size": [
+      2.0,
+      2.0,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

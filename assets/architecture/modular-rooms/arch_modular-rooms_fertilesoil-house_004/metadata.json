@@ -1,0 +1,62 @@
+{
+  "id": "arch_modular-rooms_fertilesoil-house_004",
+  "name": "Prop Bathroom Toilet Paper Dispenser",
+  "description": "Prop Bathroom Toilet Paper Dispenser — reusable modular-rooms piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "bathroom",
+    "dispenser",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "modular-rooms",
+    "paper",
+    "prop",
+    "toilet"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Prop_Bathroom_Toilet_Paper_Dispenser.obj",
+  "original_format": "obj",
+  "original_zip_path": "Prop_Bathroom_Toilet_Paper_Dispenser.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.13125,
+      0.73,
+      -0.1
+    ],
+    "max": [
+      0.13125,
+      0.87,
+      0.05673832
+    ],
+    "size": [
+      0.2625,
+      0.14,
+      0.15673832000000001
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

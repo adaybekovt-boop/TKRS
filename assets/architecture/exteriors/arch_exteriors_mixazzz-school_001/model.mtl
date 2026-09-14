@@ -1,0 +1,154 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl sch_1195_vol1.0
+
+map_Kd 1195_allwin.png
+
+newmtl sch_1195_vol1.1
+
+map_Kd 1195_clearwall.png
+
+newmtl sch_1195_vol1.10
+
+map_Kd 1195_roofmetall.png
+
+newmtl sch_1195_vol1.11
+
+map_Kd 1195_rooffloor.png
+
+newmtl sch_1195_vol1.12
+
+map_Kd 1195_subroofmetall.png
+
+newmtl sch_1195_vol1.13
+
+map_Kd 1195_extdoor2.png
+
+newmtl sch_1195_vol1.14
+
+map_Kd 1195_floor.png
+
+newmtl sch_1195_vol1.15
+
+map_Kd 1195_steps.png
+
+newmtl sch_1195_vol1.16
+
+map_Kd 1195_floor.png
+
+newmtl sch_1195_vol1.2
+
+map_Kd 1195_wallyellow.png
+
+newmtl sch_1195_vol1.3
+
+map_Kd 1195_wallbigclear.png
+
+newmtl sch_1195_vol1.4
+
+map_Kd 1195_wallbig.png
+
+newmtl sch_1195_vol1.5
+
+map_Kd 1195_hallwin.png
+
+newmtl sch_1195_vol1.6
+
+map_Kd 1195_hallsmallwin.png
+
+newmtl sch_1195_vol1.7
+
+map_Kd 1195_wallbigclear.png
+
+newmtl sch_1195_vol1.8
+
+map_Kd 1195_extdoor.png
+
+newmtl sch_1195_vol1.9
+
+map_Kd 1195_walldown.png
+
+newmtl sch_1195_vol2.0
+
+map_Kd 1195_allwin.png
+
+newmtl sch_1195_vol2.1
+
+map_Kd 1195_clearwall.png
+
+newmtl sch_1195_vol2.10
+
+map_Kd 1195_sportwallback.png
+
+newmtl sch_1195_vol2.11
+
+map_Kd 1195_walldown.png
+
+newmtl sch_1195_vol2.12
+
+map_Kd 1195_roofmetall.png
+
+newmtl sch_1195_vol2.13
+
+map_Kd 1195_rooffloor.png
+
+newmtl sch_1195_vol2.14
+
+map_Kd 1195_subroofmetall.png
+
+newmtl sch_1195_vol2.15
+
+map_Kd 1195_extdoor2.png
+
+newmtl sch_1195_vol2.16
+
+map_Kd 1195_floor.png
+
+newmtl sch_1195_vol2.17
+
+map_Kd 1195_steps.png
+
+newmtl sch_1195_vol2.18
+
+map_Kd 1195_logo_flush.png
+
+newmtl sch_1195_vol2.19
+
+map_Kd 1195_wallbigclear.png
+
+newmtl sch_1195_vol2.2
+
+map_Kd 1195_wallyellow.png
+
+newmtl sch_1195_vol2.20
+
+map_Kd 1195_steps.png
+
+newmtl sch_1195_vol2.3
+
+map_Kd 1195_wallbigclear.png
+
+newmtl sch_1195_vol2.4
+
+map_Kd 1195_wallbig.png
+
+newmtl sch_1195_vol2.5
+
+map_Kd 1195_hallsmallwin.png
+
+newmtl sch_1195_vol2.6
+
+map_Kd 1195_wallbigclear.png
+
+newmtl sch_1195_vol2.7
+
+map_Kd 1195_extdoor.png
+
+newmtl sch_1195_vol2.8
+
+map_Kd 1195_sportwin.png
+
+newmtl sch_1195_vol2.9
+
+map_Kd 1195_sportwall.png

@@ -1,0 +1,60 @@
+{
+  "id": "arch_structural_quaternius-scifi_003",
+  "name": "Platform Centerplate Curve",
+  "description": "Platform Centerplate Curve — reusable structural piece from Quaternius Modular Sci-Fi MegaKit (Standard). Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "centerplate",
+    "curve",
+    "low-poly",
+    "modular",
+    "platform",
+    "quaternius-scifi",
+    "structural"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "scifi"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "Quaternius Modular Sci-Fi MegaKit (Standard)",
+  "source_site": "https://quaternius.com/packs/modularscifimegakit.html",
+  "source_repository": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "original_filename": "Platform_CenterPlate_Curve.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "Modular SciFi MegaKit[Standard]/glTF/Platforms/Platform_CenterPlate_Curve.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2,
+      -4.344552451129857e-07,
+      -2.000002384185791
+    ],
+    "max": [
+      1.9999998807907104,
+      -4.344552166912763e-07,
+      2.000000476837158
+    ],
+    "size": [
+      3.9999998807907104,
+      2.842170943040401e-14,
+      4.000002861022949
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "Platform_CenterPlate_Curve.bin"
+  ],
+  "attribution": null
+}

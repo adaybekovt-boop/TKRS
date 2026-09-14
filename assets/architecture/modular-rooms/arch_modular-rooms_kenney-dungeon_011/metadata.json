@@ -1,0 +1,57 @@
+{
+  "id": "arch_modular-rooms_kenney-dungeon_011",
+  "name": "Corridor",
+  "description": "Corridor — reusable modular-rooms piece from Kenney Modular Dungeon Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "corridor",
+    "kenney-dungeon",
+    "low-poly",
+    "modular",
+    "modular-rooms"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "dungeon"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Dungeon Kit",
+  "source_site": "https://kenney.nl/assets/modular-dungeon-kit",
+  "source_repository": "https://opengameart.org/content/modular-dungeon-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-dungeon-kit_2.0.zip",
+  "original_filename": "corridor.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/corridor.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -2.0,
+      -1.0,
+      -2.000000476837158
+    ],
+    "max": [
+      2.0,
+      4.049999713897705,
+      2.000000476837158
+    ],
+    "size": [
+      4.0,
+      5.049999713897705,
+      4.000000953674316
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

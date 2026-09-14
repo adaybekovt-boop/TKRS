@@ -1,0 +1,58 @@
+{
+  "id": "arch_doors_kenney-pirate_002",
+  "name": "Tower Base Door",
+  "description": "Tower Base Door — reusable doors piece from Kenney Pirate Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "base",
+    "door",
+    "doors",
+    "kenney-pirate",
+    "low-poly",
+    "modular",
+    "tower"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Pirate Kit",
+  "source_site": "https://kenney.nl/assets/pirate-kit",
+  "source_repository": "https://opengameart.org/content/pirate-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_pirate-kit_2.1.zip",
+  "original_filename": "tower-base-door.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/tower-base-door.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.579833984375,
+      -1.0,
+      -1.579833984375
+    ],
+    "max": [
+      1.579833984375,
+      2.0,
+      1.9800549745559692
+    ],
+    "size": [
+      3.15966796875,
+      3.0,
+      3.5598889589309692
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

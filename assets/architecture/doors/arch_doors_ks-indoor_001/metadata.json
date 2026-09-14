@@ -1,0 +1,48 @@
+{
+  "id": "arch_doors_ks-indoor_001",
+  "name": "Door",
+  "description": "Door — reusable doors piece from ks_gameassets Indoor Bundle. Modular architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "doors",
+    "architecture",
+    "modular",
+    "low-poly"
+  ],
+  "style": [
+    "low-poly",
+    "interior",
+    "liminal"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "ks_gameassets Indoor Bundle",
+  "source_site": "https://opengameart.org/content/indoor-bundle",
+  "source_repository": "https://opengameart.org/content/indoor-bundle",
+  "author": "ks_gameassets",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/indoor-bundle",
+  "original_filename": "Door.fbx",
+  "original_format": "fbx",
+  "original_zip_path": "ks-indoor/Door.fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.fbx",
+    "Floor.png",
+    "Wall (00FFFF).png",
+    "Wall (FF00FF).png",
+    "Wall (FFFF00).png",
+    "Wall (FFFFFF).png"
+  ],
+  "attribution": null
+}

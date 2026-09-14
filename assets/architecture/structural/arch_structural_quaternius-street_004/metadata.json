@@ -1,0 +1,59 @@
+{
+  "id": "arch_structural_quaternius-street_004",
+  "name": "Street Bridge Water",
+  "description": "Street Bridge Water — reusable structural piece from Quaternius Modular Street Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "bridge",
+    "low-poly",
+    "modular",
+    "quaternius-street",
+    "street",
+    "structural",
+    "water"
+  ],
+  "style": [
+    "low-poly",
+    "city"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Quaternius Modular Street Pack",
+  "source_site": "https://quaternius.com/packs.html",
+  "source_repository": "https://opengameart.org/content/lowpoly-modular-street-pack",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/Street%20Pack%20by%20%40Quaternius.zip",
+  "original_filename": "Street_Bridge_Water.obj",
+  "original_format": "obj",
+  "original_zip_path": "Street Pack by @Quaternius/OBJ/Street_Bridge_Water.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -0.1,
+      -0.999999
+    ],
+    "max": [
+      1.0,
+      0.665887,
+      1.000001
+    ],
+    "size": [
+      2.0,
+      0.765887,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

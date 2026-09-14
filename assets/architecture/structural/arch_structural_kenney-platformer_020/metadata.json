@@ -1,0 +1,59 @@
+{
+  "id": "arch_structural_kenney-platformer_020",
+  "name": "Block Grass Low Narrow",
+  "description": "Block Grass Low Narrow — reusable structural piece from Kenney Platformer Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "block",
+    "grass",
+    "kenney-platformer",
+    "low",
+    "low-poly",
+    "modular",
+    "narrow",
+    "structural"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Platformer Kit",
+  "source_site": "https://kenney.nl/assets/platformer-kit",
+  "source_repository": "https://opengameart.org/content/platformer-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_platformer-kit.zip",
+  "original_filename": "block-grass-low-narrow.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/block-grass-low-narrow.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.9807852506637573,
+      -1.0,
+      -0.9807852506637573
+    ],
+    "max": [
+      0.9807852506637573,
+      1.0,
+      0.9807852506637573
+    ],
+    "size": [
+      1.9615705013275146,
+      2.0,
+      1.9615705013275146
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

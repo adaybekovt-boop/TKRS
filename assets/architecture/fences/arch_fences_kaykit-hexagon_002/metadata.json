@@ -1,0 +1,61 @@
+{
+  "id": "arch_fences_kaykit-hexagon_002",
+  "name": "Fence Wood Straight Gate Fence Wood Straight Door",
+  "description": "Fence Wood Straight Gate Fence Wood Straight Door — reusable fences piece from KayKit Medieval Hexagon Pack. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "fences",
+  "tags": [
+    "architecture",
+    "fence",
+    "fences",
+    "gate",
+    "kaykit-hexagon",
+    "low-poly",
+    "modular",
+    "straight",
+    "wood"
+  ],
+  "style": [
+    "low-poly",
+    "medieval",
+    "stylized"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "KayKit Medieval Hexagon Pack",
+  "source_site": "https://kaylousberg.itch.io/kaykit-medieval-hexagon",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0/archive/refs/heads/main.zip",
+  "original_filename": "fence_wood_straight_gate_fence_wood_straight_door.obj",
+  "original_format": "obj",
+  "original_zip_path": "KayKit-Medieval-Hexagon-Pack-1.0-main/addons/kaykit_medieval_hexagon_pack/Assets/obj/buildings/neutral/fence_wood_straight_gate_fence_wood_straight_door.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.062442,
+      -0.05,
+      -0.160439
+    ],
+    "max": [
+      -0.937558,
+      0.396272,
+      0.160455
+    ],
+    "size": [
+      0.1248840000000001,
+      0.446272,
+      0.320894
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

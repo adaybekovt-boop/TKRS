@@ -1,0 +1,59 @@
+{
+  "id": "arch_panels_kenney-factory_002",
+  "name": "Screen Panel Small",
+  "description": "Screen Panel Small — reusable panels piece from Kenney Factory Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "panels",
+  "tags": [
+    "architecture",
+    "kenney-factory",
+    "low-poly",
+    "modular",
+    "panel",
+    "panels",
+    "screen",
+    "small"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Factory Kit",
+  "source_site": "https://kenney.nl/assets/factory-kit",
+  "source_repository": "https://opengameart.org/content/factory-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_factory-kit_3.0.zip",
+  "original_filename": "screen-panel-small.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/screen-panel-small.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -0.9805806875228882
+    ],
+    "max": [
+      1.0,
+      1.0,
+      0.9805806875228882
+    ],
+    "size": [
+      2.0,
+      2.0,
+      1.9611613750457764
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

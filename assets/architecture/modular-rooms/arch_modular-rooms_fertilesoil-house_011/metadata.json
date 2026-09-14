@@ -1,0 +1,61 @@
+{
+  "id": "arch_modular-rooms_fertilesoil-house_011",
+  "name": "Prop Living Room Tv",
+  "description": "Prop Living Room Tv — reusable modular-rooms piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "fertilesoil-house",
+    "living",
+    "low-poly",
+    "modular",
+    "modular-rooms",
+    "prop",
+    "room",
+    "tv"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Prop_Living_Room_TV.obj",
+  "original_format": "obj",
+  "original_zip_path": "Prop_Living_Room_TV.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.5,
+      0.0,
+      -0.1
+    ],
+    "max": [
+      0.5,
+      0.69609375,
+      0.1
+    ],
+    "size": [
+      1.0,
+      0.69609375,
+      0.2
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arch_floors_kaykit-dungeon_005",
+  "name": "Floor Dirt Small C",
+  "description": "Floor Dirt Small C — reusable floors piece from KayKit Dungeon Remastered. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "floors",
+  "tags": [
+    "architecture",
+    "c",
+    "dirt",
+    "floor",
+    "floors",
+    "gltf",
+    "kaykit-dungeon",
+    "low-poly",
+    "modular",
+    "small"
+  ],
+  "style": [
+    "low-poly",
+    "dungeon",
+    "stylized"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "KayKit Dungeon Remastered",
+  "source_site": "https://kaylousberg.itch.io/kaykit-dungeon-pack",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/archive/refs/heads/main.zip",
+  "original_filename": "floor_dirt_small_C.gltf.glb",
+  "original_format": "glb",
+  "original_zip_path": "KayKit-Dungeon-Remastered-1.0-main/addons/kaykit_dungeon_remastered/Assets/gltf/floor_dirt_small_C.gltf.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0000123977661133,
+      -0.09999999403953552,
+      -1.000000238418579
+    ],
+    "max": [
+      0.9999876022338867,
+      0.10860617458820343,
+      0.9999996423721313
+    ],
+    "size": [
+      2.0,
+      0.20860616862773895,
+      1.9999998807907104
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

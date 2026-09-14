@@ -1,0 +1,59 @@
+{
+  "id": "arch_exteriors_kaykit-city_017",
+  "name": "Watertower",
+  "description": "Watertower — reusable exteriors piece from KayKit City Builder Bits. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "exteriors",
+    "kaykit-city",
+    "low-poly",
+    "modular",
+    "watertower"
+  ],
+  "style": [
+    "low-poly",
+    "city",
+    "stylized"
+  ],
+  "formats": [
+    "gltf"
+  ],
+  "source": "KayKit City Builder Bits",
+  "source_site": "https://kaylousberg.itch.io/city-builder-bits",
+  "source_repository": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0-1.0",
+  "original_url": "https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0/archive/refs/heads/main.zip",
+  "original_filename": "watertower.gltf",
+  "original_format": "gltf",
+  "original_zip_path": "KayKit-City-Builder-Bits-1.0-main/addons/kaykit_city_builder_bits/Assets/gltf/watertower.gltf",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.24944308400154114,
+      -9.387731552124023e-07,
+      -0.24944308400154114
+    ],
+    "max": [
+      0.24944306910037994,
+      0.6700000762939453,
+      0.24944306910037994
+    ],
+    "size": [
+      0.4988861531019211,
+      0.6700010150671005,
+      0.4988861531019211
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.gltf",
+    "watertower.bin",
+    "citybits_texture.png"
+  ],
+  "attribution": null
+}

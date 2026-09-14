@@ -1,0 +1,42 @@
+{
+  "id": "arch_structural_majadroid-construction_001",
+  "name": "Containers Office",
+  "description": "Containers Office — reusable structural piece from Majadroid Construction Site. Modular architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "structural",
+    "architecture",
+    "modular",
+    "low-poly"
+  ],
+  "style": [
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Majadroid Construction Site",
+  "source_site": "https://opengameart.org/content/3d-house-construction-site-lowpoly-cc0",
+  "source_repository": "https://opengameart.org/content/3d-house-construction-site-lowpoly-cc0",
+  "author": "Majadroid",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/lowpoly-house-construction-site-by-majadroid.zip",
+  "original_filename": "Containers-Office.fbx",
+  "original_format": "fbx",
+  "original_zip_path": "majadroid-construction/Containers-Office.fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.fbx"
+  ],
+  "attribution": null
+}

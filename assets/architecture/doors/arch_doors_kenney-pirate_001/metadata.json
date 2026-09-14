@@ -1,0 +1,57 @@
+{
+  "id": "arch_doors_kenney-pirate_001",
+  "name": "Castle Door",
+  "description": "Castle Door — reusable doors piece from Kenney Pirate Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "doors",
+  "tags": [
+    "architecture",
+    "castle",
+    "door",
+    "doors",
+    "kenney-pirate",
+    "low-poly",
+    "modular"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Pirate Kit",
+  "source_site": "https://kenney.nl/assets/pirate-kit",
+  "source_repository": "https://opengameart.org/content/pirate-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_pirate-kit_2.1.zip",
+  "original_filename": "castle-door.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/castle-door.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0,
+      -1.0,
+      -1.399999976158142
+    ],
+    "max": [
+      1.0,
+      4.399999618530273,
+      1.8000000715255737
+    ],
+    "size": [
+      2.0,
+      5.399999618530273,
+      3.200000047683716
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

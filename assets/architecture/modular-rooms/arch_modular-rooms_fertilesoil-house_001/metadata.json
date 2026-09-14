@@ -1,0 +1,60 @@
+{
+  "id": "arch_modular-rooms_fertilesoil-house_001",
+  "name": "Prop Bathroom Shower",
+  "description": "Prop Bathroom Shower — reusable modular-rooms piece from Modular House 3D Models. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "modular-rooms",
+  "tags": [
+    "architecture",
+    "bathroom",
+    "fertilesoil-house",
+    "low-poly",
+    "modular",
+    "modular-rooms",
+    "prop",
+    "shower"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "residential"
+  ],
+  "formats": [
+    "obj"
+  ],
+  "source": "Modular House 3D Models",
+  "source_site": "https://opengameart.org/content/modular-house-3d-models",
+  "source_repository": "https://opengameart.org/content/modular-house-3d-models",
+  "author": "Keith at Fertile Soil Productions",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_house_collection.zip",
+  "original_filename": "Prop_Bathroom_Shower.obj",
+  "original_format": "obj",
+  "original_zip_path": "Prop_Bathroom_Shower.obj",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.5,
+      0.0,
+      -0.5
+    ],
+    "max": [
+      0.5,
+      1.83493478,
+      1.5
+    ],
+    "size": [
+      1.0,
+      1.83493478,
+      2.0
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.obj",
+    "model.mtl"
+  ],
+  "attribution": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "arch_roofs_kenney-modularbuildings_015",
+  "name": "Roof Gable Corner",
+  "description": "Roof Gable Corner — reusable roofs piece from Kenney Modular Buildings. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "roofs",
+  "tags": [
+    "architecture",
+    "corner",
+    "gable",
+    "kenney-modularbuildings",
+    "low-poly",
+    "modular",
+    "roof",
+    "roofs"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "modern",
+    "city"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Modular Buildings",
+  "source_site": "https://kenney.nl/assets/modular-buildings",
+  "source_repository": "https://opengameart.org/content/modular-buildings",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_modular-buildings.zip",
+  "original_filename": "roof-gable-corner.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/roof-gable-corner.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -0.7559654116630554,
+      -1.0,
+      -1.0
+    ],
+    "max": [
+      1.0,
+      0.7603939771652222,
+      0.7559654116630554
+    ],
+    "size": [
+      1.7559654116630554,
+      1.7603939771652222,
+      1.7559654116630554
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

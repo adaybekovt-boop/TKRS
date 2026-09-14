@@ -1,0 +1,45 @@
+{
+  "id": "arch_columns_treyramm-industrial_002",
+  "name": "Indcolumnfreecap",
+  "description": "Indcolumnfreecap — reusable columns piece from Modular Industrial Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "columns",
+  "tags": [
+    "architecture",
+    "columns",
+    "indcolumnfreecap",
+    "low-poly",
+    "modular",
+    "treyramm-industrial"
+  ],
+  "style": [
+    "modular",
+    "low-poly",
+    "industrial"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Modular Industrial Kit",
+  "source_site": "https://opengameart.org/content/modular-industrial-kit",
+  "source_repository": "https://opengameart.org/content/modular-industrial-kit",
+  "author": "Trey Ramm",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/modular_industrial_pieces.zip",
+  "original_filename": "IndColumnFreeCap.fbx",
+  "original_format": "fbx",
+  "original_zip_path": "Modular Industrial Pieces/Meshes/Architecture/Industrial/Details/IndColumnFreeCap.fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.fbx"
+  ],
+  "attribution": null
+}

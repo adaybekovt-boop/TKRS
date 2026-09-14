@@ -1,0 +1,60 @@
+{
+  "id": "arch_structural_kenney-platformer_027",
+  "name": "Block Grass Overhang Large Slope Steep Narrow",
+  "description": "Block Grass Overhang Large Slope Steep Narrow — reusable structural piece from Kenney Platformer Kit. Modular low-poly architecture for Roblox environment assembly.",
+  "category": "architecture",
+  "subcategory": "structural",
+  "tags": [
+    "architecture",
+    "block",
+    "grass",
+    "kenney-platformer",
+    "large",
+    "low-poly",
+    "modular",
+    "overhang",
+    "slope",
+    "structural"
+  ],
+  "style": [
+    "low-poly",
+    "modular"
+  ],
+  "formats": [
+    "glb"
+  ],
+  "source": "Kenney Platformer Kit",
+  "source_site": "https://kenney.nl/assets/platformer-kit",
+  "source_repository": "https://opengameart.org/content/platformer-kit",
+  "author": "Kenney (www.kenney.nl)",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/sites/default/files/kenney_platformer-kit.zip",
+  "original_filename": "block-grass-overhang-large-slope-steep-narrow.glb",
+  "original_format": "glb",
+  "original_zip_path": "Models/GLB format/block-grass-overhang-large-slope-steep-narrow.glb",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": [
+      -1.0000001192092896,
+      -1.0,
+      -1.0389411449432373
+    ],
+    "max": [
+      1.0000001192092896,
+      1.2370376586914062,
+      0.9807852506637573
+    ],
+    "size": [
+      2.000000238418579,
+      2.2370376586914062,
+      2.0197263956069946
+    ],
+    "unit": "source_units"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.glb"
+  ],
+  "attribution": null
+}

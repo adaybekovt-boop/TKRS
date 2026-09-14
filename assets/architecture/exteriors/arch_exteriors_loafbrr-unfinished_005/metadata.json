@@ -1,0 +1,45 @@
+{
+  "id": "arch_exteriors_loafbrr-unfinished_005",
+  "name": "Structures 4",
+  "description": "Structures_4 — reusable architecture piece from Unfinished Buildings.",
+  "category": "architecture",
+  "subcategory": "exteriors",
+  "tags": [
+    "architecture",
+    "exteriors",
+    "batch-002",
+    "abandoned",
+    "construction",
+    "low-poly"
+  ],
+  "style": [
+    "abandoned",
+    "construction",
+    "low-poly"
+  ],
+  "formats": [
+    "fbx"
+  ],
+  "source": "Unfinished Buildings",
+  "source_site": "https://opengameart.org/content/unfinished-buildings",
+  "source_repository": "https://opengameart.org/content/unfinished-buildings",
+  "author": "loafbrr_1",
+  "license": "CC0-1.0",
+  "original_url": "https://opengameart.org/content/unfinished-buildings",
+  "original_filename": "Structures_4.fbx",
+  "original_format": "fbx",
+  "original_zip_path": "Structures_4.fbx",
+  "attribution_required": false,
+  "has_scripts": false,
+  "dimensions": {
+    "min": null,
+    "max": null,
+    "size": null,
+    "unit": "unknown"
+  },
+  "collected_in": "architecture-batch-002",
+  "files": [
+    "model.fbx"
+  ],
+  "attribution": null
+}
