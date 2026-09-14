@@ -1,0 +1,92 @@
+)
+            print(f"Download failed: {exc}", flush=True)
+    raise RuntimeError(f"Unable to download {url}: {last_error}")
+
+
+def safe_extract_zip(archive: Path, destination: Path) -> None:
+    marker = destination / ".extracted-ok"
+    if marker.exists():
+        return
+    shutil.rmtree(destination, ignore_errors=True)
+    destination.mkdir(parents=True, exist_ok=True)
+    dest = destination.resolve()
+    with zipfile.ZipFile(archive) as zf:
+        for info in zf.infolist():
+            out = (destination / info.filename).resolve()
+            if out != dest and dest not in out.parents:
+                raise RuntimeError(f"Unsafe ZIP member: {info.filename}")
+        zf.extractall(destination)
+    marker.write_text("ok\n", encoding="utf-8")
+
+
+def file_index(root: Path) -> dict[str, list[Path]]:
+    index: dict[str, list[Path]] = collections.defaultdict(list)
+    for p in root.rglob("*"):
+        if p.is_file() and p.name != ".extracted-ok":
+            index[p.name.lower()].append(p)
+    return dict(index)
+
+
+def suffix_score(candidate: Path, wanted: str, root: Path) -> tuple[int, int, str]:
+    want_parts = [x.lower() for x in PurePosixPath(wanted.replace("\\", "/")).parts if x not in (".", "..", "/")]
+    cand_parts = [x.lower() for x in candidate.relative_to(root).parts]
+    score = 0
+    for a, b in zip(reversed(want_parts), reversed(cand_parts)):
+        if a != b:
+            break
+        score += 1
+    return score, -len(cand_parts), candidate.as_posix()
+
+
+def locate(root: Path, index: dict[str, list[Path]], wanted: str, *, base: Path | None = None) -> Path:
+    decoded = urllib.parse.unquote(wanted.replace("\\", "/")).strip().strip('"')
+    rel = PurePosixPath(decoded)
+    candidates_direct: list[Path] = []
+    if not rel.is_absolute() and ".." not in rel.parts:
+        if base is not None:
+            candidates_direct.append(base / rel)
+        candidates_direct.append(root / rel)
+    root_resolved = root.resolve()
+    for p in candidates_direct:
+        try:
+            rp = p.resolve()
+            if rp == root_resolved or root_resolved in rp.parents:
+                if rp.is_file():
+                    return rp
+        except OSError:
+            pass
+    basename = PurePosixPath(decoded).name.lower()
+    matches = index.get(basename, [])
+    if not matches:
+        raise FileNotFoundError(f"Cannot resolve source dependency: {wanted!r}")
+    if len(matches) == 1:
+        return matches[0]
+    ranked = sorted(matches, key=lambda p: suffix_score(p, decoded, root), reverse=True)
+    top = suffix_score(ranked[0], decoded, root)
+    second = suffix_score(ranked[1], decoded, root)
+    if top[:2] == second[:2]:
+        # Same basename in multiple locations is acceptable only if bytes are identical.
+        hashes = {sha256_file(p) for p in matches}
+        if len(hashes) == 1:
+            return ranked[0]
+        raise RuntimeError(f"Ambiguous source dependency {wanted!r}: {[str(p.relative_to(root)) for p in matches[:8]]}")
+    return ranked[0]
+
+
+def copy_checked(src: Path, dst: Path) -> None:
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    if dst.exists():
+        if sha256_file(src) != sha256_file(dst):
+            raise RuntimeError(f"File collision with different bytes: {dst}")
+        return
+    shutil.copy2(src, dst)
+
+
+def copy_shared_texture(src: Path) -> Path:
+    digest = sha256_file(src)[:16]
+    target = TEXTURE_ROOT / f"{digest}-{src.name}"
+    copy_checked(src, target)
+    return target
+
+
+def write_license(
