@@ -4,7 +4,7 @@
 
 - Base `main`: `f377f1c0b9605c36f98706662d9fd987bd6fdacb`
 - Working branch: `agent/integrate-five-asset-batches`
-- Repository bytes before / after: 90476367 / 655430414
+- Repository bytes before / after: 90476367 / 655430362
 - Previous asset count: 410
 - Final asset count: 3604
 - Final index count: 3604

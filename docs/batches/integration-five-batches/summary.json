@@ -2,7 +2,7 @@
   "base_main_sha": "f377f1c0b9605c36f98706662d9fd987bd6fdacb",
   "branch": "agent/integrate-five-asset-batches",
   "repository_bytes_before": 90476367,
-  "repository_bytes_after": 655430414,
+  "repository_bytes_after": 655430362,
   "previous_asset_count": 410,
   "final_asset_count": 3604,
   "final_index_count": 3604,
