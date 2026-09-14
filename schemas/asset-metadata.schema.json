@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/adaybekovt-boop/TKRS/schemas/asset-metadata.schema.json",
+  "title": "TKRS Asset Metadata",
+  "type": "object",
+  "required": ["id", "name", "category", "source", "license"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "description": { "type": "string" },
+    "category": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "style": { "type": "array", "items": { "type": "string" } },
+    "formats": { "type": "array", "items": { "type": "string" } },
+    "source": { "type": "string" },
+    "author": { "type": ["string", "null"] },
+    "license": { "type": "string" },
+    "original_url": { "type": ["string", "null"] },
+    "has_scripts": { "type": "boolean", "default": false },
+    "dimensions": {
+      "type": ["object", "null"],
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}
