@@ -8,15 +8,18 @@ without loading model binaries into the agent context.
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 from typing import Any
 
-from mcp.server import MCPServer
+REPO_ROOT = Path(__file__).resolve().parents[1]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
 
-from tools.search_assets import REPO_ROOT, load_index, search_assets as search_catalog
+from mcp.server import MCPServer
+from tools.search_assets import load_index, search_assets as search_catalog
 
 INDEX_PATH = REPO_ROOT / "index" / "index.json"
-
 mcp = MCPServer("TKRS")
 
 
